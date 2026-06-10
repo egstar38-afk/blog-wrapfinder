@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git branch *)",
+      "Bash(git remote *)",
+      "Skill(run)",
+      "Skill(run:*)",
+      "PowerShell(cd \"C:\\\\Users\\\\User\\\\Desktop\\\\blog-wrapfinder\"; Start-Process -NoNewWindow -PassThru -FilePath \"npm\" -ArgumentList \"run\",\"dev\" | Select-Object -ExpandProperty Id | Out-File -Encoding utf8 \"$env:TEMP\\\\devserver.pid\")",
+      "PowerShell(cd \"C:\\\\Users\\\\User\\\\Desktop\\\\blog-wrapfinder\"; $npm = \\(Get-Command npm\\).Source; Start-Process -FilePath $npm -ArgumentList \"run\",\"dev\" -WorkingDirectory \"C:\\\\Users\\\\User\\\\Desktop\\\\blog-wrapfinder\" -PassThru | Select-Object -ExpandProperty Id | Out-File -Encoding utf8 \"$env:TEMP\\\\devserver.pid\"; Write-Host \"PID saved\")",
+      "PowerShell(\\(Get-Command npm\\).Source; \\(Get-Command node\\).Source)",
+      "Bash(chromium-cli --session blog)",
+      "PowerShell(Get-Command playwright -ErrorAction SilentlyContinue)",
+      "PowerShell(Get-Command pwsh -ErrorAction SilentlyContinue)",
+      "PowerShell(Get-Job)",
+      "PowerShell(Receive-Job -Id 1 -Keep)",
+      "PowerShell($job = Start-Job -ScriptBlock { Set-Location \"C:\\\\Users\\\\User\\\\Desktop\\\\blog-wrapfinder\"; & \"C:\\\\Program Files\\\\nodejs\\\\npm.ps1\" run dev 2>&1 }; Write-Host \"Job $\\($job.Id\\) started\"; Start-Sleep -Seconds 20; $out = Receive-Job -Job $job -Keep | Out-String; Write-Host $out; try { $r = Invoke-WebRequest -Uri \"http://localhost:3000\" -TimeoutSec 5 -UseBasicParsing -ErrorAction Stop; Write-Host \"HTTP $\\($r.StatusCode\\) - OK\" } catch { Write-Host \"Not ready: $_\" })"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\User\\Desktop\\blog-wrapfinder\\app"
+    ]
+  }
+}
