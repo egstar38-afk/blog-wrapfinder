@@ -1,6 +1,5 @@
 import type { Metadata } from 'next'
 import { Geist } from 'next/font/google'
-import Script from 'next/script'
 import Link from 'next/link'
 import './globals.css'
 
@@ -18,6 +17,14 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="fr" className={geist.variable}>
+      <head>
+        {/* eslint-disable-next-line @next/next/no-sync-scripts */}
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7256648363836885"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className="min-h-screen flex flex-col bg-white text-gray-900 font-sans antialiased">
         <header className="border-b border-gray-200">
           <div className="max-w-4xl mx-auto px-4 py-5 flex items-center justify-between">
@@ -47,11 +54,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </div>
         </footer>
 
-        <Script
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7256648363836885"
-          strategy="afterInteractive"
-          crossOrigin="anonymous"
-        />
       </body>
     </html>
   )
