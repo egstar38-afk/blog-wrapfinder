@@ -71,6 +71,6 @@ Pour ces applications, combinez le double face VHB avec **deux plots de colle st
 
 Le **3M VHB 4941** en rouleau de 19 mm × 3 m est la référence pour les baguettes de carrosserie. Disponible en ligne, il couvre la plupart des fixations courantes (baguettes latérales, protections de seuil, enjoliveurs extérieurs).
 
-[Voir le 3M VHB 4941 sur Amazon →](https://www.amazon.fr/s?k=3m+vhb+4941+double+face+mousse+acrylique+carrosserie&tag=VOTRE-TAG-21)
+[Voir le 3M VHB 4941 sur Amazon →](https://www.amazon.fr/s?k=3m+vhb+4941+double+face+mousse+acrylique+carrosserie&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

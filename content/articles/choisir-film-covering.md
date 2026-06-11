@@ -89,6 +89,6 @@ Ces films sont onéreux (80–120 €/m) mais de plus en plus demandés. La pose
 
 Le **Avery Dennison SWF Gloss Black** (ref SW900-190-S) est le point de départ idéal si vous voulez tester la pose sur une petite surface. Disponible en rouleau de 1,52 m × 3 m, il couvre facilement un capot ou deux portes.
 
-[Voir les films Avery Dennison sur Amazon →](https://www.amazon.fr/s?k=avery+dennison+supreme+wrapping+film+vinyle&tag=VOTRE-TAG-21)
+[Voir les films Avery Dennison sur Amazon →](https://www.amazon.fr/s?k=avery+dennison+supreme+wrapping+film+vinyle&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

@@ -69,6 +69,6 @@ Dans ce cas, au printemps : inspection complète et négociation avec le poseur 
 
 Le **CarPro Reload Spray Sealant** est une protection liquide légère (spray) compatible PPF, qui renforce l'hydrophobie du topcoat et crée une couche de glissement supplémentaire qui limite la pénétration de l'eau salée aux bords. Idéal à appliquer à l'automne avant la saison hivernale.
 
-[Voir CarPro Reload sur Amazon →](https://www.amazon.fr/s?k=carpro+reload+spray+sealant+ppf+protection+hiver&tag=VOTRE-TAG-21)
+[Voir CarPro Reload sur Amazon →](https://www.amazon.fr/s?k=carpro+reload+spray+sealant+ppf+protection+hiver&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

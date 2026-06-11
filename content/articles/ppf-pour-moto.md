@@ -79,6 +79,6 @@ Le lavage haute pression à plus de 30 cm reste le standard. Sur une moto, faite
 
 Les **kits de protection réservoir Ermax ou ProGrip** en mousse et EVA vous protègent les genoux, mais pour la peinture, rien ne remplace le PPF. Les **rouleaux XPEL en 20 cm de large** permettent de découper des gabarits réservoir sur mesure pour les motos non référencées dans les bases de données.
 
-[Voir les rouleaux PPF étroits pour moto sur Amazon →](https://www.amazon.fr/s?k=film+ppf+protection+réservoir+moto+transparent&tag=VOTRE-TAG-21)
+[Voir les rouleaux PPF étroits pour moto sur Amazon →](https://www.amazon.fr/s?k=film+ppf+protection+réservoir+moto+transparent&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

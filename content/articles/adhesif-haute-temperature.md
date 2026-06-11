@@ -91,6 +91,6 @@ Ne soumettez jamais un adhésif haute température à la chaleur avant sa polym�
 
 Le **ruban adhésif aluminium 3M 433** est un produit de référence pour le gainement thermique sous capot. Il résiste jusqu'à 260 °C, est compatible avec les huiles et carburants, et s'applique facilement sur des surfaces métalliques nettoyées.
 
-[Voir le ruban adhésif aluminium haute température sur Amazon →](https://www.amazon.fr/s?k=ruban+aluminium+adhésif+haute+température+moteur&tag=VOTRE-TAG-21)
+[Voir le ruban adhésif aluminium haute température sur Amazon →](https://www.amazon.fr/s?k=ruban+aluminium+adhésif+haute+température+moteur&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

@@ -93,6 +93,6 @@ Un full wrap sur une berline d'occasion en bon état peut donc revenir à **2 50
 
 Le **Koch Chemie H9.02 Finish Schleifpaste** est un polish de finition professionnel pour la correction légère avant pose de PPF ou de céramique. Il enlève les swirls et micro-rayures sans excès d'abrasif, idéal pour préparer une peinture d'occasion.
 
-[Voir Koch Chemie H9.02 sur Amazon →](https://www.amazon.fr/s?k=koch+chemie+polish+finition+correction+swirls&tag=VOTRE-TAG-21)
+[Voir Koch Chemie H9.02 sur Amazon →](https://www.amazon.fr/s?k=koch+chemie+polish+finition+correction+swirls&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

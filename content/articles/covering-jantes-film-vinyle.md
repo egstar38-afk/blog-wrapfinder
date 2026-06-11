@@ -91,6 +91,6 @@ La chaleur des freins, les produits de nettoyage et les chocs mécaniques fatigu
 
 Le **film vinyle Oracal 970RA en anthracite mat** est une référence accessible pour les covering de jantes. Bon rapport résistance/prix, souple pour les formes complexes de rayons, disponible en petits rouleaux adaptés à des applications de jantes.
 
-[Voir les films vinyle pour jantes sur Amazon →](https://www.amazon.fr/s?k=film+vinyle+mat+noir+anthracite+jantes+covering&tag=VOTRE-TAG-21)
+[Voir les films vinyle pour jantes sur Amazon →](https://www.amazon.fr/s?k=film+vinyle+mat+noir+anthracite+jantes+covering&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

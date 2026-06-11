@@ -79,6 +79,6 @@ Les rustines (bandes de double face par-dessus) tiennent rarement plus de 6 mois
 
 Le **Sika Primer-215** (spécifique polypropylène et polyoléfines) est le primer de référence pour le collage sur PP d'habitacle. Il garantit l'adhérence initiale et la tenue à long terme de pratiquement tous les adhésifs structurels appliqués dessus.
 
-[Voir le Sika Primer-215 pour plastiques habitacle sur Amazon →](https://www.amazon.fr/s?k=sika+primer+215+polypropylene+plastique+habitacle&tag=VOTRE-TAG-21)
+[Voir le Sika Primer-215 pour plastiques habitacle sur Amazon →](https://www.amazon.fr/s?k=sika+primer+215+polypropylene+plastique+habitacle&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

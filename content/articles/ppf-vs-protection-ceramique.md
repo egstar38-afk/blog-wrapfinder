@@ -89,6 +89,6 @@ Si vous voyez des publicités promettant une protection "anti-rayures complète"
 
 Le **IGL Coat Kenzo** est un revêtement céramique conçu pour être appliqué sur un film PPF ou directement sur la peinture. Dureté 9H, tenue 3 à 5 ans, application par le propriétaire possible avec kit inclus.
 
-[Voir IGL Coat Kenzo sur Amazon →](https://www.amazon.fr/s?k=revêtement+céramique+voiture+9h+ppf&tag=VOTRE-TAG-21)
+[Voir IGL Coat Kenzo sur Amazon →](https://www.amazon.fr/s?k=revêtement+céramique+voiture+9h+ppf&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

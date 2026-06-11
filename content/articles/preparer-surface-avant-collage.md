@@ -76,6 +76,6 @@ Après le dégraissage, **portez des gants** et ne touchez plus la surface. Les 
 
 Le **3M General Purpose Adhesive Cleaner** est un dégraissant polyvalent formulé pour la préparation de surfaces avant collage. Compatible métal, verre, peinture et la plupart des plastiques, il ne laisse aucun résidu.
 
-[Voir le dégraissant 3M préparation collage sur Amazon →](https://www.amazon.fr/s?k=3m+nettoyant+dégraissant+collage+surface&tag=VOTRE-TAG-21)
+[Voir le dégraissant 3M préparation collage sur Amazon →](https://www.amazon.fr/s?k=3m+nettoyant+dégraissant+collage+surface&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

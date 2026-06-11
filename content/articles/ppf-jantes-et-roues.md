@@ -84,6 +84,6 @@ Karcher direct sur le film de jante : distance minimale 35 cm et **jamais dans l
 
 Les **bandelettes de protection de jantes en PPF transparent WeatherTech** sont disponibles en kits pour diamètres 17 à 21 pouces. Elles s'appliquent directement sur le flanc extérieur sans démontage de roue. Résultat correct sur les jantes à finition peinte en moins d'une heure.
 
-[Voir les protections PPF de jantes WeatherTech sur Amazon →](https://www.amazon.fr/s?k=protection+jantes+ppf+transparent+bord+flanc&tag=VOTRE-TAG-21)
+[Voir les protections PPF de jantes WeatherTech sur Amazon →](https://www.amazon.fr/s?k=protection+jantes+ppf+transparent+bord+flanc&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

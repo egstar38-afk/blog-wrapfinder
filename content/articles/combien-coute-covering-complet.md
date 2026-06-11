@@ -95,6 +95,6 @@ L'économie sur le film et la main d'œuvre est presque toujours plus coûteuse 
 
 Si vous êtes poseur débutant ou si vous gérez un atelier et cherchez un **densimètre d'épaisseur de film** pour contrôler la qualité d'un film concurrents ou vérifier votre propre travail, le **Defelsko PosiTector 6000** est la référence professionnelle.
 
-[Voir les jauges d'épaisseur de film sur Amazon →](https://www.amazon.fr/s?k=jauge+épaisseur+film+carrosserie+posimeter&tag=VOTRE-TAG-21)
+[Voir les jauges d'épaisseur de film sur Amazon →](https://www.amazon.fr/s?k=jauge+épaisseur+film+carrosserie+posimeter&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

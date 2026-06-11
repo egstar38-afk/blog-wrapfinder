@@ -95,6 +95,6 @@ Pour un premier essai, évitez les surfaces complexes et commencez par :
 
 Le kit **XPEL DIY PPF** comprend le film, la solution d'installation, une raclette et un guide de pose. C'est le point de départ idéal pour tenter l'expérience sans investir dans du matériel séparé.
 
-[Voir les kits PPF DIY sur Amazon →](https://www.amazon.fr/s?k=kit+ppf+film+protection+peinture+diy&tag=VOTRE-TAG-21)
+[Voir les kits PPF DIY sur Amazon →](https://www.amazon.fr/s?k=kit+ppf+film+protection+peinture+diy&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

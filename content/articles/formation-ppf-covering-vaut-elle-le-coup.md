@@ -67,6 +67,6 @@ Après 5 à 10 panneaux ratés, la formation aurait été moins chère. Et les p
 
 Le **Wrap Institute Formation Complète en ligne** (abonnement mensuel, vidéos pas à pas par niveaux) est la référence anglophone la plus complète pour apprendre les bases du covering en autonomie. Disponible avec sous-titres français sur certains modules.
 
-[Voir les formations covering en ligne sur Amazon →](https://www.amazon.fr/s?k=formation+covering+vinyle+kit+apprendre+pose+film&tag=VOTRE-TAG-21)
+[Voir les formations covering en ligne sur Amazon →](https://www.amazon.fr/s?k=formation+covering+vinyle+kit+apprendre+pose+film&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

@@ -88,6 +88,6 @@ La durée de vie est systématiquement plus courte qu'en extérieur, contre-intu
 
 Le **3M 1080 Carbon Fiber Black (CF201)** est très populaire pour les covering intérieurs. Il imite le carbone de façon convaincante, résiste bien à la chaleur et son adhésif tient correctement sur l'ABS dégraissé. Disponible en rouleaux étroits adaptés aux petites pièces.
 
-[Voir le film 3M carbone intérieur sur Amazon →](https://www.amazon.fr/s?k=3m+1080+carbone+vinyle+tableau+de+bord&tag=VOTRE-TAG-21)
+[Voir le film 3M carbone intérieur sur Amazon →](https://www.amazon.fr/s?k=3m+1080+carbone+vinyle+tableau+de+bord&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

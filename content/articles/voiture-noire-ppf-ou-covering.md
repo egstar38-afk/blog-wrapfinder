@@ -65,6 +65,6 @@ Si votre peinture noire est déjà très abîmée (swirls profonds, impacts mult
 
 Le **Gtechniq Crystal Serum Ultra** est une céramique professionnelle souvent appliquée sur le PPF des voitures noires pour augmenter l'hydrophobie (l'eau perle, la saleté accroche moins) et le brillant. Elle réduit considérablement la fréquence de lavage nécessaire.
 
-[Voir Gtechniq Crystal Serum Ultra sur Amazon →](https://www.amazon.fr/s?k=gtechniq+crystal+serum+ultra+céramique+ppf&tag=VOTRE-TAG-21)
+[Voir Gtechniq Crystal Serum Ultra sur Amazon →](https://www.amazon.fr/s?k=gtechniq+crystal+serum+ultra+céramique+ppf&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

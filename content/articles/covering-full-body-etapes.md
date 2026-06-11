@@ -80,6 +80,6 @@ Après avoir posé chaque panneau, un passage au pistolet à air chaud à distan
 
 Le **Arlon SLX Conform Chrome-Free** en 152 cm de large est un film casting de qualité professionnelle adapté aux full body, disponible en plusieurs teintes solides et satinées. Sa conformabilité aux reliefs complexes en fait un choix solide pour les poseurs intermédiaires et avancés.
 
-[Voir les films Arlon SLX pour covering full body sur Amazon →](https://www.amazon.fr/s?k=arlon+SLX+film+vinyle+covering+voiture&tag=VOTRE-TAG-21)
+[Voir les films Arlon SLX pour covering full body sur Amazon →](https://www.amazon.fr/s?k=arlon+SLX+film+vinyle+covering+voiture&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

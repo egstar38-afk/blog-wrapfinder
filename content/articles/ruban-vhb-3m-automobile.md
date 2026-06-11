@@ -77,6 +77,6 @@ Le VHB est difficile à retirer — c'est là sa force et sa contrainte. Pour le
 
 Le **3M VHB 4951** (mousse grise, 1,6 mm, 19 mm de large) est la référence polyvalente pour les baguettes et garnitures sur surfaces peintes légèrement texturées. Disponible en rouleau de 3 m (suffisant pour une baguette latérale complète) ou 16,5 m pour les ateliers.
 
-[Voir le 3M VHB 4951 sur Amazon →](https://www.amazon.fr/s?k=3m+vhb+4951+double+face+mousse+automobile+baguette&tag=VOTRE-TAG-21)
+[Voir le 3M VHB 4951 sur Amazon →](https://www.amazon.fr/s?k=3m+vhb+4951+double+face+mousse+automobile+baguette&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

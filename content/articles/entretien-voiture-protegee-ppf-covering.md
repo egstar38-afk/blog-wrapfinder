@@ -78,6 +78,6 @@ La céramique sur film se fait après la pose et la polymérisation complète du
 
 Le **CarPro Reset Shampoo** est un shampooing pH neutre sans silicone compatible PPF et covering (brillant et mat). Vendu en concentré (dilution 1:200), un flacon de 1 L fait environ 200 L de solution de lavage.
 
-[Voir le CarPro Reset Shampoo sur Amazon →](https://www.amazon.fr/s?k=carpro+reset+shampoo+ph+neutre+ppf+covering&tag=VOTRE-TAG-21)
+[Voir le CarPro Reset Shampoo sur Amazon →](https://www.amazon.fr/s?k=carpro+reset+shampoo+ph+neutre+ppf+covering&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

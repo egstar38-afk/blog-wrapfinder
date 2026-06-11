@@ -79,6 +79,6 @@ Les résidus d'époxy durci sont les plus difficiles. Les produits à base de di
 
 Le **3M General Purpose Adhesive Cleaner en aérosol** est la référence professionnelle pour l'élimination des résidus d'adhésif en carrosserie. Compatible peinture, plastique et métal, il enlève la plupart des résidus en moins de 2 minutes.
 
-[Voir le 3M Adhesive Cleaner sur Amazon →](https://www.amazon.fr/s?k=3m+adhesive+cleaner+résidus+colle+carrosserie&tag=VOTRE-TAG-21)
+[Voir le 3M Adhesive Cleaner sur Amazon →](https://www.amazon.fr/s?k=3m+adhesive+cleaner+résidus+colle+carrosserie&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

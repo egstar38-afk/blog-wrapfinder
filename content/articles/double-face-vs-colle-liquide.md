@@ -99,6 +99,6 @@ Cette combinaison est utilisée par les constructeurs automobiles sur les fixati
 
 Le **Loctite 401** (supercolle cyanocrylate gel) est la colle liquide que j'ai toujours dans la boîte à outils pour les petites réparations rapides en atelier — plastiques, baguettes cassées, petites garnitures. Il prend en 30 secondes sur ABS et acier, et la formulation gel évite les coulures.
 
-[Voir le Loctite 401 sur Amazon →](https://www.amazon.fr/s?k=loctite+401+super+colle+gel+plastique&tag=VOTRE-TAG-21)
+[Voir le Loctite 401 sur Amazon →](https://www.amazon.fr/s?k=loctite+401+super+colle+gel+plastique&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

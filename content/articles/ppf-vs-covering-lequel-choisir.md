@@ -72,6 +72,6 @@ Ni le PPF ni le covering ne réparent une peinture abîmée — ils conservent l
 
 Pour comparer concrètement les deux technologies, le **kit de test XPEL** (plusieurs cm² de différents films) permet de toucher et voir la différence d'épaisseur et d'aspect avant de décider.
 
-[Voir les échantillons de films PPF et vinyle sur Amazon →](https://www.amazon.fr/s?k=echantillon+film+ppf+vinyle+test+automobile&tag=VOTRE-TAG-21)
+[Voir les échantillons de films PPF et vinyle sur Amazon →](https://www.amazon.fr/s?k=echantillon+film+ppf+vinyle+test+automobile&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

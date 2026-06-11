@@ -66,6 +66,6 @@ Le film carbone est plus rigide que beaucoup de films solides à cause de sa str
 
 Le **3M 2080 Wrap Film Series Carbone Noir CFS12** est l'une des références les plus courantes en atelier. Son motif 3D est fidèle, son topcoat brillant donne de la profondeur, et sa conformabilité est correcte pour les surfaces modérément courbes. Disponible en laize 152 cm.
 
-[Voir le film 3M 2080 effet carbone sur Amazon →](https://www.amazon.fr/s?k=3m+2080+film+vinyle+effet+carbone+noir+CFS12&tag=VOTRE-TAG-21)
+[Voir le film 3M 2080 effet carbone sur Amazon →](https://www.amazon.fr/s?k=3m+2080+film+vinyle+effet+carbone+noir+CFS12&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

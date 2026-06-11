@@ -77,6 +77,6 @@ La cohérence visuelle dépend des couleurs choisies. Avec un covering de la mê
 
 Pour une protection capot DIY sur un budget serré, les **kits de protection capot Stoneguard** en film 3M pré-découpé sont disponibles pour de nombreux modèles courants. Moins épais qu'un PPF professionnel, ils offrent une protection d'entrée de gamme accessible sans poseur.
 
-[Voir les kits protection capot pré-découpés sur Amazon →](https://www.amazon.fr/s?k=kit+protection+capot+ppf+pré-découpé+3m+transparent&tag=VOTRE-TAG-21)
+[Voir les kits protection capot pré-découpés sur Amazon →](https://www.amazon.fr/s?k=kit+protection+capot+ppf+pré-découpé+3m+transparent&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

@@ -110,6 +110,6 @@ Exigez toujours une encre UV résistante et une lamination de minimum 80 µm pou
 
 Le **Avery MPI 1105 blanc** est un film calendré blanc pour impression grand format très utilisé pour les covering commerciaux. Bonne tenue 3–4 ans en extérieur, facile à poser sur grandes surfaces planes, disponible en laize 1,52 m.
 
-[Voir les films calendrés pour covering commercial sur Amazon →](https://www.amazon.fr/s?k=film+vinyle+calendré+blanc+grand+format+camion&tag=VOTRE-TAG-21)
+[Voir les films calendrés pour covering commercial sur Amazon →](https://www.amazon.fr/s?k=film+vinyle+calendré+blanc+grand+format+camion&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

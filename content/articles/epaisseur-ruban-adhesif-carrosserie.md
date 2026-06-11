@@ -79,6 +79,6 @@ Pour les zones esthétiquement importantes (baguette de porte sur une voiture de
 
 Le **Tesa 4965** est disponible en épaisseurs 0,8, 1,0 et 1,2 mm et en largeurs allant de 6 mm à 50 mm. C'est le ruban que je recommande pour la repose de baguettes d'origine — acrylique haute performance, résistance aux UV et à l'humidité, décollement propre si besoin.
 
-[Voir le Tesa 4965 en différentes épaisseurs sur Amazon →](https://www.amazon.fr/s?k=tesa+4965+double+face+mousse+acrylique+épaisseur&tag=VOTRE-TAG-21)
+[Voir le Tesa 4965 en différentes épaisseurs sur Amazon →](https://www.amazon.fr/s?k=tesa+4965+double+face+mousse+acrylique+épaisseur&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

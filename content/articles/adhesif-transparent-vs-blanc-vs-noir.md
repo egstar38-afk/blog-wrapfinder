@@ -81,6 +81,6 @@ La seule différence peut être la résistance aux UV : les rubans noirs absorbe
 
 Le **Nitto 500B** est un ruban double face mousse noir ultra-performant, utilisé par de nombreux carrossiers et poseurs PPF pour les fixations de baguettes. Mousse noire uniforme, adhésif acrylique haute performance, disponible en largeurs de 6 mm à 50 mm.
 
-[Voir le Nitto 500B double face noir sur Amazon →](https://www.amazon.fr/s?k=nitto+500b+ruban+double+face+noir+carrosserie&tag=VOTRE-TAG-21)
+[Voir le Nitto 500B double face noir sur Amazon →](https://www.amazon.fr/s?k=nitto+500b+ruban+double+face+noir+carrosserie&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

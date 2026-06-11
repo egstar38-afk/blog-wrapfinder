@@ -94,6 +94,6 @@ Autre option : la protection céramique liquide sur le film, posée une fois et 
 
 Le **Meguiar's Ultimate Quik Detailer** est un spray entretien à base d'eau, sans silicone ni alcool agressif, compatible avec les films brillants et satinés. Deux jets, un chiffon microfibre, et la carrosserie ressort impeccable.
 
-[Voir Meguiar's Ultimate Quik Detailer sur Amazon →](https://www.amazon.fr/s?k=meguiars+ultimate+quik+detailer+spray+vinyle&tag=VOTRE-TAG-21)
+[Voir Meguiar's Ultimate Quik Detailer sur Amazon →](https://www.amazon.fr/s?k=meguiars+ultimate+quik+detailer+spray+vinyle&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

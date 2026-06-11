@@ -82,6 +82,6 @@ Un retrait DIY est tout à fait faisable si vous avez le temps et la méthode �
 
 Le **3M Adhesive Remover en bombe aérosol** est pratique pour les résidus localisés. Pour les grandes surfaces, le **Gyeon Iron ou un équivalent en flacon 1 L** est plus économique et tout aussi efficace.
 
-[Voir le 3M Adhesive Remover sur Amazon →](https://www.amazon.fr/s?k=3m+adhesive+remover+résidus+vinyle+automobile&tag=VOTRE-TAG-21)
+[Voir le 3M Adhesive Remover sur Amazon →](https://www.amazon.fr/s?k=3m+adhesive+remover+résidus+vinyle+automobile&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

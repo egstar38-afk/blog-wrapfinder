@@ -84,6 +84,6 @@ Si une bulle persiste après 2 semaines, c'est probablement une bulle d'air pié
 
 La **raclette télescopique Wrap Works** avec embout feutre permet de travailler sur un toit sans se pencher par-dessus la carrosserie. Elle maintient une pression homogène et évite les traces de poids sur le film frais.
 
-[Voir les outils de pose toit covering sur Amazon →](https://www.amazon.fr/s?k=raclette+telescopique+pose+covering+toit&tag=VOTRE-TAG-21)
+[Voir les outils de pose toit covering sur Amazon →](https://www.amazon.fr/s?k=raclette+telescopique+pose+covering+toit&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

@@ -87,6 +87,6 @@ Mais dès que vous avez affaire à du polypropylène ou à une surface dont vous
 
 Le **3M Primer 94** en flacon de 30 ml est la référence terrain. Il est compatible avec tous les plastiques difficiles (PP, PE, ABS), les métaux et les surfaces peintes. Son applicateur feutre permet une application précise sans débordement.
 
-[Voir le 3M Primer 94 sur Amazon →](https://www.amazon.fr/s?k=3m+primer+94+adhesif+plastique+pp&tag=VOTRE-TAG-21)
+[Voir le 3M Primer 94 sur Amazon →](https://www.amazon.fr/s?k=3m+primer+94+adhesif+plastique+pp&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

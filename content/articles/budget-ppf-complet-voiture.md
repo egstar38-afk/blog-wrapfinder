@@ -106,6 +106,6 @@ Ces extras sont généralement recommandés pour un résultat optimal, surtout l
 
 Pour maintenir votre investissement PPF, le **Gyeon Q²M Detailer** est un spray entretien rapide entre les lavages, compatible PPF tous types de finitions. Il renforce l'hydrophobie, facilite les nettoyages suivants, et coûte moins de 20 € pour des dizaines d'applications.
 
-[Voir Gyeon Q²M Detailer sur Amazon →](https://www.amazon.fr/s?k=gyeon+detailer+spray+entretien+ppf+vinyle&tag=VOTRE-TAG-21)
+[Voir Gyeon Q²M Detailer sur Amazon →](https://www.amazon.fr/s?k=gyeon+detailer+spray+entretien+ppf+vinyle&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

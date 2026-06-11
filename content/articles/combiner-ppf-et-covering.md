@@ -73,6 +73,6 @@ Les films PPF sans marque ou génériques ne sont pas tous testés — évitez-l
 
 L'**Avery Dennison Supreme Wrapping Film** est l'un des covering les mieux testés sur PPF, avec un adhésif à faible ancrage initial qui facilite les repositionnements pendant la pose. Sa gamme de couleurs est large (brillant, mat, satiné, metallisé).
 
-[Voir l'Avery Dennison Supreme Wrapping Film sur Amazon →](https://www.amazon.fr/s?k=avery+dennison+supreme+wrapping+film+covering+vinyle&tag=VOTRE-TAG-21)
+[Voir l'Avery Dennison Supreme Wrapping Film sur Amazon →](https://www.amazon.fr/s?k=avery+dennison+supreme+wrapping+film+covering+vinyle&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

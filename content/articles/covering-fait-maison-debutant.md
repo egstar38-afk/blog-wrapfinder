@@ -95,6 +95,6 @@ Ce qui compte, c'est de comprendre pourquoi ça n'a pas marché : trop chaud, pa
 
 Le **kit de pose vinyle Wrap Works** comprend raclette feutre, pistolet adapté et couteau de précision dans un coffret pensé pour les débutants. Un bon point de départ avant d'investir dans des outils haut de gamme.
 
-[Voir les kits de pose covering sur Amazon →](https://www.amazon.fr/s?k=kit+outils+pose+covering+vinyle+voiture&tag=VOTRE-TAG-21)
+[Voir les kits de pose covering sur Amazon →](https://www.amazon.fr/s?k=kit+outils+pose+covering+vinyle+voiture&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

@@ -78,6 +78,6 @@ Pour les vitrages simplement posés sur joint caoutchouc (certains anciens véhi
 
 Le **Sika Tack-Move Professional Kit** inclut la cartouche de polyuréthane, le primer approprié et le pistolet applicateur. C'est le kit de remplacement de pare-brise de référence disponible pour les ateliers et les DIYers avancés.
 
-[Voir le kit Sika Tack-Move pour pare-brise sur Amazon →](https://www.amazon.fr/s?k=sika+tack+move+colle+pare-brise+kit+primer&tag=VOTRE-TAG-21)
+[Voir le kit Sika Tack-Move pour pare-brise sur Amazon →](https://www.amazon.fr/s?k=sika+tack+move+colle+pare-brise+kit+primer&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

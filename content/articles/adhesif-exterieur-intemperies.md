@@ -82,6 +82,6 @@ Pour les véhicules en bord de mer ou utilisés en hiver avec du sel routier, de
 
 Le **Tesa 4952 Professional Outdoor** est un ruban double face mousse acrylique résistant aux intempéries. Tenu dans toutes les conditions, résistance UV confirmée 5 ans, gel-dégel : testé à -40 °C / +90 °C. Parfait pour les baguettes et fixations extérieures.
 
-[Voir le Tesa 4952 Outdoor sur Amazon →](https://www.amazon.fr/s?k=tesa+4952+double+face+extérieur+résistant+intempéries&tag=VOTRE-TAG-21)
+[Voir le Tesa 4952 Outdoor sur Amazon →](https://www.amazon.fr/s?k=tesa+4952+double+face+extérieur+résistant+intempéries&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

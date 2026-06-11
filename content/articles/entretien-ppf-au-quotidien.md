@@ -91,6 +91,6 @@ Un re-scellage des bords à la colle PPF peut suffire à corriger un début de d
 
 Pour entretenir votre PPF efficacement, le **Gyeon Q²M Cure** est un spray de finition spécialement formulé pour les films de protection. Il renforce l'hydrophobie du topcoat, facilite les lavages futurs et protège contre les UV.
 
-[Voir le Gyeon Q²M Cure sur Amazon →](https://www.amazon.fr/s?k=gyeon+cure+ppf+spray&tag=VOTRE-TAG-21)
+[Voir le Gyeon Q²M Cure sur Amazon →](https://www.amazon.fr/s?k=gyeon+cure+ppf+spray&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

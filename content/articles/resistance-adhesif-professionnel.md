@@ -88,6 +88,6 @@ Ce ruban convient pour des fixations sur carrosserie peinte, dans un garage chau
 
 La gamme **Tesa 4952 et 4956** propose des doubles faces mousse acrylique en différentes épaisseurs avec des fiches techniques complètes et détaillées. Ces produits sont utilisés en première monte par plusieurs constructeurs automobiles européens.
 
-[Voir les rubans double face Tesa professionnels sur Amazon →](https://www.amazon.fr/s?k=tesa+double+face+mousse+acrylique+professionnel&tag=VOTRE-TAG-21)
+[Voir les rubans double face Tesa professionnels sur Amazon →](https://www.amazon.fr/s?k=tesa+double+face+mousse+acrylique+professionnel&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

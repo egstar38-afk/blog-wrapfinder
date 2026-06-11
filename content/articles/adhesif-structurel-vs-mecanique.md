@@ -74,6 +74,6 @@ Un ruban double face de 1,5 cm de large sur 10 cm de long (15 cm²) offre donc u
 
 Le **Sika Power-9** est une colle bicomposante méthacrylate structurale qui remplace avantageusement les vis et rivets sur carrosseries. Résistance finale de 200 N/cm², compatible acier, aluminium, ABS, SMC.
 
-[Voir les colles structurales Sika sur Amazon →](https://www.amazon.fr/s?k=colle+structurale+bicomposante+carrosserie+sika&tag=VOTRE-TAG-21)
+[Voir les colles structurales Sika sur Amazon →](https://www.amazon.fr/s?k=colle+structurale+bicomposante+carrosserie+sika&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

@@ -79,6 +79,6 @@ Comparé au prix d'un phare LED de remplacement (souvent 500 à 1 500 € par un
 
 Le **Llumar ATR Clear** pour optiques est un film spécifiquement formulé pour le polycarbonate des phares : couche UV blocante renforcée, adhésif repositionnable pour la pose, et transparence à 99 % sans teinte. Disponible en rouleaux de 30 cm de large, idéal pour les phares sans gabarit disponible.
 
-[Voir les films PPF pour phares Llumar sur Amazon →](https://www.amazon.fr/s?k=llumar+film+protection+phares+transparent+ppf&tag=VOTRE-TAG-21)
+[Voir les films PPF pour phares Llumar sur Amazon →](https://www.amazon.fr/s?k=llumar+film+protection+phares+transparent+ppf&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*
