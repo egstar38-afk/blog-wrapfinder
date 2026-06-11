@@ -13,6 +13,7 @@ export type Category =
   | 'adhesif-specialise'
   | 'covering-general'
   | 'covering-specialise'
+  | 'ppf-covering-compare'
 
 export const CATEGORY_LABELS: Record<Category, string> = {
   'ppf-general': 'PPF Général',
@@ -21,6 +22,7 @@ export const CATEGORY_LABELS: Record<Category, string> = {
   'adhesif-specialise': 'Adhésif Spécialisé',
   'covering-general': 'Covering Général',
   'covering-specialise': 'Covering Spécialisé',
+  'ppf-covering-compare': 'PPF vs Covering',
 }
 
 export interface ArticleMeta {

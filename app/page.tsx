@@ -8,6 +8,7 @@ const CATEGORIES: Category[] = [
   'covering-specialise',
   'adhesif-general',
   'adhesif-specialise',
+  'ppf-covering-compare',
 ]
 
 export default function HomePage() {

@@ -1,96 +1,84 @@
 ---
-title: "Coller des pièces plastiques en habitacle : méthodes et adhésifs adaptés"
-description: "Pièces de tableau de bord décollées, garnitures de porte, inserts décoratifs : découvrez comment choisir et utiliser le bon adhésif pour chaque type de plastique."
+title: "Adhésif pour plastiques d'habitacle : quel produit sur quel substrat, sans tacher ni abîmer"
+description: "PP, ABS, PC : les plastiques d'habitacle ne se collent pas tous pareil. Les produits qui tiennent et les erreurs qui laissent des traces blanches ou des décollements."
 category: "adhesif-specialise"
-date: "2024-07-05"
+date: "2024-07-18"
 ---
 
-## Les plastiques de l'habitacle : une grande diversité de matériaux
+## L'intérieur d'une voiture, c'est un zoo de plastiques différents
 
-L'habitacle d'un véhicule moderne contient une dizaine de familles de plastiques différentes, chacune avec ses propriétés d'adhérence spécifiques. Avant de choisir un adhésif, il faut identifier le matériau concerné, car un adhésif parfait pour l'ABS peut être totalement inefficace sur du polypropylène.
+Je ne compte plus les fois où un client m'apporte une garniture d'habitacle décollée et me demande "c'est quoi la colle pour ça ?". La vraie question, c'est d'abord "c'est quoi le plastique ?".
 
-### Les principaux plastiques de l'habitacle et leur comportement
+L'habitacle d'une voiture moderne utilise 6 à 12 plastiques différents selon les pièces. Un ABS ne se colle pas comme un polypropylène. Ce qui tient sur l'un peut rater sur l'autre ou laisser des traces sur un troisième.
 
-**Polypropylène (PP)** : le plastique le plus utilisé dans l'habitacle (tableaux de bord, panneaux de porte, garnitures). Très résistant, léger, mais à **faible énergie de surface** — extrêmement difficile à coller sans préparation spécifique.
+## Identifier le plastique : la première étape
 
-**ABS (Acrylonitrile Butadiène Styrène)** : utilisé pour les éléments plus rigides et esthétiques (cadres de console centrale, garnitures de pilier, inserts). Bonne compatibilité avec les adhésifs acryliques et cyanocrylates.
+Retournez la pièce ou regardez dans un endroit caché. Les plastiques d'habitacle portent généralement un marquage moulé :
 
-**Polycarbonate (PC)** : utilisé pour les pièces transparentes ou translucides (cadrans d'écran, couvercles d'affichage). Bonne compatibilité adhésive mais sensible aux solvants.
+| Marquage | Plastique | Difficulté de collage |
+|---|---|---|
+| PP, PP+EPDM | Polypropylène | Difficile — nécessite primer |
+| ABS | Acrylonitrile-butadiène-styrène | Facile |
+| PC, PC+ABS | Polycarbonate | Facile |
+| PVC | Polychlorure de vinyle | Moyen |
+| PA, PA6, PA66 | Polyamide (nylon) | Moyen |
+| POM | Polyoxyméthylène | Difficile |
 
-**PVC souple** : utilisé pour les revêtements de levier de vitesse, les protèges-volants, les coutures de garnitures. Compatible avec les colles contact néoprène et certains cyanocrylates.
+Le PP est le plus fréquent et le plus problématique — il constitue la majorité des habillages de portes, des panneaux de coffre et des garnitures de bas de montant. Sans primer adapté, presque aucun adhésif n'y tient durablement.
 
-**PMMA (plexiglas)** : parfois présent sur les éclairages d'ambiance ou les inserts translucides. Sensible aux solvants — utiliser des adhésifs sans solvant.
+## Les adhésifs adaptés selon le substrat
 
-## Comment identifier le plastique
+### PP et polyoléfines : primer obligatoire
 
-Sur toutes les pièces plastiques automobiles homologuées, un **code de matière** est gravé ou moulé sur la face arrière de la pièce. Les plus courants :
+Avant tout collage sur PP : primer polypropylène (3M Primer 94, Kontaktchemie Plastik-Primer, Sika Aktivator-100). Application en fine couche sur la zone de collage, séchage 2–5 minutes, puis collage dans les 20 minutes.
 
-- **PP** ou **PP+EPDM** : polypropylène (ou mélange PP/caoutchouc)
-- **ABS** : ABS standard
-- **PC/ABS** : mélange polycarbonate/ABS
-- **PA** : polyamide (nylon)
-- **PVC** : PVC
+Après le primer, les options adhésives :
+- **Colle contact néoprène** : bonne adhérence sur PP primé, repositionnable pendant 5 minutes après application
+- **Colle PU monocomposant** (Sikaflex 252, Würth FIX-1) : excellente tenue longue durée, semi-flexible
+- **Double face mousse acrylique VHB LSE** : pour les garnitures plates sans contraintes
 
-Si vous ne trouvez pas de marquage, testez sur une petite zone cachée avec de l'IPA : si la surface devient temporairement terne ou collante, c'est probablement du PP ou PE.
+### ABS, PC, PC+ABS : les substrats "faciles"
 
-## Les solutions adhésives par type de plastique
+Sur ABS et PC, beaucoup d'adhésifs fonctionnent bien :
+- **Cyanoacrylate (super glue)** : adhérence instantanée, bonne résistance. Mais fragile aux chocs et aux vibrations — ne l'utilisez pas pour des pièces soumises à des contraintes dynamiques
+- **Contact néoprène** : adapté aux grandes surfaces (garnitures de portes)
+- **Double face acrylique** : pour les petites pièces légères
+- **Colle spéciale ABS** (diluant/solvant pour ABS) : soude littéralement les deux surfaces — résistance très élevée mais irréversible
 
-### Pour le polypropylène (PP) : le cas le plus difficile
+### PVC souple (tapis, revêtements de plafond)
 
-Le PP ne colle pas directement avec les adhésifs classiques. Il existe plusieurs approches :
+Le PVC souple (tapis de sol, habillage de plafond, alcantara) nécessite une colle contact souple — pas de cyanoacrylate (qui durcit et fissure le PVC).
 
-**Option 1 — Primer PP** : appliquer un primer spécifique PP (type 3M Primer 94 ou Kontaktchemie Plastik-Primer) avant l'adhésif. Le primer modifie la surface chimiquement pour l'accrochage. Efficace avec les rubans double face et les cyanocrylates.
+Les **colles contact néoprène en aérosol** (Bostik Contact, 3M Super 77) sont bien adaptées aux revêtements textiles et PVC de l'habitacle. Application sur les deux surfaces, séchage partiel (5–10 minutes), puis assemblage en pression.
 
-**Option 2 — Flambage** : passer brièvement une flamme à 10 cm de la surface pendant 1–2 secondes. Oxyde la surface et augmente son énergie. Très efficace mais irréversible.
+## Les situations spécifiques fréquentes
 
-**Option 3 — Adhésifs spécifiques PP/PE** : certaines colles de contact (Loctite 454, Würth Plast Mix) ont été formulées pour adhérer directement sur le PP sans primer. Résistance modérée.
+### Réglette plastique décollée de pare-soleil
 
-### Pour l'ABS et PC/ABS
+Substrat généralement PP ou PP+ABS. Primer PP + colle contact, ou double face mousse fin (3M 4910). La contrainte est faible (poids négligeable).
 
-Ces matériaux sont compatibles avec :
+### Garniture de porte qui se décolle en bas
 
-- **Cyanocrylate (super colle)** : fixation rapide et solide pour les petites réparations. Utiliser un grade gel pour les zones verticales.
-- **Adhésif acrylique bicomposant** : pour les fixations structurelles permanentes.
-- **Ruban double face mousse acrylique** : pour les fixations d'inserts et de garnitures légères.
+Substrat ABS ou PC, mais soumis aux ouvertures répétées de porte. Colle PU souple ou contact néoprène sur toute la longueur du bord + points de colle structurelle aux zones critiques.
 
-**Éviter** : les colles contact à base de solvants chlorés (trichloréthylène) qui peuvent dissoudre l'ABS.
+### Revêtement de plafond qui se décompose
 
-### Pour le PVC souple
+Le revêtement de plafond ("ciel de toit") sur les véhicules de 10–20 ans est souvent en mousse de polyuréthane + tissu. La mousse se décompose avec le temps et perd son adhérence. La vraie réparation nécessite de retirer le ciel de toit, éliminer la mousse dégradée, et recoller le tissu avec colle contact en aérosol.
 
-- **Colle contact néoprène** : la référence pour le PVC souple. Application sur les deux faces, attente de 10 minutes, puis collage par contact.
-- **Primer silicone** : améliore l'accrochage des rubans double face sur le PVC.
+Les rustines (bandes de double face par-dessus) tiennent rarement plus de 6 mois.
 
-## Réparer une pièce de tableau de bord décollée : étapes pratiques
+## Les erreurs à ne pas faire
 
-### Cas 1 : insert décoratif décollé (type fibre de carbone ou aluminium)
+**Utiliser du super glue sur du PP non primé** : ça semble tenir 24 heures, puis ça lâche. La super glue nécessite une surface absorbante ou légèrement poreuse — le PP lisse ne l'est pas.
 
-1. Retirez l'insert et nettoyez les deux surfaces à l'IPA
-2. Si le support est en PP, appliquez un primer PP sur la zone concernée
-3. Découpez une pièce de ruban double face VHB de la taille exacte de l'insert
-4. Appliquez sur l'insert, retirez le liner, repositionnez en vous guidant sur les marquages d'origine
-5. Appuyez fermement pendant 30 secondes avec le pouce
+**Utiliser trop de colle** : l'excès de colle déborde et tache les surfaces textiles (moquette, alcantara) de façon irréversible. Appliquez toujours moins que vous ne pensez nécessaire.
 
-### Cas 2 : garniture de porte décollée (pièce de grande taille)
-
-Pour les grandes surfaces en PP (panneau de porte entier) :
-
-1. Retirez la garniture en dégageant les clips de fixation mécaniques (si présents)
-2. Nettoyez, dégraissez les deux surfaces
-3. Appliquez un primer PP sur les zones à coller (laisser sécher 5 minutes)
-4. Appliquez une colle contact sur les deux surfaces (laisser 10 minutes)
-5. Repositionnez par contact en guidant soigneusement sur les clips
-6. Appuyez sur toute la surface et laissez 24 heures
-
-## Précautions spécifiques à l'habitacle
-
-L'habitacle est soumis à des températures importantes en été (60–90 °C sur la planche de bord) et à des vibrations permanentes. Choisissez des adhésifs dont la température de service dépasse au minimum **90 °C**.
-
-**Éviter les cyanocrylates pour les fixations exposées aux vibrations** : ils sont rigides et cassants sous vibrations répétées. Préférez les adhésifs élastomères (MS polymère, polyuréthane) pour les pièces soumises à des contraintes dynamiques.
+**Ne pas respecter le temps d'assemblage des colles contact** : les colles contact se posent sur les deux surfaces, laissent sécher partiellement (5 à 15 minutes selon le produit), puis les deux surfaces se soudent instantanément au contact. Si vous assemblez trop tôt, le solvant n'a pas fini de s'évaporer et l'adhérence est réduite. Trop tard, les surfaces ne se soudent plus — vous perdez la colle.
 
 ## Produit recommandé
 
-La **colle contact Würth Professional Neoprene** est une solution polyvalente pour l'habitacle, compatible PP (avec primer), ABS, PVC souple, tissu et mousse. Résistance à 90 °C, bon pouvoir collant et flexible une fois durcie.
+Le **Sika Primer-215** (spécifique polypropylène et polyoléfines) est le primer de référence pour le collage sur PP d'habitacle. Il garantit l'adhérence initiale et la tenue à long terme de pratiquement tous les adhésifs structurels appliqués dessus.
 
-[Voir la colle contact Würth sur Amazon →](https://www.amazon.fr/s?k=colle+contact+neoprene+plastique+habitacle+automobile&tag=VOTRE-TAG-21)
+[Voir le Sika Primer-215 pour plastiques habitacle sur Amazon →](https://www.amazon.fr/s?k=sika+primer+215+polypropylene+plastique+habitacle&tag=VOTRE-TAG-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

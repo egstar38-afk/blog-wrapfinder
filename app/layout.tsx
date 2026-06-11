@@ -47,10 +47,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </div>
         </footer>
 
-        {/* Google AdSense — remplacer data-ad-client par votre ID éditeur */}
         <Script
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
-          strategy="lazyOnload"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7256648363836885"
+          strategy="afterInteractive"
           crossOrigin="anonymous"
         />
       </body>

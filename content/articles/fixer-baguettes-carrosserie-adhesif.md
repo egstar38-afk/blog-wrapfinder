@@ -1,87 +1,76 @@
 ---
-title: "Fixer des baguettes de carrosserie avec l'adhésif : guide complet de A à Z"
-description: "Baguette décollée ou à poser ? Ce guide vous explique étape par étape comment fixer proprement une baguette de carrosserie avec le bon adhésif double face."
+title: "Fixer des baguettes de carrosserie avec adhesif : VHB, double face mousse et conseils terrain"
+description: "Baguette décollée, protection de bas de caisse à refixer : les adhésifs qui tiennent vraiment en conditions automobiles, et ceux à éviter."
 category: "adhesif-specialise"
-date: "2024-04-28"
+date: "2024-04-14"
 ---
 
-## Pourquoi les baguettes de carrosserie se décollent-elles ?
+## Le scénario classique : la baguette qui se décolle
 
-Les baguettes de carrosserie (protections latérales, moulures de porte, baguettes de bas de caisse) sont fixées en usine avec un ruban double face mousse. Cette fixation est très durable dans des conditions normales, mais peut échouer pour plusieurs raisons :
+C'est l'un des travaux les plus courants en atelier : une baguette latérale de protection, un enjoliveur de pas de porte, ou un spoiler de bas de caisse qui se soulève d'un côté. La cause habituelle : l'adhésif d'origine (souvent un double face fin d'usine) a vieilli, la surface a été mal préparée lors d'une carrosserie, ou la baguette a pris un choc qui a décollé partiellement la colle.
 
-- **Vieillissement de l'adhésif** : après 8–12 ans, les adhésifs d'origine perdent progressivement leur force de collage, surtout en périphérie exposée aux cycles chaud/froid
-- **Mauvaise pose initiale** : en usine ou lors d'une réparation précédente, un dégraissage insuffisant compromet la durée de vie de la fixation
-- **Impacts mécaniques** : un choc direct sur la baguette peut cisailler l'adhésif sur une zone localisée
-- **Infiltration d'eau** : si les bords ne sont pas parfaitement scellés, l'eau s'infiltre et dégrade progressivement l'adhésif sous la baguette
+Le défi : recoller ça proprement, que ça tienne dans le temps (exposition aux UV, eau, cycles de température), et que ça ne laisse pas de traces si la baguette doit être retirée un jour.
 
-## Matériel nécessaire
+## Les adhésifs adaptés à la fixation de baguettes
 
-Avant de commencer, rassemblez :
+### Le ruban double face mousse acrylique (type VHB)
 
-- **Ruban double face mousse acrylique** adapté (épaisseur identique au ruban d'origine, généralement 0,8 à 1,6 mm)
-- **Alcool isopropylique (IPA) 70 %** et chiffons microfibre propres
-- **Dissolvant adhésif** (3M Adhesive Remover ou équivalent) pour retirer l'ancien ruban
-- **Pistolet à air chaud ou sèche-cheveux**
-- **Fil de coupe ou outil en plastique** pour le retrait de l'ancienne baguette
-- **Rouleau à main** ou petit rouleau de pression
-- **Ruban de masquage papier** pour les repères de pose
-- **Cutter ou ciseau** pour découper le nouveau ruban à la bonne largeur
+C'est la référence pour les baguettes de carrosserie en automobile. Le double face mousse acrylique combine l'élasticité de la mousse (qui absorbe les vibrations et les mouvements de la carrosserie) et la puissance d'adhérence d'un acrylique.
 
-## Étape 1 : Dépose de l'ancienne baguette
+**3M VHB 4611, 4941, 4951** : ce sont les références les plus courantes en carrosserie. La série 4941 (mousse grise, 1,1 mm d'épaisseur) est polyvalente et très utilisée. La série 4611 est plus fine (0,4 mm) pour les applications où l'épaisseur est limitée.
 
-Si la baguette est encore partiellement en place, ne tirez jamais directement dessus. Procédez ainsi :
+**Adhérence finale** : le double face VHB atteint sa pleine résistance en 24 à 72 heures après la pose. Ne stressez pas la fixation dans les heures qui suivent.
 
-1. **Chauffez toute la longueur de la baguette** avec le pistolet à air chaud (60–70 °C) pendant 1 à 2 minutes. Le ruban doit être chaud au toucher.
-2. **Insérez un fil de coupe** (fil de pêche 0,5 mm ou fil spécial vitrage) entre la baguette et la carrosserie, à une extrémité de la baguette.
-3. **Sciez l'adhésif** en avançant progressivement tout en continuant à chauffer devant vous.
-4. **Tirez à 45 degrés maximum** sur la section libérée pour aider l'adhésif à se décoller proprement.
+### Le double face mousse de carrosserie (entrée de gamme)
 
-## Étape 2 : Retrait des résidus d'adhésif
+Les doubles faces mousse disponibles en grande surface ou en GSB (Norauto, Feu Vert) sont moins performants que le VHB mais conviennent pour les fixations peu exposées aux intempéries (baguettes de seuil intérieures, enjoliveurs en position abritée).
 
-Après retrait de la baguette, des résidus d'adhésif restent sur la carrosserie et sous la baguette. Retirez-les :
+Pour les baguettes extérieures exposées à l'eau, aux UV et aux variations de température, évitez ces produits — ils tiennent 6 à 18 mois puis se décollent.
 
-1. Appliquez du dissolvant adhésif sur un chiffon, laissez agir 2 minutes sur la zone
-2. Frottez en cercles pour ramollir et enlever le résidu
-3. Terminez avec un passage à l'IPA pour éliminer les traces de dissolvant
+## La préparation : l'étape que tout le monde sous-estime
 
-Procédez de même sous la baguette pour la préparer à recevoir un nouveau ruban.
+Je vois revenir des voitures avec des baguettes décollées pour la deuxième fois après réparation amateur. La cause dans 9 cas sur 10 : mauvaise préparation de surface.
 
-## Étape 3 : Mesurer l'épaisseur du ruban d'origine
+### Surface carrosserie (peinture)
 
-C'est une étape souvent ignorée par les débutants. L'épaisseur du ruban double face détermine le niveau de compression appliqué sur la baguette une fois posée. Si vous utilisez un ruban plus fin que l'original, la baguette semblera "flotter" sur la carrosserie. Trop épais, elle sera comprimée et risque de gauchir.
+Dégraissage à l'IPA pur sur la zone de collage. Pas de produit cire, pas de shampooing, pas de polish — l'IPA seul, appliqué sur un chiffon propre, essuyé sec.
 
-Mesurez l'épaisseur du résidu de mousse restant sur la carrosserie ou sous la baguette : généralement 0,8 mm, 1,2 mm ou 1,6 mm. Choisissez le ruban de la même épaisseur.
+Si la surface a été récemment polie (moins de 3 semaines), le polish résiduel peut affecter l'adhérence. Passez un IPA et laissez sécher 5 minutes avant la pose du double face.
 
-## Étape 4 : Découpe et application du nouveau ruban
+### Surface baguette
 
-1. **Découpez** le ruban à la largeur de la baguette (ou légèrement moins large pour qu'il ne dépasse pas sur les bords)
-2. **Appliquez** le ruban directement sur la face arrière de la baguette, en l'alignant proprement sans bulles d'air
-3. **Exercez une pression** sur tout le linéaire avec le rouleau pour assurer le contact
-4. **Conservez le liner de protection** (ne pas encore retirer le papier anti-collant côté carrosserie)
+Même chose. La face interne d'une baguette plastique a souvent une contamination de graisse de main ou de produit d'entretien. IPA + essuyage sec.
 
-## Étape 5 : Marquage de la position
+Si l'ancienne colle est encore sur la baguette : retirez-la complètement (dissolvant colle + grattoir plastique) avant de recoller. Ne collez jamais un double face neuf sur de l'ancienne colle.
 
-Avant de retirer le liner, **matérialisez la position exacte de la baguette** sur la carrosserie avec deux morceaux de ruban de masquage placés perpendiculairement à la baguette (un à chaque extrémité). Ces repères vous permettront de positionner la baguette avec précision lors de la pose.
+### Le primer acrylique pour surfaces poreuses
 
-## Étape 6 : Pose définitive
+Sur certains plastiques non peints (PP, PE) ou sur des surfaces poreuses (fibre de verre non vernissée), un primer acrylique (3M Primer 94, Kontaktchemie Alca-Primer) augmente considérablement l'adhérence. À appliquer en fine couche, laisser sécher 2 à 5 minutes avant la pose.
 
-1. **Dégraissez** une dernière fois la zone de carrosserie à l'IPA, laissez sécher 2 minutes
-2. **Chauffez légèrement** la surface de carrosserie (30–40 °C) avec le pistolet pour améliorer l'adhérence initiale
-3. **Retirez le liner** de protection du ruban
-4. **Alignez** la baguette sur vos repères de masquage
-5. **Appuyez fermement** de part et d'autre sur toute la longueur, puis passez le rouleau
-6. **Appliquez une pression soutenue** pendant 30 secondes sur toute la longueur
+## La pose du double face : technique correcte
 
-## Étape 7 : Séchage et finition
+Découpez le double face à la dimension exacte de la zone de contact. Évitez les joints et les zones où l'eau pourrait s'accumuler — si l'eau stagne contre le bord du double face, elle finit par pénétrer sous la baguette.
 
-- Attendez **24 heures** avant de laver ou exposer le véhicule à la pluie
-- Attendez **72 heures** pour la résistance à pleine polymérisation
-- Ne pas tirer sur la baguette pendant cette période
+Posez le double face sur la surface carrosserie (ou sur la baguette, selon ce qui est plus facile). Retirez le liner de protection, positionnez la baguette, pressez fermement sur toute la longueur pendant 30 secondes. Appliquez une pression de 5 à 10 kg sur la zone collée pendant 1 à 2 minutes pour maximaliser le contact.
+
+## Pour les grands panneaux ou les charges importantes
+
+Les baguettes longues (protection de bas de caisse sur SUV, spoilers de hayon) exercent des contraintes importantes sur l'adhésif, notamment à cause des vibrations et de l'aérodynamisme à grande vitesse.
+
+Pour ces applications, combinez le double face VHB avec **deux plots de colle structurelle PU** (type Sika 252 ou Würth FIX-1) aux extrémités et au centre. La colle PU absorbe les contraintes dynamiques que le double face seul ne peut pas gérer sur des grandes longueurs.
+
+## Les coûts réels
+
+| Type de fixation | Coût matériau | Durée de vie estimée |
+|---|---|---|
+| Double face entrée de gamme | 5 – 12 € | 2 – 5 ans |
+| 3M VHB série 49xx | 15 – 35 € | 7 – 15 ans |
+| VHB + colle PU (grandes baguettes) | 25 – 60 € | 10 – 20 ans |
 
 ## Produit recommandé
 
-Le **ruban double face mousse acrylique Tesa 68670** est disponible en épaisseurs 0,8 mm, 1,0 mm et 1,2 mm et en largeurs 6 mm à 25 mm. Idéal pour la repose de baguettes de carrosserie avec une résistance équivalente à la première monte.
+Le **3M VHB 4941** en rouleau de 19 mm × 3 m est la référence pour les baguettes de carrosserie. Disponible en ligne, il couvre la plupart des fixations courantes (baguettes latérales, protections de seuil, enjoliveurs extérieurs).
 
-[Voir le ruban double face Tesa 68670 sur Amazon →](https://www.amazon.fr/s?k=tesa+68670+double+face+mousse+baguette+carrosserie&tag=VOTRE-TAG-21)
+[Voir le 3M VHB 4941 sur Amazon →](https://www.amazon.fr/s?k=3m+vhb+4941+double+face+mousse+acrylique+carrosserie&tag=VOTRE-TAG-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*
