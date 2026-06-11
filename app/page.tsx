@@ -1,7 +1,14 @@
 import Link from 'next/link'
 import { getAllArticles, CATEGORY_LABELS, type Category } from '@/lib/articles'
 
-const CATEGORIES: Category[] = ['ppf-general', 'ppf-specialise', 'adhesif-general', 'adhesif-specialise']
+const CATEGORIES: Category[] = [
+  'ppf-general',
+  'ppf-specialise',
+  'covering-general',
+  'covering-specialise',
+  'adhesif-general',
+  'adhesif-specialise',
+]
 
 export default function HomePage() {
   const articles = getAllArticles()

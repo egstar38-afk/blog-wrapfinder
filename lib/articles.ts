@@ -6,13 +6,21 @@ import remarkHtml from 'remark-html'
 
 const articlesDir = path.join(process.cwd(), 'content/articles')
 
-export type Category = 'ppf-general' | 'ppf-specialise' | 'adhesif-general' | 'adhesif-specialise'
+export type Category =
+  | 'ppf-general'
+  | 'ppf-specialise'
+  | 'adhesif-general'
+  | 'adhesif-specialise'
+  | 'covering-general'
+  | 'covering-specialise'
 
 export const CATEGORY_LABELS: Record<Category, string> = {
   'ppf-general': 'PPF Général',
   'ppf-specialise': 'PPF Spécialisé',
   'adhesif-general': 'Adhésif Général',
   'adhesif-specialise': 'Adhésif Spécialisé',
+  'covering-general': 'Covering Général',
+  'covering-specialise': 'Covering Spécialisé',
 }
 
 export interface ArticleMeta {
