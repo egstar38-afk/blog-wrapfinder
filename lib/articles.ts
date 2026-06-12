@@ -2,6 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 import { remark } from 'remark'
+import remarkGfm from 'remark-gfm'
 import remarkHtml from 'remark-html'
 
 const articlesDir = path.join(process.cwd(), 'content/articles')
@@ -65,7 +66,7 @@ export async function getArticleBySlug(slug: string): Promise<ArticleWithContent
   const fullPath = path.join(articlesDir, `${slug}.md`)
   const raw = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(raw)
-  const processed = await remark().use(remarkHtml).process(content)
+  const processed = await remark().use(remarkGfm).use(remarkHtml).process(content)
   return {
     slug,
     title: data.title as string,

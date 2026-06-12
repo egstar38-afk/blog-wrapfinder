@@ -74,7 +74,7 @@ export default async function ArticlePage({ params }: Props) {
 
       {/* Article content */}
       <article
-        className="prose prose-gray max-w-none prose-headings:font-semibold prose-a:text-gray-900 prose-a:underline"
+        className="prose prose-gray max-w-none prose-headings:font-semibold prose-a:text-gray-900 prose-a:underline prose-table:w-full prose-th:bg-gray-100 prose-th:px-3 prose-th:py-2 prose-th:text-left prose-th:font-semibold prose-td:px-3 prose-td:py-2 prose-td:border prose-td:border-gray-200 prose-tr:even:bg-gray-50"
         dangerouslySetInnerHTML={{ __html: article.contentHtml }}
       />
 
