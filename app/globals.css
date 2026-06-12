@@ -25,3 +25,40 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+.prose table thead {
+  background-color: #f59e0b;
+  color: #000000;
+}
+
+.prose table thead th {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-weight: 700;
+  border: 1px solid #d97706;
+}
+
+.prose table tbody tr:nth-child(even) {
+  background-color: #2a2a2a;
+}
+
+.prose table tbody tr:nth-child(odd) {
+  background-color: #1f1f1f;
+}
+
+.prose table tbody td {
+  padding: 0.65rem 1rem;
+  border: 1px solid #3a3a3a;
+  color: #e5e5e5;
+}
+
+.prose table tbody tr:hover {
+  background-color: #333333;
+}
