@@ -24,6 +24,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7256648363836885"
           crossOrigin="anonymous"
         />
+        <meta name="google-site-verification" content="6ultDEjPgN8o2Q2qJoAgjXoHujz7v56-1ek5xzzprjM" />
       </head>
       <body className="min-h-screen flex flex-col bg-white text-gray-900 font-sans antialiased">
         <header className="border-b border-gray-200">
