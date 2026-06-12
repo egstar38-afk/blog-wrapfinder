@@ -41,69 +41,54 @@ export default async function ArticlePage({ params }: Props) {
   }
 
   return (
-    <div className="max-w-[780px] mx-auto">
-      {/* Breadcrumb */}
-      <nav className="text-sm text-gray-400 mb-8">
-        <Link href="/" className="hover:text-gray-600 transition-colors">
-          Accueil
-        </Link>
-        <span className="mx-2">/</span>
-        <span>{CATEGORY_LABELS[article.category]}</span>
-      </nav>
+    <div className="-mx-6 -my-10 px-6 py-10 bg-[#1a1a1a] min-h-screen">
+      <div className="max-w-[780px] mx-auto">
+        {/* Breadcrumb */}
+        <nav className="text-sm text-zinc-500 mb-8">
+          <Link href="/" className="hover:text-amber-500 transition-colors">
+            Accueil
+          </Link>
+          <span className="mx-2">/</span>
+          <span>{CATEGORY_LABELS[article.category]}</span>
+        </nav>
 
-      {/* Article header */}
-      <header className="mb-8">
-        <span className="text-xs font-semibold uppercase tracking-widest text-gray-400">
-          {CATEGORY_LABELS[article.category]}
-        </span>
-        <h1 className="text-3xl font-bold tracking-tight mt-2 mb-3">{article.title}</h1>
-        <p className="text-gray-600 text-lg leading-relaxed mb-4">{article.description}</p>
-        <time className="text-sm text-gray-400">
-          {new Date(article.date).toLocaleDateString('fr-FR', {
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric',
-          })}
-        </time>
-      </header>
+        {/* Article header */}
+        <header className="mb-8">
+          <span className="text-xs font-semibold uppercase tracking-widest text-amber-500">
+            {CATEGORY_LABELS[article.category]}
+          </span>
+          <h1 className="text-3xl font-bold tracking-tight mt-2 mb-3 text-white">{article.title}</h1>
+          <p className="text-zinc-400 text-lg leading-relaxed mb-4">{article.description}</p>
+          <time className="text-sm text-zinc-500">
+            {new Date(article.date).toLocaleDateString('fr-FR', {
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric',
+            })}
+          </time>
+        </header>
 
-      {/* AdSense placeholder — avant le contenu */}
-      <div className="mb-8 flex items-center justify-center bg-gray-100 rounded h-24 text-xs text-gray-400 uppercase tracking-widest">
-        Espace publicitaire Google AdSense
-      </div>
+        {/* AdSense placeholder — avant le contenu */}
+        <div className="mb-8 flex items-center justify-center bg-zinc-900 rounded h-24 text-xs text-zinc-600 uppercase tracking-widest border border-zinc-800">
+          Espace publicitaire Google AdSense
+        </div>
 
-      {/* Article content */}
-      <article
-        className="prose max-w-none"
-        dangerouslySetInnerHTML={{ __html: article.contentHtml }}
-      />
+        {/* Article content */}
+        <article
+          className="prose max-w-none"
+          dangerouslySetInnerHTML={{ __html: article.contentHtml }}
+        />
 
-      {/* Amazon affiliate placeholder */}
-      <aside className="mt-12 p-6 border border-gray-200 rounded-lg">
-        <p className="text-xs uppercase tracking-widest text-gray-400 mb-3">Produit recommandé</p>
-        <p className="font-medium mb-4">Découvrez les meilleurs produits PPF &amp; adhésifs sur Amazon</p>
-        <a
-          href="https://www.amazon.fr/s?k=ppf+paint+protection+film&tag=VOTRE-TAG-21"
-          target="_blank"
-          rel="noopener noreferrer sponsored"
-          className="inline-block bg-gray-900 text-white text-sm px-5 py-2.5 rounded hover:bg-gray-700 transition-colors"
-        >
-          Voir sur Amazon →
-        </a>
-        <p className="text-xs text-gray-400 mt-3">
-          Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.
-        </p>
-      </aside>
+        {/* AdSense placeholder — après le contenu */}
+        <div className="mt-10 flex items-center justify-center bg-zinc-900 rounded h-24 text-xs text-zinc-600 uppercase tracking-widest border border-zinc-800">
+          Espace publicitaire Google AdSense
+        </div>
 
-      {/* AdSense placeholder — après le contenu */}
-      <div className="mt-10 flex items-center justify-center bg-gray-100 rounded h-24 text-xs text-gray-400 uppercase tracking-widest">
-        Espace publicitaire Google AdSense
-      </div>
-
-      <div className="mt-8">
-        <Link href="/" className="text-sm text-gray-500 hover:text-gray-900 transition-colors">
-          ← Retour aux articles
-        </Link>
+        <div className="mt-8">
+          <Link href="/" className="text-sm text-zinc-400 hover:text-amber-500 transition-colors">
+            ← Retour aux articles
+          </Link>
+        </div>
       </div>
     </div>
   )

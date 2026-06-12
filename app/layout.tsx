@@ -25,7 +25,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
         <meta name="google-site-verification" content="6ultDEjPgN8o2Q2qJoAgjXoHujz7v56-1ek5xzzprjM" />
       </head>
-      <body className="min-h-screen flex flex-col bg-[#141414] text-gray-100 font-sans antialiased">
+      <body className="min-h-screen flex flex-col bg-white text-gray-900 font-sans antialiased">
         <header className="border-b border-zinc-800 bg-black sticky top-0 z-50">
           <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
             <a href="/" className="flex items-center gap-3 group">
@@ -49,8 +49,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
         <main className="flex-1 max-w-5xl mx-auto w-full px-6 py-10">{children}</main>
 
-        <footer className="border-t border-zinc-800 mt-auto">
-          <div className="max-w-5xl mx-auto px-6 py-6 text-sm text-zinc-500 flex flex-col sm:flex-row justify-between gap-2">
+        <footer className="border-t border-gray-200 mt-auto">
+          <div className="max-w-5xl mx-auto px-6 py-6 text-sm text-gray-500 flex flex-col sm:flex-row justify-between gap-2">
             <p>© {new Date().getFullYear()} WrapGuide — PPF · Covering · Adhésifs</p>
             <p>
               Certains liens sont des liens affiliés Amazon. En achetant via ces liens vous soutenez le blog sans
