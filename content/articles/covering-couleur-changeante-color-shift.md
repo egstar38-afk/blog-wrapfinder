@@ -1,5 +1,5 @@
 ---
-title: "Covering color shift : films dichroïques, pose complexe et entretien"
+title: "Covering color shift : films dichroïques et entretien"
 description: "Les films color shift changent de couleur selon l'angle de vue. Pose exigeante, alignement des paillettes et entretien spécifique pour garder l'effet intact."
 category: "covering-specialise"
 date: "2025-08-24"

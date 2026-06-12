@@ -1,5 +1,5 @@
 ---
-title: "PPF sur pare-chocs avant : relief, jonctions et découpes de caméra"
+title: "PPF pare-chocs avant : relief et découpes caméra"
 description: "Le pare-chocs avant est la pièce la plus exposée aux impacts. Poser du PPF dessus demande de gérer des reliefs complexes et des découpes précises."
 category: "ppf-specialise"
 date: "2024-11-05"

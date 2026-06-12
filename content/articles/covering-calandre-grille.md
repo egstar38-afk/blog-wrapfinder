@@ -1,5 +1,5 @@
 ---
-title: "Chrome delete calandre et grille avant : découpes précises, film fin et résultat pro"
+title: "Chrome delete calandre et grille : méthode pro"
 description: "Couvrir une calandre chromée ou une grille avant en noir mat : les barreaux, les logos, les découpes et les pièges à éviter pour un résultat propre."
 category: "covering-specialise"
 date: "2025-02-16"

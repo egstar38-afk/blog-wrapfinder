@@ -1,5 +1,5 @@
 ---
-title: "Film chrome miroir pour covering : pose difficile, réglementation et alternatives"
+title: "Film chrome miroir : pose, légalité et alternatives"
 description: "Le film chrome miroir est le plus technique du covering. Pose extrêmement difficile, risque de reflets dangereux et réglementation à connaître avant de l'utiliser."
 category: "covering-specialise"
 date: "2025-08-31"

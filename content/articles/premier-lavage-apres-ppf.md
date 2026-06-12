@@ -1,8 +1,8 @@
 ---
-title: "Premier lavage après pose de PPF : délai, méthode, produits et erreurs à éviter"
+title: "Premier lavage après PPF : délai et méthode"
 description: "Votre PPF vient d'être posé et vous vous demandez quand et comment le laver ? Délais, méthode recommandée, produits compatibles et erreurs fréquentes des premières semaines."
 category: "ppf-general"
-date: "2026-12-06"
+date: "2026-05-12"
 ---
 
 ## Les premières 48-72 heures : patience obligatoire

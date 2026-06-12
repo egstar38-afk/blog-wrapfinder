@@ -1,8 +1,8 @@
 ---
-title: "Fiche technique Oracal 970RA : covering cast premium, specs et finitions disponibles"
+title: "Oracal 970RA : specs du covering cast premium"
 description: "Fiche technique complète de l'Oracal 970RA pour covering automobile : épaisseur, technologie RapidAir, gamme de couleurs et durée de vie selon les finitions."
 category: "covering-general"
-date: "2027-02-07"
+date: "2026-05-30"
 ---
 
 ## Présentation

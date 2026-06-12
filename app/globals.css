@@ -1,9 +1,11 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+/* Thème sombre forcé partout, quel que soit le réglage du navigateur */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #141414;
+  --foreground: #e5e5e5;
+  color-scheme: dark;
 }
 
 @theme inline {
@@ -13,11 +15,8 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  background: var(--background);
 }
 
 body {
@@ -26,25 +25,25 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Homepage — light mode article cards */
+/* Homepage — cards articles sur fond sombre */
 .article-title {
-  color: #111111;
+  color: #f5f5f5;
 }
 
 .article-title:hover {
-  color: #d97706;
+  color: #f59e0b;
 }
 
 .article-date {
-  color: #6b7280;
+  color: #737373;
 }
 
 .article-description {
-  color: #374151;
+  color: #a3a3a3;
 }
 
 .section-title {
-  color: #111111;
+  color: #ffffff;
   font-size: 1.5rem;
   font-weight: 700;
   border-left: 4px solid #f59e0b;

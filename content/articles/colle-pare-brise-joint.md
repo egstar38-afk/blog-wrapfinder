@@ -1,5 +1,5 @@
 ---
-title: "Colle pare-brise et joint d'étanchéité : polyuréthane, SDAT et les erreurs à ne pas faire"
+title: "Colle pare-brise et joint : polyuréthane sans erreur"
 description: "Le remplacement d'un pare-brise ou d'un joint de vitrage demande un adhésif spécifique et un temps de séchage précis. Ce qui se passe si on roule trop tôt."
 category: "adhesif-specialise"
 date: "2024-06-08"

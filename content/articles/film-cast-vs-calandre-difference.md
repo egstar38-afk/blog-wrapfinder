@@ -1,8 +1,8 @@
 ---
-title: "Film cast vs calandré : fabrication, conformabilité, durée et quand ça compte vraiment"
+title: "Film cast vs calandré : la vraie différence"
 description: "Quelle différence entre film vinyle cast et calandré ? Fabrication, propriétés mécaniques, durée de vie et quels véhicules nécessitent absolument du cast."
 category: "covering-general"
-date: "2026-10-11"
+date: "2026-04-24"
 ---
 
 ## La différence qui conditionne tout le reste

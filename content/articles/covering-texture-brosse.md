@@ -1,5 +1,5 @@
 ---
-title: "Film covering texture brossée : effet brushed, sens de brossage et entretien spécifique"
+title: "Film texture brossée : pose et entretien spécifique"
 description: "Les films brossés (brushed aluminium, brushed steel) donnent un effet métal anodisé. Sens de brossage, pose sur grandes surfaces et entretien sans perdre la texture."
 category: "covering-specialise"
 date: "2025-09-21"

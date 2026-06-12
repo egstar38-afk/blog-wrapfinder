@@ -1,5 +1,5 @@
 ---
-title: "Silicone auto : joints, étanchéité, températures et couleurs — quel produit pour quoi"
+title: "Silicone auto : joints, étanchéité et températures"
 description: "Le silicone en automobile : RTV mono-composant, silicone HT, couleurs selon usage et les erreurs à éviter pour ne pas avoir une étanchéité ratée."
 category: "adhesif-specialise"
 date: "2025-11-16"

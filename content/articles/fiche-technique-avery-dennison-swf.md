@@ -1,8 +1,8 @@
 ---
-title: "Fiche technique Avery Dennison Supreme Wrapping Film : specs et finitions complètes"
+title: "Avery Dennison SWF : specs et finitions"
 description: "Fiche technique complète du Supreme Wrapping Film d'Avery Dennison : épaisseur, technologie Comply, gamme de couleurs, garantie et tarifs pour le covering auto."
 category: "covering-general"
-date: "2027-01-03"
+date: "2026-05-20"
 ---
 
 ## Présentation

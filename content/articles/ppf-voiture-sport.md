@@ -1,5 +1,5 @@
 ---
-title: "PPF pour voiture de sport : protection totale ou partielle ?"
+title: "PPF voiture de sport : protection totale ou partielle"
 description: "Sur une voiture de sport, le PPF est souvent indispensable. Découvrez pourquoi, quelles zones prioriser et quel budget prévoir pour une Porsche, Ferrari ou Alpine."
 category: "ppf-specialise"
 date: "2024-01-28"

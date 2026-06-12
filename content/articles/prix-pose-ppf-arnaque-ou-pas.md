@@ -1,5 +1,5 @@
 ---
-title: "Prix PPF : arnaque ou pas ? Comment décrypter un devis et éviter les pièges"
+title: "Prix PPF : décrypter un devis, éviter les pièges"
 description: "Un devis PPF à 500 € pour un full body, c'est suspect. Un devis à 8 000 €, est-ce justifié ? Comment lire un devis PPF et comprendre ce qui se cache dedans."
 category: "ppf-general"
 date: "2024-10-02"

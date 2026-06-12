@@ -1,8 +1,8 @@
 ---
-title: "Histoire du PPF : des hélicoptères militaires américains aux supercars civiles"
+title: "Histoire du PPF : des hélicos militaires aux autos"
 description: "D'où vient le PPF ? L'histoire des films de protection peinture, de leur invention par le Département de la Défense américain dans les années 70 à leur adoption par le marché automobile civil."
 category: "ppf-general"
-date: "2027-02-21"
+date: "2026-06-03"
 ---
 
 ## Vietnam et les pales d'hélicoptère : l'invention du PPF

@@ -1,5 +1,5 @@
 ---
-title: "Fixer des baguettes de carrosserie avec adhesif : VHB, double face mousse et conseils terrain"
+title: "Fixer des baguettes carrosserie : VHB et méthode"
 description: "Baguette décollée, protection de bas de caisse à refixer : les adhésifs qui tiennent vraiment en conditions automobiles, et ceux à éviter."
 category: "adhesif-specialise"
 date: "2024-04-14"

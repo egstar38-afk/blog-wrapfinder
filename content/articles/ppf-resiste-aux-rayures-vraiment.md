@@ -1,5 +1,5 @@
 ---
-title: "PPF résiste aux rayures — vraiment ? Ce que le film absorbe et ce qu'il ne peut pas faire"
+title: "Le PPF résiste-t-il vraiment aux rayures ?"
 description: "Le PPF est vendu comme une protection contre les rayures. C'est vrai, mais avec des nuances importantes. Ce que le film absorbe réellement et ses limites concrètes."
 category: "ppf-general"
 date: "2024-09-05"

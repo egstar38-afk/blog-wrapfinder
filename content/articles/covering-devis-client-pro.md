@@ -1,5 +1,5 @@
 ---
-title: "Faire un devis covering client : comment chiffrer sans se tromper ni sous-facturer"
+title: "Devis covering : chiffrer juste sans sous-facturer"
 description: "Sous-facturer une pose de covering, c'est perdre de l'argent à chaque client. Les professionnels expliquent comment calculer un devis juste et défendable."
 category: "covering-specialise"
 date: "2024-07-25"

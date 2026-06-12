@@ -24,23 +24,37 @@ const SECTION_GROUPS = [
   },
 ]
 
+const websiteJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'WrapGuide',
+  url: 'https://blog.wrapfinder.fr',
+  description:
+    'Guides et conseils sur le PPF (Paint Protection Film), le covering automobile et les adhésifs professionnels.',
+  inLanguage: 'fr-FR',
+}
+
 export default function HomePage() {
   const articles = getAllArticles()
 
   return (
-    <div className="bg-white">
+    <div>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+      />
       <section className="mb-12">
-        <h1 className="text-3xl font-bold tracking-tight mb-3 text-gray-900">
+        <h1 className="text-3xl font-bold tracking-tight mb-3 text-white">
           Guides PPF, Covering &amp; Adhésifs
         </h1>
-        <p className="text-gray-600 max-w-2xl">
+        <p className="text-zinc-400 max-w-2xl">
           Tout ce que vous devez savoir sur le Paint Protection Film, le covering automobile et les adhésifs
           professionnels : choix, pose, entretien et comparatifs produits.
         </p>
       </section>
 
       {/* AdSense placeholder */}
-      <div className="mb-10 flex items-center justify-center bg-gray-100 rounded h-24 text-xs text-gray-400 uppercase tracking-widest border border-gray-200">
+      <div className="mb-10 flex items-center justify-center bg-zinc-900 rounded h-24 text-xs text-zinc-600 uppercase tracking-widest border border-zinc-800">
         Espace publicitaire Google AdSense
       </div>
 
@@ -64,10 +78,15 @@ export default function HomePage() {
 
             {byCategory.map((group) => (
               <div key={group.key} className="mb-8">
-                <h3 className="text-xs font-semibold uppercase tracking-widest text-gray-400 mb-4 pb-2 border-b border-gray-200">
-                  {group.label}
+                <h3 className="text-xs font-semibold uppercase tracking-widest mb-4 pb-2 border-b border-zinc-800">
+                  <Link
+                    href={`/categorie/${group.key}`}
+                    className="text-zinc-500 hover:text-amber-500 transition-colors"
+                  >
+                    {group.label} →
+                  </Link>
                 </h3>
-                <ul className="divide-y divide-gray-100">
+                <ul className="divide-y divide-zinc-800/60">
                   {group.articles.map((article) => (
                     <li key={article.slug} className="py-4">
                       <Link href={`/${article.slug}`} className="group block">

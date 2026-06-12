@@ -1,5 +1,5 @@
 ---
-title: "Film covering paillette et holographique : effets spéciaux, alignement et usages"
+title: "Film paillette et holographique : pose et usages"
 description: "Films à paillettes et holographiques pour covering : quand les utiliser, comment gérer l'alignement des motifs et les usages qui fonctionnent vraiment."
 category: "covering-specialise"
 date: "2025-09-07"

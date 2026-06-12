@@ -1,8 +1,8 @@
 ---
-title: "Fiche technique SunTek Ultra PPF : specs, auto-cicatrisant, garantie 10 ans et comparaison"
+title: "SunTek Ultra PPF : specs et garantie 10 ans"
 description: "Fiche technique du SunTek Ultra PPF : 180 µm, topcoat auto-cicatrisant, clarity index, garantie 10 ans. Comparatif avec XPEL et positionnement sur le marché français."
 category: "ppf-general"
-date: "2027-01-24"
+date: "2026-05-26"
 ---
 
 ## Présentation

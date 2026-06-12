@@ -1,5 +1,5 @@
 ---
-title: "Ruban VHB 3M en automobile : quelle série choisir et comment éviter les erreurs de collage"
+title: "Ruban VHB 3M auto : quelle série choisir"
 description: "Le VHB 3M est omniprésent en carrosserie et assemblage automobile. Séries, épaisseurs, substrats compatibles et les erreurs qui font décoller une pièce en 3 mois."
 category: "adhesif-specialise"
 date: "2024-05-10"

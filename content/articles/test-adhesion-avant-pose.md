@@ -1,5 +1,5 @@
 ---
-title: "Tester l'adhérence avant de coller : cross-cut test, peel test et méthodes terrain"
+title: "Tester l'adhérence avant collage : méthodes terrain"
 description: "Avant de poser un film ou un adhésif sur une surface inconnue, testez l'adhérence. Cross-cut test, peel test 90°, méthodes simples et ce que les résultats vous disent."
 category: "adhesif-specialise"
 date: "2025-12-07"

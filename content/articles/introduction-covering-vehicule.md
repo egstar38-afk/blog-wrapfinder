@@ -1,5 +1,5 @@
 ---
-title: "Le covering auto : ce que c'est vraiment, combien ça dure et ce que ça coûte"
+title: "Covering auto : définition, durée et prix"
 description: "Covering vs peinture : deux solutions très différentes. Ce qu'est vraiment le covering, sa durée réelle et les prix du marché."
 category: "covering-general"
 date: "2024-09-05"

@@ -1,5 +1,5 @@
 ---
-title: "Taches d'huile et carburant sur PPF : réactivité, produits compatibles, dégâts permanents"
+title: "Taches d'huile et carburant sur PPF : que faire"
 description: "Essence, gazole ou huile moteur sur votre PPF ? La marche à suivre dans les premières minutes et ce qui peut endommager définitivement le film."
 category: "ppf-general"
 date: "2026-05-31"

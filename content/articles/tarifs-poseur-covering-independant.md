@@ -1,5 +1,5 @@
 ---
-title: "Tarifs poseur covering indépendant : comment se positionner, marges et concurrence"
+title: "Tarifs poseur covering indépendant : se positionner"
 description: "Fixer ses tarifs en tant que poseur covering indépendant : calcul du prix de revient, positionnement par rapport à la concurrence et comment défendre ses prix."
 category: "ppf-covering-compare"
 date: "2026-01-18"

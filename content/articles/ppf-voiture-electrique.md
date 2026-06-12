@@ -1,5 +1,5 @@
 ---
-title: "PPF sur voiture électrique : zones spécifiques Tesla, BMW iX et garantie constructeur"
+title: "PPF sur voiture électrique : Tesla, BMW iX…"
 description: "Les VE ont des spécificités qui changent l'approche PPF : poids, recharge, peinture fine. Ce qu'il faut savoir avant de faire poser sur une Tesla ou une i4."
 category: "ppf-specialise"
 date: "2024-07-10"

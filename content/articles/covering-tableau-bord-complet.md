@@ -1,5 +1,5 @@
 ---
-title: "Covering tableau de bord complet : matériaux mixtes, coutures, aérations et méthode"
+title: "Covering tableau de bord complet : méthode pro"
 description: "Couvrir un tableau de bord entier en vinyle est la pose intérieure la plus complexe. Alcantara, plastique, coutures, grilles d'aération : comment traiter chaque zone."
 category: "covering-specialise"
 date: "2025-01-19"

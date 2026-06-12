@@ -1,5 +1,5 @@
 ---
-title: "Covering console centrale : piano noir, touches tactiles et USB sans erreur"
+title: "Covering console centrale : piano noir sans erreur"
 description: "La console centrale accumule les rayures et les traces. Covering sur piano noir, autour des USB et des boutons : techniques et pièges à éviter."
 category: "covering-specialise"
 date: "2025-01-26"

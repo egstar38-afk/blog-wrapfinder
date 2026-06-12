@@ -1,5 +1,5 @@
 ---
-title: "PPF et lave-auto : délais après pose, types de lavage et précautions à connaître"
+title: "PPF et lave-auto : délais et précautions"
 description: "Quand peut-on passer au lave-auto après une pose de PPF ? Délais selon le type de lavage, ce que les brosses font au film et les précautions pour les premiers mois."
 category: "ppf-general"
 date: "2026-04-19"

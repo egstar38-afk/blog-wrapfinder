@@ -1,5 +1,5 @@
 ---
-title: "Le covering tient-il sous la pluie ? Hydrophobie, eau stagnante et points de faiblesse"
+title: "Le covering tient-il sous la pluie ? Points faibles"
 description: "Un covering vinyle résiste bien à la pluie mais a des points de faiblesse. Bords, eau stagnante, pression d'eau et hydrophobie du film : ce qu'il faut savoir."
 category: "covering-general"
 date: "2026-03-22"

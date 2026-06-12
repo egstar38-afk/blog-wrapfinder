@@ -1,5 +1,5 @@
 ---
-title: "Température idéale pour poser du PPF : plages optimales, hiver et été en atelier"
+title: "Température idéale de pose du PPF : les plages"
 description: "La température de l'atelier et de la carrosserie change tout pour la pose du PPF. Plages recommandées, problèmes du froid et du chaud, solutions pratiques."
 category: "ppf-specialise"
 date: "2025-08-03"

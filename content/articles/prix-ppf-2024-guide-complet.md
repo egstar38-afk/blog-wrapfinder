@@ -1,8 +1,8 @@
 ---
-title: "Prix PPF 2024 : tarifs par zone, facteurs qui font varier et comment comparer les devis"
+title: "Prix PPF 2026 : tarifs par zone et devis"
 description: "Combien coûte une pose de PPF en France ? Tarifs réels par zone traitée, facteurs qui font monter la facture et comment lire un devis d'installateur sans se faire avoir."
 category: "ppf-general"
-date: "2025-05-11"
+date: "2026-06-12"
 ---
 
 ## Le prix du PPF : une question qu'on pose mal
@@ -11,7 +11,7 @@ date: "2025-05-11"
 
 Le PPF n'est pas un produit uniforme à prix fixe. Le tarif final dépend du film choisi, des zones traitées, du découpage (prédécoupé ou à la main), de la complexité du véhicule et de la région.
 
-Ce guide vous donne des fourchettes réelles tirées du marché français 2024, avec les facteurs qui font monter ou descendre la note.
+Ce guide vous donne des fourchettes réelles tirées du marché français 2026, avec les facteurs qui font monter ou descendre la note.
 
 ## Tarifs par zone traitée
 

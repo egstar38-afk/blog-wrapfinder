@@ -1,5 +1,5 @@
 ---
-title: "PPF pour phares : stopper le jaunissement et les micro-impacts avant qu'ils arrivent"
+title: "PPF pour phares : stopper le jaunissement"
 description: "Un phare jaunit, ça coûte 500 à 1 500 € à remplacer. Le PPF transparent ou teinté coûte 150 €. Le calcul est vite fait. Voici comment ça marche vraiment."
 category: "ppf-specialise"
 date: "2024-05-28"

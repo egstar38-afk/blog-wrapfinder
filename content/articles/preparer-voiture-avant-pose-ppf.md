@@ -1,8 +1,8 @@
 ---
-title: "Préparer sa voiture avant la pose de PPF : checklist complète et ce que le poseur attend"
+title: "Préparer sa voiture avant pose PPF : checklist"
 description: "Ce que vous pouvez faire avant d'amener votre voiture chez le poseur PPF. Checklist de préparation, ce qui accélère la pose et ce qui peut engendrer des surcoûts."
 category: "ppf-general"
-date: "2026-11-15"
+date: "2026-05-06"
 ---
 
 ## Ce que le poseur fait avant la pose — et ce que vous pouvez éviter de payer

@@ -1,5 +1,5 @@
 ---
-title: "Covering de toit : panoramique, découpe précise et gestion des bulles"
+title: "Covering de toit : découpe précise et gestion bulles"
 description: "Le toit est la zone la plus visible et la plus technique du covering. Joints, découpes, panoramique : les erreurs à ne pas faire et la méthode qui fonctionne."
 category: "covering-specialise"
 date: "2024-09-10"

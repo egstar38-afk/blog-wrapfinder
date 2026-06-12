@@ -1,5 +1,5 @@
 ---
-title: "Entretien d'un covering au quotidien : ce qui tue un film en moins d'un an"
+title: "Entretien covering : ce qui tue un film en un an"
 description: "Un covering peut durer 5 à 7 ans ou se dégrader en 18 mois. Tout dépend de comment vous l'entretenez. Les erreurs sont souvent les mêmes."
 category: "covering-general"
 date: "2024-10-20"

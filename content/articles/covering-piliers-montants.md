@@ -1,5 +1,5 @@
 ---
-title: "Covering piliers et montants A/B/C : tissu existant, découpe et rendu propre"
+title: "Covering piliers A/B/C : découpe et rendu propre"
 description: "Les montants A, B et C peuvent être couverts en vinyle ou en tissu. Technique sur plastique, sur revêtement textile existant et découpes autour des joints."
 category: "covering-specialise"
 date: "2025-02-02"

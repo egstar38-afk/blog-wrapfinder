@@ -1,5 +1,5 @@
 ---
-title: "Durée de vie d'un PPF : combien de temps dure un film de protection ?"
+title: "Durée de vie d'un PPF : combien de temps ça dure ?"
 description: "Un PPF dure-t-il vraiment 10 ans ? Découvrez les facteurs qui influencent sa longévité et comment maximiser la durée de vie de votre film."
 category: "ppf-general"
 date: "2024-05-12"

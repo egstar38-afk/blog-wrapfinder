@@ -1,15 +1,15 @@
 ---
-title: "Prix covering 2024 : tarifs atelier, DIY et comment comparer les devis en France"
-description: "Combien coûte un covering complet ou partiel en France en 2024 ? Tarifs réels, différences DIY vs atelier, et les questions à poser avant de signer un devis."
+title: "Prix covering 2026 : tarifs et devis en France"
+description: "Combien coûte un covering complet ou partiel en France en 2026 ? Tarifs réels, différences DIY vs atelier, et les questions à poser avant de signer un devis."
 category: "covering-general"
-date: "2025-05-18"
+date: "2026-06-12"
 ---
 
 ## Covering : une prestation dont le prix varie énormément
 
 La question "combien ça coûte pour couvrir ma voiture ?" peut recevoir des réponses allant de 300 € à 5 000 €. Ce n'est pas que les ateliers disent n'importe quoi — c'est que le covering est un spectre très large de prestations.
 
-Un chrome delete sur les rétroviseurs n'est pas la même chose qu'un full wrap de SUV en film métallisé premium. Voici les vrais tarifs du marché français 2024.
+Un chrome delete sur les rétroviseurs n'est pas la même chose qu'un full wrap de SUV en film métallisé premium. Voici les vrais tarifs du marché français 2026.
 
 ## Tarifs atelier par prestation
 

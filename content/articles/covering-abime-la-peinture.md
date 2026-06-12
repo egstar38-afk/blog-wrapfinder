@@ -1,5 +1,5 @@
 ---
-title: "Le covering abîme-t-il la peinture ? Démystification, conditions et peintures à risque"
+title: "Le covering abîme-t-il la peinture ? La vérité"
 description: "La grande question : déposer un covering abîme-t-il la peinture ? La vérité selon l'état de la peinture, la durée du film et les conditions de dépose."
 category: "covering-general"
 date: "2026-05-17"

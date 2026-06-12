@@ -1,8 +1,8 @@
 ---
-title: "Fiche technique LLumar PPF : gamme, specs techniques, distributeurs France et prix"
+title: "LLumar PPF : gamme, specs et prix en France"
 description: "Fiche technique du PPF LLumar (marque Eastman) : gammes disponibles, spécifications techniques, réseau de distribution en France et positionnement prix."
 category: "ppf-general"
-date: "2027-01-31"
+date: "2026-05-28"
 ---
 
 ## Présentation

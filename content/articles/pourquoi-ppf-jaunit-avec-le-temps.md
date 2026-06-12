@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi le PPF jaunit avec le temps — et comment éviter que ça arrive"
+title: "Pourquoi le PPF jaunit et comment l'éviter"
 description: "Un PPF transparent qui jaunit, c'est souvent une question de qualité du film ou d'exposition UV. Ce qui se passe chimiquement et comment choisir un film qui dure."
 category: "ppf-general"
 date: "2024-08-20"

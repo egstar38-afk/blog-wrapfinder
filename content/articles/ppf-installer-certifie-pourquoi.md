@@ -1,5 +1,5 @@
 ---
-title: "Installateur PPF certifié : garantie fabricant, formation et ce qui change vraiment"
+title: "Installateur PPF certifié : ce qui change vraiment"
 description: "Pourquoi passer par un installateur PPF certifié ? Garantie fabricant, formation aux techniques, accès aux outils de découpe — ce qui change concrètement."
 category: "ppf-general"
 date: "2025-07-20"

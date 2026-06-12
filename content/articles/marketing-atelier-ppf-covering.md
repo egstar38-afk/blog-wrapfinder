@@ -1,5 +1,5 @@
 ---
-title: "Marketing atelier PPF et covering : réseaux sociaux, Google et bouche à oreille"
+title: "Marketing atelier PPF : réseaux, Google, bouche à oreille"
 description: "Comment trouver des clients pour un atelier PPF et covering : Google My Business, Instagram, TikTok, les clubs auto et ce qui génère vraiment des commandes."
 category: "ppf-covering-compare"
 date: "2026-01-25"

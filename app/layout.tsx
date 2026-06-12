@@ -1,16 +1,54 @@
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import { Geist } from 'next/font/google'
 import './globals.css'
 
 const geist = Geist({ subsets: ['latin'], variable: '--font-geist' })
 
+const SITE_URL = 'https://blog.wrapfinder.fr'
+
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: {
     default: 'WrapGuide — PPF, Covering & Adhésifs Auto',
     template: '%s | WrapGuide',
   },
   description:
     'Guides et conseils sur le PPF (Paint Protection Film), le covering automobile et les adhésifs professionnels pour protéger et valoriser votre véhicule.',
+  applicationName: 'WrapGuide',
+  alternates: {
+    canonical: '/',
+  },
+  openGraph: {
+    type: 'website',
+    locale: 'fr_FR',
+    url: SITE_URL,
+    siteName: 'WrapGuide',
+    title: 'WrapGuide — PPF, Covering & Adhésifs Auto',
+    description:
+      'Guides et conseils sur le PPF (Paint Protection Film), le covering automobile et les adhésifs professionnels pour protéger et valoriser votre véhicule.',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'WrapGuide — PPF, Covering & Adhésifs Auto',
+    description:
+      'Guides et conseils sur le PPF, le covering automobile et les adhésifs professionnels.',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+      'max-video-preview': -1,
+    },
+  },
+}
+
+export const viewport: Viewport = {
+  themeColor: '#141414',
+  colorScheme: 'dark',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -25,7 +63,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
         <meta name="google-site-verification" content="6ultDEjPgN8o2Q2qJoAgjXoHujz7v56-1ek5xzzprjM" />
       </head>
-      <body className="min-h-screen flex flex-col bg-white text-gray-900 font-sans antialiased">
+      <body className="min-h-screen flex flex-col bg-[#141414] text-zinc-200 font-sans antialiased">
         <header className="border-b border-zinc-800 bg-black sticky top-0 z-50">
           <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
             <a href="/" className="flex items-center gap-3 group">
@@ -49,8 +87,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
         <main className="flex-1 max-w-5xl mx-auto w-full px-6 py-10">{children}</main>
 
-        <footer className="border-t border-gray-200 mt-auto">
-          <div className="max-w-5xl mx-auto px-6 py-6 text-sm text-gray-500 flex flex-col sm:flex-row justify-between gap-2">
+        <footer className="border-t border-zinc-800 mt-auto">
+          <div className="max-w-5xl mx-auto px-6 py-6 text-sm text-zinc-500 flex flex-col sm:flex-row justify-between gap-2">
             <p>© {new Date().getFullYear()} WrapGuide — PPF · Covering · Adhésifs</p>
             <p>
               Certains liens sont des liens affiliés Amazon. En achetant via ces liens vous soutenez le blog sans

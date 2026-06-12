@@ -1,8 +1,8 @@
 ---
-title: "Négocier le prix d'un PPF avec un poseur : ce qui est négociable et ce qui ne l'est pas"
+title: "Négocier le prix d'un PPF : ce qui est possible"
 description: "Comment obtenir le meilleur prix pour une pose de PPF sans sacrifier la qualité ? Ce qu'on peut négocier, les leviers légitimes et les red flags à éviter."
 category: "ppf-general"
-date: "2026-11-22"
+date: "2026-05-08"
 ---
 
 ## La réalité des marges dans la pose PPF

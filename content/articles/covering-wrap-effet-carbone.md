@@ -1,5 +1,5 @@
 ---
-title: "Film vinyle effet carbone : trompe-l'œil, limites et où l'utiliser vraiment"
+title: "Film effet carbone : limites et bons usages"
 description: "Le film vinyle effet carbone ressemble-t-il vraiment au carbone ? Les poseurs sont honnêtes : oui et non. Voici ce qui passe et ce qui ne passe pas."
 category: "covering-specialise"
 date: "2024-05-16"

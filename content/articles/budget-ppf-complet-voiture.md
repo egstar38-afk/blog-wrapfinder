@@ -1,5 +1,5 @@
 ---
-title: "Budget PPF complet : grilles de prix par segment, full vs partiel et retour sur investissement"
+title: "Budget PPF complet : prix par segment et rentabilité"
 description: "Combien coûte vraiment un PPF complet ? Prix par segment de véhicule, comparaison full wrap vs protection partielle et calcul du ROI à la revente."
 category: "ppf-general"
 date: "2024-11-08"

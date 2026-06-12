@@ -1,5 +1,5 @@
 ---
-title: "Primer PP mode d'emploi complet : application, flash time, erreurs et meilleures marques"
+title: "Primer PP : mode d'emploi et erreurs à éviter"
 description: "Le primer PP est indispensable sur polypropylène. Quantité, flash time, fenêtre d'application et les erreurs qui font rater le collage. Guide terrain complet."
 category: "adhesif-specialise"
 date: "2025-03-02"

@@ -1,5 +1,5 @@
 ---
-title: "Covering couleur mate : entretien, produits interdits et durée de vie réelle"
+title: "Covering mat : entretien et produits interdits"
 description: "Un covering mat demande un entretien différent d'un film brillant. Ce qui tue le mat en quelques lavages et les produits qui le préservent des années."
 category: "covering-specialise"
 date: "2024-04-08"

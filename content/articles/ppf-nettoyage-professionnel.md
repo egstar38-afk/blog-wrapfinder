@@ -1,5 +1,5 @@
 ---
-title: "Nettoyage professionnel du PPF : décontamination annuelle, polish léger et céramique"
+title: "Nettoyage pro du PPF : décontamination annuelle"
 description: "Entretenir son PPF sur la durée : décontamination annuelle, polish compatible, application de céramique et les produits à proscrire absolument."
 category: "ppf-general"
 date: "2025-08-10"

@@ -1,8 +1,8 @@
 ---
-title: "Choisir un bon poseur PPF en France : certifications, portfolio, devis et red flags"
+title: "Choisir un bon poseur PPF : devis, portfolio, red flags"
 description: "Comment trouver un bon poseur PPF en France ? Les certifications qui comptent, ce qu'il faut voir dans un portfolio, les questions à poser et les signaux d'alerte."
 category: "ppf-general"
-date: "2026-11-29"
+date: "2026-05-10"
 ---
 
 ## Le marché PPF en France : entre vrais pros et amateurs bien marketés

@@ -1,5 +1,5 @@
 ---
-title: "Certifications poseur PPF : Avery, 3M, XPEL — programmes, avantages et coûts"
+title: "Certifications poseur PPF : Avery, 3M, XPEL"
 description: "Comparer les certifications poseur PPF des grandes marques : ce que chaque programme exige, ce qu'il offre concrètement, et si ça vaut l'investissement."
 category: "ppf-covering-compare"
 date: "2026-02-15"

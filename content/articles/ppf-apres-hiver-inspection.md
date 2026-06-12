@@ -1,5 +1,5 @@
 ---
-title: "Inspection PPF après l'hiver : bords, sel, décollements — que faire"
+title: "Inspection du PPF après l'hiver : que vérifier"
 description: "Checklist complète pour inspecter votre PPF après l'hiver. Sel, bords soulevés, signes d'alerte et actions à prendre avant qu'il soit trop tard."
 category: "ppf-general"
 date: "2026-05-24"

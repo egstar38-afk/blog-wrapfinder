@@ -1,5 +1,5 @@
 ---
-title: "Covering bateau et nautique : films marins, résistance eau salée et UV marins"
+title: "Covering bateau : films marins, eau salée et UV"
 description: "Le covering sur bateau ou moto nautique demande des films spécifiques pour l'eau salée, les UV marins et les contraintes de la navigation. Ce qui fonctionne et ce qui échoue."
 category: "covering-specialise"
 date: "2025-10-19"

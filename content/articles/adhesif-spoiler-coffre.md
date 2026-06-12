@@ -1,5 +1,5 @@
 ---
-title: "Adhésif pour spoiler de coffre : VHB 5952, surface peinte et charge aérodynamique"
+title: "Adhésif spoiler de coffre : VHB 5952 et bonne méthode"
 description: "Coller un spoiler de coffre aftermarket avec du VHB. Préparation, choix du VHB haute résistance, et pourquoi la charge aérodynamique change tout au calcul de résistance."
 category: "adhesif-specialise"
 date: "2025-03-30"

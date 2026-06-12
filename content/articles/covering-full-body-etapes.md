@@ -1,5 +1,5 @@
 ---
-title: "Covering full body : les étapes dans l'ordre, sans improvisation"
+title: "Covering full body : les étapes dans l'ordre"
 description: "Couvrir une voiture entière en vinyle, ça se prépare avant de toucher le film. Ordre des panneaux, temps de travail réel et erreurs à éviter."
 category: "covering-specialise"
 date: "2024-03-12"

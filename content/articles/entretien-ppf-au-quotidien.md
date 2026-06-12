@@ -1,5 +1,5 @@
 ---
-title: "Entretien du PPF au quotidien : les bons gestes pour préserver votre film"
+title: "Entretien du PPF : les bons gestes au quotidien"
 description: "Apprenez les gestes essentiels pour entretenir votre PPF au quotidien et prolonger sa durée de vie sans risquer de l'abîmer."
 category: "ppf-general"
 date: "2024-04-05"

@@ -1,5 +1,5 @@
 ---
-title: "Covering deux tons bicolor : ligne de séparation, masquage et cohérence visuelle"
+title: "Covering bicolore : ligne de séparation et masquage"
 description: "Réaliser un covering bicolore proprement : où placer la ligne de séparation, comment masquer sans marque, et les combinaisons de couleurs qui fonctionnent visuellement."
 category: "covering-specialise"
 date: "2025-09-28"

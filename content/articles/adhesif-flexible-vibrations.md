@@ -1,5 +1,5 @@
 ---
-title: "Adhésif flexible pour vibrations : résistance à la fatigue, joints flexibles et butyl"
+title: "Adhésif flexible anti-vibrations : fatigue et butyl"
 description: "Les adhésifs flexibles pour les assemblages soumis aux vibrations auto : butyl, silicone élastique, VHB mousse et bi-composant élastique — quel produit pour quelle contrainte."
 category: "adhesif-specialise"
 date: "2025-12-14"

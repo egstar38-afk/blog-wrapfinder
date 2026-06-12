@@ -1,5 +1,5 @@
 ---
-title: "PPF pour moto : réservoir, carénages et primer plastique — guide terrain"
+title: "PPF pour moto : réservoir et carénages"
 description: "Protéger sa moto avec du PPF n'est pas comme protéger une voiture. Réservoir, carénages PP, primer indispensable : ce qui change vraiment."
 category: "ppf-specialise"
 date: "2024-04-20"

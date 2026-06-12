@@ -1,5 +1,5 @@
 ---
-title: "Film covering phosphorescent et lumineux : durée de phosphorescence, usages et limites"
+title: "Film phosphorescent : durée, usages et limites"
 description: "Films phosphorescents pour covering : combien de temps brillent-ils, dans quels contextes ça marche et les usages sur la route qui posent problème."
 category: "covering-specialise"
 date: "2025-09-14"

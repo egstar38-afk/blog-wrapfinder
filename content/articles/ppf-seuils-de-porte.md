@@ -1,5 +1,5 @@
 ---
-title: "PPF sur seuils de porte : la zone la plus griffée du véhicule, film épais obligatoire"
+title: "PPF seuils de porte : la zone la plus griffée"
 description: "Les seuils de porte accumulent les griffures de chaussures et les impacts quotidiens. Film épais, technique de pose et pourquoi le DIY est envisageable ici."
 category: "ppf-specialise"
 date: "2024-11-18"

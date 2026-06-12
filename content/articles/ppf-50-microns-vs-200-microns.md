@@ -1,8 +1,8 @@
 ---
-title: "PPF 50 µm vs 200 µm : quelle épaisseur pour quelle protection ?"
+title: "PPF 50 µm vs 200 µm : quelle épaisseur choisir"
 description: "Tous les PPF n'ont pas la même épaisseur. Différences réelles entre 50 et 200 µm en protection, pose, durabilité et usage recommandé pour chaque gamme."
 category: "ppf-general"
-date: "2026-10-04"
+date: "2026-04-22"
 ---
 
 ## L'épaisseur du PPF : ce qu'on ne vous dit pas toujours

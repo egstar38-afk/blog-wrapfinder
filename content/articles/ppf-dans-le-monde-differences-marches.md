@@ -1,8 +1,8 @@
 ---
-title: "PPF et covering dans le monde : pourquoi les États-Unis, l'Asie et l'Europe ne jouent pas dans la même cour"
+title: "PPF dans le monde : USA, Asie, Europe comparés"
 description: "Le marché du PPF et du covering est très différent selon les pays. Pourquoi les États-Unis ont 10 ans d'avance, pourquoi l'Asie est le marché le plus exigeant et où se situe la France."
 category: "ppf-covering-compare"
-date: "2027-02-28"
+date: "2026-06-05"
 ---
 
 ## Les États-Unis : le marché fondateur

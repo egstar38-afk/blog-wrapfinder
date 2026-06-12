@@ -1,5 +1,5 @@
 ---
-title: "Qu'est-ce que le PPF ? Introduction au Film de Protection Peinture"
+title: "Qu'est-ce que le PPF ? Le guide d'introduction"
 description: "Découvrez ce qu'est le PPF (Paint Protection Film), comment il fonctionne et pourquoi il est devenu incontournable pour protéger la carrosserie de votre véhicule."
 category: "ppf-general"
 date: "2024-03-10"

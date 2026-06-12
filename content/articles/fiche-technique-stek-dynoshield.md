@@ -1,8 +1,8 @@
 ---
-title: "Fiche technique STEK DynoShield : PPF émergent, topcoat nano-céramique et positionnement"
+title: "STEK DynoShield : specs et topcoat céramique"
 description: "Fiche technique du PPF STEK DynoShield : topcoat nano-céramique intégré, specs techniques, avantages vs XPEL et positionnement prix sur le marché européen."
 category: "ppf-general"
-date: "2027-02-14"
+date: "2026-06-01"
 ---
 
 ## Présentation

@@ -1,5 +1,5 @@
 ---
-title: "Adhésif anaérobie pour vis et boulons : frein filet auto, résistances et applications"
+title: "Adhésif anaérobie : frein filet pour vis et boulons auto"
 description: "Le frein filet anaérobie sur les assemblages filetés automobiles : niveaux de résistance, où l'utiliser et comment ne pas bloquer définitivement une vis qu'on voudra déposer."
 category: "adhesif-specialise"
 date: "2025-11-02"

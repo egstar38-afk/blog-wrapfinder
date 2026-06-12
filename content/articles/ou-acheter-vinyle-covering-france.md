@@ -1,5 +1,5 @@
 ---
-title: "Où acheter du vinyle covering en France : fournisseurs pro, boutiques en ligne et différences de prix"
+title: "Où acheter du vinyle covering en France"
 description: "Vinyle de covering en France : distributeurs professionnels, boutiques en ligne grand public, différences de qualité et pièges du vinyle low-cost à éviter."
 category: "covering-general"
 date: "2025-05-04"

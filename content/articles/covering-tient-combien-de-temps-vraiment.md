@@ -1,5 +1,5 @@
 ---
-title: "Covering : combien de temps ça tient vraiment ? Les années réelles selon les conditions"
+title: "Covering : combien de temps ça tient vraiment ?"
 description: "\"7 ans de garantie\" sur un covering vinyle, c'est vrai mais conditionnel. Ce que ça donne réellement sur le terrain selon l'entretien, la couleur et l'exposition."
 category: "covering-general"
 date: "2024-09-18"

@@ -1,5 +1,5 @@
 ---
-title: "Combien coûte un covering complet ? Grilles de prix et pièges des devis"
+title: "Prix d'un covering complet : grilles et pièges"
 description: "Full wrap, covering partiel, chrome delete : ce que ça coûte vraiment, pourquoi les prix varient autant et ce qui doit vous alerter dans un devis."
 category: "covering-general"
 date: "2024-11-05"

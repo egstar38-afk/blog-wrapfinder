@@ -1,5 +1,5 @@
 ---
-title: "PPF sur peinture métallisée : clarity index, effet loupe et précautions"
+title: "PPF sur peinture métallisée : précautions"
 description: "Le PPF sur peinture métallisée amplifie l'effet de profondeur mais peut créer un effet loupe indésirable. Clarity index, pose et ce que les clients doivent savoir."
 category: "ppf-specialise"
 date: "2025-07-06"

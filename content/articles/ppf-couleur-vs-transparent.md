@@ -1,5 +1,5 @@
 ---
-title: "PPF coloré vs transparent : stealth look, compatibilité peinture et limites"
+title: "PPF coloré vs transparent : stealth look et limites"
 description: "Le PPF coloré (teinté) change l'aspect du véhicule tout en le protégeant. Stealth look, couleurs disponibles, compatibilité avec la peinture et ce qu'on ne vous dit pas."
 category: "ppf-general"
 date: "2025-06-22"

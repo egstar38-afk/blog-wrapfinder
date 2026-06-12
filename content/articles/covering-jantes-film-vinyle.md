@@ -1,5 +1,5 @@
 ---
-title: "Covering de jantes en film vinyle : méthode, durée réelle et alternatives"
+title: "Covering de jantes : méthode, durée et alternatives"
 description: "Le film vinyle sur jantes change tout l'aspect d'un véhicule. Méthode de pose, durée de tenue réelle et comparaison avec la peinture de jantes."
 category: "covering-specialise"
 date: "2024-10-08"

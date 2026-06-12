@@ -1,8 +1,8 @@
 ---
-title: "Fournisseurs PPF et covering en France 2024 : distributeurs, conditions et minimums"
+title: "Fournisseurs PPF France 2026 : distributeurs"
 description: "Où s'approvisionner en films PPF et covering en France ? Distributeurs professionnels, conditions d'achat, minimums de commande et comment ouvrir un compte pro."
 category: "ppf-covering-compare"
-date: "2026-02-08"
+date: "2026-06-12"
 ---
 
 ## S'approvisionner en films PPF et covering en France : le circuit pro

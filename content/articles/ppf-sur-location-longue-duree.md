@@ -1,8 +1,8 @@
 ---
-title: "PPF sur voiture en LLD : accord propriétaire, retrait en fin de contrat et coûts"
+title: "PPF sur voiture en LLD : accord et fin de contrat"
 description: "Peut-on poser du PPF sur une voiture en location longue durée ? Ce que le loueur accepte, ce qu'il refuse et comment gérer le retrait en fin de contrat."
 category: "ppf-general"
-date: "2026-12-13"
+date: "2026-05-14"
 ---
 
 ## La LLD et le PPF : une relation compliquée

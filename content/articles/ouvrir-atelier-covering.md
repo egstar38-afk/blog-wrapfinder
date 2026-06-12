@@ -1,5 +1,5 @@
 ---
-title: "Ouvrir un atelier covering : local, équipement, budget et développer sa clientèle"
+title: "Ouvrir un atelier covering : budget et clientèle"
 description: "Tout pour ouvrir un atelier PPF et covering : surface minimale, équipements indispensables, budget de lancement et les premières démarches pour trouver des clients."
 category: "ppf-covering-compare"
 date: "2026-01-11"

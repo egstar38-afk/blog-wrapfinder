@@ -1,5 +1,5 @@
 ---
-title: "PPF sur poignées de porte : griffures quotidiennes, gabarits disponibles, méthode"
+title: "PPF poignées de porte : gabarits et méthode"
 description: "Les poignées de porte accumulent les griffures d'ongles et de bagues. Un gabarit PPF adapté règle le problème en 20 minutes par porte."
 category: "ppf-specialise"
 date: "2024-11-25"

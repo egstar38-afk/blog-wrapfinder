@@ -1,5 +1,5 @@
 ---
-title: "Adhésif pour baguette chromée de porte : dépose, nettoyage, repose au VHB"
+title: "Adhésif baguette chromée de porte : dépose et repose VHB"
 description: "Déposer et reposer une baguette chromée de portière sans casser la carrosserie. Technique de dépose, nettoyage résidus d'adhésif, et repose au 3M VHB."
 category: "adhesif-specialise"
 date: "2025-03-23"

@@ -1,5 +1,5 @@
 ---
-title: "PPF sur peinture mate : compatibilité, risques et marques recommandées"
+title: "PPF sur peinture mate : compatibilité et risques"
 description: "Poser du PPF sur une peinture mate d'usine ou aftermarket : les risques réels, les conditions indispensables et quels films fonctionnent sans abîmer la finition."
 category: "ppf-specialise"
 date: "2025-06-29"

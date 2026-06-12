@@ -1,5 +1,5 @@
 ---
-title: "Covering véhicule de location : durabilité, retrait facilité et couleurs qui vendent"
+title: "Covering véhicule de location : durabilité et retrait"
 description: "Couvrir une flotte de location avec du vinyle : critères de durabilité, facilité de retrait entre locataires et couleurs qui préservent la valeur de revente."
 category: "covering-general"
 date: "2025-10-12"

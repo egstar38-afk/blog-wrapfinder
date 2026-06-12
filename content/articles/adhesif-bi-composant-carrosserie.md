@@ -1,5 +1,5 @@
 ---
-title: "Adhésifs bi-composants en carrosserie : époxy, méthacrylate et polyuréthane structurel"
+title: "Adhésifs bi-composants carrosserie : époxy et MMA"
 description: "Les adhésifs bi-composants remplacent les soudures sur de nombreux assemblages carrosserie. Époxy, méthacrylate, PU structurel : lequel pour quel assemblage."
 category: "adhesif-specialise"
 date: "2025-10-26"

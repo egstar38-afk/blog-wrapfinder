@@ -1,8 +1,8 @@
 ---
-title: "Bord de PPF qui se soulève : causes, réparation locale et quand tout refaire"
+title: "Bord de PPF qui se soulève : causes et réparation"
 description: "Un bord de PPF qui décolle ? Les causes réelles, ce qu'on peut réparer soi-même, ce que fait l'edge sealer et quand le remplacement du panneau est inévitable."
 category: "ppf-general"
-date: "2026-06-28"
+date: "2026-03-25"
 ---
 
 ## Pourquoi les bords décollent

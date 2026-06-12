@@ -1,5 +1,5 @@
 ---
-title: "PPF après un accident carrosserie : retrait, réparation et repose — le protocole complet"
+title: "PPF après accident : retrait, réparation, repose"
 description: "Que faire du PPF après un accrochage ? Qui retire le film, qui le repose, quel délai respecter avant de reposer sur peinture fraîche."
 category: "ppf-general"
 date: "2026-06-07"

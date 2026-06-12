@@ -1,5 +1,5 @@
 ---
-title: "Adhésif double face pour jantes : enjoliveurs, résistance à la rotation et chaleur frein"
+title: "Adhésif double face pour jantes : choix et résistance"
 description: "Fixer des enjoliveurs ou des ornements de jantes avec du double face demande des produits qui résistent à la chaleur des freins et aux forces centrifuges. Le bon choix."
 category: "adhesif-specialise"
 date: "2025-03-09"

@@ -1,15 +1,27 @@
-import { getAllArticles } from '@/lib/articles'
+import { getAllArticles, CATEGORY_LABELS } from '@/lib/articles'
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getAllArticles()
 
-  const articleUrls = articles.map((article) => ({
-    url: `https://blog.wrapfinder.fr/${article.slug}`,
-    lastModified: new Date(article.date),
-    changeFrequency: 'monthly' as const,
-    priority: 0.8,
+  const categoryUrls = Object.keys(CATEGORY_LABELS).map((category) => ({
+    url: `https://blog.wrapfinder.fr/categorie/${category}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.9,
   }))
+
+  const now = new Date()
+  const articleUrls = articles.map((article) => {
+    const date = new Date(article.date)
+    return {
+      url: `https://blog.wrapfinder.fr/${article.slug}`,
+      // une date future dans le sitemap est invalide pour Google
+      lastModified: date > now ? now : date,
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    }
+  })
 
   return [
     {
@@ -18,6 +30,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly' as const,
       priority: 1,
     },
+    ...categoryUrls,
     ...articleUrls,
   ]
 }

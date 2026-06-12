@@ -1,8 +1,8 @@
 ---
-title: "Hexis vs Oracal covering : marques européennes comparées, tarifs et réseau France"
+title: "Hexis vs Oracal : comparatif covering européen"
 description: "Hexis (France) ou Oracal (Autriche) pour votre covering ? Comparatif de ces deux marques européennes : qualité, gamme, prix et réseau de distribution en France."
 category: "ppf-covering-compare"
-date: "2026-09-27"
+date: "2026-04-20"
 ---
 
 ## Deux marques européennes, deux positionnements

@@ -1,5 +1,5 @@
 ---
-title: "Adhésif moulure de pare-brise : butyl, EPDM, étanchéité et remplacement"
+title: "Adhésif moulure de pare-brise : butyl, EPDM, étanchéité"
 description: "Les moulures de pare-brise (joints de cadre) tiennent avec des adhésifs spécifiques. Butyl, EPDM, conditions de pose et remplacement après un bris de glace."
 category: "adhesif-specialise"
 date: "2025-04-13"

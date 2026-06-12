@@ -1,8 +1,8 @@
 ---
-title: "Rayure profonde sur covering : remplacement panneau local et correspondance couleur"
+title: "Rayure profonde sur covering : réparer un panneau"
 description: "Un covering rayé profondément ne se répare pas — il se remplace. Comment remplacer un seul panneau, trouver la même couleur et minimiser les différences visuelles."
 category: "covering-general"
-date: "2026-08-02"
+date: "2026-04-04"
 ---
 
 ## La vérité sur les rayures de covering

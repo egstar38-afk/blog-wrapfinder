@@ -1,5 +1,5 @@
 ---
-title: "Protéger seulement le capot : PPF ou covering, et est-ce vraiment suffisant ?"
+title: "Protéger seulement le capot : PPF ou covering ?"
 description: "Le capot reçoit 60 % des impacts de gravillons. Faut-il faire tout le véhicule ou le capot seul suffit ? Comparatif PPF vs covering sur cette zone unique."
 category: "ppf-covering-compare"
 date: "2024-04-02"

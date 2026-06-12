@@ -1,5 +1,5 @@
 ---
-title: "Ruban double face automobile : comment bien choisir et poser ses baguettes"
+title: "Ruban double face auto : bien choisir et poser"
 description: "Le ruban double face automobile est utilisé partout sur votre voiture. Apprenez à choisir la bonne référence et à poser proprement baguettes, écussons et moulures."
 category: "adhesif-specialise"
 date: "2024-02-08"

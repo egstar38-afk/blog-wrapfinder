@@ -1,5 +1,5 @@
 ---
-title: "Covering jupe arrière : zones basses, impacts, film épais ou standard ?"
+title: "Covering jupe arrière : film épais ou standard ?"
 description: "La jupe arrière reçoit les projections de roues et les chocs de parking. Covering avec film renforcé, technique de pose sur plastique PP et durée de vie réelle."
 category: "covering-specialise"
 date: "2025-02-09"

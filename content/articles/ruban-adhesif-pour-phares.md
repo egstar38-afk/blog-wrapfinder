@@ -1,5 +1,5 @@
 ---
-title: "Ruban adhésif pour phares : joints, butyl et pose de feux après intervention"
+title: "Ruban adhésif pour phares : butyl et étanchéité"
 description: "Quand vous intervenez sur un feu ou un phare — remplacement de LED, chromage intérieur, personnalisation — le joint d'étanchéité est l'élément critique à bien refaire."
 category: "adhesif-specialise"
 date: "2025-03-16"

@@ -1,5 +1,5 @@
 ---
-title: "Combien de temps pour poser du PPF sur un capot ? Durée réelle et facteurs"
+title: "Pose PPF capot : combien de temps ça prend vraiment"
 description: "La durée réelle de pose d'un PPF sur capot : de la décontamination à la polymérisation. Ce qui accélère, ce qui ralentit et pourquoi les délais varient autant."
 category: "ppf-general"
 date: "2026-04-26"

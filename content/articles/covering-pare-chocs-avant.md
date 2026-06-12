@@ -1,5 +1,5 @@
 ---
-title: "Covering pare-chocs avant : relief, antibrouillards, caméra et bords propres"
+title: "Covering pare-chocs avant : relief et bords propres"
 description: "Covering un pare-chocs avant demande de gérer des reliefs profonds et des découpes précises. Méthode, outils et erreurs à éviter sur cette pièce complexe."
 category: "covering-specialise"
 date: "2025-01-05"

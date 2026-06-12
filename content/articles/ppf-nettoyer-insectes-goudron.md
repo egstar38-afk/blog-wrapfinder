@@ -1,8 +1,8 @@
 ---
-title: "Nettoyer insectes et goudron sur PPF : produits safe, technique et urgence estivale"
+title: "Insectes et goudron sur PPF : produits safe"
 description: "Insectes séchés et goudron sur votre PPF : comment nettoyer sans abîmer le topcoat, les produits compatibles et la bonne méthode selon le type de contamination."
 category: "ppf-general"
-date: "2026-07-12"
+date: "2026-03-29"
 ---
 
 ## L'urgence que la plupart des gens ignorent

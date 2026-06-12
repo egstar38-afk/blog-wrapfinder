@@ -1,5 +1,5 @@
 ---
-title: "PPF sur toit complet : raccords, antenne, joints de pavillon et technique grande surface"
+title: "PPF sur toit complet : raccords et technique"
 description: "Le toit est la plus grande surface plane du véhicule. Raccords entre lés, antenne, joints de pavillon : tout ce qui pose problème et comment le gérer."
 category: "ppf-specialise"
 date: "2024-12-22"

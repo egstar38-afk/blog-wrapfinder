@@ -1,5 +1,5 @@
 ---
-title: "Devenir poseur PPF et covering : parcours, formation et investissement de démarrage"
+title: "Devenir poseur PPF covering : parcours et budget"
 description: "Comment devenir poseur professionnel en PPF et covering ? Formation, investissement matériel, temps d'apprentissage et ce que les formations ne vous disent pas."
 category: "ppf-covering-compare"
 date: "2026-01-04"

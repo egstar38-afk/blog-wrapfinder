@@ -1,5 +1,5 @@
 ---
-title: "Formation PPF et covering : ça vaut vraiment le coup ou on peut apprendre seul ?"
+title: "Formation PPF covering : ça vaut le coup ?"
 description: "Payer une formation covering ou PPF : utile ou gaspillage ? Ce qu'on apprend en formation qu'on ne trouve pas sur YouTube, et pour qui ça a du sens."
 category: "ppf-covering-compare"
 date: "2024-06-12"

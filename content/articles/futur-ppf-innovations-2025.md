@@ -1,15 +1,15 @@
 ---
-title: "Le futur du PPF et du covering : innovations 2025-2030 et ce qui arrive sur le marché"
+title: "Futur du PPF : innovations 2026-2030"
 description: "Où vont le PPF et le covering automobile ? Topcoats auto-nettoyants, films photochromiques, PPF coloré, pose robotisée et intégration constructeurs : les innovations à suivre."
 category: "ppf-covering-compare"
-date: "2027-03-07"
+date: "2026-06-12"
 ---
 
-## Ce qui arrive en 2025-2026
+## Ce qui arrive en 2026-2027
 
 ### Le PPF coloré mainstream
 
-Le **Color PPF** (film de protection teinté dans la masse) était une niche en 2022. En 2025, toutes les grandes marques (XPEL, SunTek, Hexis, STEK) ont leur gamme de PPF coloré. La proposition de valeur : protection d'impact PPF complète (150-200 µm, auto-cicatrisant) avec une couleur intégrée.
+Le **Color PPF** (film de protection teinté dans la masse) était une niche en 2022. En 2026, toutes les grandes marques (XPEL, SunTek, Hexis, STEK) ont leur gamme de PPF coloré. La proposition de valeur : protection d'impact PPF complète (150-200 µm, auto-cicatrisant) avec une couleur intégrée.
 
 Plus besoin de choisir entre protéger la peinture et changer la couleur — les deux en un film. Le coût est encore 30 à 50 % plus élevé qu'un covering standard, mais l'écart se réduit.
 
@@ -19,7 +19,7 @@ Les couleurs actuellement disponibles : noirs profonds, gris métallisés, quelq
 
 L'effet lotus — des surfaces si hydrophobes que l'eau emporte les salissures sans qu'elles adhèrent — est une promesse qui se rapproche du concret. Des marques travaillent sur des topcoats intégrant des nano-structures permanentes (pas juste un sealant qui s'érode) qui maintiennent l'effet lotus sur plusieurs années sans entretien.
 
-En 2024, quelques prototypes sont testés. En 2025-2026, les premières gammes commerciales "self-cleaning" devraient arriver. La durabilité de l'effet sur 5-10 ans reste à prouver en conditions réelles.
+En 2024, quelques prototypes sont testés. En 2026-2027, les premières gammes commerciales "self-cleaning" devraient arriver. La durabilité de l'effet sur 5-10 ans reste à prouver en conditions réelles.
 
 ### L'intégration constructeurs
 
@@ -39,7 +39,7 @@ Des prototypes ont été présentés en salon (SEMA 2023, 2024). La commercialis
 
 Poser un film sur un véhicule complet nécessite actuellement 2 à 3 jours de travail humain qualifié. Des projets de robots poseurs sont en développement — des bras robotiques guidés par vision 3D qui appliquent le film avec une précision et une régularité impossibles à la main.
 
-En 2024, aucun système commercial n'existe encore. Mais des startups travaillent sur le sujet (Automata, des spinoffs d'équipes d'IA vision). D'ici 2028-2030, une semi-automatisation des poses de grandes surfaces est plausible.
+En 2026, aucun système commercial n'existe encore. Mais des startups travaillent sur le sujet (Automata, des spinoffs d'équipes d'IA vision). D'ici 2028-2030, une semi-automatisation des poses de grandes surfaces est plausible.
 
 ### Les topcoats "self-healing" thermiques améliorés
 

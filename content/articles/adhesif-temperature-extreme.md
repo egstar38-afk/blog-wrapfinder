@@ -1,5 +1,5 @@
 ---
-title: "Adhésifs pour températures extrêmes : -40°C à +200°C, silicone HT et époxy HT"
+title: "Adhésifs températures extrêmes : -40 °C à +200 °C"
 description: "Quand l'adhésif doit tenir du grand froid au grand chaud : silicone haute température, époxy HT, VHB thermique et les limites réelles de chaque produit."
 category: "adhesif-specialise"
 date: "2025-12-28"

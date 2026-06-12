@@ -1,5 +1,5 @@
 ---
-title: "PPF full body : durée réelle de pose, étapes et logistique à prévoir"
+title: "PPF full body : durée de pose et logistique"
 description: "Un PPF complet prend combien de temps ? Les étapes réelles, ce qui ralentit, et comment se préparer en tant que client pour éviter les mauvaises surprises."
 category: "ppf-general"
 date: "2025-07-27"

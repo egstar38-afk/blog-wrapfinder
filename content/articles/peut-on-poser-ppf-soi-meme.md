@@ -1,5 +1,5 @@
 ---
-title: "Peut-on poser du PPF soi-même ? Honnêteté terrain, risques et zones recommandées"
+title: "Poser du PPF soi-même : risques et zones faciles"
 description: "La vraie réponse sur le PPF en DIY : ce qui est faisable pour un particulier motivé, ce qui ne l'est pas, et les zones où commencer sans prendre trop de risques."
 category: "ppf-general"
 date: "2026-04-05"

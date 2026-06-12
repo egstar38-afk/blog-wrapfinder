@@ -1,5 +1,5 @@
 ---
-title: "Voiture noire : PPF ou covering pour lutter contre les swirls et les impacts ?"
+title: "Voiture noire : PPF ou covering contre les swirls ?"
 description: "Le noir montre tout. Swirls, impacts, traces de lavage : les voitures noires sont les plus difficiles à entretenir. PPF ou covering : ce qui marche vraiment."
 category: "ppf-covering-compare"
 date: "2024-03-18"

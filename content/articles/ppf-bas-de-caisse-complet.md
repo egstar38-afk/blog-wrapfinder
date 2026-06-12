@@ -1,5 +1,5 @@
 ---
-title: "PPF bas de caisse complet : film épais, impacts fréquents, durée réduite à anticiper"
+title: "PPF bas de caisse : film épais et durée réduite"
 description: "Les bas de caisse prennent les projections les plus lourdes. Film épais recommandé, technique de rentré de bords et durée de vie réaliste selon l'usage."
 category: "ppf-specialise"
 date: "2024-12-15"

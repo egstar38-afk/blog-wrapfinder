@@ -1,5 +1,5 @@
 ---
-title: "Assurance responsabilité civile poseur covering : RC pro, cas concrets et protection"
+title: "Assurance RC pro poseur covering : cas concrets"
 description: "RC professionnelle pour les poseurs PPF et covering : ce qu'elle couvre, les cas concrets qui font mal, la garantie décennale et comment bien choisir son contrat."
 category: "ppf-covering-compare"
 date: "2026-02-22"

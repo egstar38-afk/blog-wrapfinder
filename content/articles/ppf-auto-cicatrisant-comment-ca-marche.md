@@ -1,5 +1,5 @@
 ---
-title: "PPF auto-cicatrisant : chimie du topcoat, chaleur et limites réelles"
+title: "PPF auto-cicatrisant : comment ça marche vraiment"
 description: "Comment fonctionne vraiment le PPF auto-cicatrisant ? Topcoat polyuréthane, activation thermique, ce qui guérit et ce qui ne guérit pas."
 category: "ppf-general"
 date: "2025-06-08"

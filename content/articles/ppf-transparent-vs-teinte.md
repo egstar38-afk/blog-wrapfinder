@@ -1,5 +1,5 @@
 ---
-title: "PPF transparent, satiné ou teinté : quelle finition choisir et pour quel résultat"
+title: "PPF transparent, satiné ou teinté : que choisir"
 description: "PPF satiné, mat, fumé ou transparent : chaque finition change l'aspect de votre peinture et l'entretien. Voici ce qui diffère vraiment entre ces options."
 category: "ppf-general"
 date: "2024-09-15"

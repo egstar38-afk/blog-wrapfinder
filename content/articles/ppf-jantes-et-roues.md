@@ -1,5 +1,5 @@
 ---
-title: "PPF pour jantes : flancs, pose à plat ou en place, et durée réelle selon l'usage"
+title: "PPF pour jantes : pose, durée et limites"
 description: "Les jantes prennent les trottoirs et les gravillons toute leur vie. Le PPF transparent les protège efficacement — si vous connaissez les contraintes spécifiques."
 category: "ppf-specialise"
 date: "2024-06-05"

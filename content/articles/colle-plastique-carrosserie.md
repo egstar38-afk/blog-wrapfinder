@@ -1,5 +1,5 @@
 ---
-title: "Colle plastique carrosserie : ABS, PC, PP, polyuréthane — quel produit pour chaque matière"
+title: "Colle plastique carrosserie : ABS, PC, PP — que choisir"
 description: "Réparer ou coller du plastique automobile : ABS, polycarbonate, polypropylène, polyuréthane. Tableau des adhésifs compatibles et les erreurs qui font rater la réparation."
 category: "adhesif-specialise"
 date: "2025-04-06"

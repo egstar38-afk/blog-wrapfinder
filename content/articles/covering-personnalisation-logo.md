@@ -1,5 +1,5 @@
 ---
-title: "Covering avec logo : découpe plotter, impression et pose précise"
+title: "Covering avec logo : découpe, impression et pose"
 description: "Ajouter un logo, un texte ou un motif personnalisé en covering : plotter de découpe, impression numérique, fichiers vectoriels et techniques de pose au millimètre."
 category: "covering-specialise"
 date: "2025-10-05"

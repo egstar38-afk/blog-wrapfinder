@@ -62,6 +62,18 @@ export function getArticlesByCategory(category: Category): ArticleMeta[] {
   return getAllArticles().filter((a) => a.category === category)
 }
 
+/**
+ * Les liens affiliés Amazon doivent porter rel="sponsored" (consigne Google),
+ * les autres liens externes rel="noopener". Tous s'ouvrent dans un nouvel onglet.
+ */
+function decorateExternalLinks(html: string): string {
+  return html.replace(/<a href="(https?:\/\/[^"]+)"/g, (match, url: string) => {
+    if (url.includes('blog.wrapfinder.fr')) return match
+    const rel = url.includes('amazon.') ? 'sponsored nofollow noopener' : 'nofollow noopener'
+    return `<a href="${url}" rel="${rel}" target="_blank"`
+  })
+}
+
 export async function getArticleBySlug(slug: string): Promise<ArticleWithContent> {
   const fullPath = path.join(articlesDir, `${slug}.md`)
   const raw = fs.readFileSync(fullPath, 'utf8')
@@ -73,8 +85,38 @@ export async function getArticleBySlug(slug: string): Promise<ArticleWithContent
     description: data.description as string,
     category: data.category as Category,
     date: data.date as string,
-    contentHtml: processed.toString(),
+    contentHtml: decorateExternalLinks(processed.toString()),
   }
+}
+
+/**
+ * Articles liés pour le maillage interne : même catégorie d'abord,
+ * complétés par la catégorie "sœur" (général <-> spécialisé) puis le reste.
+ */
+export function getRelatedArticles(slug: string, category: Category, count = 6): ArticleMeta[] {
+  const all = getAllArticles().filter((a) => a.slug !== slug)
+  const family = category.split('-')[0]
+  const sameCategory = all.filter((a) => a.category === category)
+  const sameFamily = all.filter((a) => a.category !== category && a.category.startsWith(family))
+  const others = all.filter((a) => !a.category.startsWith(family))
+
+  // Sélection déterministe mais variée d'un article à l'autre : fenêtre
+  // glissante dont le point de départ dépend du slug
+  const seed = slug.split('').reduce((acc, c) => acc + c.charCodeAt(0), 0)
+  const pick = (pool: ArticleMeta[], n: number) => {
+    if (pool.length === 0 || n <= 0) return []
+    const start = seed % pool.length
+    const result: ArticleMeta[] = []
+    for (let k = 0; k < Math.min(n, pool.length); k++) {
+      result.push(pool[(start + k) % pool.length])
+    }
+    return result
+  }
+
+  const related = pick(sameCategory, count)
+  if (related.length < count) related.push(...pick(sameFamily, count - related.length))
+  if (related.length < count) related.push(...pick(others, count - related.length))
+  return related
 }
 
 export function getAllSlugs(): string[] {

@@ -1,8 +1,8 @@
 ---
-title: "PPF : vieillissement normal vs signes qui posent problème — comment faire la différence"
+title: "PPF : vieillissement normal ou problème ?"
 description: "Qu'est-ce qui est normal après 3, 5 ou 7 ans de PPF ? Ce qu'on accepte, ce qui nécessite une intervention et les tests pour évaluer l'état de votre film."
 category: "ppf-general"
-date: "2026-06-14"
+date: "2026-03-21"
 ---
 
 ## Un PPF vieilli n'est pas forcément un PPF défaillant

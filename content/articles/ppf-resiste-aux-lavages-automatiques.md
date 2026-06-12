@@ -1,5 +1,5 @@
 ---
-title: "Le PPF résiste-t-il aux lavages automatiques ? Portiques, brosses et recommandations"
+title: "PPF et lavage automatique : brosses et portiques"
 description: "Peut-on passer au portique avec du PPF ? La réponse honnête selon le type de lavage, le délai après pose et ce qui décolle les bords prématurément."
 category: "ppf-general"
 date: "2026-03-15"

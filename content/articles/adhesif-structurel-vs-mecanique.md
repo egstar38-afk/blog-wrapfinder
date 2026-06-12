@@ -1,5 +1,5 @@
 ---
-title: "Adhésif structurel vs fixation mécanique : quand choisir quoi ?"
+title: "Adhésif structurel ou fixation mécanique : que choisir"
 description: "Faut-il coller ou visser ? L'adhésif structurel remplace souvent avantageusement les vis et rivets. Découvrez les avantages et limites de chaque solution."
 category: "adhesif-general"
 date: "2024-06-25"

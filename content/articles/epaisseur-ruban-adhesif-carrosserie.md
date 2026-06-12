@@ -1,5 +1,5 @@
 ---
-title: "Épaisseur du ruban adhésif en carrosserie : impact visuel, jeux et comment choisir"
+title: "Épaisseur ruban adhésif carrosserie : bien choisir"
 description: "0,8 mm ou 1,6 mm ? L'épaisseur du ruban double face change l'aspect d'une baguette et les jeux de carrosserie. Comment choisir la bonne épaisseur."
 category: "adhesif-general"
 date: "2024-10-18"
