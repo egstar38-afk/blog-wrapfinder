@@ -23,7 +23,7 @@ Pour tout le monde qui veut protéger sa peinture sans modifier son aspect. Sur 
 
 - Disparaît optiquement après quelques semaines de pose (légère turbidité initiale pendant la polymérisation de l'adhésif)
 - Renforce le brillant de la peinture d'origine
-- Auto-cicatrisant sur les micro-rayures du topcoat
+- [Auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche) sur les micro-rayures du topcoat
 
 ### Ce qu'il ne cache pas
 
@@ -87,7 +87,7 @@ Certains poseurs proposent des panneaux de démonstration sur lesquels vous pouv
 
 ## Produit recommandé
 
-Le **XPEL STEALTH** est le PPF satiné de référence du marché. Tenu 10 ans, auto-cicatrisant à chaud, aspect satiné parfaitement uniforme, compatible avec la protection céramique. Le choix des préparateurs premium.
+Le **[XPEL](/fiche-technique-xpel-ultimate-plus) STEALTH** est le PPF satiné de référence du marché. Tenu 10 ans, auto-cicatrisant à chaud, aspect satiné parfaitement uniforme, compatible avec la protection céramique. Le choix des préparateurs premium.
 
 [Voir le XPEL Stealth PPF satiné sur Amazon →](https://www.amazon.fr/s?k=xpel+stealth+ppf+satiné+film+protection&tag=wrapfinder-21)
 

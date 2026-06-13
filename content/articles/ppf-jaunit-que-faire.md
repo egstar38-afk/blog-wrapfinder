@@ -15,7 +15,7 @@ Sur un véhicule blanc ou argent, le jaunissement se voit immédiatement sous lu
 
 ### Qualité du film insuffisante
 
-La cause principale. Les PPF de qualité premium (XPEL, SunTek, Avery Dennison, 3M Pro) contiennent des packages de stabilisants UV à longue durée qui empêchent la dégradation du polyuréthane pendant 7 à 10 ans en conditions normales.
+La cause principale. Les PPF de qualité premium ([XPEL](/fiche-technique-xpel-ultimate-plus), SunTek, Avery Dennison, 3M Pro) contiennent des packages de stabilisants UV à longue durée qui empêchent la dégradation du polyuréthane pendant 7 à 10 ans en conditions normales.
 
 Les films d'entrée de gamme — souvent sans marque identifiable, vendus en grande quantité sur les marketplaces à des prix très bas — contiennent des stabilisants insuffisants. Certains jaunissent en 18 à 36 mois.
 
@@ -49,7 +49,7 @@ Si le jaunissement est généralisé (tous les panneaux couverts sont jaunis), l
 
 ## La garantie fabricant : comment l'activer
 
-Les films premium proposent une garantie contre le jaunissement. XPEL garantit 10 ans, SunTek 5 à 10 ans selon la gamme, Avery 5 ans.
+Les films premium proposent une garantie contre le jaunissement. XPEL garantit 10 ans, [SunTek](/fiche-technique-suntek-ultra) 5 à 10 ans selon la gamme, Avery 5 ans.
 
 Pour activer la garantie :
 1. Contactez le poseur d'origine — la garantie est généralement liée au poseur certifié qui l'a installé
@@ -73,7 +73,7 @@ Sans citer de marques spécifiques obscures, les films qui jaunissent prématur�
 - Pas de numéro de lot traçable
 - Garantie absente ou formulation très vague
 
-Les films de marques reconnues (XPEL, SunTek, Hexis Bodyfence, Avery, 3M, Llumar, STEK) ne sont pas à l'abri du jaunissement (exposition extrême, contamination) mais bénéficient d'une garantie actionnable.
+Les films de marques reconnues (XPEL, SunTek, [Hexis Bodyfence](/fiche-technique-hexis-bodyfence), Avery, 3M, Llumar, STEK) ne sont pas à l'abri du jaunissement (exposition extrême, contamination) mais bénéficient d'une garantie actionnable.
 
 ## Tableau : films premium et garanties jaunissement
 

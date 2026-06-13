@@ -7,7 +7,7 @@ date: "2026-04-16"
 
 ## Les deux références du marché PPF premium
 
-XPEL et SunTek sont les deux marques qui reviennent le plus souvent dans les comparatifs PPF professionnels. Toutes deux sont américaines, toutes deux proposent des films auto-cicatrisants de haute qualité, toutes deux ont un réseau d'installateurs certifiés en France.
+[XPEL](/fiche-technique-xpel-ultimate-plus) et SunTek sont les deux marques qui reviennent le plus souvent dans les comparatifs PPF professionnels. Toutes deux sont américaines, toutes deux proposent des films auto-cicatrisants de haute qualité, toutes deux ont un réseau d'installateurs certifiés en France.
 
 Mais elles ne sont pas identiques et le choix entre l'une et l'autre dépend de vos priorités.
 
@@ -25,7 +25,7 @@ Mais elles ne sont pas identiques et le choix entre l'une et l'autre dépend de 
 
 ## L'épaisseur : 200 µm vs 180 µm
 
-XPEL est légèrement plus épais (200 µm vs 180 µm pour SunTek). Cette différence de 20 µm se traduit par une résistance aux impacts légèrement supérieure sur XPEL — dans les tests d'impact gravillon, XPEL résiste à des énergies d'impact un peu plus élevées.
+XPEL est légèrement plus épais (200 µm vs 180 µm pour [SunTek](/fiche-technique-suntek-ultra)). Cette différence de 20 µm se traduit par une résistance aux impacts légèrement supérieure sur XPEL — dans les tests d'impact gravillon, XPEL résiste à des énergies d'impact un peu plus élevées.
 
 Dans la pratique quotidienne (voiture de route standard, pas de rallye), la différence est marginale. Elle devient plus significative pour les véhicules utilisés fréquemment sur autoroute à haute vitesse ou dans les régions à chaussée de mauvaise qualité.
 

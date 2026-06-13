@@ -63,7 +63,7 @@ L'Oracal 970RA est la seule marque à proposer certaines teintes qui n'existent 
 | Metallic Gloss | 5 – 7 ans |
 | Neon / Spéciaux | 3 – 5 ans |
 
-Ces durées sont légèrement inférieures à celles de 3M 2080 et Avery SWF — le 970RA est un film de très bonne qualité mais sa durée de vie est réaliste à 5-7 ans en utilisation intensive.
+Ces durées sont légèrement inférieures à celles de [3M 2080](/fiche-technique-3m-2080) et Avery SWF — le 970RA est un film de très bonne qualité mais sa durée de vie est réaliste à 5-7 ans en utilisation intensive.
 
 ## Prix indicatifs
 

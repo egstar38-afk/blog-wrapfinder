@@ -58,7 +58,7 @@ L'Ultimate Plus est disponible en :
 - **Matte** (stealth) — finition mate sur carrosserie brillante
 - **Satin** — entre les deux
 
-La gamme s'est étendue avec des versions **XPEL Stealth** (spécifiquement pour donner un aspect "peinture mate" à une voiture brillante) et **XPEL Color PPF** (PPF teinté dans la masse).
+La gamme s'est étendue avec des versions **XPEL Stealth** (spécifiquement pour donner un aspect "[peinture mate](/ppf-sur-peinture-mate)" à une voiture brillante) et **XPEL Color PPF** (PPF teinté dans la masse).
 
 ## Réseau en France
 

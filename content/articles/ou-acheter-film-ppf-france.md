@@ -15,19 +15,19 @@ La raison est simple : les marques de PPF sérieuses vendent principalement via 
 
 ### Marques premium
 
-**XPEL** (americain, leader mondial) : se vend via le réseau d'installateurs XPEL certifiés. Vous ne l'achetez pas directement — vous payez un installateur qui inclut le film dans sa prestation. Prix d'installation : 500 à 3 000 € selon les zones traitées.
+**[XPEL](/fiche-technique-xpel-ultimate-plus)** (americain, leader mondial) : se vend via le réseau d'installateurs XPEL certifiés. Vous ne l'achetez pas directement — vous payez un installateur qui inclut le film dans sa prestation. Prix d'installation : 500 à 3 000 € selon les zones traitées.
 
 **Avery Dennison Supreme Protection Film** : distribution professionnelle via Avery France. Accessible aux ateliers ayant un compte distributeur. Pas de vente directe grand public.
 
 **3M Pro Series** : même circuit. Distribution via les distributeurs 3M agréés, principalement aux professionnels.
 
-**SunTek** : distribution plus ouverte, accessible via certains distributeurs en ligne. Qualité très correcte pour un prix légèrement inférieur aux leaders.
+**[SunTek](/fiche-technique-suntek-ultra)** : distribution plus ouverte, accessible via certains distributeurs en ligne. Qualité très correcte pour un prix légèrement inférieur aux leaders.
 
 ### Marques intermédiaires accessibles
 
 **Grafityp FilmAddict, Hexis HX, Oracal 160** : ces films de protection (souvent appelés PPF "entrée de gamme" même s'ils restent des produits techniques) sont disponibles chez des distributeurs spécialisés en ligne à des prix plus accessibles.
 
-À distinguer du PPF auto-cicatrisant premium : ces films sont souvent polyuréthane sans couche auto-cicatrisante, mais offrent une protection physique correcte pour les usages courants.
+À distinguer du PPF [auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche) premium : ces films sont souvent polyuréthane sans couche auto-cicatrisante, mais offrent une protection physique correcte pour les usages courants.
 
 ## Les distributeurs en France
 

@@ -14,7 +14,7 @@ Il n'existe pas de CAP ou de BTS "Poseur PPF et Covering" en France. C'est un m�
 
 ### La formation fabricant
 
-Les grandes marques de film (3M, Avery Dennison, XPEL, Hexis) proposent des formations de 3 à 5 jours pour la pose de leurs produits. Ces formations couvrent les techniques de base, les produits spécifiques, et la certification si la formation est complète.
+Les grandes marques de film (3M, Avery Dennison, [XPEL](/fiche-technique-xpel-ultimate-plus), Hexis) proposent des formations de 3 à 5 jours pour la pose de leurs produits. Ces formations couvrent les techniques de base, les produits spécifiques, et la certification si la formation est complète.
 
 **Coût** : 500 à 2 000 € pour 3 à 5 jours.
 

@@ -66,7 +66,7 @@ Sur les cadres de toit panoramique en aluminium anodisé : vérifiez l'adhérenc
 
 ## Produit recommandé
 
-Le **XPEL Ultimate Plus en laize 1,52 m** permet de couvrir la grande majorité des toits de SUV en un seul lé sans raccord, sur toute la largeur. La laize large est particulièrement utile pour éviter un raccord central visible.
+Le **[XPEL](/fiche-technique-xpel-ultimate-plus) Ultimate Plus en laize 1,52 m** permet de couvrir la grande majorité des toits de SUV en un seul lé sans raccord, sur toute la largeur. La laize large est particulièrement utile pour éviter un raccord central visible.
 
 [Voir le XPEL Ultimate Plus large sur Amazon →](https://www.amazon.fr/s?k=xpel+ultimate+plus+ppf+152cm+toit+protection+large&tag=wrapfinder-21)
 

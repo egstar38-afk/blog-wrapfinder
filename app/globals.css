@@ -60,6 +60,9 @@ body {
 .prose img {
   width: 100%;
   height: auto;
+  /* ratio réservé pour éviter le saut de mise en page (CLS) au chargement */
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
   border-radius: 10px;
   margin: 1.5rem 0;
   border: 1px solid #2a2a2a;

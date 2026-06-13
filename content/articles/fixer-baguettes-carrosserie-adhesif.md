@@ -7,7 +7,7 @@ date: "2024-04-14"
 
 ## Le scénario classique : la baguette qui se décolle
 
-C'est l'un des travaux les plus courants en atelier : une baguette latérale de protection, un enjoliveur de pas de porte, ou un spoiler de bas de caisse qui se soulève d'un côté. La cause habituelle : l'adhésif d'origine (souvent un double face fin d'usine) a vieilli, la surface a été mal préparée lors d'une carrosserie, ou la baguette a pris un choc qui a décollé partiellement la colle.
+C'est l'un des travaux les plus courants en atelier : une baguette latérale de protection, un enjoliveur de pas de porte, ou un spoiler de [bas de caisse](/ppf-bas-de-caisse-complet) qui se soulève d'un côté. La cause habituelle : l'adhésif d'origine (souvent un double face fin d'usine) a vieilli, la surface a été mal préparée lors d'une carrosserie, ou la baguette a pris un choc qui a décollé partiellement la colle.
 
 Le défi : recoller ça proprement, que ça tienne dans le temps (exposition aux UV, eau, cycles de température), et que ça ne laisse pas de traces si la baguette doit être retirée un jour.
 

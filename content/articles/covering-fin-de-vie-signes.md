@@ -7,7 +7,7 @@ date: "2026-04-14"
 
 ## La durée de vie d'un covering : les chiffres réels
 
-Un film vinyle casting de qualité (3M 2080, Avery SWF, Oracal 970RA) a une durée de vie annoncée de 7 à 10 ans. Un film calandré d'entrée de gamme : 3 à 5 ans. Ces chiffres supposent des conditions d'utilisation normales en Europe (pas de soleil tropical permanent).
+Un film vinyle casting de qualité ([3M 2080](/fiche-technique-3m-2080), Avery SWF, Oracal 970RA) a une durée de vie annoncée de 7 à 10 ans. Un film calandré d'entrée de gamme : 3 à 5 ans. Ces chiffres supposent des conditions d'utilisation normales en Europe (pas de soleil tropical permanent).
 
 En pratique, la durée de vie varie selon :
 - L'exposition aux UV (véhicule garé en extérieur vs garage)

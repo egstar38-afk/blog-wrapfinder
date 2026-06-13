@@ -75,7 +75,7 @@ Commandez toujours avec 40 à 50 % de marge.
 
 ## Erreur n°8 : Chauffer trop longtemps au même endroit
 
-La chaleur ramollit le film et l'aide à suivre les courbes — mais trop de chaleur au même endroit crée une zone sur-étirée qui sera plus fine et plus fragile. Sur un PPF, les zones sur-chauffées peuvent faire disparaître localement l'effet auto-cicatrisant.
+La chaleur ramollit le film et l'aide à suivre les courbes — mais trop de chaleur au même endroit crée une zone sur-étirée qui sera plus fine et plus fragile. Sur un PPF, les zones sur-chauffées peuvent faire disparaître localement l'effet [auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche).
 
 **Règle** : pistolée à air chaud en mouvement constant, jamais fixe. Maximum 3 secondes sur la même zone avant de déplacer le pistolet.
 

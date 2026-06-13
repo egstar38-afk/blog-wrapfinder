@@ -57,7 +57,7 @@ Le PC supporte les solvants acryliques et certains époxies — vérifiez la com
 
 ## Le polyuréthane : flexibilité et tenue à l'effort
 
-Les enjoliveurs de carrosserie, les protections de seuil flexibles et certaines jupes de bas de caisse sont en PU (polyuréthane). La caractéristique du PU : c'est un matériau semi-flexible qui encaisse des déformations que l'ABS rigide ne peut pas faire.
+Les enjoliveurs de carrosserie, les protections de seuil flexibles et certaines jupes de [bas de caisse](/ppf-bas-de-caisse-complet) sont en PU (polyuréthane). La caractéristique du PU : c'est un matériau semi-flexible qui encaisse des déformations que l'ABS rigide ne peut pas faire.
 
 Pour coller du PU sur PU ou sur d'autres matières : l'adhésif polyuréthane bi-composant est le bon produit. Les familles Sikaflex (260, 268...) ou Lord Fusor sont des références dans ce domaine.
 

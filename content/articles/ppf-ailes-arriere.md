@@ -9,7 +9,7 @@ date: "2024-12-08"
 
 Si je montre à un client les statistiques d'impacts sur son véhicule après 3 ans, les ailes arrière sont souvent aussi chargées que les ailes avant — parfois plus. Pourtant, beaucoup de propriétaires ne pensent à protéger que l'avant.
 
-La raison est simple : les ailes arrière ne voient pas les projections venir. Sur l'avant, vous avez le capot, les ailes, le pare-chocs qui prennent tous les impacts dans votre direction de marche. À l'arrière, les roues éjectent de la matière vers l'arrière et les côtés — directement sur les ailes et bas de caisse arrière — sans que vous le voyiez se produire.
+La raison est simple : les ailes arrière ne voient pas les projections venir. Sur l'avant, vous avez le capot, les ailes, le pare-chocs qui prennent tous les impacts dans votre direction de marche. À l'arrière, les roues éjectent de la matière vers l'arrière et les côtés — directement sur les ailes et [bas de caisse](/ppf-bas-de-caisse-complet) arrière — sans que vous le voyiez se produire.
 
 Après l'autoroute, regardez vos ailes arrière sous la lumière rasante : les micro-impacts sont souvent nombreux.
 
@@ -65,7 +65,7 @@ Pour les ailes arrière sans gabarit disponible :
 
 ## Produit recommandé
 
-Le **Llumar Platinum en laize 61 cm** couvre les ailes arrière des berlines compactes en une pièce sur la hauteur, sans raccord au milieu. Largeur idéale pour minimiser les chutes sur cette zone.
+Le **[Llumar](/fiche-technique-llumar-ppf) Platinum en laize 61 cm** couvre les ailes arrière des berlines compactes en une pièce sur la hauteur, sans raccord au milieu. Largeur idéale pour minimiser les chutes sur cette zone.
 
 [Voir les rouleaux PPF Llumar 61 cm sur Amazon →](https://www.amazon.fr/s?k=llumar+platinum+ppf+rouleau+61cm+protection+aile&tag=wrapfinder-21)
 

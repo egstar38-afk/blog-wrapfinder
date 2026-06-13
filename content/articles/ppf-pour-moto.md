@@ -20,7 +20,7 @@ La bonne nouvelle : la pose PPF sur réservoir, c'est techniquement accessible m
 
 ### Les gabarits pré-découpés
 
-XPEL, Avery Dennison et SunTek proposent des gabarits pour la plupart des modèles courants (BMW GS, Honda Africa Twin, Kawasaki Z900, Yamaha MT-09, Ducati Monster…). Ces gabarits couvrent les flancs et parfois le dessus du réservoir en pièce unique.
+[XPEL](/fiche-technique-xpel-ultimate-plus), Avery Dennison et SunTek proposent des gabarits pour la plupart des modèles courants (BMW GS, Honda Africa Twin, Kawasaki Z900, Yamaha MT-09, Ducati Monster…). Ces gabarits couvrent les flancs et parfois le dessus du réservoir en pièce unique.
 
 Avec un gabarit adapté, la pose prend 45 minutes à 2 heures selon l'expérience. Sans gabarit, prévoyez 3 à 4 heures de découpe et d'ajustement.
 
@@ -30,7 +30,7 @@ Voici l'erreur classique que je vois régulièrement : quelqu'un pose un PPF sur
 
 La cause : les carénages sont quasi-systématiquement en polypropylène (PP). Le PP est un plastique à très faible énergie de surface — aucun adhésif, PPF ou autre, n'y accroche durablement sans préparation chimique.
 
-**La solution obligatoire : le primer PP.**
+**La solution obligatoire : le [primer PP](/primer-pp-mode-emploi-complet).**
 
 Avant de poser le film sur un carénage PP, appliquez un primer PP (3M Primer 94, Kontaktchemie Plastik-Primer) sur la zone propre. Laissez flasher 2 à 5 minutes, posez dans les 30 minutes. C'est la différence entre un PPF qui tient 5 ans et un PPF qui se décolle en un mois.
 

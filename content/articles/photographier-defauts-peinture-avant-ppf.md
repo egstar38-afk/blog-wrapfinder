@@ -33,7 +33,7 @@ La qualité de la documentation dépend à 80 % de la lumière. Par lumière dou
 
 **Vue générale** : commencez par 4 photos globales du véhicule (face, arrière, côté gauche, côté droit) dans un contexte reconnaissable.
 
-**Par panneau** : photographiez chaque panneau individuellement — capot, ailes gauche/droite, portières, bas de caisse, pare-chocs avant/arrière, toit, coffre.
+**Par panneau** : photographiez chaque panneau individuellement — capot, ailes gauche/droite, portières, [bas de caisse](/ppf-bas-de-caisse-complet), pare-chocs avant/arrière, toit, coffre.
 
 **Zoom sur les défauts** : pour chaque défaut identifié (éclat, rayure, retouche visible), une photo de contexte (où est le défaut sur le panneau) et une photo macro (le défaut en gros plan).
 

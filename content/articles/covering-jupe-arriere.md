@@ -15,7 +15,7 @@ Sur les SUV et crossovers, cette jupe est souvent en plastique PP non peint, tex
 
 ## Film épais ou film standard sur jupe arrière
 
-Comme pour les bas de caisse, la jupe arrière justifie un film plus épais que la moyenne.
+Comme pour les [bas de caisse](/ppf-bas-de-caisse-complet), la jupe arrière justifie un film plus épais que la moyenne.
 
 La différence avec le covering "normal" : sur un capot ou une portière, vous utilisez un film casting 80–120 µm pour l'aspect et la protection UV. Sur une jupe arrière, la protection physique compte plus — ici, 120 à 150 µm est un minimum, et 200 µm si votre client fait souvent de la ville avec des dos-d'âne et des trottoirs agressifs.
 

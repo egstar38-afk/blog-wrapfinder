@@ -59,7 +59,7 @@ Poser un PPF sur un défaut de peinture existant ne le cache pas — la transpar
 
 ## Produit recommandé
 
-Le **XPEL Ultimate Plus** est le choix de référence pour les voitures neuves de prestige — garanti 10 ans par le fabricant, auto-cicatrisant, clarity maximale (0 % de teinte). Posé par des installateurs certifiés XPEL.
+Le **[XPEL](/fiche-technique-xpel-ultimate-plus) Ultimate Plus** est le choix de référence pour les voitures neuves de prestige — garanti 10 ans par le fabricant, auto-cicatrisant, clarity maximale (0 % de teinte). Posé par des installateurs certifiés XPEL.
 
 [Voir le XPEL Ultimate Plus sur Amazon →](https://www.amazon.fr/s?k=xpel+ultimate+plus+ppf+film+protection+neuf&tag=wrapfinder-21)
 

@@ -21,7 +21,7 @@ Ces zones sont aussi techniquement accessibles pour un débutant : surfaces rela
 
 ### Les baguettes de caisse et bas de caisse
 
-Les baguettes chromées sur les flancs ou les bas de caisse sont souvent des pièces rapportées. Deux options : couvrir la baguette en place (plus simple) ou la déposer pour un résultat plus propre.
+Les baguettes chromées sur les flancs ou les [bas de caisse](/ppf-bas-de-caisse-complet) sont souvent des pièces rapportées. Deux options : couvrir la baguette en place (plus simple) ou la déposer pour un résultat plus propre.
 
 La dépose est presque toujours recommandée car elle permet de rentrer les bords derrière la baguette — le résultat est parfaitement propre et sans arête visible.
 

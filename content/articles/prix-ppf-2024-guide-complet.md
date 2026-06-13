@@ -45,7 +45,7 @@ PPF sur toute la carrosserie extérieure — capot, toit, coffre, ailes, portiè
 
 ### Le film choisi
 
-Il y a 30 à 100 % d'écart entre un PPF entrée de gamme et un film XPEL Ultimate Plus ou 3M Pro Series. Le film représente 40 à 60 % du coût total.
+Il y a 30 à 100 % d'écart entre un PPF entrée de gamme et un film [XPEL](/fiche-technique-xpel-ultimate-plus) Ultimate Plus ou 3M Pro Series. Le film représente 40 à 60 % du coût total.
 
 ### Le découpage : prédécoupé vs main
 
@@ -84,7 +84,7 @@ Un devis sans référence de film précise est à questionner systématiquement.
 
 ## Produit recommandé
 
-Si vous cherchez à protéger vous-même une zone spécifique, le **film PPF Hexis BODYFENCE en 30 cm × 3 m** est disponible en ligne à un prix raisonnable pour des petites surfaces (poignées, rétros, bord de capot).
+Si vous cherchez à protéger vous-même une zone spécifique, le **film PPF [Hexis BODYFENCE](/fiche-technique-hexis-bodyfence) en 30 cm × 3 m** est disponible en ligne à un prix raisonnable pour des petites surfaces (poignées, rétros, bord de capot).
 
 [Voir le film PPF Hexis Bodyfence sur Amazon →](https://www.amazon.fr/s?k=hexis+bodyfence+film+ppf+protection+carrosserie+transparent&tag=wrapfinder-21)
 

@@ -9,7 +9,7 @@ date: "2024-09-08"
 
 Le primer d'adhérence — ou promoteur d'adhérence — est probablement l'outil le plus sous-utilisé par les débutants en covering, PPF et adhésifs. C'est aussi la cause numéro un des décollements prématurés sur les plastiques.
 
-Voici la situation classique : vous posez un film PPF sur un bas de caisse en polypropylène. Le film accroche bien immédiatement. Trois semaines plus tard, les bords remontent. Vous nettoyez, vous re-collez. Ça tient encore deux semaines. Le problème n'est pas le film — c'est le matériau.
+Voici la situation classique : vous posez un film PPF sur un [bas de caisse](/ppf-bas-de-caisse-complet) en polypropylène. Le film accroche bien immédiatement. Trois semaines plus tard, les bords remontent. Vous nettoyez, vous re-collez. Ça tient encore deux semaines. Le problème n'est pas le film — c'est le matériau.
 
 Le polypropylène a une énergie de surface trop faible pour que la plupart des adhésifs accrochent durablement sans préparation chimique. C'est là qu'intervient le primer.
 
@@ -17,7 +17,7 @@ Le polypropylène a une énergie de surface trop faible pour que la plupart des 
 
 ### Polypropylène (PP) et polyéthylène (PE) non traités
 
-Règle simple : si la pièce est marquée **PP, PP+EPDM, PP+GF, PE ou HDPE** sur sa face arrière — vous avez besoin d'un primer PP.
+Règle simple : si la pièce est marquée **PP, PP+EPDM, PP+GF, PE ou HDPE** sur sa face arrière — vous avez besoin d'un [primer PP](/primer-pp-mode-emploi-complet).
 
 Ces plastiques sont omniprésents en carrosserie (pare-chocs, bas de caisse, passages de roue, marchepieds) et en habitacle (panneaux de porte, coffre, éléments de tableau de bord bas de gamme). Sans primer, n'importe quel adhésif ou film s'en ira entre 2 semaines et 6 mois.
 
@@ -53,7 +53,7 @@ S'applique en couche ultra-fine avec un applicateur feutre, laisse sécher 10 mi
 
 Présent dans de nombreux kits de pose, c'est un produit intermédiaire entre l'IPA et le primer PP. Il améliore l'adhérence sur l'ABS, le PC et les peintures issues de retouche (laque en bombe, laques monocomposant) sans modifier la surface aussi radicalement qu'un primer PP.
 
-Certains fabricants de PPF (XPEL, SunTek) fournissent leur propre activateur formulé pour leur adhésif.
+Certains fabricants de PPF ([XPEL](/fiche-technique-xpel-ultimate-plus), SunTek) fournissent leur propre activateur formulé pour leur adhésif.
 
 ## Comment appliquer le primer correctement
 

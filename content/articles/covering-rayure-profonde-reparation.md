@@ -7,7 +7,7 @@ date: "2026-04-04"
 
 ## La vérité sur les rayures de covering
 
-Contrairement au PPF, le vinyle de covering n'est pas auto-cicatrisant. Une rayure profonde dans un covering reste visible — elle ne se referme pas à la chaleur, elle ne disparaît pas avec du polish.
+Contrairement au PPF, le vinyle de covering n'est pas [auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche). Une rayure profonde dans un covering reste visible — elle ne se referme pas à la chaleur, elle ne disparaît pas avec du polish.
 
 Il existe des cas où une rayure peut être "atténuée" : sur les films très brillants, un peu de polish peut effacer des micro-rayures superficielles dans le topcoat. Mais une rayure qui traverse la couche de couleur du film ? Irréparable. Le seul recours est le remplacement du panneau concerné.
 
@@ -15,7 +15,7 @@ Il existe des cas où une rayure peut être "atténuée" : sur les films très b
 
 ### Rayure superficielle (topcoat uniquement)
 
-La rayure n'affecte que la surface du film. Sur les films avec topcoat (Avery SWF, 3M 2080), ces rayures se présentent comme des griffures blanches sur fond coloré, mais ne modifient pas la couleur du film lui-même.
+La rayure n'affecte que la surface du film. Sur les films avec topcoat (Avery SWF, [3M 2080](/fiche-technique-3m-2080)), ces rayures se présentent comme des griffures blanches sur fond coloré, mais ne modifient pas la couleur du film lui-même.
 
 Parfois traitables avec un polish très doux (DA polisher, pad mousse, compound léger). Si la rayure reste visible après polish : trop profonde.
 

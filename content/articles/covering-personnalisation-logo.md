@@ -23,7 +23,7 @@ Vous obtenez une forme en vinyle unie, d'une seule couleur, à coller sur la car
 - Logos simples en une seule couleur
 - Lettres et textes (noms de pilotes, sponsors, numéros de course)
 - Formes géométriques (bandes, éclairs, chevrons)
-- Chrome delete découpé précisément
+- [Chrome delete](/covering-chrome-delete) découpé précisément
 
 ### Le fichier vectoriel
 

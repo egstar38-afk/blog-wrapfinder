@@ -50,7 +50,7 @@ La grande majorité des PPF professionnels sont dans la plage 140 à 160 µm. C'
 - Durabilité 7-10 ans si film premium
 - Pose plus facile qu'un film de 200 µm (plus souple)
 
-**Marques représentatives** : SunTek Ultra (180 µm), Hexis Bodyfence (150 µm), Llumar PPF.
+**Marques représentatives** : [SunTek](/fiche-technique-suntek-ultra) Ultra (180 µm), Hexis Bodyfence (150 µm), Llumar PPF.
 
 ## Les films "200 µm" : la protection maximale
 
@@ -67,7 +67,7 @@ Les films de 200 µm et plus représentent le haut de gamme de la protection. L'
 - Pose plus difficile sur les courbes prononcées
 - Prix 15-25 % supérieur au 150 µm
 
-**Marques représentatives** : XPEL Ultimate Plus (200 µm), certaines gammes 3M Pro Series.
+**Marques représentatives** : [XPEL](/fiche-technique-xpel-ultimate-plus) Ultimate Plus (200 µm), certaines gammes 3M Pro Series.
 
 ## Quel choisir selon l'usage ?
 

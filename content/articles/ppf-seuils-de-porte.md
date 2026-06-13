@@ -17,7 +17,7 @@ Et pourtant, protéger les seuils est l'une des poses PPF les plus simples et le
 
 Les seuils subissent des griffures qui ne sont pas des impacts ponctuels de gravillons mais des éraflures linéaires — le bout d'une semelle, la fermeture Éclair d'un sac, la vis d'un équipement déchargé du coffre.
 
-Ces éraflures créent des rayures longues et relativement profondes (20 à 50 µm). Un PPF standard de 150 µm les absorbe correctement — mais un film de 200 µm (comme le SunTek Ultra) donne une marge supplémentaire appréciable sur cette zone très sollicitée.
+Ces éraflures créent des rayures longues et relativement profondes (20 à 50 µm). Un PPF standard de 150 µm les absorbe correctement — mais un film de 200 µm (comme le [SunTek](/fiche-technique-suntek-ultra) Ultra) donne une marge supplémentaire appréciable sur cette zone très sollicitée.
 
 L'épaisseur sur les seuils compte plus que partout ailleurs. Ne faites pas d'économie ici.
 
@@ -61,7 +61,7 @@ Commencez par le seuil côté passager arrière — la moins visible des quatre 
 
 ## Ce qui ressemble à un seuil mais n'en est pas un
 
-Attention à ne pas confondre le seuil de porte (la pièce plastique dans l'embrasure, horizontale) avec les bas de caisse (les parties verticales sous les portières). Les deux méritent une protection, mais les techniques diffèrent.
+Attention à ne pas confondre le seuil de porte (la pièce plastique dans l'embrasure, horizontale) avec les [bas de caisse](/ppf-bas-de-caisse-complet) (les parties verticales sous les portières). Les deux méritent une protection, mais les techniques diffèrent.
 
 ## Tableau de comparaison film standard vs épais sur seuil
 

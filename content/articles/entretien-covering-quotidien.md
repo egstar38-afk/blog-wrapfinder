@@ -37,7 +37,7 @@ C'est non. Les rouleaux abrasifs d'un portique de lavage auto vont marquer le fi
 
 - Shampoings pH neutres (pH 6–8)
 - Sprays de finition à base d'eau (type "detailer spray" sans alcool)
-- Produits de protection céramique formulés pour vinyle (Gyeon Q²M Cure, CarPro Cer pour vinyle)
+- Produits de [protection céramique](/ppf-vs-protection-ceramique) formulés pour vinyle (Gyeon Q²M Cure, CarPro Cer pour vinyle)
 
 ### Compatibles avec les films brillants uniquement
 

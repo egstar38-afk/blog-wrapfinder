@@ -20,7 +20,7 @@ C'est le premier arbitrage à faire sur tout projet de covering commercial.
 
 Le film calendré (type Oracal 751, Avery MPI 1105) est plus épais (80–120 µm), moins souple, et moins stable dimensionnellement sur le long terme — il a tendance à rétrécir légèrement avec les cycles de chaleur/froid.
 
-Mais il coûte moitié moins cher qu'un film cast, et sur des surfaces planes (flancs de camion, portes arrière), il donne un résultat tout à fait acceptable pour 3 à 5 ans.
+Mais il coûte moitié moins cher qu'un [film cast](/film-cast-vs-calandre-difference), et sur des surfaces planes (flancs de camion, portes arrière), il donne un résultat tout à fait acceptable pour 3 à 5 ans.
 
 **Quand choisir le calendré :**
 - Surfaces planes sans courbes importantes

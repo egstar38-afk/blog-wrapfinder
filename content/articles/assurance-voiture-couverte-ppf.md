@@ -64,7 +64,7 @@ Sur les véhicules à forte valeur résiduelle, un PPF correctement documenté (
 
 ## Produit recommandé
 
-Si vous voulez protéger votre véhicule sans changer son aspect (et donc sans enjeu assurantiel), le **film PPF transparent Hexis Bodyfence** est la solution : protection physique réelle, totalement invisible, aucune déclaration requise dans la quasi-totalité des cas.
+Si vous voulez protéger votre véhicule sans changer son aspect (et donc sans enjeu assurantiel), le **film PPF transparent [Hexis Bodyfence](/fiche-technique-hexis-bodyfence)** est la solution : protection physique réelle, totalement invisible, aucune déclaration requise dans la quasi-totalité des cas.
 
 [Voir le Hexis Bodyfence PPF transparent sur Amazon →](https://www.amazon.fr/s?k=hexis+bodyfence+ppf+transparent+film+protection+carrosserie&tag=wrapfinder-21)
 

@@ -15,7 +15,7 @@ Voici comment distinguer les uns des autres.
 
 ### Les certifications fabricant
 
-Les certifications XPEL, SunTek, Avery, 3M ou Hexis signifient que le poseur a suivi une formation officielle, travaille avec les produits du fabricant et a accès aux gabarits logiciels officiels (DAP, Papilio).
+Les certifications [XPEL](/fiche-technique-xpel-ultimate-plus), SunTek, Avery, 3M ou Hexis signifient que le poseur a suivi une formation officielle, travaille avec les produits du fabricant et a accès aux gabarits logiciels officiels (DAP, Papilio).
 
 Ces certifications ne garantissent pas que le poseur est excellent — mais elles garantissent qu'il a les outils appropriés et que sa pose est couverte par la garantie fabricant. Un poseur non certifié qui utilise le même film n'active pas la garantie fabricant.
 
@@ -45,7 +45,7 @@ N'importe qui peut faire une belle photo en lumière douce. Les pros montrent de
 
 ## Les questions à poser avant de signer
 
-1. **"Quelle marque de film utilisez-vous et pour quelle gamme ?"** — Un poseur sérieux répond précisément (XPEL Ultimate Plus, SunTek Ultra, etc.), pas vaguement.
+1. **"Quelle marque de film utilisez-vous et pour quelle gamme ?"** — Un poseur sérieux répond précisément (XPEL Ultimate Plus, [SunTek](/fiche-technique-suntek-ultra) Ultra, etc.), pas vaguement.
 
 2. **"Êtes-vous certifié par ce fabricant et puis-je le vérifier sur votre site ?"** — Réponse directe attendue.
 

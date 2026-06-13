@@ -37,10 +37,10 @@ Un film de mauvaise qualité jaunit avec le temps, notamment sous un fort ensole
 
 Les marques les plus reconnues dans le secteur sont :
 
-- **XPEL** — pioneer américain, excellente réputation
-- **SunTek** — bon rapport qualité/prix
+- **[XPEL](/fiche-technique-xpel-ultimate-plus)** — pioneer américain, excellente réputation
+- **[SunTek](/fiche-technique-suntek-ultra)** — bon rapport qualité/prix
 - **3M Pro Series** — robustesse et disponibilité
-- **Llumar** — solide en entrée de gamme
+- **[Llumar](/fiche-technique-llumar-ppf)** — solide en entrée de gamme
 
 ### 6. La garantie
 

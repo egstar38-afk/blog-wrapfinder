@@ -29,7 +29,7 @@ Ce n'est pas automatique — il faut que l'acheteur comprenne ce qu'est le PPF e
 ### La documentation : ce qui convainc vraiment
 
 Un PPF sans documentation ne vaut pas grand-chose à la revente. Un PPF avec :
-- La facture de l'installateur certifié (XPEL, SunTek, Avery...)
+- La facture de l'installateur certifié ([XPEL](/fiche-technique-xpel-ultimate-plus), SunTek, Avery...)
 - Le certificat de garantie fabricant (5 à 10 ans)
 - Des photos "avant/après" de la pose
 - Les zones traitées clairement listées

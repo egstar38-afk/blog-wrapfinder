@@ -33,15 +33,15 @@ L'industrie automobile découvre le PPF via deux canaux :
 
 ## 2000-2010 : XPEL et la révolution des gabarits numériques
 
-Le tournant décisif vient en 1997, quand **XPEL Technologies** (Texas, USA) est fondée. Leur insight : le marché PPF est limité par l'absence de gabarits précis par modèle de véhicule. Couper le film manuellement est long, imprécis et réservé aux pros très expérimentés.
+Le tournant décisif vient en 1997, quand **[XPEL](/fiche-technique-xpel-ultimate-plus) Technologies** (Texas, USA) est fondée. Leur insight : le marché PPF est limité par l'absence de gabarits précis par modèle de véhicule. Couper le film manuellement est long, imprécis et réservé aux pros très expérimentés.
 
 XPEL développe le **Design Access Program (DAP)** — une base de données de gabarits de découpe numérique par véhicule, panneau par panneau. Un plotter de découpe découpe le film avec précision, et le poseur n'a plus qu'à appliquer. Le temps de pose est réduit de 60 à 70 %. La précision est incomparable.
 
-En parallèle, **SunTek** (Eastman Chemical), **Clear Bra** et d'autres acteurs développent leurs propres bases de gabarits. La compétition intensifie l'innovation.
+En parallèle, **[SunTek](/fiche-technique-suntek-ultra)** (Eastman Chemical), **Clear Bra** et d'autres acteurs développent leurs propres bases de gabarits. La compétition intensifie l'innovation.
 
 ## 2010-2020 : l'auto-cicatrisation change tout
 
-La deuxième révolution arrive avec le **topcoat auto-cicatrisant**. XPEL lance en 2011 l'Ultimate (ancêtre de l'Ultimate Plus actuel) avec un topcoat polyuréthane élastomérique capable de cicatriser ses propres micro-rayures sous l'effet de la chaleur.
+La deuxième révolution arrive avec le **topcoat [auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche)**. XPEL lance en 2011 l'Ultimate (ancêtre de l'Ultimate Plus actuel) avec un topcoat polyuréthane élastomérique capable de cicatriser ses propres micro-rayures sous l'effet de la chaleur.
 
 C'est un argument commercial massif. Avant, le PPF protégeait la peinture mais le film lui-même se rayait. Avec l'auto-cicatrisation, le film se répare seul — une proposition de valeur radicalement différente.
 

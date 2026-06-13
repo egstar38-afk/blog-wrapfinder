@@ -17,7 +17,7 @@ Les rubans double face mousse sont généralement disponibles en trois teintes d
 
 **Blanc** : la teinte standard de la plupart des rubans d'entrée de gamme et milieu de gamme. Visible immédiatement si le bord du ruban est exposé. Sur une carrosserie blanche ou claire, moins dérangeant.
 
-**Noir** : standard sur les rubans de qualité professionnelle conçus pour la carrosserie et les éléments foncés. La mousse noire est quasi-invisible sur les baguettes noires, les bas de caisse sombres, les éléments anthracite.
+**Noir** : standard sur les rubans de qualité professionnelle conçus pour la carrosserie et les éléments foncés. La mousse noire est quasi-invisible sur les baguettes noires, les [bas de caisse](/ppf-bas-de-caisse-complet) sombres, les éléments anthracite.
 
 **Gris** : moins courant, utilisé sur certains rubans doubles faces de qualité pour un compromis visuel neutre sur les surfaces grises ou argentées.
 
@@ -67,7 +67,7 @@ Mais attention : la transparence visuelle ne signifie pas transparence optique p
 
 ## Cas pratique : chrome delete avec double face
 
-Lors d'un chrome delete, vous posez du film noir sur les baguettes chromées. Si la baguette est retirée et qu'un ruban blanc est posé sur la face arrière, puis visible depuis l'interstice entre le film et l'arête de la carrosserie — le blanc ressort.
+Lors d'un [chrome delete](/covering-chrome-delete), vous posez du film noir sur les baguettes chromées. Si la baguette est retirée et qu'un ruban blanc est posé sur la face arrière, puis visible depuis l'interstice entre le film et l'arête de la carrosserie — le blanc ressort.
 
 Solution : toujours utiliser un ruban noir sur les applications chrome delete, ou choisir un ruban dont la largeur est légèrement inférieure à la baguette pour que le bord ne soit jamais au-dessus du film.
 

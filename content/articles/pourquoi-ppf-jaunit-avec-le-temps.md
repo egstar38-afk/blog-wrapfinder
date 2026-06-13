@@ -27,7 +27,7 @@ Les PPF de qualité contiennent des absorbants UV (benzotriazoles, HALS — Hind
 
 Les films économiques en contiennent peu ou pas. Résultat : jaunissement visible en 2 à 4 ans.
 
-Les films premium (XPEL, Llumar, SunTek) en contiennent en quantité suffisante pour garantir 7 à 10 ans sans jaunissement dans des conditions normales.
+Les films premium ([XPEL](/fiche-technique-xpel-ultimate-plus), Llumar, SunTek) en contiennent en quantité suffisante pour garantir 7 à 10 ans sans jaunissement dans des conditions normales.
 
 ### L'exposition directe au soleil
 
@@ -62,7 +62,7 @@ Cherchez des films avec :
 - **Topcoat acrylique durci UV** (plus stable que les topcoats PU basiques)
 - **HALS de classe II ou III** dans la formulation (demandez la fiche technique)
 
-Les marques de référence qui ont fait leurs preuves sur ce point : XPEL Ultimate Plus, SunTek Ultra, Llumar Platinum. Les films génériques sans certification : risque élevé de jaunissement en moins de 5 ans.
+Les marques de référence qui ont fait leurs preuves sur ce point : XPEL Ultimate Plus, [SunTek](/fiche-technique-suntek-ultra) Ultra, Llumar Platinum. Les films génériques sans certification : risque élevé de jaunissement en moins de 5 ans.
 
 ## Produit recommandé
 

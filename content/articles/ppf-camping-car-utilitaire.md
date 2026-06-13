@@ -7,7 +7,7 @@ date: "2024-08-15"
 
 ## Le camping-car, c'est la machine à se prendre des gravillons
 
-Je reçois régulièrement des propriétaires de camping-cars avec la même tête : ils viennent d'une descente des Alpes ou d'un trajet sur les routes de Corse, et le capot, les flancs avant et les bas de caisse ressemblent à un fromage. Des dizaines de micro-impacts, parfois jusqu'au métal sur les zones les plus exposées.
+Je reçois régulièrement des propriétaires de camping-cars avec la même tête : ils viennent d'une descente des Alpes ou d'un trajet sur les routes de Corse, et le capot, les flancs avant et les [bas de caisse](/ppf-bas-de-caisse-complet) ressemblent à un fromage. Des dizaines de micro-impacts, parfois jusqu'au métal sur les zones les plus exposées.
 
 C'est logique. Un camping-car mesure 3 mètres de haut, pèse 3 à 7 tonnes, et roule sur des routes où les camions de chantier lui projettent des gravillons à hauteur de carrosserie. Sur une voiture, ces gravillons touchent le capot. Sur un camping-car, ils touchent tout.
 

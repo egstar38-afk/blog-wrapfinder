@@ -48,7 +48,7 @@ Les clients qui paient 3 000 € pour un PPF acceptent facilement 300 à 500 €
 
 ### Le "chrome delete" complet
 
-Le chrome delete s'étend. En 2022, c'était les rétroviseurs et la calandre. En 2026, c'est tous les chromes du véhicule — baguettes de porte, contours de vitres, jupe, logos.
+Le [chrome delete](/covering-chrome-delete) s'étend. En 2022, c'était les rétroviseurs et la calandre. En 2026, c'est tous les chromes du véhicule — baguettes de porte, contours de vitres, jupe, logos.
 
 La prestation "chrome delete complet" est devenue un forfait dans de nombreux ateliers.
 

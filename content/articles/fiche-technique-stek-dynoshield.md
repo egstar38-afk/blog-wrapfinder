@@ -9,7 +9,7 @@ date: "2026-06-01"
 
 **STEK** (ou STEK Automotive) est un fabricant taïwanais de PPF fondé en 2012 qui a rapidement gagné une réputation solide sur les marchés asiatique, américain et depuis 2018, européen. Leur flagship product, le **DynoShield**, se distingue principalement par son **topcoat nano-céramique intégré** — une technologie qui était rare sur le marché PPF à leur lancement.
 
-STEK est l'un des "challengers" crédibles aux géants XPEL et SunTek, avec des arguments techniques réels.
+STEK est l'un des "challengers" crédibles aux géants [XPEL](/fiche-technique-xpel-ultimate-plus) et SunTek, avec des arguments techniques réels.
 
 ## Spécifications techniques DynoShield
 
@@ -69,7 +69,7 @@ STEK DynoShield est positionné à un tarif comparable à XPEL — pas un film "
 
 STEK a développé son réseau européen significativement depuis 2020. En France, une vingtaine d'ateliers certifiés STEK sont actifs en 2024, principalement dans les grandes villes (Paris, Lyon, Marseille, Bordeaux, Lille, Strasbourg).
 
-La densité est inférieure à XPEL ou SunTek — trouver un installateur STEK en zone rurale ou dans les villes moyennes peut nécessiter de se déplacer.
+La densité est inférieure à XPEL ou [SunTek](/fiche-technique-suntek-ultra) — trouver un installateur STEK en zone rurale ou dans les villes moyennes peut nécessiter de se déplacer.
 
 ## Pour qui ?
 

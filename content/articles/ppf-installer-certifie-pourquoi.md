@@ -13,7 +13,7 @@ Voici ce que la certification change concrètement.
 
 ## Qu'est-ce qu'une certification d'installateur PPF
 
-Les grandes marques de PPF (XPEL, SunTek, Avery Dennison, Llumar, 3M) ont des programmes de formation et de certification pour les ateliers. La certification valide que l'atelier :
+Les grandes marques de PPF ([XPEL](/fiche-technique-xpel-ultimate-plus), SunTek, Avery Dennison, Llumar, 3M) ont des programmes de formation et de certification pour les ateliers. La certification valide que l'atelier :
 
 - A suivi une formation aux techniques de pose propres à la marque
 - A accès aux logiciels de découpe (DAP, Papilio, TeckWrap...) avec les gabarits de découpe pour les modèles de véhicules
@@ -68,7 +68,7 @@ Ce que la certification garantit : l'accès aux outils, aux gabarits, aux produi
 
 Chaque fabricant a un localisateur d'installateurs certifiés sur son site :
 - XPEL : xpel.com → "Find Dealer"
-- SunTek : suntek.com → "Find Installer"
+- [SunTek](/fiche-technique-suntek-ultra) : suntek.com → "Find Installer"
 - Avery : avery.com → "Find a Professional"
 - 3M : 3M Protection Film Certified Installer finder
 

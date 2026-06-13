@@ -9,7 +9,7 @@ date: "2026-06-12"
 
 La question "combien ça coûte pour couvrir ma voiture ?" peut recevoir des réponses allant de 300 € à 5 000 €. Ce n'est pas que les ateliers disent n'importe quoi — c'est que le covering est un spectre très large de prestations.
 
-Un chrome delete sur les rétroviseurs n'est pas la même chose qu'un full wrap de SUV en film métallisé premium. Voici les vrais tarifs du marché français 2026.
+Un [chrome delete](/covering-chrome-delete) sur les rétroviseurs n'est pas la même chose qu'un full wrap de SUV en film métallisé premium. Voici les vrais tarifs du marché français 2026.
 
 ## Tarifs atelier par prestation
 

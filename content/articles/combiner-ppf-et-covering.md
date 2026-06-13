@@ -17,7 +17,7 @@ C'est exactement ce qu'on appelle la pose "PPF + covering" ou "sandwich film".
 
 ### Compatibilité des adhésifs
 
-Le PPF (adhésif polyuréthane) et le covering vinyle (adhésif acrylique) sont chimiquement compatibles. L'adhésif du covering accroche correctement sur le topcoat du PPF. Les grands fabricants (XPEL, Avery Dennison, 3M) ont testé et confirmé cette compatibilité sur leurs produits.
+Le PPF (adhésif polyuréthane) et le covering vinyle (adhésif acrylique) sont chimiquement compatibles. L'adhésif du covering accroche correctement sur le topcoat du PPF. Les grands fabricants ([XPEL](/fiche-technique-xpel-ultimate-plus), Avery Dennison, 3M) ont testé et confirmé cette compatibilité sur leurs produits.
 
 Un point important : les PPF avec traitement anti-UV renforcé au topcoat peuvent avoir des surfaces légèrement plus hydrophobes que la moyenne. Assurez-vous de nettoyer le PPF à l'IPA avant de poser le covering — ça améliore l'ancrage initial de l'adhésif vinyle.
 
@@ -71,7 +71,7 @@ Les films PPF sans marque ou génériques ne sont pas tous testés — évitez-l
 
 ## Produit recommandé
 
-L'**Avery Dennison Supreme Wrapping Film** est l'un des covering les mieux testés sur PPF, avec un adhésif à faible ancrage initial qui facilite les repositionnements pendant la pose. Sa gamme de couleurs est large (brillant, mat, satiné, metallisé).
+L'**Avery Dennison [Supreme Wrapping Film](/fiche-technique-avery-dennison-swf)** est l'un des covering les mieux testés sur PPF, avec un adhésif à faible ancrage initial qui facilite les repositionnements pendant la pose. Sa gamme de couleurs est large (brillant, mat, satiné, metallisé).
 
 [Voir l'Avery Dennison Supreme Wrapping Film sur Amazon →](https://www.amazon.fr/s?k=avery+dennison+supreme+wrapping+film+covering+vinyle&tag=wrapfinder-21)
 

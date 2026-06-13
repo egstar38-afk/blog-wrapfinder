@@ -59,7 +59,7 @@ Le PPF est une protection utile contre les petites grêles courantes (orages d'�
 
 ## Produit recommandé
 
-Pour les zones les plus exposées (capot, toit) dans les régions à risque de grêle, le **Hexis Bodyfence en 200 µm** est l'un des films les plus épais disponibles pour les particuliers — sa résistance aux impacts est supérieure à la moyenne du marché.
+Pour les zones les plus exposées (capot, toit) dans les régions à risque de grêle, le **[Hexis Bodyfence](/fiche-technique-hexis-bodyfence) en 200 µm** est l'un des films les plus épais disponibles pour les particuliers — sa résistance aux impacts est supérieure à la moyenne du marché.
 
 [Voir le Hexis Bodyfence 200 µm sur Amazon →](https://www.amazon.fr/s?k=hexis+bodyfence+200+microns+ppf+epais+impact+grele&tag=wrapfinder-21)
 

@@ -73,7 +73,7 @@ L'oxydation superficielle doit être éliminée par polissage avant pose. Poser 
 
 ### Peinture réputée sensible aux solvants
 
-Certaines peintures exotiques (peinture mate d'usine, certaines couleurs spéciales japonaises) réagissent aux solvants de l'adhésif PPF et peuvent se dissoudre partiellement. Testez toujours sur une petite zone cachée si vous avez le moindre doute.
+Certaines peintures exotiques ([peinture mate](/ppf-sur-peinture-mate) d'usine, certaines couleurs spéciales japonaises) réagissent aux solvants de l'adhésif PPF et peuvent se dissoudre partiellement. Testez toujours sur une petite zone cachée si vous avez le moindre doute.
 
 ## Budget pour un PPF sur occasion : prévoir plus que sur le neuf
 

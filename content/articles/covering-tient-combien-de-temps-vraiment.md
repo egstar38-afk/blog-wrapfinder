@@ -25,7 +25,7 @@ En pratique, la garantie est une indication de qualité du film plus qu'une prom
 | Zone chaude et ensoleillée (Sud France, Méditerranée) | 3 – 5 ans | 2 – 4 ans |
 | Usage professionnel intensif | 2 – 4 ans | 1,5 – 3 ans |
 
-Ces données viennent de l'observation de véhicules protégés par des films 3M 2080 ou Avery Dennison Supreme dans des conditions réelles.
+Ces données viennent de l'observation de véhicules protégés par des films [3M 2080](/fiche-technique-3m-2080) ou Avery Dennison Supreme dans des conditions réelles.
 
 ## Ce qui fait vraiment la différence
 

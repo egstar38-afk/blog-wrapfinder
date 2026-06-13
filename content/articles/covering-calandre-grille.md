@@ -7,7 +7,7 @@ date: "2025-02-16"
 
 ## Chrome delete calandre : l'opération qui change la face avant d'un véhicule
 
-Parmi toutes les modifications esthétiques que permet le covering, le chrome delete sur calandre est celle qui transforme le plus visuellement l'avant d'une voiture. Une grille chromée en noir mat ou satiné, ça change l'expression complète du véhicule.
+Parmi toutes les modifications esthétiques que permet le covering, le [chrome delete](/covering-chrome-delete) sur calandre est celle qui transforme le plus visuellement l'avant d'une voiture. Une grille chromée en noir mat ou satiné, ça change l'expression complète du véhicule.
 
 C'est populaire sur les BMW (calandre double rein en chrome), les Mercedes (étoile et barrettes chromées), les VW (calandre GTI), et les Audi (anneau chromé des jantes et de la calandre).
 

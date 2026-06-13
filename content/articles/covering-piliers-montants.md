@@ -11,7 +11,7 @@ Les montants de toit (les piliers qui séparent les vitres et soutiennent le toi
 
 Sur les véhicules de série, les montants B et C (les montants centraux et arrière) sont souvent habillés d'un tissu anthracite générique. Le montant A (le pilier avant, à côté du pare-brise) est généralement en plastique moulé.
 
-Un chrome delete sur les montants — ou un changement de couleur/matière — peut uniformiser l'intérieur et lui donner un look plus personnalisé.
+Un [chrome delete](/covering-chrome-delete) sur les montants — ou un changement de couleur/matière — peut uniformiser l'intérieur et lui donner un look plus personnalisé.
 
 ## Le montant A (pilier avant)
 
@@ -77,7 +77,7 @@ Les montants ont souvent des passages de câbles pour les haut-parleurs, les air
 
 ## Produit recommandé
 
-Le **film vinyle Oracal 970 Metallic** en anthracite est une alternative tendance pour les montants intérieurs : plus sobre que le noir mat pur, mais plus valorisant que l'anthracite tissu d'usine. Disponible en petit rouleau 30 cm.
+Le **film vinyle [Oracal 970](/fiche-technique-oracal-970) Metallic** en anthracite est une alternative tendance pour les montants intérieurs : plus sobre que le noir mat pur, mais plus valorisant que l'anthracite tissu d'usine. Disponible en petit rouleau 30 cm.
 
 [Voir l'Oracal 970 Metallic Anthracite pour montants sur Amazon →](https://www.amazon.fr/s?k=oracal+970+anthracite+metallic+vinyle+montant+pilier&tag=wrapfinder-21)
 

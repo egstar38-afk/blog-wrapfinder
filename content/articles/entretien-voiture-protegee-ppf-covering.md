@@ -49,13 +49,13 @@ Préférez les sprays décontaminants chimiques (iron remover, tar remover) pour
 
 ### Le polissage
 
-**Sur PPF** : un polissage très doux (polish finishing, pas compound) est possible sur un PPF en bon état pour restaurer son brillant. Ne jamais polir un PPF avec un abrasif fort — vous retireriez le topcoat auto-cicatrisant.
+**Sur PPF** : un polissage très doux (polish finishing, pas compound) est possible sur un PPF en bon état pour restaurer son brillant. Ne jamais polir un PPF avec un abrasif fort — vous retireriez le topcoat [auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche).
 
 **Sur covering** : aucun polissage. Le vinyle des covering ne peut pas être poli — la surface n'est pas faite pour ça.
 
 ## La protection supplémentaire : céramique sur film
 
-L'application d'une protection céramique (nano-céramique SiO2) sur un PPF ou un covering est une pratique courante chez les professionnels de la détailing. Elle :
+L'application d'une [protection céramique](/ppf-vs-protection-ceramique) (nano-céramique SiO2) sur un PPF ou un covering est une pratique courante chez les professionnels de la détailing. Elle :
 
 - Augmente l'hydrophobie (l'eau perle en billes, emmenant la saleté avec elle)
 - Réduit la fréquence de lavage nécessaire

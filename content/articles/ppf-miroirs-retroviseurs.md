@@ -25,7 +25,7 @@ Si le rétroviseur est peint en teinte carrosserie (pas juste une coque plastiqu
 
 ## Application du primer : la bonne méthode
 
-Le primer PP (3M Primer 94, Sika Primer-215, Kontaktchemie Plastik-Primer) se vaporise en fine couche sur la surface propre et sèche.
+Le [primer PP](/primer-pp-mode-emploi-complet) (3M Primer 94, Sika Primer-215, Kontaktchemie Plastik-Primer) se vaporise en fine couche sur la surface propre et sèche.
 
 **Quantité** : très peu. Une légère brume suffit. Un excès de primer crée une surface trop épaisse qui devient cassante et peut décoller avec le temps.
 

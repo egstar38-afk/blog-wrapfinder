@@ -21,7 +21,7 @@ Sur un véhicule de 3 ans, la console centrale en piano noir est souvent un spec
 
 Deux solutions en covering :
 
-**Film transparent sur piano noir** : conserve l'aspect brillant d'origine, protège contre les rayures nouvelles. L'auto-cicatrisant PPF marche aussi en covering intérieur avec certains films transparents.
+**Film transparent sur piano noir** : conserve l'aspect brillant d'origine, protège contre les rayures nouvelles. L'[auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche) PPF marche aussi en covering intérieur avec certains films transparents.
 
 **Film coloré sur piano noir** : change l'aspect (noir mat, carbone, bois...) en plus de protéger. Masque aussi les rayures existantes.
 
@@ -67,7 +67,7 @@ En intérieur, les surfaces plastiques des consoles peuvent se déformer à des 
 
 ## Produit recommandé
 
-Le **film carbone 3D Avery Dennison DI-NOC** est très populaire pour les consoles centrales — l'effet carbone en intérieur est tendance et l'épaisseur de 80 µm permet une conformabilité correcte sur les petites formes des consoles. Disponible en petit rouleau.
+Le **film carbone 3D Avery Dennison DI-NOC** est très populaire pour les consoles centrales — l'[effet carbone](/covering-wrap-effet-carbone) en intérieur est tendance et l'épaisseur de 80 µm permet une conformabilité correcte sur les petites formes des consoles. Disponible en petit rouleau.
 
 [Voir les films 3M DI-NOC carbone pour console centrale sur Amazon →](https://www.amazon.fr/s?k=3m+dinoc+carbone+film+intérieur+console+centrale&tag=wrapfinder-21)
 

@@ -7,7 +7,7 @@ date: "2026-04-18"
 
 ## Deux géants du vinyle, deux philosophies différentes
 
-Avery Dennison Supreme Wrapping Film (SWF) et 3M 2080 Series sont les deux films de covering les plus utilisés par les professionnels en Europe. Ils se valent sur la plupart des critères techniques, mais ont des différences réelles sur la gamme, le réseau et l'écosystème de pose.
+Avery Dennison Supreme Wrapping Film (SWF) et [3M 2080](/fiche-technique-3m-2080) Series sont les deux films de covering les plus utilisés par les professionnels en Europe. Ils se valent sur la plupart des critères techniques, mais ont des différences réelles sur la gamme, le réseau et l'écosystème de pose.
 
 ## Comparatif technique de base
 
@@ -26,7 +26,7 @@ Avery SWF propose une gamme nettement plus large que 3M 2080 en termes de couleu
 
 En pratique :
 - Si vous cherchez une couleur standard (noir brillant, blanc satin, argent brossé) : les deux ont ce qu'il vous faut
-- Si vous cherchez une teinte spécifique (rose nacré, bleu électrique color shift, texture particulière) : Avery a probablement une option que 3M n'a pas
+- Si vous cherchez une teinte spécifique (rose nacré, bleu électrique [color shift](/covering-couleur-changeante-color-shift), texture particulière) : Avery a probablement une option que 3M n'a pas
 
 ## La technologie adhésif : Comply (Avery) vs Air Release (3M)
 

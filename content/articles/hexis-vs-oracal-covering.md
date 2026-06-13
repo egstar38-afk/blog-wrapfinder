@@ -25,7 +25,7 @@ Particularité Hexis : une attention particulière aux couleurs "européennes" �
 
 ### Prix
 
-Positionnement légèrement inférieur à Avery SWF et 3M 2080, ce qui en fait un choix très populaire parmi les poseurs qui cherchent une qualité pro à un tarif professionnel raisonnable.
+Positionnement légèrement inférieur à Avery SWF et [3M 2080](/fiche-technique-3m-2080), ce qui en fait un choix très populaire parmi les poseurs qui cherchent une qualité pro à un tarif professionnel raisonnable.
 
 ### Réseau France
 
@@ -35,7 +35,7 @@ Très bien distribué en France — Hexis ayant ses entrepôts en France, les d�
 
 ### La gamme 970RA
 
-L'Oracal 970RA est probablement le film de covering le plus utilisé dans le monde — un film cast de bonne qualité, disponible dans une palette de plus de 100 teintes dont beaucoup sont exclusives à Oracal.
+L'Oracal 970RA est probablement le film de covering le plus utilisé dans le monde — un [film cast](/film-cast-vs-calandre-difference) de bonne qualité, disponible dans une palette de plus de 100 teintes dont beaucoup sont exclusives à Oracal.
 
 La gamme comprend des finitions inaccessibles chez la concurrence : certains noirs "ultra-deep", des métalliques spécifiques, et des teintes mats avec des textures uniques.
 

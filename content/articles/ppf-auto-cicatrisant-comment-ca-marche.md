@@ -67,7 +67,7 @@ Si la marque persiste, soit la rayure est trop profonde, soit le topcoat est vie
 
 ## Les différences entre marques
 
-Tous les films PPF ne cicatrisent pas aussi bien. Les topcoats des films premium (XPEL Ultimate Plus, SunTek Ultra, Llumar Platinum) ont des formulations plus élaborées et une meilleure mémoire de forme.
+Tous les films PPF ne cicatrisent pas aussi bien. Les topcoats des films premium ([XPEL](/fiche-technique-xpel-ultimate-plus) Ultimate Plus, SunTek Ultra, Llumar Platinum) ont des formulations plus élaborées et une meilleure mémoire de forme.
 
 Les films d'entrée de gamme ou non labellisés ont souvent un topcoat plus fin et moins performant.
 

@@ -27,7 +27,7 @@ Le PPF sur un vinyle abîmé (décollé aux bords, bulles, micro-fissures) ne va
 
 L'adhésif du PPF va entrer en contact direct avec le topcoat du vinyle. Si les deux produits ne sont pas chimiquement compatibles, l'adhésif du PPF peut attaquer la surface du vinyle ou créer une liaison si forte que la dépose du PPF emmène le vinyle avec lui.
 
-Vérifiez auprès du fabricant du PPF la compatibilité avec les films vinyle. Les grandes marques (XPEL, SunTek, Avery) ont des données sur ce sujet.
+Vérifiez auprès du fabricant du PPF la compatibilité avec les films vinyle. Les grandes marques ([XPEL](/fiche-technique-xpel-ultimate-plus), SunTek, Avery) ont des données sur ce sujet.
 
 ### La surface doit être extrêmement propre
 
@@ -64,7 +64,7 @@ C'est la configuration la plus logique pour les clients qui veulent à la fois l
 
 ## Produit recommandé
 
-Le **SunTek PPF Ultra 150 µm** est souvent recommandé pour les poses sur vinyle car son adhésif est formulé pour une adhérence modérée sur substrats semi-rigides. La dépose est plus facile que sur les films à adhésif agressif.
+Le **[SunTek](/fiche-technique-suntek-ultra) PPF Ultra 150 µm** est souvent recommandé pour les poses sur vinyle car son adhésif est formulé pour une adhérence modérée sur substrats semi-rigides. La dépose est plus facile que sur les films à adhésif agressif.
 
 [Voir le SunTek Ultra PPF sur Amazon →](https://www.amazon.fr/s?k=suntek+ultra+ppf+film+protection+transparent+pose&tag=wrapfinder-21)
 

@@ -40,9 +40,9 @@ Une contamination résiduelle emprisonnée sous le PPF sur peinture mate sera vi
 Tous les films PPF ne sont pas adaptés. Les fabricants sérieux testent leurs films sur différentes peintures et certifient la compatibilité.
 
 Films connus pour être compatibles peinture mate :
-- **XPEL Ultimate Plus** : testé et validé sur BMW Frozen et Porsche Chalk
-- **SunTek Ultra** : certificat de compatibilité peintures mates
-- **Llumar Platinum** : validé sur les principales peintures mates d'usine
+- **[XPEL](/fiche-technique-xpel-ultimate-plus) Ultimate Plus** : testé et validé sur BMW Frozen et Porsche Chalk
+- **[SunTek](/fiche-technique-suntek-ultra) Ultra** : certificat de compatibilité peintures mates
+- **[Llumar](/fiche-technique-llumar-ppf) Platinum** : validé sur les principales peintures mates d'usine
 - **Avery Dennison SPF** : compatible peintures mates selon fiche produit
 
 Films à éviter sur peinture mate : les films sans test de compatibilité, les films d'entrée de gamme asiatiques sans certification.

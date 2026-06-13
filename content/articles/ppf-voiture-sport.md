@@ -11,7 +11,7 @@ date: "2024-01-28"
 Les voitures de sport cumulent plusieurs facteurs qui les rendent particulièrement vulnérables :
 
 - **Puissance élevée** : à grande vitesse, les impacts de gravillons sont beaucoup plus violents
-- **Carrosseries larges et basses** : les bas de caisse et diffuseurs captent davantage de projections
+- **Carrosseries larges et basses** : les [bas de caisse](/ppf-bas-de-caisse-complet) et diffuseurs captent davantage de projections
 - **Peinture souvent de teinte spéciale** : retoucher une peinture Rosso Corsa ou Bleu Elégance coûte plusieurs milliers d'euros
 - **Valeur de revente** : une carrosserie impeccable peut représenter 5 à 15 % de différence à la revente
 
@@ -43,7 +43,7 @@ Budget indicatif : **4 000 – 8 000 €** selon le modèle et le film choisi.
 
 ### Porsche 911 / Cayman
 
-La géométrie complexe du capot et des ailes arrière demande un poseur expérimenté. Comptez 3 à 4 h de pose pour le seul pack avant. Les gabarits XPEL sont disponibles pour tous les millésimes récents.
+La géométrie complexe du capot et des ailes arrière demande un poseur expérimenté. Comptez 3 à 4 h de pose pour le seul pack avant. Les gabarits [XPEL](/fiche-technique-xpel-ultimate-plus) sont disponibles pour tous les millésimes récents.
 
 ### Alpine A110
 

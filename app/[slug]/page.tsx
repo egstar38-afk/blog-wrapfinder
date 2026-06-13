@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getArticleBySlug, getAllSlugs, getRelatedArticles, CATEGORY_LABELS } from '@/lib/articles'
+import { getArticleBySlug, getAllSlugs, getRelatedArticles, getFaqItems, CATEGORY_LABELS } from '@/lib/articles'
 
 const SITE_URL = 'https://blog.wrapfinder.fr'
 
@@ -54,6 +54,20 @@ export default async function ArticlePage({ params }: Props) {
   }
 
   const related = getRelatedArticles(article.slug, article.category)
+  const faqItems = getFaqItems(article.slug)
+
+  const faqJsonLd =
+    faqItems.length > 0
+      ? {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: faqItems.map((it) => ({
+            '@type': 'Question',
+            name: it.question,
+            acceptedAnswer: { '@type': 'Answer', text: it.answer },
+          })),
+        }
+      : null
 
   const articleJsonLd = {
     '@context': 'https://schema.org',
@@ -111,6 +125,12 @@ export default async function ArticlePage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
+      {faqJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+      )}
 
       {/* Breadcrumb */}
       <nav className="text-sm text-zinc-500 mb-8">

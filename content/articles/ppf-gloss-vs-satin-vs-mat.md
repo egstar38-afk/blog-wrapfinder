@@ -56,7 +56,7 @@ Lavage à la main privilégié. Pas de polish. Sealant satin spécifique (les pr
 
 ## Le PPF Mat
 
-Le topcoat mat diffuse la lumière au lieu de la réfléchir. Le rendu est comparable à une peinture mate d'usine — sans reflets, aspect velours ou "wrap mat".
+Le topcoat mat diffuse la lumière au lieu de la réfléchir. Le rendu est comparable à une [peinture mate](/ppf-sur-peinture-mate) d'usine — sans reflets, aspect velours ou "wrap mat".
 
 ### Rendu visuel
 

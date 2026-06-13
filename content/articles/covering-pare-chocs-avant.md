@@ -53,7 +53,7 @@ Résultat : bord propre et invisible de face.
 
 ## Chrome delete sur pare-chocs
 
-Le covering sur pare-chocs avant permet de faire du "chrome delete" sur les éléments brillants ou chromés intégrés. La technique est identique au chrome delete sur d'autres zones : film satiné noir ou mat noir sur les inserts brillants.
+Le covering sur pare-chocs avant permet de faire du "[chrome delete](/covering-chrome-delete)" sur les éléments brillants ou chromés intégrés. La technique est identique au chrome delete sur d'autres zones : film satiné noir ou mat noir sur les inserts brillants.
 
 Ces inserts ont souvent des formes complexes et des bords tranchants. Travaillez film à film, prenez le temps de bien rentrer les bords sous chaque insert.
 
@@ -77,7 +77,7 @@ Le pare-chocs avant est plus exposé aux UV, aux impacts et aux nettoyages inten
 
 ## Produit recommandé
 
-Le **Oracal 970RA** est un film cast de qualité professionnelle avec une excellente conformabilité sur les reliefs complexes des pare-chocs modernes. Sa gamme de couleurs est large et le film supporte bien la découpe dans les recoins.
+Le **Oracal 970RA** est un [film cast](/film-cast-vs-calandre-difference) de qualité professionnelle avec une excellente conformabilité sur les reliefs complexes des pare-chocs modernes. Sa gamme de couleurs est large et le film supporte bien la découpe dans les recoins.
 
 [Voir l'Oracal 970RA sur Amazon →](https://www.amazon.fr/s?k=oracal+970ra+film+vinyle+cast+covering+pare+chocs&tag=wrapfinder-21)
 

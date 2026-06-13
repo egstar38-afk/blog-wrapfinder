@@ -37,7 +37,7 @@ Appuyez doucement sur les zones suspectes : une bulle souple qui reprend sa form
 Après l'hiver, le film peut être couvert de :
 - **Dépôts calcaires** (taches rondes blanchâtres de gouttières et pluie chargée)
 - **Contamination ferreuse** (poussières de frein, particules de route)
-- **Dépôts de sel séché** (voile blanc mat sur les bas de caisse et pare-chocs)
+- **Dépôts de sel séché** (voile blanc mat sur les [bas de caisse](/ppf-bas-de-caisse-complet) et pare-chocs)
 
 Aucun de ces éléments n'abîme le film s'ils sont traités rapidement. Laissés en place toute la saison, les dépôts calcaires peuvent laisser des traces permanentes dans le film.
 

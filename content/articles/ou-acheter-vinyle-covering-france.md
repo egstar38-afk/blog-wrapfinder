@@ -18,7 +18,7 @@ La mauvaise nouvelle : le marché est aussi inondé de films bas de gamme qui re
 
 **3M 1080 Series** : le film de référence en covering professionnel. Formulation acrylique, largeur 1,52 m (60 pouces), disponible en plus de 100 coloris (mat, satiné, brillant, métallisé, chrome, carbone). Durable 5 à 7 ans à l'extérieur. Distribution via 3M France et revendeurs agréés, mais accessible grand public en ligne.
 
-**Avery Dennison Supreme Wrapping Film (SWF)** : concurrent direct du 3M 1080. Coloris similaires, même niveau de qualité. Accessible en ligne.
+**Avery Dennison [Supreme Wrapping Film](/fiche-technique-avery-dennison-swf) (SWF)** : concurrent direct du 3M 1080. Coloris similaires, même niveau de qualité. Accessible en ligne.
 
 **Oracal 970RA / 975RA** : la gamme covering d'Orafal (marque allemande). Moins chère que 3M et Avery mais très correcte pour les usages courants. Largeur 1,52 m. La série 975 est la version plus technique avec canal d'air.
 
@@ -39,7 +39,7 @@ Ces boutiques sont la référence pour les particuliers qui veulent du film de q
 
 ### Amazon
 
-3M 1080, Avery SWF, Oracal 970 : tous disponibles sur Amazon France en petits formats (1,52 m × 0,3 m, 0,5 m, 1 m, etc.) pour les projets partiels.
+3M 1080, Avery SWF, [Oracal 970](/fiche-technique-oracal-970) : tous disponibles sur Amazon France en petits formats (1,52 m × 0,3 m, 0,5 m, 1 m, etc.) pour les projets partiels.
 
 Attention aux vendeurs tiers qui listent des films sous des noms proches des marques connues avec des prix anormalement bas — vérifiez que c'est bien la marque officielle.
 

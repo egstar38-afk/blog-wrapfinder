@@ -54,7 +54,7 @@ Si votre véhicule a déjà un covering existant, il faut le déposer avant la n
 ### Les optionnels qui s'ajoutent
 
 - Démontage des rétroviseurs et poignées pour couvrir proprement derrière : 1 à 2 heures de main d'œuvre supplémentaire
-- Protection céramique sur le film neuf : 150–300 € supplémentaires
+- [Protection céramique](/ppf-vs-protection-ceramique) sur le film neuf : 150–300 € supplémentaires
 - Correction de peinture avant pose si la peinture est abîmée : 200–800 € selon l'état
 
 ## Ce qui doit vous alerter dans un devis

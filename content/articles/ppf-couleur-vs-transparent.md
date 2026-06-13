@@ -24,7 +24,7 @@ L'effet est proche d'un covering transparent : la peinture d'origine est visible
 
 Certains fabricants proposent des PPF avec une couche opaque — le film est entièrement coloré, comme un vinyle de covering mais avec les propriétés du PPF (épaisseur, auto-cicatrisation, tenue aux impacts).
 
-Ces produits sont encore peu répandus mais existent chez XPEL (XPEL Stealth), Avery (Avery Dennison Color PPF), et quelques marques asiatiques.
+Ces produits sont encore peu répandus mais existent chez [XPEL](/fiche-technique-xpel-ultimate-plus) (XPEL Stealth), Avery (Avery Dennison Color PPF), et quelques marques asiatiques.
 
 ### Le stealth look
 
@@ -68,7 +68,7 @@ Les demandes de couleurs très spécifiques sont possibles avec des fabricants s
 
 ## Produit recommandé
 
-Le **XPEL STEALTH PPF** est le film de référence pour le look mat sur carrosserie brillante. Full polyuréthane avec topcoat mat auto-cicatrisant — la protection PPF intégrale avec la transformation esthétique stealth.
+Le **XPEL STEALTH PPF** est le film de référence pour le look mat sur carrosserie brillante. Full polyuréthane avec topcoat mat [auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche) — la protection PPF intégrale avec la transformation esthétique stealth.
 
 [Voir le XPEL Stealth PPF sur Amazon →](https://www.amazon.fr/s?k=xpel+stealth+ppf+mat+film+protection+carrosserie&tag=wrapfinder-21)
 

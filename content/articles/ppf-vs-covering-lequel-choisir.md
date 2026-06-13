@@ -25,7 +25,7 @@ Le PPF ne change pas l'aspect de votre voiture. Il préserve exactement ce que v
 
 Le covering (ou wrapping) est un film vinyle coloré (ou à effet) qui se pose sur la carrosserie pour changer son apparence.
 
-Il peut être brillant, mat, satiné, effet carbone, chrome, pailleté, color-shift… Les possibilités sont presque infinies. Son objectif principal est esthétique : changer la couleur ou l'aspect du véhicule sans repeinture.
+Il peut être brillant, mat, satiné, [effet carbone](/covering-wrap-effet-carbone), chrome, pailleté, color-shift… Les possibilités sont presque infinies. Son objectif principal est esthétique : changer la couleur ou l'aspect du véhicule sans repeinture.
 
 Le covering protège aussi la peinture dessous (des UV, de certaines rayures légères), mais cette protection est secondaire et bien inférieure à celle d'un PPF.
 
@@ -62,7 +62,7 @@ Le coût est plus élevé (les deux films se cumulent), mais c'est la solution l
 
 ### "Je ne veux dépenser que pour la protection"
 
-PPF sur les zones exposées (capot, ailes avant, bas de caisse, pare-chocs). Pas nécessaire sur toute la voiture si le budget est limité.
+PPF sur les zones exposées (capot, ailes avant, [bas de caisse](/ppf-bas-de-caisse-complet), pare-chocs). Pas nécessaire sur toute la voiture si le budget est limité.
 
 ### "Ma voiture est déjà ancienne et la peinture n'est plus top"
 
@@ -70,7 +70,7 @@ Ni le PPF ni le covering ne réparent une peinture abîmée — ils conservent l
 
 ## Produit recommandé
 
-Pour comparer concrètement les deux technologies, le **kit de test XPEL** (plusieurs cm² de différents films) permet de toucher et voir la différence d'épaisseur et d'aspect avant de décider.
+Pour comparer concrètement les deux technologies, le **kit de test [XPEL](/fiche-technique-xpel-ultimate-plus)** (plusieurs cm² de différents films) permet de toucher et voir la différence d'épaisseur et d'aspect avant de décider.
 
 [Voir les échantillons de films PPF et vinyle sur Amazon →](https://www.amazon.fr/s?k=echantillon+film+ppf+vinyle+test+automobile&tag=wrapfinder-21)
 

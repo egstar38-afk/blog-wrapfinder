@@ -13,7 +13,7 @@ date: "2026-06-09"
 
 **Arête** : jonction entre deux surfaces formant un angle (ex. arête d'aile). Zone techniquement difficile pour la pose de film — risque de tension et de décollement à long terme.
 
-**Auto-cicatrisant** (self-healing) : propriété d'un topcoat PPF qui lui permet de "refermer" ses micro-rayures superficielles sous l'effet de la chaleur (40-70 °C). Caractéristique exclusive des PPF — les films covering vinyle n'ont pas cette propriété.
+**[Auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche)** (self-healing) : propriété d'un topcoat PPF qui lui permet de "refermer" ses micro-rayures superficielles sous l'effet de la chaleur (40-70 °C). Caractéristique exclusive des PPF — les films covering vinyle n'ont pas cette propriété.
 
 ## B
 
@@ -29,7 +29,7 @@ date: "2026-06-09"
 
 **Céramique (coating)** : revêtement à base de dioxyde de silicium (SiO2) ou de dioxide de titane (TiO2) appliqué en couche nanométrique. Crée une couche dure, hydrophobe et résistante aux produits chimiques. Peut être appliqué sur PPF ou peinture.
 
-**Clarity index** : indice de clarté optique d'un PPF, mesurant la transparence du film. Un clarity index > 95 % (XPEL Ultimate Plus) signifie que le film ne modifie pas l'apparence de la peinture de façon perceptible. Un film avec clarity < 90 % peut donner une légère teinte jaunâtre ou bleutée.
+**Clarity index** : indice de clarté optique d'un PPF, mesurant la transparence du film. Un clarity index > 95 % ([XPEL](/fiche-technique-xpel-ultimate-plus) Ultimate Plus) signifie que le film ne modifie pas l'apparence de la peinture de façon perceptible. Un film avec clarity < 90 % peut donner une légère teinte jaunâtre ou bleutée.
 
 **Clay bar** (argile de décontamination) : outil de préparation de surface sous forme d'argile malléable qui retire les contaminants ferreux et organiques incrustés dans le vernis. Étape obligatoire avant pose PPF.
 
@@ -51,7 +51,7 @@ date: "2026-06-09"
 
 ## F
 
-**Film cast** : voir "Cast".
+**[Film cast](/film-cast-vs-calandre-difference)** : voir "Cast".
 
 **Film calendré** : voir "Calendrage".
 

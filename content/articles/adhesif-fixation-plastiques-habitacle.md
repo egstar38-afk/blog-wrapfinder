@@ -55,7 +55,7 @@ Les **colles contact néoprène en aérosol** (Bostik Contact, 3M Super 77) sont
 
 ### Réglette plastique décollée de pare-soleil
 
-Substrat généralement PP ou PP+ABS. Primer PP + colle contact, ou double face mousse fin (3M 4910). La contrainte est faible (poids négligeable).
+Substrat généralement PP ou PP+ABS. [Primer PP](/primer-pp-mode-emploi-complet) + colle contact, ou double face mousse fin (3M 4910). La contrainte est faible (poids négligeable).
 
 ### Garniture de porte qui se décolle en bas
 

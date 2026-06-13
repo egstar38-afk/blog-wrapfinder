@@ -50,7 +50,7 @@ Pour les grandes surfaces sans prédécoupage, la pose demande de l'assistance (
 
 ## Ce que les kits DIY offrent vraiment
 
-Les meilleurs kits DIY (XPEL DIY, SunTek DIY, etc.) fournissent :
+Les meilleurs kits DIY ([XPEL](/fiche-technique-xpel-ultimate-plus) DIY, SunTek DIY, etc.) fournissent :
 - Les films prédécoupés pour chaque pièce
 - Une solution de pose adaptée
 - Un tutoriel vidéo spécifique à votre modèle

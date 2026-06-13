@@ -70,7 +70,7 @@ Ce processus prend 10 à 30 minutes au soleil ou 1 à 2 minutes à l'eau chaude 
 
 ## Produit recommandé
 
-Le **SunTek Ultra** est l'un des films auto-cicatrisants les plus rapides sur le marché — les rayures légères à chaud disparaissent en 10 minutes. Sa dureté de surface (meilleure que la moyenne) le rend également plus résistant aux rayures qui ne cicatrisent pas.
+Le **[SunTek](/fiche-technique-suntek-ultra) Ultra** est l'un des films auto-cicatrisants les plus rapides sur le marché — les rayures légères à chaud disparaissent en 10 minutes. Sa dureté de surface (meilleure que la moyenne) le rend également plus résistant aux rayures qui ne cicatrisent pas.
 
 [Voir le SunTek Ultra PPF sur Amazon →](https://www.amazon.fr/s?k=suntek+ultra+ppf+auto+cicatrisant+protection+rayures&tag=wrapfinder-21)
 

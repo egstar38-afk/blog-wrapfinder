@@ -16,7 +16,7 @@ Les voitures électriques ont plusieurs caractéristiques qui les rendent partic
 
 Une Tesla Model Y pèse 1 979 kg. Une Volkswagen Golf thermique équivalente : 1 300 kg. Cet écart vient principalement des batteries — 400 à 700 kg selon le modèle.
 
-Ce poids supplémentaire se traduit par une pression au sol plus importante, une usure de pneus plus rapide, et surtout **davantage de matière projetée depuis les roues**. Les ailes arrière et les bas de caisse d'un VE reçoivent statistiquement plus de projections de gravillons que leurs équivalents thermiques.
+Ce poids supplémentaire se traduit par une pression au sol plus importante, une usure de pneus plus rapide, et surtout **davantage de matière projetée depuis les roues**. Les ailes arrière et les [bas de caisse](/ppf-bas-de-caisse-complet) d'un VE reçoivent statistiquement plus de projections de gravillons que leurs équivalents thermiques.
 
 C'est visible en atelier : les Tesla Model 3 et Y qu'on reçoit pour PPF après 2–3 ans ont souvent des micro-impacts sur les ailes arrière qui surprennent par rapport à ce qu'on voit sur des berlines thermiques équivalentes.
 
@@ -72,7 +72,7 @@ Ces fourchettes intègrent la correction légère de peinture avant pose — qua
 
 ## Produit recommandé
 
-Le **SunTek Ultra PPF** (200 µm) est particulièrement apprécié sur les VE pour sa résistance accrue aux impacts. La couche polyuréthane plus épaisse compense la finesse de la peinture Tesla et d'autres marques. Disponible chez les installateurs certifiés.
+Le **[SunTek](/fiche-technique-suntek-ultra) Ultra PPF** (200 µm) est particulièrement apprécié sur les VE pour sa résistance accrue aux impacts. La couche polyuréthane plus épaisse compense la finesse de la peinture Tesla et d'autres marques. Disponible chez les installateurs certifiés.
 
 [Voir SunTek Ultra PPF en rouleau sur Amazon →](https://www.amazon.fr/s?k=suntek+ultra+ppf+film+protection+200+microns&tag=wrapfinder-21)
 

@@ -21,7 +21,7 @@ Comment le distinguer d'un problème : le changement est uniforme sur toute la s
 
 ### Micro-grains sur le topcoat
 
-Le topcoat auto-cicatrisant "guérit" les micro-rayures, mais les impacts de gravillons un peu plus importants laissent des cratères microscopiques que la cicatrisation ne comble pas. Après des années de route, la surface au toucher peut sembler légèrement moins lisse que sur un film neuf.
+Le topcoat [auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche) "guérit" les micro-rayures, mais les impacts de gravillons un peu plus importants laissent des cratères microscopiques que la cicatrisation ne comble pas. Après des années de route, la surface au toucher peut sembler légèrement moins lisse que sur un film neuf.
 
 C'est du vieillissement normal. Un polish très doux compatible PPF peut améliorer l'aspect.
 
@@ -43,7 +43,7 @@ C'est normal. C'est ce que le film était censé faire.
 
 Le PPF ne doit pas jaunir — pas en 5 ans, pas en 7 ans. Si le film prend une teinte cream ou jaune, c'est un défaut du film lui-même (stabilisants UV insuffisants) ou une exposition à des produits chimiques incompatibles.
 
-Sur les films avec garantie (XPEL, SunTek, Avery, 3M), le jaunissement est un motif de remplacement sous garantie. Conservez vos preuves d'achat et la facture de pose.
+Sur les films avec garantie ([XPEL](/fiche-technique-xpel-ultimate-plus), SunTek, Avery, 3M), le jaunissement est un motif de remplacement sous garantie. Conservez vos preuves d'achat et la facture de pose.
 
 ### Décollements multiples non localisés
 

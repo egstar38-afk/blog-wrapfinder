@@ -66,7 +66,7 @@ Un film mal posé (bords non rentrés, bulles d'air emprisonnées, zones non col
 - Légère jaunissement visible (surtout sur peinture blanche ou claire)
 - Bords soulèvés sur plus de 5 mm en plusieurs endroits
 - Micro-fissures sur les zones de forte flexion (bas de portes)
-- Perte de l'effet auto-cicatrisant (les rayures restent)
+- Perte de l'effet [auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche) (les rayures restent)
 
 **Pour un covering** :
 - Perte de saturation de la couleur (le rouge devient rose, le noir devient gris)
@@ -86,7 +86,7 @@ Mais un covering premium dure souvent aussi longtemps qu'un PPF entrée de gamme
 
 ## Produit recommandé
 
-Le **SunTek ClearBra PPF** dispose d'une garantie fabricant de 10 ans contre le jaunissement, le décollements et les bulles. C'est l'une des rares garanties décennales vérifiables sur le marché PPF.
+Le **[SunTek](/fiche-technique-suntek-ultra) ClearBra PPF** dispose d'une garantie fabricant de 10 ans contre le jaunissement, le décollements et les bulles. C'est l'une des rares garanties décennales vérifiables sur le marché PPF.
 
 [Voir les films SunTek avec garantie 10 ans sur Amazon →](https://www.amazon.fr/s?k=suntek+clearbra+ppf+garantie+10+ans+protection&tag=wrapfinder-21)
 

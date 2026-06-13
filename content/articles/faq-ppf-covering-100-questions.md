@@ -3,6 +3,7 @@ title: "FAQ PPF et covering : 80 questions répondues"
 description: "Les 80 questions les plus posées sur le PPF et le covering automobile. De 'ça coûte combien ?' à 'mon assurance couvre ça ?', toutes les réponses directes et sans jargon."
 category: "ppf-general"
 date: "2026-06-11"
+faq: true
 ---
 
 ## Questions sur le PPF (Protection Film)
@@ -16,10 +17,10 @@ Un film de polyuréthane transparent, collé sur la carrosserie pour absorber le
 Sur une voiture brillante, un PPF bien posé est invisible à l'œil nu. Sous lumière rasante, un léger effet de texture est parfois perceptible en observant de très près.
 
 **Le PPF jaunit ?**
-Un PPF de marque connue avec garantie anti-jaunissement (XPEL, SunTek, Hexis) ne jaunit pas dans les conditions normales. Les films sans garantie ou de mauvaise qualité peuvent jaunir en 3-5 ans.
+Un PPF de marque connue avec garantie anti-jaunissement ([XPEL](/fiche-technique-xpel-ultimate-plus), SunTek, Hexis) ne jaunit pas dans les conditions normales. Les films sans garantie ou de mauvaise qualité peuvent jaunir en 3-5 ans.
 
 **Le PPF se répare tout seul ?**
-Les micro-rayures superficielles oui — le topcoat auto-cicatrisant se referme à 40-70 °C (soleil, heat gun). Les impacts qui traversent le film et touchent la peinture : non.
+Les micro-rayures superficielles oui — le topcoat [auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche) se referme à 40-70 °C (soleil, heat gun). Les impacts qui traversent le film et touchent la peinture : non.
 
 **Combien de temps dure un PPF ?**
 7 à 10 ans pour les marques premium avec garantie. 3 à 5 ans pour les films d'entrée de gamme.
@@ -105,7 +106,7 @@ Pas de polish, pas de cire brillante, pas de sealant à effet lustrant. Shampoin
 Un film vinyle adhésif coloré ou texturé qui recouvre la carrosserie pour en changer l'aspect. Réversible, pas de protection d'impact comme le PPF.
 
 **Combien de temps dure un covering ?**
-5 à 7 ans pour un film cast (coulé) de qualité. 3 à 5 ans pour un film calendré.
+5 à 7 ans pour un [film cast](/film-cast-vs-calandre-difference) (coulé) de qualité. 3 à 5 ans pour un film calendré.
 
 **Le covering abîme la peinture dessous ?**
 Un covering de qualité, posé et retiré correctement, ne laisse aucune trace sur une peinture en bon état. Risque si la peinture est fragile, fraîche ou de mauvaise qualité.

@@ -35,7 +35,7 @@ Sur une voiture de collection sérieuse, la peinture d'usine originale est une p
 
 Avant toute pose sur une voiture ancienne, faites un test d'adhérence et de compatibilité :
 
-1. Nettoyez une petite zone discrète (bord de bas de caisse ou intérieur aile) à l'IPA
+1. Nettoyez une petite zone discrète (bord de [bas de caisse](/ppf-bas-de-caisse-complet) ou intérieur aile) à l'IPA
 2. Posez un petit morceau de film vinyle (10 cm × 10 cm)
 3. Attendez 48 heures
 4. Retirez le film avec une chaleur modérée (40 °C) en tirant à 90 °C lentement
@@ -49,7 +49,7 @@ Si la peinture se soulève, se déchire ou laisse des résidus : ne posez pas de
 
 Sur une voiture de collection, privilégiez les films avec adhésif "low tack" ou "repositionnable" — une adhérence plus faible qui permet une dépose plus sûre.
 
-Des films comme l'Oracal 970 RA (avec canal d'air repositionnable) ou certains films Avery "easy apply" sont plus adaptés que les films à adhésif agressif.
+Des films comme l'[Oracal 970](/fiche-technique-oracal-970) RA (avec canal d'air repositionnable) ou certains films Avery "easy apply" sont plus adaptés que les films à adhésif agressif.
 
 ### Épaisseur modérée
 

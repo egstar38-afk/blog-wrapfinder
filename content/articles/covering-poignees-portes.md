@@ -9,7 +9,7 @@ date: "2025-01-12"
 
 Sur les voitures de série allemandes — BMW, Mercedes, Audi, VW — les poignées de porte sont souvent chromées. Ce chrome peut sembler élégant à l'achat, mais il montre vite des traces de doigts, des éraflures d'ongles, et une oxydation jaunâtre en quelques années.
 
-Le chrome delete consiste à couvrir ces poignées avec un film vinyle satiné noir, mat noir ou anthracite. L'effet visuel est immédiat : la voiture paraît plus épurée, plus moderne, le chrome disparaît et la poignée s'intègre mieux à l'ensemble.
+Le [chrome delete](/covering-chrome-delete) consiste à couvrir ces poignées avec un film vinyle satiné noir, mat noir ou anthracite. L'effet visuel est immédiat : la voiture paraît plus épurée, plus moderne, le chrome disparaît et la poignée s'intègre mieux à l'ensemble.
 
 C'est l'une des modifications esthétiques les plus populaires en covering, et techniquement l'une des plus abordables à réaliser.
 

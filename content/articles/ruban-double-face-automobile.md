@@ -9,7 +9,7 @@ date: "2024-02-08"
 
 Le ruban adhésif double face est omniprésent en carrosserie automobile. Il permet de fixer sans perçage et sans vis une large gamme d'éléments :
 
-- **Baguettes de protection** latérales et de bas de caisse
+- **Baguettes de protection** latérales et de [bas de caisse](/ppf-bas-de-caisse-complet)
 - **Écussons et logos** de marque (capot, coffre, ailes)
 - **Moulures de porte** et enjoliveurs
 - **Joints d'étanchéité** de vitrages

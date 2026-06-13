@@ -30,6 +30,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly' as const,
       priority: 1,
     },
+    {
+      url: 'https://blog.wrapfinder.fr/a-propos',
+      lastModified: new Date(),
+      changeFrequency: 'yearly' as const,
+      priority: 0.5,
+    },
+    {
+      url: 'https://blog.wrapfinder.fr/contact',
+      lastModified: new Date(),
+      changeFrequency: 'yearly' as const,
+      priority: 0.4,
+    },
     ...categoryUrls,
     ...articleUrls,
   ]

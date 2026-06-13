@@ -29,7 +29,7 @@ Le covering tient bien sur l'ABS, sauf si la surface est texturée (grain cuir, 
 
 ### Polypropylène (PP) non traité
 
-Certains habillages intérieurs bon marché sont en PP. Le PP est difficile à coller (faible énergie de surface). Sans primer PP, le film se décolle en quelques semaines, quelle que soit la qualité du vinyle.
+Certains habillages intérieurs bon marché sont en PP. Le PP est difficile à coller (faible énergie de surface). Sans [primer PP](/primer-pp-mode-emploi-complet), le film se décolle en quelques semaines, quelle que soit la qualité du vinyle.
 
 Avant de commencer, identifiez le matériau sur la face arrière de la pièce (marquage moulé). Si c'est PP ou PP+EPDM, appliquez un primer PP avant la pose.
 

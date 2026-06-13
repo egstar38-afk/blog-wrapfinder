@@ -33,7 +33,7 @@ C'est la raison pour laquelle les voitures qui passent un seul hiver avec des bo
 
 ### Ce qui résiste le mieux aux cycles gel-dégel
 
-Les films avec un adhésif haute performance (XPEL, SunTek Ultra) résistent mieux aux cycles gel-dégel que les films d'entrée de gamme, car leur adhésif reste plus élastique à basse température.
+Les films avec un adhésif haute performance ([XPEL](/fiche-technique-xpel-ultimate-plus), SunTek Ultra) résistent mieux aux cycles gel-dégel que les films d'entrée de gamme, car leur adhésif reste plus élastique à basse température.
 
 Les bords bien rentrés (rentrés derrière une arête de carrosserie plutôt que terminés sur une surface plane) résistent infiniment mieux aux cycles gel-dégel que les bords posés sur une surface plane.
 

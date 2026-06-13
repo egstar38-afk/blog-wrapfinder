@@ -45,7 +45,7 @@ Le seul point critique : **la peinture fraîche dégage des solvants pendant 60 
 
 ## Le délai avant repose : 60 jours minimum
 
-Ce délai est la règle quasi universelle chez les poseurs PPF sérieux. Certains marques comme XPEL recommandent même 90 jours sur les peintures à base eau (waterborne) désormais standards en Europe.
+Ce délai est la règle quasi universelle chez les poseurs PPF sérieux. Certains marques comme [XPEL](/fiche-technique-xpel-ultimate-plus) recommandent même 90 jours sur les peintures à base eau (waterborne) désormais standards en Europe.
 
 Ce délai commence à partir de la date de fin de travaux de peinture, pas de la date de l'accident.
 

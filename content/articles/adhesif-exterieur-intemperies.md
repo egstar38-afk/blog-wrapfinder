@@ -38,7 +38,7 @@ Un point critique souvent ignoré : même un adhésif résistant au gel ne doit 
 
 ## L'humidité et l'immersion partielle
 
-Pour les zones exposées à une humidité permanente (bas de caisse, zones de projection d'eau, véhicules en zone côtière), l'adhésif doit résister à la pénétration capillaire aux interfaces.
+Pour les zones exposées à une humidité permanente ([bas de caisse](/ppf-bas-de-caisse-complet), zones de projection d'eau, véhicules en zone côtière), l'adhésif doit résister à la pénétration capillaire aux interfaces.
 
 Les adhésifs à bonne résistance à l'humidité :
 - Silicones neutres ou à l'acétate (étanchéité parfaite, mais résistance mécanique modeste)

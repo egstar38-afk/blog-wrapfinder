@@ -12,7 +12,7 @@ La question revient tout le temps : "Est-ce que le PPF va changer la couleur de 
 
 ## La transparence du PPF : presque parfaite, pas totale
 
-Le PPF transparent laisse passer la lumière avec une distorsion minimale. Les films de qualité premium (XPEL, SunTek, Avery) ont un clarity index supérieur à 95 % — la peinture vue à travers le film ressemble à la peinture nue.
+Le PPF transparent laisse passer la lumière avec une distorsion minimale. Les films de qualité premium ([XPEL](/fiche-technique-xpel-ultimate-plus), SunTek, Avery) ont un clarity index supérieur à 95 % — la peinture vue à travers le film ressemble à la peinture nue.
 
 Mais "95 % transparent" n'est pas "100 % invisible". Il y a une légère couche supplémentaire sur la carrosserie — et cette couche a des effets.
 
@@ -39,7 +39,7 @@ Les PPF de mauvaise qualité ou anciens peuvent jaunir avec les UV. Un film jaun
 - Durée d'exposition
 - Conditions climatiques (climat méditerranéen plus agressif qu'un climat nordique)
 
-Les films premium (XPEL, SunTek, 3M Pro) sont garantis anti-jaunissement pendant la durée de garantie (5 à 10 ans). Les films d'entrée de gamme peuvent jaunir en 18 à 36 mois.
+Les films premium (XPEL, [SunTek](/fiche-technique-suntek-ultra), 3M Pro) sont garantis anti-jaunissement pendant la durée de garantie (5 à 10 ans). Les films d'entrée de gamme peuvent jaunir en 18 à 36 mois.
 
 ## L'effet "bande" aux jonctions
 

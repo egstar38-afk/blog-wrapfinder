@@ -17,7 +17,7 @@ Ce guide vous donne une vision réaliste du processus, du matériel indispensabl
 
 Pour une pose réussie, vous aurez besoin de :
 
-- **Film PPF pré-découpé** (gabarits disponibles chez XPEL, SunTek, Avery Dennison pour la plupart des modèles)
+- **Film PPF pré-découpé** (gabarits disponibles chez [XPEL](/fiche-technique-xpel-ultimate-plus), SunTek, Avery Dennison pour la plupart des modèles)
 - **Solution d'installation** : mélange eau + quelques gouttes de liquide vaisselle ou solution dédiée
 - **Raclette PPF souple** (type Olfa ou raclette en teflon, pas en plastique dur)
 - **Pistolet à chaleur ou sèche-cheveux** réglé entre 40 et 60 °C
@@ -78,7 +78,7 @@ Chauffez légèrement le bord avec le pistolet et appuyez fermement avec la racl
 Pour un premier essai, évitez les surfaces complexes et commencez par :
 
 - **Seuils de porte** : surfaces planes, relativement faciles d'accès
-- **Baguettes de bas de caisse** droites
+- **Baguettes de [bas de caisse](/ppf-bas-de-caisse-complet)** droites
 - **Protection de poignées de porte** (petits gabarits prédécoupés)
 - **Rétroviseurs** (surface modeste, résultat visible rapidement)
 

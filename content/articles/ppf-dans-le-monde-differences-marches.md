@@ -13,7 +13,7 @@ Les États-Unis ont inventé le PPF civil et restent le marché de référence. 
 
 **Réseau installateurs dense** : des milliers d'ateliers certifiés, présents y compris dans des villes moyennes. La concurrence maintient les prix accessibles — un pack avant peut être 30 à 40 % moins cher qu'en France à qualité égale.
 
-**Innovation** : XPEL, SunTek, Avery Dennison, Llumar sont tous américains ou à forte présence US. Les nouvelles gammes sortent en Amérique du Nord 12 à 18 mois avant d'arriver en Europe.
+**Innovation** : [XPEL](/fiche-technique-xpel-ultimate-plus), SunTek, Avery Dennison, Llumar sont tous américains ou à forte présence US. Les nouvelles gammes sortent en Amérique du Nord 12 à 18 mois avant d'arriver en Europe.
 
 **Maturité client** : les acheteurs américains de voiture neuve demandent souvent le PPF comme option chez le concessionnaire — le "dealer install" est un canal de distribution normal aux USA, quasiment inexistant en Europe.
 

@@ -9,7 +9,7 @@ date: "2025-03-23"
 
 Les baguettes latérales chromées ou teintées qui courent sur les portières d'une voiture sont là pour la protection (petits chocs de parking, ouvertures de portes de voitures adjacentes) et pour l'esthétique. En usine, elles sont collées, parfois clipées ou vissées.
 
-Quand vient le moment de les déposer — pour le chrome delete, pour en poser de neuves, ou simplement parce qu'une baguette a été arrachée en parking — la difficulté est de ne pas abîmer la peinture dessous.
+Quand vient le moment de les déposer — pour le [chrome delete](/covering-chrome-delete), pour en poser de neuves, ou simplement parce qu'une baguette a été arrachée en parking — la difficulté est de ne pas abîmer la peinture dessous.
 
 ## Identifier le mode de fixation
 

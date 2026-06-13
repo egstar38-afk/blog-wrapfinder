@@ -19,7 +19,7 @@ Le coût d'un PPF pack avant sur l'ensemble du parc : si les véhicules sont en 
 
 ## Ce qui se prête bien au PPF en flotte
 
-**Véhicules de chantier** (BTP, industries) : exposés aux gravillons, boue, projections. Le PPF sur les zones avant et les bas de caisse est particulièrement rentable.
+**Véhicules de chantier** (BTP, industries) : exposés aux gravillons, boue, projections. Le PPF sur les zones avant et les [bas de caisse](/ppf-bas-de-caisse-complet) est particulièrement rentable.
 
 **Véhicules commerciaux hauts de gamme** (commerciaux, direction) : une Série 5 ou une Classe E de représentation doit être présentée propre. Un PPF garantit que la carrosserie reste impeccable.
 

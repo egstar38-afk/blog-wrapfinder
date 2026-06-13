@@ -88,7 +88,7 @@ Marques connues pour leur compatibilité PPF : Gyeon, Gtechniq, CarPro, IGL Coat
 
 ## Produit recommandé
 
-Le **CarPro DLUX PPF Coating** est un revêtement céramique SiO2 spécifiquement formulé pour les topcoats de PPF. Compatibilité certifiée XPEL, SunTek, Avery. Durée de vie 12 à 18 mois avec entretien normal.
+Le **CarPro DLUX PPF Coating** est un revêtement céramique SiO2 spécifiquement formulé pour les topcoats de PPF. Compatibilité certifiée [XPEL](/fiche-technique-xpel-ultimate-plus), SunTek, Avery. Durée de vie 12 à 18 mois avec entretien normal.
 
 [Voir le CarPro DLUX PPF Coating sur Amazon →](https://www.amazon.fr/s?k=carpro+dlux+ppf+coating+ceramique+film+protection&tag=wrapfinder-21)
 

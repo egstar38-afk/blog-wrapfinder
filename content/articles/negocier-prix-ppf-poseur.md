@@ -43,7 +43,7 @@ Si vous faites partie d'un club auto ou d'une communauté de passionnés et que 
 
 ### La qualité du film
 
-Si un poseur vous propose un tarif 40 % moins cher en remplaçant l'XPEL Ultimate par un film "équivalent" non certifié : ce n'est pas une économie, c'est un changement de produit. Vous achetez une chose différente.
+Si un poseur vous propose un tarif 40 % moins cher en remplaçant l'[XPEL](/fiche-technique-xpel-ultimate-plus) Ultimate par un film "équivalent" non certifié : ce n'est pas une économie, c'est un changement de produit. Vous achetez une chose différente.
 
 ### La préparation et la décontamination
 
@@ -59,7 +59,7 @@ La différence entre une pose à 800 € et une pose à 1400 € sur un même fi
 
 **Comparez ce qui est comparable** : un devis doit préciser la marque du film, la gamme, la surface couverte et la garantie. Deux devis avec des infos différentes ne sont pas comparables.
 
-**Vérifiez les certifications** : un atelier certifié par le fabricant du film (XPEL, SunTek, etc.) a accès aux gabarits logiciels officiels et sa pose est couverte par la garantie fabricant. C'est un critère objectif de qualité.
+**Vérifiez les certifications** : un atelier certifié par le fabricant du film (XPEL, [SunTek](/fiche-technique-suntek-ultra), etc.) a accès aux gabarits logiciels officiels et sa pose est couverte par la garantie fabricant. C'est un critère objectif de qualité.
 
 ## Les red flags dans les devis très bas
 

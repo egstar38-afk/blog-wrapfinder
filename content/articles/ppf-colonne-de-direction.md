@@ -34,7 +34,7 @@ Moins visible mais réel sur les 3–4 premières années.
 La colonne de direction est généralement revêtue d'ABS, de PP peint, ou de PC+ABS. Les colonnes de direction peintes en carrosserie (voitures sportives ou personnalisées) : traitement identique à la carrosserie extérieure.
 
 Sur l'ABS brut ou peint : adhérence directe, pas de primer nécessaire.
-Sur le PP : primer PP avant pose.
+Sur le PP : [primer PP](/primer-pp-mode-emploi-complet) avant pose.
 
 ### Les contraintes spécifiques à cette zone
 
@@ -71,7 +71,7 @@ C'est le type de protection qu'on combine avec d'autres zones pour que le dépla
 
 ## Produit recommandé
 
-Le **XPEL DAP (Do-It-Yourself) en rouleau 15 cm × 50 cm** est parfait pour les zones intérieures : largeur adaptée aux colonnes de direction et aux montants de porte, film 150 µm auto-cicatrisant.
+Le **[XPEL](/fiche-technique-xpel-ultimate-plus) DAP (Do-It-Yourself) en rouleau 15 cm × 50 cm** est parfait pour les zones intérieures : largeur adaptée aux colonnes de direction et aux montants de porte, film 150 µm auto-cicatrisant.
 
 [Voir les kits PPF intérieur XPEL DAP sur Amazon →](https://www.amazon.fr/s?k=xpel+ppf+kit+intérieur+colonne+direction+transparent&tag=wrapfinder-21)
 

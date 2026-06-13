@@ -15,7 +15,7 @@ Le PPF sur poignée de porte, c'est petit, rapide, peu coûteux, et on le remarq
 
 ## Les gabarits : la solution qui simplifie tout
 
-La grande majorité des véhicules courants ont un gabarit PPF disponible pour les zones de poignées. Les bases de données XPEL, SunTek et Filmac couvrent des milliers de modèles.
+La grande majorité des véhicules courants ont un gabarit PPF disponible pour les zones de poignées. Les bases de données [XPEL](/fiche-technique-xpel-ultimate-plus), SunTek et Filmac couvrent des milliers de modèles.
 
 Un gabarit de poignée se présente en kit de 4 pièces (une par porte), pré-découpé à la forme exacte de la zone vulnérable. Certains kits incluent la poignée elle-même, d'autres couvrent uniquement le creux de coulée sous la poignée.
 
@@ -71,7 +71,7 @@ Ce pack coûte généralement 250 à 500 € pour les 4 portes, selon le véhicu
 
 ## Produit recommandé
 
-Les **kits de protection de poignées Clear Shield** couvrent les 4 portes pour la plupart des modèles courants. Gabarits pré-découpés, film 150 µm, auto-cicatrisant sur les griffures légères.
+Les **kits de protection de poignées Clear Shield** couvrent les 4 portes pour la plupart des modèles courants. Gabarits pré-découpés, film 150 µm, [auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche) sur les griffures légères.
 
 [Voir les kits PPF poignées de porte sur Amazon →](https://www.amazon.fr/s?k=kit+protection+poignée+porte+ppf+transparent+anti+griffure&tag=wrapfinder-21)
 

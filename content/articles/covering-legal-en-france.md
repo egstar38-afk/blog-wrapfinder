@@ -27,7 +27,7 @@ Les contrôles routiers sur le seul motif "la couleur du véhicule ne correspond
 
 Les situations qui peuvent poser problème :
 - Un covering de couleur très différente de la carte grise ET combiné à d'autres infractions
-- Un film chrome miroir qui éblouit (voir l'article dédié)
+- Un film [chrome miroir](/covering-chrome-miroir) qui éblouit (voir l'article dédié)
 - Des films phosphorescents ou lumineux qui pourraient être confondus avec des feux
 
 ## Le contrôle technique

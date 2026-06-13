@@ -61,7 +61,7 @@ Les portières sont plus simples que les ailes dans 90 % des cas. Deux zones à 
 
 ### 7. Les bas de caisse
 
-Derniers posés. Ils reçoivent des impacts, des projections de gravillons et des coups de pied réguliers. Certains poseurs choisissent un film plus épais (120 µm vs 80 µm standard) sur les bas de caisse pour une durée de vie accrue.
+Derniers posés. Ils reçoivent des impacts, des projections de gravillons et des coups de pied réguliers. Certains poseurs choisissent un film plus épais (120 µm vs 80 µm standard) sur les [bas de caisse](/ppf-bas-de-caisse-complet) pour une durée de vie accrue.
 
 ### 8. Le coffre / hayon
 

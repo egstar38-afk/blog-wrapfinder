@@ -19,7 +19,7 @@ Les bords sont la zone la plus sensible. Allez-y avec une bonne lumière rasante
 
 - Le bord avant du capot (le plus exposé au sel en suspension sur route)
 - Les bords des ailes, là où le film s'arrête dans les jointures
-- Le bas des portières et des bas de caisse
+- Le bas des portières et des [bas de caisse](/ppf-bas-de-caisse-complet)
 - Le pourtour du pare-chocs avant
 
 Ce que vous cherchez : un bord qui se soulève, même légèrement. Un film bien adhéré doit être impossible à décoller avec l'ongle sans forcer. Si vous pouvez glisser l'ongle sous le bord sans résistance, c'est un début de décollement.

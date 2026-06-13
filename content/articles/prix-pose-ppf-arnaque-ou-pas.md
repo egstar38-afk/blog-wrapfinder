@@ -15,7 +15,7 @@ Un devis très bas n'est pas forcément une arnaque au sens légal, mais il sign
 
 ### La qualité du film
 
-C'est là que les économies se font le plus facilement — et le moins visiblement au moment de la pose. Un film PPF générique sans marque coûte 2 à 4 €/m². Un film XPEL ou Llumar coûte 8 à 12 €/m².
+C'est là que les économies se font le plus facilement — et le moins visiblement au moment de la pose. Un film PPF générique sans marque coûte 2 à 4 €/m². Un film [XPEL](/fiche-technique-xpel-ultimate-plus) ou Llumar coûte 8 à 12 €/m².
 
 La différence en euros sur un full body berline (20–30 m²) : entre 100 et 250 € de film générique vs 200–360 € de film premium. La différence en durée de vie : le générique jaunit en 3 à 5 ans et se décolle. Le premium tient 8 à 12 ans avec garantie fabricant.
 
@@ -27,7 +27,7 @@ Deux méthodes existent :
 
 **Découpe bulk (à la main sur la voiture)** : le poseur découpe le film directement sur la carrosserie. Moins coûteux en investissement initial pour le poseur, mais plus long et moins précis. Risque de marques de cutter si le poseur n'est pas précis.
 
-**Découpe ploter (gabarits pré-découpés)** : le film est découpé à la machine selon les gabarits spécifiques au véhicule (XPEL, SunTek et d'autres fournissent ces gabarits). Plus précis, moins de chutes, bords plus propres.
+**Découpe ploter (gabarits pré-découpés)** : le film est découpé à la machine selon les gabarits spécifiques au véhicule (XPEL, [SunTek](/fiche-technique-suntek-ultra) et d'autres fournissent ces gabarits). Plus précis, moins de chutes, bords plus propres.
 
 Les poseurs avec plotter ont un investissement matériel de 5 000 à 20 000 €. Ceux sans travaillent en découpe bulk. Ce n'est pas automatiquement mieux ou moins bien — mais la transparence sur la méthode est une indication du niveau du poseur.
 

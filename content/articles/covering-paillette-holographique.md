@@ -35,7 +35,7 @@ Sur un véhicule de série en usage quotidien, les films à grosses paillettes v
 
 ### Différence avec le color shift
 
-Le film holographique est souvent confondu avec le film color shift. La différence :
+Le film holographique est souvent confondu avec le film [color shift](/covering-couleur-changeante-color-shift). La différence :
 
 **Color shift** : change de couleur selon l'angle de vue — une seule couleur visible à chaque angle, mais différente selon l'angle.
 

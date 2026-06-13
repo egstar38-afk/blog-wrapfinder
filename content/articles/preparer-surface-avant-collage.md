@@ -58,7 +58,7 @@ Les plastiques sont les substrats les plus complexes à coller. Chaque formulati
 **Polypropylène (PP) et polyéthylène (PE)** : ces plastiques à faible énergie de surface sont les plus difficiles. Ils nécessitent systématiquement un traitement de surface :
 
 - **Flambage** : passage rapide d'une flamme à 5–10 cm de la surface pendant 1–2 secondes — oxyde la surface et augmente son énergie de surface
-- **Primer PP/PE** : produit chimique qui modifie la surface pour l'accrochage
+- **[Primer PP](/primer-pp-mode-emploi-complet)/PE** : produit chimique qui modifie la surface pour l'accrochage
 
 **ABS, polycarbonate, PVC** : énergie de surface plus élevée, meilleure compatibilité avec la plupart des adhésifs acryliques. Dégraissage à l'IPA suffisant dans la plupart des cas.
 

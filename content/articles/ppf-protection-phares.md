@@ -57,7 +57,7 @@ Après la pose d'un PPF sur phare, ne lavez pas le véhicule avant **72 heures m
 
 ## Durée de vie et quand renouveler
 
-Avec un film de qualité (XPEL, Llumar, SunTek), une protection PPF pour phares dure **5 à 8 ans** sur un phare neuf. Les signaux qui indiquent qu'il est temps de renouveler :
+Avec un film de qualité ([XPEL](/fiche-technique-xpel-ultimate-plus), Llumar, SunTek), une protection PPF pour phares dure **5 à 8 ans** sur un phare neuf. Les signaux qui indiquent qu'il est temps de renouveler :
 
 - Le film commence à montrer une légère turbidité propre (pas le phare dessous)
 - Les bords se soulèvent sur plus de 2–3 mm
@@ -77,7 +77,7 @@ Comparé au prix d'un phare LED de remplacement (souvent 500 à 1 500 € par un
 
 ## Produit recommandé
 
-Le **Llumar ATR Clear** pour optiques est un film spécifiquement formulé pour le polycarbonate des phares : couche UV blocante renforcée, adhésif repositionnable pour la pose, et transparence à 99 % sans teinte. Disponible en rouleaux de 30 cm de large, idéal pour les phares sans gabarit disponible.
+Le **[Llumar](/fiche-technique-llumar-ppf) ATR Clear** pour optiques est un film spécifiquement formulé pour le polycarbonate des phares : couche UV blocante renforcée, adhésif repositionnable pour la pose, et transparence à 99 % sans teinte. Disponible en rouleaux de 30 cm de large, idéal pour les phares sans gabarit disponible.
 
 [Voir les films PPF pour phares Llumar sur Amazon →](https://www.amazon.fr/s?k=llumar+film+protection+phares+transparent+ppf&tag=wrapfinder-21)
 

@@ -124,6 +124,39 @@ export function getRelatedArticles(slug: string, category: Category, count = 6):
   return related
 }
 
+export interface FaqItem {
+  question: string
+  answer: string
+}
+
+/**
+ * Extrait les paires question/réponse d'un article marqué `faq: true` en frontmatter.
+ * Format attendu : une ligne `**Question ?**` suivie de la réponse (lignes jusqu'au saut).
+ * Retourne [] pour les articles non-FAQ (aucun balisage généré).
+ */
+export function getFaqItems(slug: string): FaqItem[] {
+  const fullPath = path.join(articlesDir, `${slug}.md`)
+  const raw = fs.readFileSync(fullPath, 'utf8')
+  const { data, content } = matter(raw)
+  if (data.faq !== true) return []
+
+  const items: FaqItem[] = []
+  const lines = content.split(/\r?\n/)
+  for (let i = 0; i < lines.length; i++) {
+    const m = lines[i].match(/^\*\*(.+\?)\*\*\s*$/)
+    if (!m) continue
+    const answerLines: string[] = []
+    for (let j = i + 1; j < lines.length; j++) {
+      const l = lines[j].trim()
+      if (l === '' || l.startsWith('#') || /^\*\*.+\?\*\*$/.test(l)) break
+      answerLines.push(l)
+    }
+    const answer = answerLines.join(' ').trim()
+    if (answer) items.push({ question: m[1].trim(), answer })
+  }
+  return items
+}
+
 export function getAllSlugs(): string[] {
   return fs
     .readdirSync(articlesDir)

@@ -7,7 +7,7 @@ date: "2026-02-15"
 
 ## Les certifications poseur PPF : une valeur ajoutée réelle ou du marketing ?
 
-Les grandes marques de PPF ont toutes leur programme de certification. Être certifié XPEL, Avery ou 3M n'est pas juste un logo sur votre site — ça ouvre des avantages concrets et des responsabilités réelles.
+Les grandes marques de PPF ont toutes leur programme de certification. Être certifié [XPEL](/fiche-technique-xpel-ultimate-plus), Avery ou 3M n'est pas juste un logo sur votre site — ça ouvre des avantages concrets et des responsabilités réelles.
 
 Voici le comparatif honnête de ce que chaque programme offre.
 
@@ -78,7 +78,7 @@ Formation : 500 à 1 500 €.
 
 Programme similaire aux autres grandes marques. Formation 3 à 5 jours, évaluation pratique, accès aux prix distributeur et à la garantie fabricant.
 
-**Particularité** : SunTek est distribué par Eastman aux États-Unis, avec un réseau européen plus restreint. La certification SunTek est moins connue du grand public mais reconnue dans le milieu professionnel.
+**Particularité** : [SunTek](/fiche-technique-suntek-ultra) est distribué par Eastman aux États-Unis, avec un réseau européen plus restreint. La certification SunTek est moins connue du grand public mais reconnue dans le milieu professionnel.
 
 ## Vaut-il mieux être certifié une marque ou plusieurs ?
 

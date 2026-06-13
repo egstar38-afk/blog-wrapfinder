@@ -17,7 +17,7 @@ Le clarity index mesure la transparence optique d'un film. Un film à clarity in
 
 Un film à clarity index faible introduit un léger voile ou une distorsion qui modifie la perception de la peinture dessous.
 
-Sur une peinture mate, ce voile est presque imperceptible. Sur une peinture métallisée, en revanche, le moindre voile affecte l'éclat des paillettes — la peinture paraît moins "vive", moins "profonde".
+Sur une [peinture mate](/ppf-sur-peinture-mate), ce voile est presque imperceptible. Sur une peinture métallisée, en revanche, le moindre voile affecte l'éclat des paillettes — la peinture paraît moins "vive", moins "profonde".
 
 **Les films PPF premium ont des clarity index > 95 %**. Les films d'entrée de gamme peuvent descendre à 80–85 %, ce qui est visible sur les métallisés foncés.
 

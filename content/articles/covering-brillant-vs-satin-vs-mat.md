@@ -24,7 +24,7 @@ Le lavage est compatible avec tous les types d'équipements (gant, mousse, porti
 
 ### Durabilité
 
-La surface brillante réfléchit une partie des UV, ce qui contribue à une légère meilleure durabilité du topcoat par rapport au mat. En pratique : 7-10 ans sur un film cast premium brillant.
+La surface brillante réfléchit une partie des UV, ce qui contribue à une légère meilleure durabilité du topcoat par rapport au mat. En pratique : 7-10 ans sur un [film cast](/film-cast-vs-calandre-difference) premium brillant.
 
 ### Pour qui
 
@@ -59,7 +59,7 @@ Pour les passionnés prêts à consacrer du temps à l'entretien, les véhicules
 
 ### Aspect et rendu
 
-Entre les deux. Une légère brillance diffuse, sans reflets nets. L'effet "satin" ressemble à la peinture mate de certains constructeurs premium (BMW Frozen, Porsche Exclusif) — subtil et élégant.
+Entre les deux. Une légère brillance diffuse, sans reflets nets. L'effet "satin" ressemble à la [peinture mate](/ppf-sur-peinture-mate) de certains constructeurs premium (BMW Frozen, Porsche Exclusif) — subtil et élégant.
 
 ### Entretien
 

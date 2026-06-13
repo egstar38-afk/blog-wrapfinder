@@ -67,7 +67,7 @@ Un chiffon microfibre avec du shampoing auto pH neutre ou de l'IPA dilué à 30 
 
 ## Cas particulier : la vidange faite soi-même
 
-En atelier maison, le risque de projection d'huile de vidange sur le pare-chocs ou la jupe avant est réel. Si vous faites votre vidange avec un PPF sur le bas de caisse :
+En atelier maison, le risque de projection d'huile de vidange sur le pare-chocs ou la jupe avant est réel. Si vous faites votre vidange avec un PPF sur le [bas de caisse](/ppf-bas-de-caisse-complet) :
 
 - Protégez la zone avec une bâche ou du film alimentaire scotché temporairement
 - Gardez un bidon d'IPA dilué et des microfibres propres à portée de main

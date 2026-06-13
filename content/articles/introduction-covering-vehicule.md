@@ -37,7 +37,7 @@ C'est là que le covering prend tout son intérêt visuel. Là où la carrosseri
 
 ## Durée de vie réelle : soyons honnêtes
 
-Les fabricants annoncent 5 à 7 ans pour les films de qualité. Dans la pratique, ça dépend de beaucoup de facteurs. Un film Avery Dennison Supreme Wrapping Film posé proprement sur une berline garée en garage à Lyon durera facilement 6 à 7 ans. Le même film sur un utilitaire qui dort dehors toute l'année à Marseille : comptez 3 à 4 ans avant que les bords commencent à se soulever et que les couleurs jaunissent.
+Les fabricants annoncent 5 à 7 ans pour les films de qualité. Dans la pratique, ça dépend de beaucoup de facteurs. Un film Avery Dennison [Supreme Wrapping Film](/fiche-technique-avery-dennison-swf) posé proprement sur une berline garée en garage à Lyon durera facilement 6 à 7 ans. Le même film sur un utilitaire qui dort dehors toute l'année à Marseille : comptez 3 à 4 ans avant que les bords commencent à se soulever et que les couleurs jaunissent.
 
 Les facteurs qui raccourcissent la durée de vie :
 - L'exposition permanente aux UV sans abri

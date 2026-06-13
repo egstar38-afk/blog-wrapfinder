@@ -7,7 +7,7 @@ date: "2024-04-05"
 
 ## Pourquoi l'entretien du PPF est-il indispensable ?
 
-Un film de protection peinture (PPF) est conçu pour durer de 7 à 10 ans, mais cette durée dépend en grande partie de la façon dont vous l'entretenez. Un entretien négligé peut provoquer un jaunissement prématuré, des décollements sur les bords, ou une perte de l'effet auto-cicatrisant. À l'inverse, quelques gestes simples au quotidien suffisent à maintenir votre PPF en parfait état pendant de nombreuses années.
+Un film de protection peinture (PPF) est conçu pour durer de 7 à 10 ans, mais cette durée dépend en grande partie de la façon dont vous l'entretenez. Un entretien négligé peut provoquer un jaunissement prématuré, des décollements sur les bords, ou une perte de l'effet [auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche). À l'inverse, quelques gestes simples au quotidien suffisent à maintenir votre PPF en parfait état pendant de nombreuses années.
 
 Ce guide est destiné aux personnes qui viennent de faire poser un PPF et qui ne savent pas exactement comment l'entretenir. Bonne nouvelle : les contraintes sont minimes, à condition de connaître les règles de base.
 

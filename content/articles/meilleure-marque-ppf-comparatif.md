@@ -16,17 +16,17 @@ Cette comparaison porte sur les marques que les poseurs professionnels utilisent
 
 ### XPEL Ultimate Plus
 
-XPEL est la marque de référence la plus citée en haut de gamme, particulièrement aux États-Unis mais aussi en Europe. L'Ultimate Plus est leur produit phare.
+[XPEL](/fiche-technique-xpel-ultimate-plus) est la marque de référence la plus citée en haut de gamme, particulièrement aux États-Unis mais aussi en Europe. L'Ultimate Plus est leur produit phare.
 
 **Points forts** :
 - Garantie fabricant de 10 ans (la plus longue du marché sur les grandes marques)
-- Topcoat auto-cicatrisant parmi les plus rapides (rayures légères disparaissent en 15–20 min au soleil)
+- Topcoat [auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche) parmi les plus rapides (rayures légères disparaissent en 15–20 min au soleil)
 - Clarté optique excellente (0 % de teinte perceptible sur les couleurs claires)
 - Réseau de poseurs certifiés avec formation officielle
 - Base de données de gabarits très complète (+ de 80 000 modèles)
 
 **Points faibles** :
-- Prix plus élevé que la moyenne (+15 à 25 % par rapport à SunTek ou Llumar)
+- Prix plus élevé que la moyenne (+15 à 25 % par rapport à [SunTek](/fiche-technique-suntek-ultra) ou Llumar)
 - Disponibilité en France moins large que 3M
 
 **Pour qui** : propriétaires qui veulent le meilleur et le plus long sans compromis.

@@ -37,7 +37,7 @@ Hexis est surtout connue pour ses films vinyle de signalétique et de covering (
 | Prix relatif | ★★★☆☆ | ★★★★★ | ★★★★☆ |
 | Fabrication | France | USA | USA |
 
-L'épaisseur moindre (150 vs 200 µm) est le principal point de différence technique avec XPEL. Elle se traduit par une légère différence de résistance aux impacts à haute énergie — en pratique peu perceptible pour une utilisation routière standard.
+L'épaisseur moindre (150 vs 200 µm) est le principal point de différence technique avec [XPEL](/fiche-technique-xpel-ultimate-plus). Elle se traduit par une légère différence de résistance aux impacts à haute énergie — en pratique peu perceptible pour une utilisation routière standard.
 
 ## Le gabarit logiciel : Papilio Pro
 
@@ -63,7 +63,7 @@ Hexis utilise le logiciel **Papilio Pro** pour la découpe numérique. La base d
 - Les clients qui privilégient le Made in France
 - Les véhicules européens courants (la base Papilio est optimisée Europe)
 - Les budgets légèrement contraints sans vouloir sacrifier la qualité
-- Les zones géographiques où le réseau Hexis est plus dense qu'XPEL ou SunTek
+- Les zones géographiques où le réseau Hexis est plus dense qu'XPEL ou [SunTek](/fiche-technique-suntek-ultra)
 
 **Moins adapté si** :
 - Vous voulez la garantie la plus longue (7 ans vs 10 ans pour XPEL/SunTek)

@@ -9,7 +9,7 @@ date: "2026-04-06"
 
 La décoloration UV d'un covering vinyle est un phénomène réel, mais son ampleur dépend énormément de la couleur choisie, de la marque du film et des conditions d'utilisation.
 
-Un blanc mat Oracal 970 garé en sous-sol à Paris : aucun signe de décoloration en 5 ans. Un rouge vif calandré entrée de gamme en Provence, parking plein soleil toute l'année : décoloration visible en 18 mois. Ce n'est pas la même situation et le résultat ne peut pas être le même.
+Un blanc mat [Oracal 970](/fiche-technique-oracal-970) garé en sous-sol à Paris : aucun signe de décoloration en 5 ans. Un rouge vif calandré entrée de gamme en Provence, parking plein soleil toute l'année : décoloration visible en 18 mois. Ce n'est pas la même situation et le résultat ne peut pas être le même.
 
 ## Les couleurs les plus sensibles aux UV
 
@@ -37,7 +37,7 @@ Les paillettes et effets nacrés sont sensibles aux UV parce que les effets opti
 
 ## Ce que la qualité du film change
 
-Un film casting premium (3M 2080, Avery SWF, Oracal 970RA) contient des packages de stabilisants UV intégrés dans la formulation PVC. Ces stabilisants absorbent les UV à la place des pigments et ralentissent la dégradation.
+Un film casting premium ([3M 2080](/fiche-technique-3m-2080), Avery SWF, Oracal 970RA) contient des packages de stabilisants UV intégrés dans la formulation PVC. Ces stabilisants absorbent les UV à la place des pigments et ralentissent la dégradation.
 
 Un film calandré bas de gamme a des stabilisants moins performants et une durée de vie annoncée de 3 à 5 ans vs 7 à 10 ans pour les films casting. La décoloration commence souvent dans la 3e ou 4e année sur les films calandrés exposés.
 

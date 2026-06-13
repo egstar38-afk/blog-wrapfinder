@@ -15,7 +15,7 @@ Ce guide détaille la méthode recommandée pour retirer un PPF sans abîmer la 
 
 ### Les raisons habituelles de retrait
 
-- **Film vieillissant** : jaunissement, turbidité, perte d'effet auto-cicatrisant
+- **Film vieillissant** : jaunissement, turbidité, perte d'effet [auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche)
 - **Décollements généralisés** : les bords se soulèvent sur une grande surface
 - **Dommages mécaniques** : le film a été perforé par un impact important
 - **Remplacement par un film neuf** : renouveler la protection sans interposer deux couches

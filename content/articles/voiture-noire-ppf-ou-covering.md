@@ -29,7 +29,7 @@ Avec un PPF full body, les swirls sont effectivement éliminés sur l'ensemble d
 
 ### L'auto-cicatrisation : l'avantage spécifique au noir
 
-Sur une peinture noire, les micro-rayures superficielles sont très visibles. L'auto-cicatrisation des PPF premium (XPEL, SunTek Ultra) est particulièrement appréciée sur le noir — elle fait disparaître les marques légères en quelques heures de soleil ou après un passage à l'eau chaude.
+Sur une peinture noire, les micro-rayures superficielles sont très visibles. L'auto-cicatrisation des PPF premium ([XPEL](/fiche-technique-xpel-ultimate-plus), SunTek Ultra) est particulièrement appréciée sur le noir — elle fait disparaître les marques légères en quelques heures de soleil ou après un passage à l'eau chaude.
 
 ## Ce que le covering change sur une voiture noire
 

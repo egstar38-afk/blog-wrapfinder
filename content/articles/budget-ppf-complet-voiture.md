@@ -64,7 +64,7 @@ C'est la stratégie la plus répandue, et souvent la plus intelligente économiq
 
 **Pour qui** : propriétaires utilisant surtout l'autoroute, véhicules garant dans des parkings couverts, budget limité.
 
-**Contre** : les flancs et les bas de caisse restent exposés. Sur les voitures garées en rue en ville, les bas de caisse reçoivent des projections importantes.
+**Contre** : les flancs et les [bas de caisse](/ppf-bas-de-caisse-complet) restent exposés. Sur les voitures garées en rue en ville, les bas de caisse reçoivent des projections importantes.
 
 ### La stratégie "full wrap"
 

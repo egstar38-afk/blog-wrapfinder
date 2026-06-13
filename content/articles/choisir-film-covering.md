@@ -17,7 +17,7 @@ La différence se joue sur trois points : la **qualité du vinyle** (souplesse, 
 
 ### Avery Dennison — la référence polyvalente
 
-Avery est probablement la marque la plus utilisée en France et en Europe chez les poseurs professionnels. Leur gamme **Supreme Wrapping Film (SWF)** est le produit phare : souple, très conforme, avec un adhésif repositionnable qui pardonne les erreurs de positionnement pendant 30 secondes environ.
+Avery est probablement la marque la plus utilisée en France et en Europe chez les poseurs professionnels. Leur gamme **[Supreme Wrapping Film](/fiche-technique-avery-dennison-swf) (SWF)** est le produit phare : souple, très conforme, avec un adhésif repositionnable qui pardonne les erreurs de positionnement pendant 30 secondes environ.
 
 Le SWF existe en plus de 100 coloris couvrant toutes les finitions : brillant, mat, satiné, brossé, chrome, caméléon... La tenue est annoncée 5 à 7 ans extérieur. Dans la pratique, c'est tenu.
 
@@ -55,7 +55,7 @@ La série 970 (cast) est correcte. Évitez l'Oracal 551 ou 631 pour les applicat
 
 C'est peut-être la distinction la plus importante que vous apprendrez en covering.
 
-**Film cast** : le vinyle est coulé en nappe mince et séché à plat. Résultat : un film très fin (60–80 µm), très souple, stable dimensionnellement (il ne rétrécit pas avec le temps). Idéal pour les formes complexes et les longues durées. Avery SWF, 3M 1080, Hexis Skintac sont des films cast.
+**[Film cast](/film-cast-vs-calandre-difference)** : le vinyle est coulé en nappe mince et séché à plat. Résultat : un film très fin (60–80 µm), très souple, stable dimensionnellement (il ne rétrécit pas avec le temps). Idéal pour les formes complexes et les longues durées. Avery SWF, 3M 1080, Hexis Skintac sont des films cast.
 
 **Film calendré** : le vinyle est passé entre des rouleaux qui l'écrasent à l'épaisseur souhaitée. Plus épais (80–120 µm), moins souple, avec une tendance à rétrécir légèrement sous la chaleur avec le temps. Moins cher, bon pour les surfaces planes et les courtes durées (2–3 ans). Oracal 751 est un film calendré.
 

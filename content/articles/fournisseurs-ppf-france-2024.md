@@ -23,7 +23,7 @@ Fabricant français de films vinyle et PPF. Leur gamme PPF Bodyfence est reconnu
 
 ### Avery Dennison France
 
-Distributeur de la gamme Avery Supreme Wrapping Film (SWF) et Avery Supreme Protection Film (SPF).
+Distributeur de la gamme Avery [Supreme Wrapping Film](/fiche-technique-avery-dennison-swf) (SWF) et Avery Supreme Protection Film (SPF).
 
 **Accès** : via réseau de revendeurs agréés. Pas de vente directe aux petits ateliers sans compte distributeur.
 
@@ -75,7 +75,7 @@ Négociez vos conditions après 3 à 6 mois de commandes régulières.
 
 ## Les films qu'on ne trouve que chez le distributeur certifié
 
-Les logiciels de gabarits (DAP, Papilio) et les films PPF des grandes marques (XPEL notamment) ne sont accessibles qu'aux ateliers certifiés par la marque. La certification ouvre le compte, pas l'inverse.
+Les logiciels de gabarits (DAP, Papilio) et les films PPF des grandes marques ([XPEL](/fiche-technique-xpel-ultimate-plus) notamment) ne sont accessibles qu'aux ateliers certifiés par la marque. La certification ouvre le compte, pas l'inverse.
 
 ## Les points de vigilance
 

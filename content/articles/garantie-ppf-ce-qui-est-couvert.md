@@ -15,7 +15,7 @@ Un client qui revient 4 ans après la pose avec un film qui jaunit légèrement 
 
 ### La garantie fabricant (sur le film)
 
-Elle couvre les défauts du film lui-même : jaunissement prématuré, turbidité anormale, décollements non liés à la pose, perte de l'auto-cicatrisation. Elle est émise par le fabricant (XPEL, SunTek, 3M, Llumar) et s'applique sur le film indépendamment du poseur.
+Elle couvre les défauts du film lui-même : jaunissement prématuré, turbidité anormale, décollements non liés à la pose, perte de l'auto-cicatrisation. Elle est émise par le fabricant ([XPEL](/fiche-technique-xpel-ultimate-plus), SunTek, 3M, Llumar) et s'applique sur le film indépendamment du poseur.
 
 Durée typique : **7 à 10 ans** selon les gammes. Le XPEL Ultimate Plus est garanti 10 ans contre le jaunissement et les décollements de surface.
 
@@ -73,7 +73,7 @@ Si le poseur n'est pas agréé par le fabricant, la garantie fabricant n'existe 
 
 ### Si le poseur est non coopératif
 
-Si votre poseur refuse d'activer la garantie ou a cessé son activité, contactez directement le fabricant avec votre facture, la référence du film (demandez-la au poseur avant) et vos photos. Les grands fabricants (XPEL, 3M, SunTek) ont des équipes dédiées aux réclamations garantie.
+Si votre poseur refuse d'activer la garantie ou a cessé son activité, contactez directement le fabricant avec votre facture, la référence du film (demandez-la au poseur avant) et vos photos. Les grands fabricants (XPEL, 3M, [SunTek](/fiche-technique-suntek-ultra)) ont des équipes dédiées aux réclamations garantie.
 
 ### Le recours juridique
 

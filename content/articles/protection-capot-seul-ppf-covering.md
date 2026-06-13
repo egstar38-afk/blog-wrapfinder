@@ -36,7 +36,7 @@ Après 3–5 ans d'autoroute sans PPF, la plupart des capots foncés montrent de
 
 ## Covering capot : ce que c'est et ce que ce n'est pas
 
-Un covering capot est une transformation esthétique. Il change l'aspect du capot (couleur différente, effet carbone, mat…) et protège la peinture d'origine des UV et des éraflures légères.
+Un covering capot est une transformation esthétique. Il change l'aspect du capot (couleur différente, [effet carbone](/covering-wrap-effet-carbone), mat…) et protège la peinture d'origine des UV et des éraflures légères.
 
 Mais un covering vinyle standard ne protège pas des impacts de gravillons comme un PPF. L'épaisseur plus faible (80–120 µm vs 150–200 µm pour un PPF) et la dureté différente du matériau font que les impacts traversent le covering plus facilement.
 

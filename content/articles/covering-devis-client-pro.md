@@ -25,7 +25,7 @@ La règle de base : on achète plus qu'on n'utilise. Sur un full body de berline
 
 **Règle pratique** : multipliez votre consommation estimée par 1,4 à 1,5 pour le devis.
 
-Le coût du film varie de 3 à 12 €/m² selon la qualité et la marque. Un film premium (Avery Dennison Supreme Wrapping Film, 3M 2080) coûte 8 à 10 €/m² en gros. Un film entrée de gamme : 3 à 5 €/m².
+Le coût du film varie de 3 à 12 €/m² selon la qualité et la marque. Un film premium (Avery Dennison Supreme Wrapping Film, [3M 2080](/fiche-technique-3m-2080)) coûte 8 à 10 €/m² en gros. Un film entrée de gamme : 3 à 5 €/m².
 
 ### La main d'œuvre
 
