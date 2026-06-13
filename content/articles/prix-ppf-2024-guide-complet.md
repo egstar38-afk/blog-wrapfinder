@@ -5,6 +5,7 @@ category: "ppf-general"
 date: "2026-06-12"
 ---
 
+![Ferrari protégée par un film PPF transparent intégral en atelier](/images/articles/prix-ppf-2024-guide-complet.webp)
 ## Le prix du PPF : une question qu'on pose mal
 
 "C'est combien pour du PPF ?" est une question à laquelle aucun installateur sérieux ne peut répondre sans d'abord voir le véhicule et discuter des zones à traiter.

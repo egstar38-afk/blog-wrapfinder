@@ -5,6 +5,7 @@ category: "ppf-covering-compare"
 date: "2026-01-04"
 ---
 
+![Poseurs habillant une supercar de course en covering dans l'atelier](/images/articles/devenir-poseur-ppf-covering.webp)
 ## Devenir poseur PPF/covering : un métier qui s'apprend sur le tas... mais pas que
 
 Il n'existe pas de CAP ou de BTS "Poseur PPF et Covering" en France. C'est un métier qui se transmet principalement par compagnonnage et par les programmes de formation des fabricants. Ce n'est pas parce qu'il n'y a pas de diplôme que c'est facile — les poseurs vraiment bons mettent 2 à 3 ans avant d'être autonomes sur tous les projets.

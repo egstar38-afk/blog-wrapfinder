@@ -5,6 +5,7 @@ category: "ppf-specialise"
 date: "2024-07-10"
 ---
 
+![Tesla en PPF transparent mat (finition satinée) sur peinture bleue](/images/articles/ppf-voiture-electrique.webp)
 ## Pourquoi les propriétaires de VE parlent tous de PPF
 
 Si vous traîinez sur les forums Tesla, BMW EV ou Kia EV6, vous remarquez une chose : le PPF revient dans presque tous les fils sur la protection de la carrosserie. Ce n'est pas du hasard.

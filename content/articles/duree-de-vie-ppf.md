@@ -5,6 +5,7 @@ category: "ppf-general"
 date: "2024-05-12"
 ---
 
+![Mazda MX-5 bleu foncé protégée par un film PPF transparent](/images/articles/duree-de-vie-ppf.webp)
 ## Un PPF : combien d'années en réalité ?
 
 Les fabricants annoncent généralement une durée de vie de **7 à 10 ans** pour un PPF de qualité. Dans la pratique, cette fourchette est réaliste mais variable : certains films posés en 2014 sont encore impeccables aujourd'hui, d'autres commencent à jaunir ou à se décoller dès 5 ans.
