@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { getArticleBySlug, getAllSlugs, getRelatedArticles, getFaqItems, CATEGORY_LABELS } from '@/lib/articles'
+import ArticleFeedback from '../article-feedback'
 
 const SITE_URL = 'https://blog.wrapfinder.fr'
 
@@ -177,6 +178,9 @@ export default async function ArticlePage({ params }: Props) {
       <div className="mt-10 flex items-center justify-center bg-zinc-900 rounded h-24 text-xs text-zinc-600 uppercase tracking-widest border border-zinc-800">
         Espace publicitaire Google AdSense
       </div>
+
+      {/* Feedback lecteur (envoie un événement GA4) */}
+      <ArticleFeedback slug={article.slug} />
 
       {/* Maillage interne — articles liés */}
       {related.length > 0 && (

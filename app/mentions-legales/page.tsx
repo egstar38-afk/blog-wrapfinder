@@ -25,14 +25,15 @@ export default function MentionsLegalesPage() {
           Le site <strong>WrapGuide</strong> (blog.wrapfinder.fr) est édité par&nbsp;:
         </p>
         <ul>
-          <li><strong>Éditeur</strong> : [À COMPLÉTER : nom et prénom ou raison sociale]</li>
-          <li><strong>Statut</strong> : [À COMPLÉTER : particulier / micro-entreprise / société]</li>
-          <li><strong>SIRET</strong> : [À COMPLÉTER le cas échéant]</li>
-          <li><strong>Adresse</strong> : [À COMPLÉTER]</li>
+          <li><strong>Éditeur</strong> : Benjamin Philibert</li>
+          <li><strong>Statut</strong> : Entrepreneur individuel (auto-entrepreneur)</li>
+          <li><strong>SIREN</strong> : 978 717 338</li>
+          <li><strong>Adresse</strong> : 4 passage de la Poterie, 39570 Goncelin</li>
           <li>
             <strong>Contact</strong> : voir la <Link href="/contact">page contact</Link>
           </li>
-          <li><strong>Directeur de la publication</strong> : [À COMPLÉTER]</li>
+          <li><strong>Directeur de la publication</strong> : Benjamin Philibert</li>
+          <li><strong>TVA</strong> : non applicable, article 293 B du CGI (franchise en base)</li>
         </ul>
 
         <h2>Hébergeur</h2>
