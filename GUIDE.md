@@ -39,33 +39,17 @@ Limite ~10 demandes/jour, donc étale sur 2 jours.
 
 ---
 
-## 2. Activer Google Analytics 4 (GA4)
+## 2. Google Analytics 4 (GA4) — DÉJÀ ACTIVÉ
 
-### A. Créer la propriété
-1. https://analytics.google.com → se connecter.
-2. Roue **Admin** ⚙️ (en bas à gauche).
-3. Colonne **Compte** → **Créer** (si besoin) → nom « WrapGuide ».
-4. Colonne **Propriété** → **Créer une propriété** :
-   - Nom : **WrapGuide**
-   - Fuseau : **France** · Devise : **Euro (€)**
-5. Renseigner l'activité → **Créer**.
+Propriété GA4 créée, ID de mesure **`G-C9KMK8PY3W`** branché directement dans le code
+(`app/analytics.tsx`). Rien d'autre à faire côté technique.
 
-### B. Flux de données web
-6. Plateforme → **Web**.
-7. URL : **https://blog.wrapfinder.fr** · Nom : « WrapGuide Web » → **Créer un flux**.
-8. Copier l'**ID de mesure** affiché : format **`G-XXXXXXXXXX`**.
+### Vérifier que ça marche
+1. Ouvrir https://blog.wrapfinder.fr
+2. GA4 → **Rapports → Temps réel** : tu dois te voir comme 1 utilisateur actif.
 
-### C. Brancher l'ID sur Vercel
-9. https://vercel.com → projet **blog-wrapfinder** → **Settings** → **Environment Variables**.
-10. Ajouter :
-    - Key : `NEXT_PUBLIC_GA_ID`
-    - Value : `G-XXXXXXXXXX`
-    - Cocher **Production** → **Save**.
-11. **IMPORTANT** : la variable est intégrée au build → il faut **redéployer**.
-    Onglet **Deployments** → dernier déploiement → menu **⋯** → **Redeploy**.
-
-### D. Vérifier
-12. Ouvrir https://blog.wrapfinder.fr puis GA4 → **Rapports → Temps réel** : tu dois te voir.
+> Si un jour tu veux changer d'ID, soit modifier `DEFAULT_GA_ID` dans `app/analytics.tsx`,
+> soit définir la variable d'environnement `NEXT_PUBLIC_GA_ID` sur Vercel (elle a la priorité).
 
 ### Bonus — votes du widget « article utile ? »
 - Les clics 👍/👎 remontent comme événement **`article_feedback`**
