@@ -5,7 +5,7 @@ category: "ppf-specialise"
 date: "2024-04-20"
 ---
 
-![Moto Yamaha Tracer en covering avec film de protection](/images/articles/ppf-pour-moto.webp)
+![Moto Yamaha Tracer habillée d'un kit déco en covering, qui protège aussi la peinture](/images/articles/ppf-pour-moto.webp)
 ## La moto, c'est un autre monde
 
 J'ai posé mon premier PPF sur une BMW R 1250 GS il y a quelques années, et j'avais largement sous-estimé la difficulté. Sur une voiture, les surfaces sont grandes et relativement régulières. Sur une moto, tout est petit, courbe dans tous les sens, et composé de matériaux qui ne collent pas de la même façon.

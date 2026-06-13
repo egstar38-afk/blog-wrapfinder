@@ -5,6 +5,7 @@ category: "ppf-general"
 date: "2026-06-12"
 ---
 
+![Alpine A110 orange en finition PPF brillante](/images/articles/ppf-gloss-vs-satin-vs-mat.webp)
 ## PPF gloss, satin, mat : trois finitions, trois expériences différentes
 
 Le PPF n'est plus seulement transparent. Depuis 5 ans, les fabricants proposent des finitions satin et mat qui changent radicalement l'aspect de la carrosserie sous le film. Ce n'est plus seulement de la protection — c'est aussi une personnalisation.

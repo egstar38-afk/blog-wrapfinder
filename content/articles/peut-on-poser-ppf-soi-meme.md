@@ -5,6 +5,7 @@ category: "ppf-general"
 date: "2026-04-05"
 ---
 
+![Deux poseurs professionnels appliquant un film sur le capot d'une Peugeot](/images/articles/peut-on-poser-ppf-soi-meme.webp)
 ## La question honnête : oui, mais pas partout et pas comme les pros
 
 Il existe des kits PPF DIY, des tutoriels YouTube, et des forums entiers dédiés à la pose de PPF par les particuliers. Alors, est-ce vraiment faisable ? La réponse honnête d'atelier : ça dépend de la zone, du film choisi, et de vos attentes sur le résultat.
