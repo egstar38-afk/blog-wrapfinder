@@ -5,6 +5,7 @@ category: "covering-specialise"
 date: "2024-03-12"
 ---
 
+![Prototype de course en cours de covering complet dans un atelier](/images/articles/covering-full-body-etapes.webp)
 ## Pourquoi l'ordre des panneaux change tout
 
 La première fois que j'ai fait un full body seul, j'ai commencé par le capot. Erreur classique. Le capot, c'est la pièce la plus grande et la plus visible — c'est là qu'on veut commencer pour voir un résultat. Mais en commençant par là, vous vous créez des problèmes pour les raccords latéraux et les zones de jonction.

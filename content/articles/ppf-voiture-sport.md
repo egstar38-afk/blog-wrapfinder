@@ -5,6 +5,7 @@ category: "ppf-specialise"
 date: "2024-01-28"
 ---
 
+![Audi R8 de compétition protégée par un film PPF](/images/articles/ppf-voiture-sport.webp)
 ## Pourquoi les voitures de sport ont-elles besoin d'un PPF ?
 
 Les voitures de sport cumulent plusieurs facteurs qui les rendent particulièrement vulnérables :

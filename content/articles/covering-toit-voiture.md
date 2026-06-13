@@ -5,6 +5,7 @@ category: "covering-specialise"
 date: "2024-09-10"
 ---
 
+![Toit de voiture recouvert d'un covering noir brillant](/images/articles/covering-toit-voiture.webp)
 ## Le toit : simple en apparence, piégeux en pratique
 
 À première vue, un toit c'est une grande surface plate — l'idéal pour débuter. En réalité, le toit concentre plusieurs difficultés que vous ne soupçonnez pas avant de vous y coller (c'est le cas de le dire).

@@ -5,6 +5,7 @@ category: "ppf-general"
 date: "2026-05-06"
 ---
 
+![Préparation d'une Ford Mustang avant la pose du film de protection](/images/articles/preparer-voiture-avant-pose-ppf.webp)
 ## Ce que le poseur fait avant la pose — et ce que vous pouvez éviter de payer
 
 La décontamination avant pose PPF représente 30 à 50 % du temps de travail total. Si vous arrivez avec un véhicule parfaitement propre et sans défaut de peinture à corriger, vous pouvez réduire le temps d'atelier et parfois le coût.

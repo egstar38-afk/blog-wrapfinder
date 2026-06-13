@@ -5,6 +5,7 @@ category: "ppf-general"
 date: "2024-03-10"
 ---
 
+![Porsche 911 nettoyée avant la pose d'un film de protection de carrosserie PPF](/images/articles/introduction-ppf.webp)
 ## Qu'est-ce que le PPF ?
 
 Le **PPF** (Paint Protection Film), ou film de protection peinture, est un film polyuréthane transparent appliqué sur la carrosserie d'un véhicule pour la protéger des agressions du quotidien : impacts de gravillons, rayures légères, insectes, UV et produits chimiques.

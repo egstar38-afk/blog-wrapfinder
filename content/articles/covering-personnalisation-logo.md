@@ -5,6 +5,7 @@ category: "covering-specialise"
 date: "2025-10-05"
 ---
 
+![BMW i8 en covering personnalisé aux couleurs M](/images/articles/covering-personnalisation-logo.webp)
 ## Le logo en covering : deux techniques principales
 
 Ajouter un logo ou un motif personnalisé sur un véhicule recouvert de vinyle (ou sur la peinture d'usine) se fait principalement de deux façons : la découpe plotter ou l'impression numérique. Les deux ont leurs cas d'usage.

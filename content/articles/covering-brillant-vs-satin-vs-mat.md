@@ -5,6 +5,7 @@ category: "covering-general"
 date: "2026-06-12"
 ---
 
+![BMW Série 3 en covering vert brillant](/images/articles/covering-brillant-vs-satin-vs-mat.webp)
 ## Les trois finitions de covering : ce qui les différencie vraiment
 
 Brillant, satin et mat — ce ne sont pas juste des goûts esthétiques. Ce sont trois types de topcoat avec des propriétés mécaniques, des contraintes d'entretien et des durabilités différentes. Choisir sans le savoir, c'est parfois se retrouver avec une finition qui nécessite bien plus d'entretien qu'anticipé.

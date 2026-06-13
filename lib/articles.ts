@@ -74,6 +74,11 @@ function decorateExternalLinks(html: string): string {
   })
 }
 
+/** Ajoute le lazy-loading et le décodage asynchrone aux images du contenu (perf / SEO). */
+function decorateImages(html: string): string {
+  return html.replace(/<img /g, '<img loading="lazy" decoding="async" ')
+}
+
 export async function getArticleBySlug(slug: string): Promise<ArticleWithContent> {
   const fullPath = path.join(articlesDir, `${slug}.md`)
   const raw = fs.readFileSync(fullPath, 'utf8')
@@ -85,7 +90,7 @@ export async function getArticleBySlug(slug: string): Promise<ArticleWithContent
     description: data.description as string,
     category: data.category as Category,
     date: data.date as string,
-    contentHtml: decorateExternalLinks(processed.toString()),
+    contentHtml: decorateImages(decorateExternalLinks(processed.toString())),
   }
 }
 

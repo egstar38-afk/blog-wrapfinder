@@ -44,6 +44,14 @@ export default function HomePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
       />
       <section className="mb-12">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src="/images/articles/hero-gamme-covering.webp"
+          alt="Gamme d'Alpine A110 habillées en covering par WrapGuide"
+          width={1500}
+          height={1125}
+          className="w-full h-auto rounded-xl border border-zinc-800 mb-8"
+        />
         <h1 className="text-3xl font-bold tracking-tight mb-3 text-white">
           Guides PPF, Covering &amp; Adhésifs
         </h1>

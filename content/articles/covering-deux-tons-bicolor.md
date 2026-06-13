@@ -5,6 +5,7 @@ category: "covering-specialise"
 date: "2025-09-28"
 ---
 
+![Fiat 500 en covering deux tons, carrosserie jaune et toit noir](/images/articles/covering-deux-tons-bicolor.webp)
 ## Le bicolore en covering : tendance ou surcharge ?
 
 Le covering bicolor — deux couleurs ou deux finitions sur la même carrosserie — est l'une des personnalisations les plus demandées en atelier. Toit noir sur carrosserie blanche, noir mat + gris anthracite, couleur d'usine + contraste sur le capot...
