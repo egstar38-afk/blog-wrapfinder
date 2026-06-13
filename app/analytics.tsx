@@ -12,8 +12,12 @@ import Script from 'next/script'
  * Remarque RGPD : GA4 dépose des cookies. Assure-toi que ton message de consentement
  * (CMP AdSense) couvre aussi la mesure d'audience pour les visiteurs de l'UE.
  */
+// ID de mesure GA4 (public, visible dans le code source de toute façon).
+// Surchargeable via la variable d'environnement NEXT_PUBLIC_GA_ID si besoin.
+const DEFAULT_GA_ID = 'G-C9KMK8PY3W'
+
 export default function Analytics() {
-  const gaId = process.env.NEXT_PUBLIC_GA_ID
+  const gaId = process.env.NEXT_PUBLIC_GA_ID || DEFAULT_GA_ID
   if (!gaId) return null
 
   return (
