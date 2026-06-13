@@ -5,7 +5,7 @@ category: "covering-general"
 date: "2024-09-05"
 ---
 
-![Voiture en covering personnalisé effet rouille (oxydé) réalisé sur mesure](/images/articles/introduction-covering-vehicule.webp)
+![Mazda RX-8 en covering imprimé effet rouille, livrée course numéro 73 (design sur mesure)](/images/articles/introduction-covering-vehicule.webp)
 ## Ce que le covering n'est pas
 
 On me demande souvent si le covering c'est "comme de la peinture mais en autocollant". Cette définition rate l'essentiel. Le covering, ou pelliculage, c'est l'application d'un film vinyle autocollant sur la carrosserie d'un véhicule. Ce film peut transformer totalement l'aspect du véhicule, couvrir une carrosserie abîmée visuellement, et — c'est là que ça devient intéressant — **se retirer sans laisser de traces**. Chose qu'aucune peinture ne permet.
