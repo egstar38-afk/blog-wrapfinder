@@ -5,6 +5,9 @@ category: "ppf-covering-compare"
 date: "2024-05-05"
 ---
 
+
+> 🎓 **Envie de vous former à la pose covering / PPF ?** Découvrez les formations professionnelles de [Pole Cover](https://polecover.fr).
+
 ## Ce qu'on voit tous les jours en atelier
 
 Je vais être direct : 80 % des reprises qu'on fait en atelier (retirer un film mal posé et refaire) auraient pu être évitées. Les erreurs sont toujours les mêmes, et elles ne viennent pas d'un manque de talent — elles viennent d'un manque d'information.

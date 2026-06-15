@@ -56,7 +56,7 @@ Il faut travailler beaucoup plus petit, zone par zone, avec plus de chaleur que 
 
 Le bras oscillant et les protections de chaîne reçoivent des projections de lubrifiant et des débris. Des petits gabarits PPF sur ces zones facilitent l'entretien. Ils se posent relativement facilement (surfaces peu complexes) et durent 3 à 5 ans même avec les projections de chaîne.
 
-## Les budgets réels en 2024
+## Les budgets réels en 2026
 
 Les tarifs varient beaucoup selon le modèle et le poseur, mais voici ce qu'on constate sur le terrain :
 

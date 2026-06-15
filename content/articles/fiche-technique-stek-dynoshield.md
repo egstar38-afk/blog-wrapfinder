@@ -65,9 +65,9 @@ STEK DynoShield est positionné à un tarif comparable à XPEL — pas un film "
 | Pack avant | 1 100 – 2 000 € |
 | Full body | 3 200 – 6 500 € |
 
-## Réseau en France : état 2024
+## Réseau en France : état 2026
 
-STEK a développé son réseau européen significativement depuis 2020. En France, une vingtaine d'ateliers certifiés STEK sont actifs en 2024, principalement dans les grandes villes (Paris, Lyon, Marseille, Bordeaux, Lille, Strasbourg).
+STEK a développé son réseau européen significativement depuis 2020. En France, une vingtaine d'ateliers certifiés STEK sont actifs en 2026, principalement dans les grandes villes (Paris, Lyon, Marseille, Bordeaux, Lille, Strasbourg).
 
 La densité est inférieure à XPEL ou [SunTek](/fiche-technique-suntek-ultra) — trouver un installateur STEK en zone rurale ou dans les villes moyennes peut nécessiter de se déplacer.
 

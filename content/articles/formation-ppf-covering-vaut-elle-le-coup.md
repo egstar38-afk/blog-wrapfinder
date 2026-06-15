@@ -5,6 +5,9 @@ category: "ppf-covering-compare"
 date: "2024-06-12"
 ---
 
+
+> 🎓 **Envie de vous former à la pose covering / PPF ?** Découvrez les formations professionnelles de [Pole Cover](https://polecover.fr).
+
 ## La vraie question : qu'est-ce qu'une formation apporte qu'une vidéo n'apporte pas ?
 
 J'entends souvent des gens dire : "Pourquoi payer une formation quand tout est sur YouTube ?" C'est une vraie question. Les vidéos de pose sont nombreuses, détaillées, et souvent gratuites.

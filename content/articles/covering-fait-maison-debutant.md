@@ -5,6 +5,9 @@ category: "covering-general"
 date: "2024-10-02"
 ---
 
+
+> 🎓 **Envie de vous former à la pose covering / PPF ?** Découvrez les formations professionnelles de [Pole Cover](https://polecover.fr).
+
 ## Soyons clairs sur ce qui vous attend
 
 Je ne vais pas vous mentir : le covering DIY sur une carrosserie complète, c'est compliqué. Pas impossible, mais compliqué. J'ai vu des gens avec beaucoup de talent manuel rater leur première tentative sur un capot bombé. Et j'ai vu des poseurs pros mettre deux semaines à maîtriser les rétroviseurs.

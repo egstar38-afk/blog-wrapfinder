@@ -57,7 +57,7 @@ En Europe, l'adoption du PPF est très hétérogène :
 | Espagne | Faible-moyenne | Marché émergent |
 | Europe de l'Est | Faible | Marché très prix-conscient |
 
-## La France en 2024 : où on en est
+## La France aujourd'hui : où on en est
 
 Le marché français est en forte croissance mais reste en retard sur UK, Allemagne et les marchés extra-européens. Les raisons historiques :
 - Culture de la carrosserie assurantielle (on répare après dommage, on ne prévient pas)

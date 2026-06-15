@@ -174,6 +174,25 @@ export default async function ArticlePage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: article.contentHtml }}
       />
 
+      {/* CTA WrapFinder — sur les articles PPF / covering (pas les adhésifs purs) */}
+      {!article.category.startsWith('adhesif') && (
+        <aside className="mt-10 rounded-lg border border-amber-500/40 bg-amber-500/5 p-5">
+          <p className="text-zinc-100 font-semibold mb-1">Besoin d&apos;une pose professionnelle&nbsp;?</p>
+          <p className="text-zinc-400 text-sm leading-relaxed">
+            <a
+              href="https://wrapfinder.fr"
+              target="_blank"
+              rel="noopener"
+              className="text-amber-500 font-semibold hover:underline"
+            >
+              WrapFinder
+            </a>{' '}
+            met en relation les particuliers avec des poseurs certifiés — et les professionnels avec des
+            sous-traitants — partout en France.
+          </p>
+        </aside>
+      )}
+
       {/* AdSense placeholder — après le contenu */}
       <div className="mt-10 flex items-center justify-center bg-zinc-900 rounded h-24 text-xs text-zinc-600 uppercase tracking-widest border border-zinc-800">
         Espace publicitaire Google AdSense

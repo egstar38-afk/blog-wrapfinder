@@ -65,7 +65,7 @@ Le PPF se pose souvent sur des pièces larges (capot, toit). Si votre film fait 
 
 | Type de film | Prix au mètre linéaire (largeur 1,22 m) | Notes |
 |---|---|---|
-| Film PPF premium (XPEL Ultimate, 3M Pro) | 80 – 150 €/m | Via installateur certifié uniquement |
+| Film PPF premium (XPEL Ultimate Plus, 3M Pro) | 80 – 150 €/m | Via installateur certifié uniquement |
 | Film PPF intermédiaire (SunTek, Avery SPF) | 40 – 70 €/m | Distribution semi-pro |
 | Film PPF entrée de gamme / chinois | 10 – 25 €/m | Variable, vigilance sur qualité |
 

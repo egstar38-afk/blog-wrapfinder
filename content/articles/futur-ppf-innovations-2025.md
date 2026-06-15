@@ -19,7 +19,7 @@ Les couleurs actuellement disponibles : noirs profonds, gris métallisés, quelq
 
 L'effet lotus — des surfaces si hydrophobes que l'eau emporte les salissures sans qu'elles adhèrent — est une promesse qui se rapproche du concret. Des marques travaillent sur des topcoats intégrant des nano-structures permanentes (pas juste un sealant qui s'érode) qui maintiennent l'effet lotus sur plusieurs années sans entretien.
 
-En 2024, quelques prototypes sont testés. En 2026-2027, les premières gammes commerciales "self-cleaning" devraient arriver. La durabilité de l'effet sur 5-10 ans reste à prouver en conditions réelles.
+Ces dernières années, quelques prototypes ont été testés. En 2026-2027, les premières gammes commerciales "self-cleaning" devraient arriver. La durabilité de l'effet sur 5-10 ans reste à prouver en conditions réelles.
 
 ### L'intégration constructeurs
 

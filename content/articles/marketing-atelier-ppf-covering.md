@@ -6,6 +6,9 @@ date: "2026-01-25"
 ---
 
 ![Break Skoda en covering publicitaire aux couleurs d'un sponsor cyclisme](/images/articles/marketing-atelier-ppf-covering.webp)
+
+> 🎓 **Envie de vous former à la pose covering / PPF ?** Découvrez les formations professionnelles de [Pole Cover](https://polecover.fr).
+
 ## Le marketing d'un atelier covering : concret, local et visuel
 
 Le covering et le PPF sont des prestations visuelles. Le meilleur marketing, c'est montrer le travail. Un avant/après bien photographié vaut mieux qu'une page entière de texte sur un site web.

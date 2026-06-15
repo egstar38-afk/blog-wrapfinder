@@ -42,7 +42,7 @@ La gamme 2080 couvre l'ensemble des finitions attendues sur le marché du coveri
 - **Carbone** : texture fibre de carbone (série CFS)
 - **Sparkle** : paillettes fines dans la masse
 
-Le catalogue complet comprend en 2024 plus de 100 références — consultez le configurateur 3M Graphics pour la disponibilité exacte.
+Le catalogue complet comprend aujourd'hui plus de 100 références — consultez le configurateur 3M Graphics pour la disponibilité exacte.
 
 ## L'adhésif Air Release : ce que ça apporte
 
@@ -82,7 +82,7 @@ Les prix varient selon la finition et le distributeur.
 | Mat | 20 – 28 € | 45 – 70 € |
 | Gloss Flip / Spécial | 35 – 55 € | 80 – 120 € |
 
-*Prix indicatifs 2024 — varient selon distributeur et volume.*
+*Prix indicatifs 2026 — varient selon distributeur et volume.*
 
 ## Pour qui ?
 

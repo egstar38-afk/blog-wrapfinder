@@ -5,6 +5,9 @@ category: "covering-specialise"
 date: "2024-07-25"
 ---
 
+
+> 🎓 **Envie de vous former à la pose covering / PPF ?** Découvrez les formations professionnelles de [Pole Cover](https://polecover.fr).
+
 ## Pourquoi les débutants sous-facturent presque toujours
 
 Le schéma est classique. On démarre son activité de poseur, on veut des clients, on donne des tarifs attractifs pour se lancer. Six mois plus tard, on s'aperçoit qu'on travaille 60 heures par semaine pour un résultat financier décevant.

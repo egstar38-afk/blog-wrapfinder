@@ -5,6 +5,9 @@ category: "covering-general"
 date: "2025-04-20"
 ---
 
+
+> 🎓 **Envie de vous former à la pose covering / PPF ?** Découvrez les formations professionnelles de [Pole Cover](https://polecover.fr).
+
 ## Le kit débutant en covering : ce qu'il faut et ce qu'il ne faut pas
 
 Beaucoup de personnes se lancent dans le covering avec le premier kit "tout-en-un" bon marché qu'ils trouvent sur Amazon. En général, ce kit contient des outils moyens qui frustrent plus qu'ils n'aident, et il manque justement l'essentiel.
