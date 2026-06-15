@@ -35,9 +35,11 @@ Un film de mauvaise qualité jaunit avec le temps, notamment sous un fort ensole
 
 ### 5. Les marques de référence
 
-Les marques les plus reconnues dans le secteur sont :
+Mon avis de poseur et formateur certifié : pour un film posé en France aujourd'hui, mes deux préférés sont **Hexis Bodyfence** et **APA**. Voici les références à connaître :
 
-- **[XPEL](/fiche-technique-xpel-ultimate-plus)** — pioneer américain, excellente réputation
+- **[Hexis Bodyfence](/fiche-technique-hexis-bodyfence)** — fabricant français, premium fiable, réseau et formations denses en France
+- **[APA](/fiche-technique-apa)** — italien, transparence remarquable, pose rapide et finitions réalisables le jour même
+- **[XPEL](/fiche-technique-xpel-ultimate-plus)** — référence américaine, excellente réputation
 - **[SunTek](/fiche-technique-suntek-ultra)** — bon rapport qualité/prix
 - **3M Pro Series** — robustesse et disponibilité
 - **[Llumar](/fiche-technique-llumar-ppf)** — solide en entrée de gamme
