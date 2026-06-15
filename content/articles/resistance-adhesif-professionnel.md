@@ -3,6 +3,7 @@ title: "Résistance des adhésifs : lire une fiche technique"
 description: "Force d'arrachement, résistance au cisaillement, tenue thermique : apprenez à lire une fiche technique d'adhésif pour choisir le bon produit."
 category: "adhesif-general"
 date: "2024-03-15"
+updated: "2026-06-13"
 ---
 
 ## Pourquoi comprendre les données techniques d'un adhésif ?

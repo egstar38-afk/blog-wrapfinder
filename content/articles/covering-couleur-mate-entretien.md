@@ -3,6 +3,7 @@ title: "Covering mat : entretien et produits interdits"
 description: "Un covering mat demande un entretien différent d'un film brillant. Ce qui tue le mat en quelques lavages et les produits qui le préservent des années."
 category: "covering-specialise"
 date: "2024-04-08"
+updated: "2026-06-13"
 ---
 
 ## Le mat, c'est beau — et fragile si on s'en occupe mal

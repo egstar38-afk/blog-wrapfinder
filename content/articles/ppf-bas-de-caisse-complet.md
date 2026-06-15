@@ -3,6 +3,7 @@ title: "PPF bas de caisse : film épais et durée réduite"
 description: "Les bas de caisse prennent les projections les plus lourdes. Film épais recommandé, technique de rentré de bords et durée de vie réaliste selon l'usage."
 category: "ppf-specialise"
 date: "2024-12-15"
+updated: "2026-06-13"
 ---
 
 ## Les bas de caisse : la zone la plus exposée du véhicule

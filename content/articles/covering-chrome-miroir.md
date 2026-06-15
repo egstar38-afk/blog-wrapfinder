@@ -3,6 +3,7 @@ title: "Film chrome miroir : pose, légalité et alternatives"
 description: "Le film chrome miroir est le plus technique du covering. Pose extrêmement difficile, risque de reflets dangereux et réglementation à connaître avant de l'utiliser."
 category: "covering-specialise"
 date: "2025-08-31"
+updated: "2026-06-13"
 ---
 
 ## Le chrome miroir : le film le plus difficile du covering

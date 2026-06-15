@@ -3,6 +3,7 @@ title: "Adhésifs haute température auto : choix et usages"
 description: "Tous les adhésifs ne résistent pas à la chaleur du moteur ou des freins. Découvrez quels produits utiliser dans les zones chaudes de votre véhicule."
 category: "adhesif-general"
 date: "2024-04-12"
+updated: "2026-06-13"
 ---
 
 ## Quand parle-t-on d'adhésif haute température ?

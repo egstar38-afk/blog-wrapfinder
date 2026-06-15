@@ -3,6 +3,7 @@ title: "Le PPF protège-t-il de la grêle ? Limites réelles"
 description: "Le PPF arrête-t-il les grêlons ? La réponse honnête selon la taille des grêlons, l'épaisseur du film et ce que les tests réels montrent."
 category: "ppf-general"
 date: "2026-05-10"
+updated: "2026-06-13"
 ---
 
 ## PPF et grêle : ce qu'il fait et ce qu'il ne fait pas

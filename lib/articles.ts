@@ -31,11 +31,18 @@ export interface ArticleMeta {
   description: string
   category: Category
   date: string
+  updated?: string
   slug: string
+}
+
+export interface TocItem {
+  id: string
+  text: string
 }
 
 export interface ArticleWithContent extends ArticleMeta {
   contentHtml: string
+  toc: TocItem[]
 }
 
 export function getAllArticles(): ArticleMeta[] {
@@ -53,6 +60,7 @@ export function getAllArticles(): ArticleMeta[] {
         description: data.description as string,
         category: data.category as Category,
         date: data.date as string,
+        updated: (data.updated as string) || undefined,
       }
     })
     .sort((a, b) => (a.date < b.date ? 1 : -1))
@@ -79,18 +87,47 @@ function decorateImages(html: string): string {
   return html.replace(/<img /g, '<img loading="lazy" decoding="async" ')
 }
 
+function slugifyHeading(text: string): string {
+  return text
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .replace(/<[^>]+>/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/(^-|-$)/g, '')
+}
+
+/** Ajoute un id à chaque <h2> et retourne le sommaire (texte + ancre) pour la table des matières. */
+function addHeadingIds(html: string): { html: string; toc: TocItem[] } {
+  const toc: TocItem[] = []
+  const used = new Set<string>()
+  const out = html.replace(/<h2>([\s\S]*?)<\/h2>/g, (_m, inner: string) => {
+    const text = inner.replace(/<[^>]+>/g, '').trim()
+    let id = slugifyHeading(text) || 'section'
+    let n = 2
+    while (used.has(id)) id = `${slugifyHeading(text)}-${n++}`
+    used.add(id)
+    toc.push({ id, text })
+    return `<h2 id="${id}">${inner}</h2>`
+  })
+  return { html: out, toc }
+}
+
 export async function getArticleBySlug(slug: string): Promise<ArticleWithContent> {
   const fullPath = path.join(articlesDir, `${slug}.md`)
   const raw = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(raw)
   const processed = await remark().use(remarkGfm).use(remarkHtml).process(content)
+  const { html, toc } = addHeadingIds(decorateImages(decorateExternalLinks(processed.toString())))
   return {
     slug,
     title: data.title as string,
     description: data.description as string,
     category: data.category as Category,
     date: data.date as string,
-    contentHtml: decorateImages(decorateExternalLinks(processed.toString())),
+    updated: (data.updated as string) || undefined,
+    toc,
+    contentHtml: html,
   }
 }
 

@@ -3,6 +3,7 @@ title: "PPF camping-car et utilitaire : films et budgets"
 description: "Un camping-car accumule les impacts sur ses grandes surfaces. PPF en laize large, zones prioritaires et tarifs réalistes pour ce marché spécifique."
 category: "ppf-specialise"
 date: "2024-08-15"
+updated: "2026-06-13"
 ---
 
 ## Le camping-car, c'est la machine à se prendre des gravillons

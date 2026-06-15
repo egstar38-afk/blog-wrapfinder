@@ -3,6 +3,7 @@ title: "PPF en hiver : neige, sel et protection des bords"
 description: "L'hiver est la saison la plus dure pour un PPF. Sel de route, gel-dégel, neige : les zones vulnérables et les gestes qui font la différence."
 category: "ppf-general"
 date: "2024-10-12"
+updated: "2026-06-13"
 ---
 
 ## L'hiver est la saison de vérité pour un PPF

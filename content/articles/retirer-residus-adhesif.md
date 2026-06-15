@@ -3,6 +3,7 @@ title: "Retirer des résidus d'adhésif sans rien abîmer"
 description: "Résidus de scotch, de double face ou de colle incrustés ? Découvrez les méthodes efficaces pour les éliminer proprement sur peinture, plastique et métal."
 category: "adhesif-general"
 date: "2024-07-18"
+updated: "2026-06-13"
 ---
 
 ## Le problème des résidus d'adhésif

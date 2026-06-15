@@ -3,6 +3,7 @@ title: "PPF pare-chocs avant : relief et découpes caméra"
 description: "Le pare-chocs avant est la pièce la plus exposée aux impacts. Poser du PPF dessus demande de gérer des reliefs complexes et des découpes précises."
 category: "ppf-specialise"
 date: "2024-11-05"
+updated: "2026-06-13"
 ---
 
 ## Le pare-chocs avant, c'est la zone la plus difficile du véhicule

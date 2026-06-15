@@ -3,6 +3,7 @@ title: "PPF après accident : retrait, réparation, repose"
 description: "Que faire du PPF après un accrochage ? Qui retire le film, qui le repose, quel délai respecter avant de reposer sur peinture fraîche."
 category: "ppf-general"
 date: "2026-06-07"
+updated: "2026-06-13"
 ---
 
 ## Le PPF ne protège pas contre les accidents

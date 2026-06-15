@@ -3,6 +3,7 @@ title: "Entretien du PPF : les bons gestes au quotidien"
 description: "Apprenez les gestes essentiels pour entretenir votre PPF au quotidien et prolonger sa durée de vie sans risquer de l'abîmer."
 category: "ppf-general"
 date: "2024-04-05"
+updated: "2026-06-13"
 ---
 
 ## Pourquoi l'entretien du PPF est-il indispensable ?

@@ -3,6 +3,7 @@ title: "Ruban double face auto : bien choisir et poser"
 description: "Le ruban double face automobile est utilisé partout sur votre voiture. Apprenez à choisir la bonne référence et à poser proprement baguettes, écussons et moulures."
 category: "adhesif-specialise"
 date: "2024-02-08"
+updated: "2026-06-13"
 ---
 
 ## À quoi sert le ruban double face en automobile ?

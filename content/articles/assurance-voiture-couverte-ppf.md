@@ -3,6 +3,7 @@ title: "Assurance et PPF/covering : faut-il déclarer ?"
 description: "PPF ou covering changent-ils votre assurance auto ? Ce qu'il faut déclarer, ce qui peut annuler votre contrat et comment être correctement couvert après une pose."
 category: "ppf-covering-compare"
 date: "2025-05-25"
+updated: "2026-06-13"
 ---
 
 ## PPF et covering : deux situations différentes vis-à-vis de l'assurance

@@ -3,6 +3,7 @@ title: "Nettoyage avant collage : IPA, MEK, acétone"
 description: "Quel dégraissant utiliser avant de coller sur quel substrat ? IPA, MEK, acétone, éthanol : tableau de compatibilité et protocoles de nettoyage pour adhésifs auto."
 category: "adhesif-specialise"
 date: "2025-11-30"
+updated: "2026-06-13"
 ---
 
 ## La règle numéro un du collage : la préparation de surface

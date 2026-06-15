@@ -3,6 +3,7 @@ title: "Pose PPF capot : combien de temps ça prend vraiment"
 description: "La durée réelle de pose d'un PPF sur capot : de la décontamination à la polymérisation. Ce qui accélère, ce qui ralentit et pourquoi les délais varient autant."
 category: "ppf-general"
 date: "2026-04-26"
+updated: "2026-06-13"
 ---
 
 ## La pose PPF sur capot : entre 2 et 6 heures, voici pourquoi

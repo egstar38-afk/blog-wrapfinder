@@ -3,6 +3,7 @@ title: "Revente avec PPF ou covering : impact sur la valeur"
 description: "Un PPF ou un covering aide-t-il à mieux revendre votre voiture ? Cas concrets, ce que les acheteurs pensent vraiment, et comment en faire un argument qui fonctionne."
 category: "ppf-covering-compare"
 date: "2025-06-01"
+updated: "2026-06-13"
 ---
 
 ## PPF et covering à la revente : deux histoires très différentes

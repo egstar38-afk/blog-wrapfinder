@@ -3,6 +3,7 @@ title: "Ruban de masquage pour PPF : lequel choisir"
 description: "Pas n'importe quel ruban de masquage pour une pose PPF : les références qui ne marquent pas la peinture et les techniques correctes pour s'en servir."
 category: "adhesif-specialise"
 date: "2024-03-22"
+updated: "2026-06-13"
 ---
 
 ## Pourquoi le ruban de masquage est un outil clé dans une pose PPF

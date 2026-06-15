@@ -3,6 +3,7 @@ title: "Covering avec logo : découpe, impression et pose"
 description: "Ajouter un logo, un texte ou un motif personnalisé en covering : plotter de découpe, impression numérique, fichiers vectoriels et techniques de pose au millimètre."
 category: "covering-specialise"
 date: "2025-10-05"
+updated: "2026-06-13"
 ---
 
 ![Subaru Impreza en covering imprimé personnalisé avec motif illustré](/images/articles/covering-personnalisation-logo.webp)

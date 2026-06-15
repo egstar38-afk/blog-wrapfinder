@@ -3,6 +3,7 @@ title: "Covering fait maison : débuter sans tout rater"
 description: "Envie de tenter le covering vous-même ? Voici les outils indispensables, les zones faciles pour débuter et les erreurs à ne pas reproduire."
 category: "covering-general"
 date: "2024-10-02"
+updated: "2026-06-13"
 ---
 
 

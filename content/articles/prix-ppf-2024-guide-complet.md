@@ -3,6 +3,7 @@ title: "Prix PPF 2026 : tarifs par zone et devis"
 description: "Combien coûte une pose de PPF en France ? Tarifs réels par zone, facteurs qui font grimper la facture et comment lire un devis sans se faire avoir."
 category: "ppf-general"
 date: "2026-06-12"
+updated: "2026-06-13"
 ---
 
 ![Ferrari protégée par un film PPF transparent intégral en atelier](/images/articles/prix-ppf-2024-guide-complet.webp)

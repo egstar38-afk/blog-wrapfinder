@@ -3,6 +3,7 @@ title: "Poser son PPF soi-même : guide complet pour débutants"
 description: "Peut-on poser un PPF sans formation ? Découvrez le matériel nécessaire, les étapes clés et les erreurs à éviter pour une pose DIY réussie."
 category: "ppf-general"
 date: "2024-06-18"
+updated: "2026-06-13"
 ---
 
 ## La pose DIY de PPF : une vraie option pour les débutants ?

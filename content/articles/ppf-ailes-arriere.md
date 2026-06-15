@@ -3,6 +3,7 @@ title: "PPF ailes arrière : projections et surfaces complexes"
 description: "Les ailes arrière reçoivent les projections des roues arrière sur toute leur longueur. PPF avec passage de roue intégré ou non, la méthode terrain."
 category: "ppf-specialise"
 date: "2024-12-08"
+updated: "2026-06-13"
 ---
 
 ## Les ailes arrière : la zone la plus silencieusement abîmée

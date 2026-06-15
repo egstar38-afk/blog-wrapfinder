@@ -3,6 +3,7 @@ title: "Film phosphorescent : durée, usages et limites"
 description: "Films phosphorescents pour covering : combien de temps brillent-ils, dans quels contextes ça marche et les usages sur la route qui posent problème."
 category: "covering-specialise"
 date: "2025-09-14"
+updated: "2026-06-13"
 ---
 
 ## Films phosphorescents : ce qu'ils font vraiment

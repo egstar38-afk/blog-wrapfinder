@@ -61,6 +61,24 @@ export default function HomePage() {
         </p>
       </section>
 
+      {/* CTA plateforme WrapFinder */}
+      <aside className="mb-10 rounded-lg border border-amber-500/40 bg-amber-500/5 p-5 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+        <div>
+          <p className="text-zinc-100 font-semibold">Trouvez un poseur PPF ou covering près de chez vous</p>
+          <p className="text-zinc-400 text-sm">
+            Particuliers et professionnels : la plateforme WrapFinder vous met en relation partout en France.
+          </p>
+        </div>
+        <a
+          href="https://wrapfinder.fr"
+          target="_blank"
+          rel="noopener"
+          className="shrink-0 rounded-md bg-amber-500 px-5 py-2.5 text-sm font-semibold text-black hover:bg-amber-400 transition-colors text-center"
+        >
+          Accéder à WrapFinder →
+        </a>
+      </aside>
+
       {/* AdSense placeholder */}
       <div className="mb-10 flex items-center justify-center bg-zinc-900 rounded h-24 text-xs text-zinc-600 uppercase tracking-widest border border-zinc-800">
         Espace publicitaire Google AdSense

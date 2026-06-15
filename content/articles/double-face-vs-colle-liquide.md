@@ -3,6 +3,7 @@ title: "Double face ou colle liquide : lequel choisir"
 description: "Double face ou colle liquide ? Deux outils complémentaires, pas interchangeables. Voici le tableau de bord des cas d'usage et des résistances réelles."
 category: "adhesif-general"
 date: "2024-09-22"
+updated: "2026-06-13"
 ---
 
 ## La question que tout le monde se pose

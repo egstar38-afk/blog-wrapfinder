@@ -3,6 +3,7 @@ title: "Covering sous capot : chaleur et zones adaptées"
 description: "Couvrir l'intérieur du capot moteur ou les plastiques sous capot demande des films et adhésifs résistants à la chaleur. Ce qui tient et ce qui fond."
 category: "covering-specialise"
 date: "2025-02-23"
+updated: "2026-06-13"
 ---
 
 ## Sous capot : un univers thermique différent

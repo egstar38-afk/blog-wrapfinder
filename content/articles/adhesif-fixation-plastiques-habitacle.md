@@ -3,6 +3,7 @@ title: "Adhésif plastiques d'habitacle : le bon produit par zone"
 description: "PP, ABS, PC : les plastiques d'habitacle ne se collent pas tous pareil. Les produits qui tiennent et les erreurs qui laissent des traces blanches."
 category: "adhesif-specialise"
 date: "2024-07-18"
+updated: "2026-06-13"
 ---
 
 ## L'intérieur d'une voiture, c'est un zoo de plastiques différents

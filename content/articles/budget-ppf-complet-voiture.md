@@ -3,6 +3,7 @@ title: "Budget PPF complet : prix par segment et rentabilité"
 description: "Combien coûte vraiment un PPF complet ? Prix par segment de véhicule, comparaison full wrap vs protection partielle et calcul du ROI à la revente."
 category: "ppf-general"
 date: "2024-11-08"
+updated: "2026-06-13"
 ---
 
 ## Le PPF, c'est cher — mais par rapport à quoi ?

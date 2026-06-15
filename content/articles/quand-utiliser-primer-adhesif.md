@@ -3,6 +3,7 @@ title: "Quand utiliser un primer avant de coller : guide"
 description: "PP primer, primer silane, promoteur d'adhérence : quand en avez-vous vraiment besoin et comment l'utiliser correctement selon le matériau."
 category: "adhesif-general"
 date: "2024-09-08"
+updated: "2026-06-13"
 ---
 
 ## Le primer : l'étape que tout le monde saute et que tout le monde regrette

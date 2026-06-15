@@ -3,6 +3,7 @@ title: "Préparer sa voiture avant pose PPF : checklist"
 description: "Ce que vous pouvez faire avant d'amener votre voiture chez le poseur PPF. Checklist de préparation, ce qui accélère la pose et ce qui peut engendrer des surcoûts."
 category: "ppf-general"
 date: "2026-05-06"
+updated: "2026-06-13"
 ---
 
 ![Préparation d'une Ford Mustang avant la pose du film de protection](/images/articles/preparer-voiture-avant-pose-ppf.webp)

@@ -3,6 +3,7 @@ title: "PPF avec ou sans garantie : ce qui change"
 description: "La garantie PPF est-elle une vraie protection ou du marketing ? Ce qu'elle couvre réellement, les conditions à respecter et comment activer un recours si nécessaire."
 category: "ppf-general"
 date: "2026-04-30"
+updated: "2026-06-13"
 ---
 
 ## La garantie PPF : utile mais limitée

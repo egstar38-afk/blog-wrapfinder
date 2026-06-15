@@ -76,6 +76,8 @@ body {
   margin-bottom: 1rem;
   padding-left: 1rem;
   border-left: 4px solid #f59e0b;
+  /* décalage pour que l'ancre du sommaire ne passe pas sous le header sticky */
+  scroll-margin-top: 90px;
 }
 
 .prose h3 {

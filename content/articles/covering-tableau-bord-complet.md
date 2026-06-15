@@ -3,6 +3,7 @@ title: "Covering tableau de bord complet : méthode pro"
 description: "Couvrir un tableau de bord entier en vinyle, la pose intérieure la plus complexe : alcantara, plastique, coutures, aérations — traiter chaque zone."
 category: "covering-specialise"
 date: "2025-01-19"
+updated: "2026-06-13"
 ---
 
 ## Le tableau de bord : la pose intérieure qui demande le plus d'expertise

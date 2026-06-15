@@ -3,6 +3,7 @@ title: "Logiciels atelier covering : devis et planning"
 description: "Quels outils numériques pour gérer un atelier PPF et covering ? Logiciels de devis, facturation, planning, et logiciels de gabarits pour la découpe de films."
 category: "ppf-covering-compare"
 date: "2026-02-01"
+updated: "2026-06-13"
 ---
 
 

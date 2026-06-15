@@ -3,6 +3,7 @@ title: "Hexis Bodyfence : le PPF français en détail"
 description: "Fiche technique du PPF Hexis Bodyfence : épaisseur, auto-cicatrisation, garantie 7 ans et réseau d'installateurs en France pour ce film PPF fabriqué en Provence."
 category: "ppf-general"
 date: "2026-05-24"
+updated: "2026-06-13"
 ---
 
 ## Présentation

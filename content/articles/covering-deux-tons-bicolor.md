@@ -3,6 +3,7 @@ title: "Covering bicolore : ligne de séparation et masquage"
 description: "Réussir un covering bicolore : où placer la ligne de séparation, comment masquer sans marque et les combinaisons de couleurs qui fonctionnent."
 category: "covering-specialise"
 date: "2025-09-28"
+updated: "2026-06-13"
 ---
 
 ![Fiat 500 en covering deux tons, carrosserie jaune et toit noir](/images/articles/covering-deux-tons-bicolor.webp)

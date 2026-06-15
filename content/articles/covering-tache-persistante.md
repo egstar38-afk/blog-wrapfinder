@@ -3,6 +3,7 @@ title: "Tache persistante sur covering : produits efficaces"
 description: "Votre covering a une tache qui résiste au shampoing classique ? Les produits à utiliser par ordre croissant d'agressivité, et les limites à ne pas franchir."
 category: "covering-general"
 date: "2026-04-10"
+updated: "2026-06-13"
 ---
 
 ## Identifier le type de tache avant de choisir le produit

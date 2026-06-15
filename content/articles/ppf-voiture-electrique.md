@@ -3,6 +3,7 @@ title: "PPF sur voiture électrique : Tesla, BMW iX…"
 description: "Les VE ont des spécificités qui changent l'approche PPF : poids, recharge, peinture fine. Ce qu'il faut savoir avant de faire poser sur une Tesla ou une i4."
 category: "ppf-specialise"
 date: "2024-07-10"
+updated: "2026-06-13"
 ---
 
 ![Tesla en PPF transparent mat (finition satinée) sur peinture bleue](/images/articles/ppf-voiture-electrique.webp)

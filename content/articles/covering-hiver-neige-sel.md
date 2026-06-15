@@ -3,6 +3,7 @@ title: "Covering en hiver : neige, sel et déglaçants"
 description: "Votre covering résiste-t-il aux conditions hivernales ? Sel de déneigement, neige, verglas, produits dégivrants : ce que le vinyle supporte vraiment."
 category: "covering-general"
 date: "2026-04-12"
+updated: "2026-06-13"
 ---
 
 ## La bonne nouvelle : le vinyle résiste au froid lui-même

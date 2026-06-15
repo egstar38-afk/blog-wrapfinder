@@ -3,6 +3,7 @@ title: "PPF gloss, satin ou mat : comparatif 2026"
 description: "Choisir entre PPF brillant, satiné ou mat : rendu sur peinture d'usine, contraintes d'entretien et tendances du marché PPF en 2026."
 category: "ppf-general"
 date: "2026-06-12"
+updated: "2026-06-13"
 ---
 
 ![Alpine A110 orange en finition PPF brillante](/images/articles/ppf-gloss-vs-satin-vs-mat.webp)

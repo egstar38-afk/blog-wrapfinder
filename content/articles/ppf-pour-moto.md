@@ -3,6 +3,7 @@ title: "PPF pour moto : réservoir et carénages"
 description: "Protéger sa moto avec du PPF n'est pas comme protéger une voiture. Réservoir, carénages PP, primer indispensable : ce qui change vraiment."
 category: "ppf-specialise"
 date: "2024-04-20"
+updated: "2026-06-13"
 ---
 
 ![Moto Yamaha Tracer habillée d'un kit déco en covering, qui protège aussi la peinture](/images/articles/ppf-pour-moto.webp)

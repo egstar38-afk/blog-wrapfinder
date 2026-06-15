@@ -3,6 +3,7 @@ title: "PPF sur covering : ordre des couches et limites"
 description: "Peut-on poser du PPF sur un covering vinyle existant ? Sandwich film, ordre des couches, compatibilité des adhésifs et durée de vie réduite à prévoir."
 category: "ppf-specialise"
 date: "2025-07-13"
+updated: "2026-06-13"
 ---
 
 ## PPF sur covering : le sandwich film

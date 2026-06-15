@@ -3,6 +3,7 @@ title: "PPF sur voiture d'occasion : peinture et risques"
 description: "Poser un PPF sur une voiture d'occasion n'est pas toujours simple. État de peinture, corrections préalables, risques : ce qu'il faut vérifier avant de commencer."
 category: "ppf-general"
 date: "2024-10-25"
+updated: "2026-06-13"
 ---
 
 ## Le PPF sur occasion : pas systématiquement une bonne idée

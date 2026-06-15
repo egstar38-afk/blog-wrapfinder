@@ -3,6 +3,7 @@ title: "Adhésif extérieur : UV, gel, humidité — ce qui tient"
 description: "Tous les adhésifs ne résistent pas aux intempéries. UV, gel-dégel, pluie permanente : voici les produits qui tiennent et ceux qui lâchent à la première saison."
 category: "adhesif-general"
 date: "2024-10-05"
+updated: "2026-06-13"
 ---
 
 ## Pourquoi la plupart des adhésifs ne sont pas "tout temps"

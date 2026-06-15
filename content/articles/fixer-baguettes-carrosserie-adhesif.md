@@ -3,6 +3,7 @@ title: "Fixer des baguettes carrosserie : VHB et méthode"
 description: "Baguette décollée, protection de bas de caisse à refixer : les adhésifs qui tiennent vraiment en conditions automobiles, et ceux à éviter."
 category: "adhesif-specialise"
 date: "2024-04-14"
+updated: "2026-06-13"
 ---
 
 ## Le scénario classique : la baguette qui se décolle

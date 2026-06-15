@@ -52,6 +52,12 @@ export default function AProposPage() {
           pertinent. Pour en savoir plus, consultez notre{' '}
           <Link href="/politique-confidentialite">politique de confidentialité</Link>.
         </p>
+        <p>
+          <em>
+            En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions
+            requises.
+          </em>
+        </p>
 
         <h2>Une question ?</h2>
         <p>

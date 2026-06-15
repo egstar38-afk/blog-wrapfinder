@@ -3,6 +3,7 @@ title: "Glossaire PPF, covering, adhésifs : 60 termes"
 description: "Tous les termes techniques du PPF, du covering et des adhésifs auto expliqués simplement : de l'adhésif repositionnable au topcoat auto-cicatrisant."
 category: "ppf-general"
 date: "2026-06-09"
+updated: "2026-06-13"
 ---
 
 ## A

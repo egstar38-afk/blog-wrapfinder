@@ -3,6 +3,7 @@ title: "PPF full body : durée de pose et logistique"
 description: "Un PPF complet prend combien de temps ? Les étapes réelles, ce qui ralentit, et comment se préparer en tant que client pour éviter les mauvaises surprises."
 category: "ppf-general"
 date: "2025-07-27"
+updated: "2026-06-13"
 ---
 
 ## Full PPF : oubliez le délai d'une journée

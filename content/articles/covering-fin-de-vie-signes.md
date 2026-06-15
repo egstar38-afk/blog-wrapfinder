@@ -3,6 +3,7 @@ title: "Covering en fin de vie : signes et coût de remplacement"
 description: "Comment reconnaître un covering qui doit être remplacé ? Les signes visuels et tactiles d'un film en fin de vie, le coût de remplacement et le recyclage du film."
 category: "covering-general"
 date: "2026-04-14"
+updated: "2026-06-13"
 ---
 
 ## La durée de vie d'un covering : les chiffres réels

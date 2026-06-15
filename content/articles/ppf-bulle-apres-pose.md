@@ -3,6 +3,7 @@ title: "Bulles sur PPF après pose : quand s'inquiéter"
 description: "Des bulles sous votre PPF juste après la pose ? Comment distinguer les bulles d'eau (normales) des bulles d'air (problème de pose) et que faire dans chaque cas."
 category: "ppf-general"
 date: "2026-03-23"
+updated: "2026-06-13"
 ---
 
 ## Les bulles juste après la pose : presque toujours normales

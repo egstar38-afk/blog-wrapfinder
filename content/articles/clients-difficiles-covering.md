@@ -3,6 +3,7 @@ title: "Clients difficiles en covering : litiges et protection"
 description: "Gérer les clients difficiles en atelier PPF et covering : attentes irréalistes, litiges sur la qualité, refus de payer et les protections à mettre en place."
 category: "ppf-covering-compare"
 date: "2026-03-01"
+updated: "2026-06-13"
 ---
 
 

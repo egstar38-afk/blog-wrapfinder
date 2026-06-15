@@ -3,6 +3,7 @@ title: "Assurance RC pro poseur covering : cas concrets"
 description: "RC professionnelle pour les poseurs PPF et covering : ce qu'elle couvre, les cas concrets qui font mal, la garantie décennale et comment bien choisir son contrat."
 category: "ppf-covering-compare"
 date: "2026-02-22"
+updated: "2026-06-13"
 ---
 
 ## L'assurance du poseur covering : pas une option

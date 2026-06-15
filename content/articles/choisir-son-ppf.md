@@ -3,6 +3,7 @@ title: "Comment choisir son PPF : critères essentiels"
 description: "Épaisseur, finition, marque, garantie : voici tous les critères à comparer avant d'acheter ou faire poser un film de protection peinture sur votre voiture."
 category: "ppf-general"
 date: "2024-02-20"
+updated: "2026-06-13"
 ---
 
 ## Les critères de choix d'un film PPF

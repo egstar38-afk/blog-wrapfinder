@@ -3,6 +3,7 @@ title: "PPF qui jaunit : diagnostic et solutions"
 description: "Votre PPF prend une teinte jaune ou crémeuse ? Causes, diagnostic, ce qui est récupérable ou pas, et comment activer la garantie fabricant."
 category: "ppf-general"
 date: "2026-03-27"
+updated: "2026-06-13"
 ---
 
 ## Le jaunissement du PPF : un défaut, pas du vieillissement normal

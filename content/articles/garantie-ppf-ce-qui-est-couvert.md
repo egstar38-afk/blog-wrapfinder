@@ -3,6 +3,7 @@ title: "Garantie PPF : couvertures, exclusions, recours"
 description: "Garantie fabricant 10 ans, garantie pose 2 ans : ce que ça couvre vraiment, les exclusions communes et comment activer une garantie si le film défaille."
 category: "ppf-general"
 date: "2024-09-28"
+updated: "2026-06-13"
 ---
 
 ## La garantie PPF : beaucoup de communication, peu de clarté

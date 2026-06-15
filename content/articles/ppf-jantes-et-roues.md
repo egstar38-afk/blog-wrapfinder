@@ -3,6 +3,7 @@ title: "PPF pour jantes : pose, durée et limites"
 description: "Les jantes prennent les trottoirs et les gravillons toute leur vie. Le PPF transparent les protège efficacement — si vous connaissez les contraintes spécifiques."
 category: "ppf-specialise"
 date: "2024-06-05"
+updated: "2026-06-13"
 ---
 
 ## Jantes griffées : le dommage qui arrive toujours

@@ -3,6 +3,7 @@ title: "PPF sur rétroviseurs : méthode et durée réelle"
 description: "Les coques de rétroviseur prennent des impacts quotidiens et sont souvent en plastique PP. Primer obligatoire, technique de pose et durée de vie attendue."
 category: "ppf-specialise"
 date: "2024-11-12"
+updated: "2026-06-13"
 ---
 
 ## Pourquoi les rétroviseurs méritent une attention particulière

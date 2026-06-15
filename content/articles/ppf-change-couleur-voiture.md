@@ -3,6 +3,7 @@ title: "Le PPF change-t-il la couleur de la voiture ?"
 description: "Le PPF transparent modifie-t-il visuellement la couleur de la carrosserie ? L'effet sur les teintes claires et foncées, le jaunissement et la transparence réelle."
 category: "ppf-general"
 date: "2026-03-29"
+updated: "2026-06-13"
 ---
 
 ![Porsche 911 cabriolet en PPF noir mat, capot à demi posé révélant la peinture brillante d'origine](/images/articles/ppf-change-couleur-voiture.webp)

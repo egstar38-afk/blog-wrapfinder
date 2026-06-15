@@ -3,6 +3,7 @@ title: "Outils pour poser PPF et covering : liste terrain"
 description: "Raclette, pistolet, cutter, liquide : ce dont vous avez vraiment besoin pour poser du PPF ou du covering. Pas de gadgets inutiles, que l'essentiel."
 category: "ppf-covering-compare"
 date: "2024-05-22"
+updated: "2026-06-13"
 ---
 
 

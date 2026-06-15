@@ -3,6 +3,7 @@ title: "Où acheter du film PPF en France : guide d'achat"
 description: "Film PPF en France : les distributeurs sérieux, les différences de prix entre circuits pro et grand public, et les pièges des achats low-cost sur internet."
 category: "ppf-general"
 date: "2025-04-27"
+updated: "2026-06-13"
 ---
 
 ## Film PPF en France : un marché pas si accessible au grand public

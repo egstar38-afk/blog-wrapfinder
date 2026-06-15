@@ -3,6 +3,7 @@ title: "Lavage haute pression sur covering : sans risque"
 description: "Peut-on utiliser un Karcher sur un covering vinyle ? Distance de sécurité, angles à éviter, fréquence recommandée et erreurs qui décollent les bords."
 category: "covering-general"
 date: "2026-04-08"
+updated: "2026-06-13"
 ---
 
 ## Le Karcher et le covering : compatible, avec des règles

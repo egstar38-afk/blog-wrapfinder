@@ -3,6 +3,7 @@ title: "Poser du PPF soi-même : risques et zones faciles"
 description: "La vraie réponse sur le PPF en DIY : ce qui est faisable pour un particulier motivé, ce qui ne l'est pas, et les zones où commencer sans prendre trop de risques."
 category: "ppf-general"
 date: "2026-04-05"
+updated: "2026-06-13"
 ---
 
 ![Deux poseurs professionnels appliquant un film sur le capot d'une Peugeot](/images/articles/peut-on-poser-ppf-soi-meme.webp)

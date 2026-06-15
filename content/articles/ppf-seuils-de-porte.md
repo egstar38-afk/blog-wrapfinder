@@ -3,6 +3,7 @@ title: "PPF seuils de porte : la zone la plus griffée"
 description: "Les seuils de porte accumulent les griffures de chaussures et les impacts quotidiens. Film épais, technique de pose et pourquoi le DIY est envisageable ici."
 category: "ppf-specialise"
 date: "2024-11-18"
+updated: "2026-06-13"
 ---
 
 ## Les seuils : la zone que tout le monde voit et personne ne protège

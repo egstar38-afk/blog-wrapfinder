@@ -102,8 +102,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div className="flex flex-col sm:flex-row justify-between gap-2">
               <p>© {new Date().getFullYear()} WrapGuide — PPF · Covering · Adhésifs</p>
               <p className="sm:text-right sm:max-w-md">
-                Certains liens sont des liens affiliés Amazon. En achetant via ces liens vous soutenez le blog
-                sans surcoût.
+                En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions
+                requises. Ces liens ne génèrent aucun surcoût pour vous.
               </p>
             </div>
           </div>

@@ -3,6 +3,7 @@ title: "Préparer une surface avant collage : règle d'or"
 description: "La préparation de surface est la cause n°1 des échecs de collage. Découvrez comment préparer correctement chaque type de surface pour un collage durable."
 category: "adhesif-general"
 date: "2024-05-20"
+updated: "2026-06-13"
 ---
 
 ## La préparation de surface : pourquoi c'est la clé absolue du collage

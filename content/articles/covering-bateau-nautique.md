@@ -3,6 +3,7 @@ title: "Covering bateau : films marins, eau salée et UV"
 description: "Le covering sur bateau ou jet-ski exige des films spéciaux : eau salée, UV marins, navigation. Ce qui tient vraiment et ce qui échoue."
 category: "covering-specialise"
 date: "2025-10-19"
+updated: "2026-06-13"
 ---
 
 ## Covering nautique : un environnement bien plus agressif que la route

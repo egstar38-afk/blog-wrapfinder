@@ -3,6 +3,7 @@ title: "Ruban adhésif pour phares : butyl et étanchéité"
 description: "Intervention sur un phare (LED, chromage, perso) : le joint d'étanchéité est l'élément critique. Quel butyl choisir et comment bien le refaire."
 category: "adhesif-specialise"
 date: "2025-03-16"
+updated: "2026-06-13"
 ---
 
 ## Phares et feux : pourquoi le joint d'étanchéité compte

@@ -3,6 +3,7 @@ title: "Covering après l'hiver : contrôles et signes d'alerte"
 description: "Checklist post-hiver pour votre covering vinyle. Sel, condensation sous le film, bords décollés : ce qu'il faut inspecter avant le printemps et quoi faire."
 category: "covering-general"
 date: "2026-03-31"
+updated: "2026-06-13"
 ---
 
 ## L'hiver et le vinyle : ce que le sel fait vraiment

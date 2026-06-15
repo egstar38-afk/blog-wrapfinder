@@ -3,6 +3,7 @@ title: "Covering légal en France : carte grise et règles"
 description: "Le covering vinyle est-il légal sur route en France ? Ce que dit la loi sur le changement de couleur, la carte grise et ce qui se passe au contrôle technique."
 category: "covering-general"
 date: "2026-04-12"
+updated: "2026-06-13"
 ---
 
 ## La légalité du covering en France : la réponse claire

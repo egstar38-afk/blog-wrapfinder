@@ -3,6 +3,7 @@ title: "Décoloration UV du covering : prévention et solutions"
 description: "Certaines couleurs de covering virent sous les UV. Lesquelles sont concernées, comment ralentir la décoloration et comment savoir quand le film doit être remplacé."
 category: "covering-specialise"
 date: "2026-04-06"
+updated: "2026-06-13"
 ---
 
 ## Tous les films ne vieillissent pas pareil sous le soleil

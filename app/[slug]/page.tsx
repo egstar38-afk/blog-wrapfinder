@@ -57,6 +57,16 @@ export default async function ArticlePage({ params }: Props) {
   const related = getRelatedArticles(article.slug, article.category)
   const faqItems = getFaqItems(article.slug)
 
+  // Signature auteur uniquement sur les articles "prix" et ceux citant APA / Pole Cover / WrapFinder
+  const showByline =
+    /prix|tarif|budget|combien-coute/.test(article.slug) ||
+    /\bAPA\b/.test(article.contentHtml) ||
+    article.contentHtml.includes('polecover.fr') ||
+    article.contentHtml.includes('wrapfinder.fr')
+
+  const AUTHOR = { '@type': 'Person', name: 'Benjamin Philibert', jobTitle: 'Poseur et formateur certifié PPF / covering' }
+  const dateUpdated = article.updated || article.date
+
   const faqJsonLd =
     faqItems.length > 0
       ? {
@@ -76,14 +86,10 @@ export default async function ArticlePage({ params }: Props) {
     headline: article.title,
     description: article.description,
     datePublished: article.date,
-    dateModified: article.date,
+    dateModified: dateUpdated,
     inLanguage: 'fr-FR',
     mainEntityOfPage: `${SITE_URL}/${article.slug}`,
-    author: {
-      '@type': 'Organization',
-      name: 'WrapGuide',
-      url: SITE_URL,
-    },
+    author: showByline ? AUTHOR : { '@type': 'Organization', name: 'WrapGuide', url: SITE_URL },
     publisher: {
       '@type': 'Organization',
       name: 'WrapGuide',
@@ -154,8 +160,15 @@ export default async function ArticlePage({ params }: Props) {
         </span>
         <h1 className="text-3xl font-bold tracking-tight mt-2 mb-3 text-white">{article.title}</h1>
         <p className="text-zinc-400 text-lg leading-relaxed mb-4">{article.description}</p>
-        <time dateTime={article.date} className="text-sm text-zinc-500">
-          {new Date(article.date).toLocaleDateString('fr-FR', {
+        {showByline && (
+          <p className="text-sm text-zinc-300 mb-1">
+            Par <strong className="text-zinc-100">Benjamin Philibert</strong>
+            <span className="text-zinc-500"> — poseur &amp; formateur certifié</span>
+          </p>
+        )}
+        <time dateTime={dateUpdated} className="text-sm text-zinc-500">
+          {article.updated ? 'Mis à jour le ' : 'Publié le '}
+          {new Date(dateUpdated).toLocaleDateString('fr-FR', {
             year: 'numeric',
             month: 'long',
             day: 'numeric',
@@ -167,6 +180,22 @@ export default async function ArticlePage({ params }: Props) {
       <div className="mb-8 flex items-center justify-center bg-zinc-900 rounded h-24 text-xs text-zinc-600 uppercase tracking-widest border border-zinc-800">
         Espace publicitaire Google AdSense
       </div>
+
+      {/* Sommaire — articles longs */}
+      {article.toc.length >= 4 && (
+        <nav className="mb-8 rounded-lg border border-zinc-800 bg-zinc-900/50 p-5">
+          <p className="text-xs font-semibold uppercase tracking-widest text-zinc-500 mb-3">Sommaire</p>
+          <ul className="space-y-1.5">
+            {article.toc.map((item) => (
+              <li key={item.id}>
+                <a href={`#${item.id}`} className="text-sm text-zinc-300 hover:text-amber-500 transition-colors">
+                  {item.text}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )}
 
       {/* Article content */}
       <article

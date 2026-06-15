@@ -3,6 +3,7 @@ title: "Entretenir une voiture avec PPF ou covering"
 description: "PPF et covering ne se lavent pas et ne s'entretiennent pas de la même façon. Ce qui est identique et ce qui diffère — les bons gestes pour durer longtemps."
 category: "ppf-covering-compare"
 date: "2024-07-03"
+updated: "2026-06-13"
 ---
 
 ## Le piège : traiter le film comme la peinture d'avant

@@ -3,6 +3,7 @@ title: "Prix covering 2026 : tarifs et devis en France"
 description: "Combien coûte un covering complet ou partiel en France en 2026 ? Tarifs réels, différences DIY vs atelier, et les questions à poser avant de signer un devis."
 category: "covering-general"
 date: "2026-06-12"
+updated: "2026-06-13"
 ---
 
 ## Covering : une prestation dont le prix varie énormément

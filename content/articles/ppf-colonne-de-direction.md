@@ -3,6 +3,7 @@ title: "PPF colonne de direction : protéger du plastique dur"
 description: "La colonne de direction se raye au quotidien avec les clés et les genoux. Le PPF intérieur sur plastique ABS protège cette zone souvent négligée."
 category: "ppf-specialise"
 date: "2024-12-02"
+updated: "2026-06-13"
 ---
 
 ## Un usage méconnu du PPF : l'intérieur de l'habitacle

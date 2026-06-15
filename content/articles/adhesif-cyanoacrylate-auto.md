@@ -3,6 +3,7 @@ title: "Cyanoacrylate en auto : substrats et formulations pro"
 description: "La Super Glue professionnelle en carrosserie : formulations gel, liquide et basse viscosité, substrats compatibles, résistance aux vibrations et limitations."
 category: "adhesif-specialise"
 date: "2025-11-09"
+updated: "2026-06-13"
 ---
 
 ## Le cyanoacrylate en auto : pas juste de la Super Glue

@@ -3,6 +3,7 @@ title: "3M 2080 : specs, couleurs, garantie et prix"
 description: "Fiche technique complète du 3M 2080 Series pour covering automobile : épaisseur, topcoat, gamme de finitions, durée de vie, garantie fabricant et tarifs indicatifs."
 category: "covering-general"
 date: "2026-05-18"
+updated: "2026-06-13"
 ---
 
 ## Présentation générale

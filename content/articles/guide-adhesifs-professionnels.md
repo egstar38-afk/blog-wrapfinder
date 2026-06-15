@@ -3,6 +3,7 @@ title: "Guide des adhésifs pro : types, usages, pose"
 description: "Simple face, double face, mousse acrylique, adhésif de montage : comment choisir le bon adhésif pro selon l'application et les matériaux."
 category: "adhesif-general"
 date: "2024-03-01"
+updated: "2026-06-13"
 ---
 
 ## Pourquoi les adhésifs professionnels diffèrent-ils des produits grand public ?

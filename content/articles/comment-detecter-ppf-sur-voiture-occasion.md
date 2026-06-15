@@ -3,6 +3,7 @@ title: "Détecter du PPF sur une voiture d'occasion"
 description: "Comment savoir si une voiture d'occasion a du PPF sans payer un expert ? Les techniques visuelles, le test IPA, l'épaissimètre de carrosserie et ce que ça implique."
 category: "ppf-general"
 date: "2026-05-02"
+updated: "2026-06-13"
 ---
 
 ## Pourquoi détecter le PPF sur une occasion

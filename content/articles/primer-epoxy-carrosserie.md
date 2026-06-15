@@ -3,6 +3,7 @@ title: "Primer époxy carrosserie : accrochage et délais"
 description: "Le primer époxy pour la carrosserie : préparation du métal nu, protection anticorrosion, délais entre couches et compatibilité avec les adhésifs et films PPF."
 category: "adhesif-specialise"
 date: "2025-12-21"
+updated: "2026-06-13"
 ---
 
 ## Le primer époxy : la base de tout travail métal durable

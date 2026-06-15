@@ -3,6 +3,7 @@ title: "Covering voiture de collection : précautions clés"
 description: "Couvrir une voiture de collection ou ancienne demande des précautions spécifiques. Peinture d'usine fragile, dépose sans dégâts, films fins réversibles."
 category: "covering-specialise"
 date: "2025-08-17"
+updated: "2026-06-13"
 ---
 
 ## Covering sur voiture de collection : une approche différente

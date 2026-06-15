@@ -3,6 +3,7 @@ title: "10 erreurs de débutant en PPF et covering"
 description: "Les erreurs les plus courantes qu'on voit en atelier sur les poses DIY ou les premières poses pro. Mieux vaut les connaître avant de commencer."
 category: "ppf-covering-compare"
 date: "2024-05-05"
+updated: "2026-06-13"
 ---
 
 

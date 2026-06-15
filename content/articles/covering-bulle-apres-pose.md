@@ -3,6 +3,7 @@ title: "Bulles sous covering : causes, délais et solutions"
 description: "Des bulles sous votre covering vinyle ? Comment distinguer bulles d'eau (normales) et bulles d'air (défaut), délais de disparition et ce que peut faire le poseur."
 category: "covering-general"
 date: "2026-04-02"
+updated: "2026-06-13"
 ---
 
 ## Bulles sous covering : la situation est différente du PPF

@@ -3,6 +3,7 @@ title: "Covering tableau de bord : ce qui tient vraiment"
 description: "Covering intérieur sur tableau de bord : les plastiques difficiles, la chaleur en été, les films qui tiennent et ceux qui se décollent en 3 mois."
 category: "covering-specialise"
 date: "2024-09-25"
+updated: "2026-06-13"
 ---
 
 ## Le covering intérieur : un marché en plein boom
