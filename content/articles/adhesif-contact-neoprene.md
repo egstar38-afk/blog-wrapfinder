@@ -1,6 +1,6 @@
 ---
 title: "Colle contact néoprène auto : usages et temps ouvert"
-description: "La colle contact néoprène pour les garnitures, les isolants et les revêtements d'habitacle. Application, temps ouvert, substrats et limites face aux alternatives modernes."
+description: "La colle contact néoprène pour garnitures, isolants et revêtements d'habitacle : application, temps ouvert, substrats et limites face aux alternatives."
 category: "adhesif-specialise"
 date: "2025-11-23"
 ---

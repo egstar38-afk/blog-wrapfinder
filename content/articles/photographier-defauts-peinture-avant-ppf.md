@@ -1,6 +1,6 @@
 ---
 title: "Photographier la peinture avant pose de PPF"
-description: "Comment documenter l'état de la peinture avant pose de PPF pour éviter tout litige post-pose ? Méthode de documentation photographique, matériel et organisation des fichiers."
+description: "Documenter l'état de la peinture avant une pose de PPF pour éviter tout litige : méthode photo, matériel et organisation des fichiers."
 category: "ppf-general"
 date: "2026-05-04"
 ---

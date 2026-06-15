@@ -1,6 +1,6 @@
 ---
 title: "Guide des adhésifs pro : types, usages, pose"
-description: "Ruban simple face, double face, mousse acrylique, adhésif de montage : apprenez à choisir le bon adhésif professionnel selon votre application et les matériaux concernés."
+description: "Simple face, double face, mousse acrylique, adhésif de montage : comment choisir le bon adhésif pro selon l'application et les matériaux."
 category: "adhesif-general"
 date: "2024-03-01"
 ---

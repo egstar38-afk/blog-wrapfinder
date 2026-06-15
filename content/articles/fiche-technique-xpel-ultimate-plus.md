@@ -1,6 +1,6 @@
 ---
 title: "XPEL Ultimate Plus : specs et garantie 10 ans"
-description: "Fiche technique complète du PPF XPEL Ultimate Plus : épaisseur 200 µm, topcoat auto-cicatrisant, clarity index, garantie 10 ans et comment trouver un installateur certifié."
+description: "Fiche technique du PPF XPEL Ultimate Plus : 200 µm, topcoat auto-cicatrisant, clarity index, garantie 10 ans et réseau d'installateurs certifiés."
 category: "ppf-general"
 date: "2026-05-22"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "PPF sur voiture de société : fiscalité et entretien"
-description: "Intérêt du PPF pour une flotte de véhicules de société : valeur résiduelle préservée, déduction fiscale possible et organisation de l'entretien à l'échelle d'une flotte."
+description: "Le PPF pour une flotte de société : valeur résiduelle préservée, déduction fiscale possible et entretien organisé à l'échelle d'une flotte."
 category: "ppf-covering-compare"
 date: "2026-05-16"
 ---

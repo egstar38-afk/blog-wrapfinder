@@ -1,6 +1,6 @@
 ---
 title: "Premier lavage après PPF : délai et méthode"
-description: "Votre PPF vient d'être posé et vous vous demandez quand et comment le laver ? Délais, méthode recommandée, produits compatibles et erreurs fréquentes des premières semaines."
+description: "PPF fraîchement posé : quand et comment le laver ? Délais à respecter, méthode, produits compatibles et erreurs des premières semaines."
 category: "ppf-general"
 date: "2026-05-12"
 ---

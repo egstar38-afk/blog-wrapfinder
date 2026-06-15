@@ -1,6 +1,6 @@
 ---
 title: "FAQ PPF et covering : 80 questions répondues"
-description: "Les 80 questions les plus posées sur le PPF et le covering automobile. De 'ça coûte combien ?' à 'mon assurance couvre ça ?', toutes les réponses directes et sans jargon."
+description: "Les 80 questions les plus posées sur le PPF et le covering auto : prix, durée, assurance, entretien… toutes les réponses directes et sans jargon."
 category: "ppf-general"
 date: "2026-06-11"
 faq: true

@@ -1,6 +1,6 @@
 ---
 title: "Adhésif spoiler de coffre : VHB 5952 et bonne méthode"
-description: "Coller un spoiler de coffre aftermarket avec du VHB. Préparation, choix du VHB haute résistance, et pourquoi la charge aérodynamique change tout au calcul de résistance."
+description: "Coller un spoiler de coffre aftermarket au VHB : préparation, choix du VHB haute résistance et l'impact de la charge aérodynamique sur la tenue."
 category: "adhesif-specialise"
 date: "2025-03-30"
 ---
