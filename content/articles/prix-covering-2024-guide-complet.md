@@ -51,7 +51,7 @@ Ces prix incluent le matériau et la pose. La finition (mat, satiné, brillant) 
 Pour un full wrap de berline : 15 à 22 m de film en 1,52 m de large.
 
 - Film Oracal 970RA : 18 – 30 €/m → 270 – 660 € de film
-- Film 3M 1080 : 30 – 50 €/m → 450 – 1 100 € de film
+- Film 3M 2080 : 30 – 50 €/m → 450 – 1 100 € de film
 
 Donc le matériau seul d'un full wrap DIY avec du film correct est entre 300 et 1 000 €.
 
@@ -89,8 +89,8 @@ Un atelier sérieux répond sans problème à ces questions. Si les réponses so
 
 ## Produit recommandé
 
-Le **3M 1080 Satin Dark Gray S261** est l'une des finitions les plus tendance du moment pour les berlines et SUV. Gris satiné discret mais profond, qui change l'aspect d'un véhicule blanc ou noir d'usine de façon spectaculaire.
+Le **3M 2080 Satin Dark Gray S261** est l'une des finitions les plus tendance du moment pour les berlines et SUV. Gris satiné discret mais profond, qui change l'aspect d'un véhicule blanc ou noir d'usine de façon spectaculaire.
 
-[Voir le 3M 1080 Satin Dark Gray sur Amazon →](https://www.amazon.fr/s?k=3m+1080+S261+satin+dark+gray+vinyle+covering+film&tag=wrapfinder-21)
+[Voir le 3M 2080 Satin Dark Gray sur Amazon →](https://www.amazon.fr/s?k=3m+2080+S261+satin+dark+gray+vinyle+covering+film&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

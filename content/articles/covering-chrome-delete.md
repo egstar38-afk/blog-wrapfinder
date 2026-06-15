@@ -77,14 +77,14 @@ Certains poseurs expérimentés pratiquent la "découpe sans couteau" : le film 
 
 ## Durée de vie et entretien
 
-Un chrome delete bien posé avec un film de qualité (Avery SWF, 3M 1080) dure **4 à 6 ans** sur les zones extérieures. Les zones les plus exposées (avant du véhicule, zones soumises aux lavages fréquents) peuvent vieillir un peu plus vite.
+Un chrome delete bien posé avec un film de qualité (Avery SWF, 3M 2080) dure **4 à 6 ans** sur les zones extérieures. Les zones les plus exposées (avant du véhicule, zones soumises aux lavages fréquents) peuvent vieillir un peu plus vite.
 
 Entretien : mêmes règles que pour le covering extérieur. Pas de cire sur le mat, lavage pH neutre, éviter le jet direct sur les bords.
 
 ## Produit recommandé
 
-Le **3M 1080 Matte Black (M12)** est le film de référence pour le chrome delete. Dureté optimale pour une pose en bandes étroites, adhésif repositionnable, finition mat parfaitement uniforme. Disponible en rouleau étroit (5 cm × 5 m) idéal pour les baguettes.
+Le **3M 2080 Matte Black (M12)** est le film de référence pour le chrome delete. Dureté optimale pour une pose en bandes étroites, adhésif repositionnable, finition mat parfaitement uniforme. Disponible en rouleau étroit (5 cm × 5 m) idéal pour les baguettes.
 
-[Voir le 3M 1080 Noir Mat pour chrome delete sur Amazon →](https://www.amazon.fr/s?k=3m+1080+noir+mat+chrome+delete+baguette&tag=wrapfinder-21)
+[Voir le 3M 2080 Noir Mat pour chrome delete sur Amazon →](https://www.amazon.fr/s?k=3m+2080+noir+mat+chrome+delete+baguette&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

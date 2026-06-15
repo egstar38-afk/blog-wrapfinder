@@ -81,6 +81,8 @@ Réseau disponible sur suntek.com — locator par pays et région. Présence sig
 
 Pour l'entretien du topcoat SunTek Ultra, le **Gtechniq C2 Liquid Crystal** est compatible et recommandé pour restaurer l'hydrophobie entre deux poses céramiques complètes.
 
-[Voir le SunTek Ultra PPF sur Amazon →](https://www.amazon.fr/s?k=suntek+ultra+ppf+film+protection+peinture+[auto-cicatrisant](/ppf-auto-cicatrisant-comment-ca-marche)&tag=wrapfinder-21)
+👉 **Ce film premium se pose chez un installateur certifié — [trouvez un poseur PPF près de chez vous sur WrapFinder](https://wrapfinder.fr).**
+
+[Voir le Gtechniq C2 Liquid Crystal sur Amazon →](https://www.amazon.fr/s?k=gtechniq+c2+liquid+crystal+sealant+ppf+entretien&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

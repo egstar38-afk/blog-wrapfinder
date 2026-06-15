@@ -30,7 +30,7 @@ Plutôt que de remplacer les véhicules, un nouveau covering suffit à rafraîch
 Un véhicule de location fait plus de kilomètres et plus de lavages qu'un véhicule personnel. Le film doit tenir au moins 5 ans avec des lavages fréquents (y compris portique sans contact).
 
 Films adaptés aux flottes :
-- 3M 1080 Series (7 ans de garantie extérieur)
+- 3M 2080 Series (7 ans de garantie extérieur)
 - Avery SWF (5 à 7 ans)
 - Oracal 970RA (5 ans)
 

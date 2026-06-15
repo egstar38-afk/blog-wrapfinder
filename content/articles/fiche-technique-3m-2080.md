@@ -7,7 +7,7 @@ date: "2026-05-18"
 
 ## Présentation générale
 
-Le **3M 2080 Series** est la gamme de films vinyle de covering automobile premium de 3M. Successeur de la gamme 1080, le 2080 intègre des améliorations significatives sur l'adhésif, la conformabilité et la résistance UV.
+Le **3M 2080 Series** est la gamme de films vinyle de covering automobile premium de 3M. Successeur de la gamme 2080, le 2080 intègre des améliorations significatives sur l'adhésif, la conformabilité et la résistance UV.
 
 C'est l'un des films de référence sur le marché mondial du covering professionnel — disponible dans plus de 100 pays via le réseau de distribution 3M.
 

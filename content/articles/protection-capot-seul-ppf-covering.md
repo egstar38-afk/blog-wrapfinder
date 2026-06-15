@@ -6,6 +6,9 @@ date: "2024-04-02"
 ---
 
 ![Ford Mustang cabriolet avec bandes de covering noir mat (pose de bandes personnalisées)](/images/articles/protection-capot-seul-ppf-covering.webp)
+
+> **👉 Besoin d'une pose professionnelle ?** [WrapFinder](https://wrapfinder.fr) met en relation les particuliers avec des poseurs certifiés — et les pros avec des sous-traitants — partout en France.
+
 ## Le capot : la zone qui reçoit tout
 
 Sur une berline qui roule régulièrement sur autoroute, le capot reçoit environ 60 % de la totalité des impacts de gravillons du véhicule. C'est la zone la plus exposée, la plus visible, et souvent la première à montrer les dégâts.

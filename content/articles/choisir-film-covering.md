@@ -27,7 +27,7 @@ Le point fort d'Avery : leur film tire bien dans les courbes serrées sans blanc
 
 ### 3M — la robustesse professionnelle
 
-3M 1080 et 2080 sont les références de la marque pour le covering carrosserie. Le 1080 est un film plus rigide, idéal pour les grandes surfaces planes (capots plats, flancs). Le 2080 est plus souple, mieux adapté aux véhicules avec des formes complexes.
+3M 2080 et 2080 sont les références de la marque pour le covering carrosserie. Le 2080 est un film plus rigide, idéal pour les grandes surfaces planes (capots plats, flancs). Le 2080 est plus souple, mieux adapté aux véhicules avec des formes complexes.
 
 3M se distingue par la qualité de son adhésif : le "Comply" permet une évacuation de l'air lors de la pose et un retrait propre même après 5 ou 6 ans. C'est souvent le film qu'on retrouve sur les véhicules de flotte et les camions commerciaux.
 
@@ -55,7 +55,7 @@ La série 970 (cast) est correcte. Évitez l'Oracal 551 ou 631 pour les applicat
 
 C'est peut-être la distinction la plus importante que vous apprendrez en covering.
 
-**[Film cast](/film-cast-vs-calandre-difference)** : le vinyle est coulé en nappe mince et séché à plat. Résultat : un film très fin (60–80 µm), très souple, stable dimensionnellement (il ne rétrécit pas avec le temps). Idéal pour les formes complexes et les longues durées. Avery SWF, 3M 1080, Hexis Skintac sont des films cast.
+**[Film cast](/film-cast-vs-calandre-difference)** : le vinyle est coulé en nappe mince et séché à plat. Résultat : un film très fin (60–80 µm), très souple, stable dimensionnellement (il ne rétrécit pas avec le temps). Idéal pour les formes complexes et les longues durées. Avery SWF, 3M 2080, Hexis Skintac sont des films cast.
 
 **Film calendré** : le vinyle est passé entre des rouleaux qui l'écrasent à l'épaisseur souhaitée. Plus épais (80–120 µm), moins souple, avec une tendance à rétrécir légèrement sous la chaleur avec le temps. Moins cher, bon pour les surfaces planes et les courtes durées (2–3 ans). Oracal 751 est un film calendré.
 

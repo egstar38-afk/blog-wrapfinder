@@ -67,8 +67,8 @@ Les sealants liquides sont recommandés : ils pénètrent dans les rainures et c
 
 ## Produit recommandé
 
-Le **3M 1080 Brushed Black Metallic BM231** est le film brossé le plus vendu en France pour les véhicules foncés. Son brossage profond est particulièrement saisissant sous lumière rasante ou en éclairage de parking.
+Le **3M 2080 Brushed Black Metallic BM231** est le film brossé le plus vendu en France pour les véhicules foncés. Son brossage profond est particulièrement saisissant sous lumière rasante ou en éclairage de parking.
 
-[Voir le 3M 1080 Brushed Black Metallic sur Amazon →](https://www.amazon.fr/s?k=3m+1080+brushed+black+metallic+BM231+film+vinyle+brossé&tag=wrapfinder-21)
+[Voir le 3M 2080 Brushed Black Metallic sur Amazon →](https://www.amazon.fr/s?k=3m+2080+brushed+black+metallic+BM231+film+vinyle+brossé&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

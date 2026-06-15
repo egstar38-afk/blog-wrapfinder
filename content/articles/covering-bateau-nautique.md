@@ -52,7 +52,7 @@ Les films spécifiquement marins sont proposés par quelques fabricants :
 - **Mactac Marine** : films pour coques polyester et fibre
 - **Hexis Marine** : offre plus limitée mais qualité correcte
 
-En dehors des gammes spécifiques marines, certains films auto de haute gamme (3M 1080, Avery SWF) offrent une résistance marine acceptable pour les usages en eau douce ou les bateaux garés à quai (pas en navigation permanente).
+En dehors des gammes spécifiques marines, certains films auto de haute gamme (3M 2080, Avery SWF) offrent une résistance marine acceptable pour les usages en eau douce ou les bateaux garés à quai (pas en navigation permanente).
 
 ## La préparation : plus critique qu'en automobile
 
@@ -74,8 +74,8 @@ En dehors des gammes spécifiques marines, certains films auto de haute gamme (3
 
 ## Produit recommandé
 
-Le **3M 1080 Series appliqué avec primer 3M 94** est la combinaison la plus utilisée par les ateliers nautiques pour les surfaces au-dessus de la flottaison. Pas un film marin officiel, mais sa résistance UV et son adhésif de qualité lui permettent de tenir 3 à 4 ans en milieu marin modéré.
+Le **3M 2080 Series appliqué avec primer 3M 94** est la combinaison la plus utilisée par les ateliers nautiques pour les surfaces au-dessus de la flottaison. Pas un film marin officiel, mais sa résistance UV et son adhésif de qualité lui permettent de tenir 3 à 4 ans en milieu marin modéré.
 
-[Voir le 3M 1080 pour usage nautique sur Amazon →](https://www.amazon.fr/s?k=3m+1080+film+vinyle+bateau+nautique+mer+covering&tag=wrapfinder-21)
+[Voir le 3M 2080 pour usage nautique sur Amazon →](https://www.amazon.fr/s?k=3m+2080+film+vinyle+bateau+nautique+mer+covering&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

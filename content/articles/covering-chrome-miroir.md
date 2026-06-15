@@ -37,7 +37,7 @@ Les poseurs expérimentés utilisent une technique de micro-coupes stratégiques
 |---|---|---|
 | Oracal 970RA Chrome | Plus accessible, canal d'air | Difficile |
 | Avery Chrome | Bonne finition, coûteux | Très difficile |
-| 3M 1080 Chrome | Haute qualité, très cher | Très difficile |
+| 3M 2080 Chrome | Haute qualité, très cher | Très difficile |
 | Hexis SKINTAC Chrome | Bonne tenue | Difficile |
 | Films génériques | Prix bas, qualité variable | Variable |
 
@@ -65,8 +65,8 @@ Pour un look métallique intense sans les difficultés du chrome :
 
 ## Produit recommandé
 
-Le **3M 1080 Brushed Aluminum B120** est l'alternative la plus réaliste au chrome miroir : effet métal brossé intense, facile à poser comparé au chrome, et sans les problèmes légaux du miroir.
+Le **3M 2080 Brushed Aluminum B120** est l'alternative la plus réaliste au chrome miroir : effet métal brossé intense, facile à poser comparé au chrome, et sans les problèmes légaux du miroir.
 
-[Voir le 3M 1080 Brushed Aluminum B120 sur Amazon →](https://www.amazon.fr/s?k=3m+1080+B120+brushed+aluminum+film+vinyle+covering+metal&tag=wrapfinder-21)
+[Voir le 3M 2080 Brushed Aluminum B120 sur Amazon →](https://www.amazon.fr/s?k=3m+2080+B120+brushed+aluminum+film+vinyle+covering+metal&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

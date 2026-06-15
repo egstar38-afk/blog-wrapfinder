@@ -55,7 +55,7 @@ Lavage à la main uniquement. Les portiques automatiques à brosses sont particu
 
 ## Les marques qui proposent des films color shift
 
-- **3M** : gamme 1080 Flip (une dizaine de références)
+- **3M** : gamme 2080 Flip (une dizaine de références)
 - **Avery** : ColorFlow Series (une douzaine de références)
 - **Oracal** : gamme 975 (quelques références color shift)
 - **Hexis** : SKINTAC Caméléon

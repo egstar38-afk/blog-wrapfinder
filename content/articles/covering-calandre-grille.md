@@ -75,8 +75,8 @@ Découpe exacte à l'intérieur de chaque ouverture. Ne laissez pas de film bloq
 
 ## Produit recommandé
 
-Le **3M 1080 Satin Black S12** est la référence chrome delete sur calandre — film de 75 µm très conformable pour les barreaux fins, résistance UV correcte en zone frontale, adhérence solide sur chrome.
+Le **3M 2080 Satin Black S12** est la référence chrome delete sur calandre — film de 75 µm très conformable pour les barreaux fins, résistance UV correcte en zone frontale, adhérence solide sur chrome.
 
-[Voir le 3M 1080 Satin Black S12 sur Amazon →](https://www.amazon.fr/s?k=3m+1080+S12+satin+black+film+vinyle+chrome+delete+calandre&tag=wrapfinder-21)
+[Voir le 3M 2080 Satin Black S12 sur Amazon →](https://www.amazon.fr/s?k=3m+2080+S12+satin+black+film+vinyle+chrome+delete+calandre&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

@@ -29,7 +29,7 @@ Distributeur de la gamme Avery [Supreme Wrapping Film](/fiche-technique-avery-de
 
 ### 3M France
 
-Films covering 1080 et Pro Series PPF. Distribution via réseau de revendeurs 3M agréés.
+Films covering 2080 et Pro Series PPF. Distribution via réseau de revendeurs 3M agréés.
 
 **Accès** : ouverture d'un compte via un distributeur régional 3M.
 

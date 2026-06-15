@@ -17,7 +17,7 @@ Un tableau de bord exposé au soleil estival peut atteindre **80 à 100 °C** su
 
 Pour un covering de tableau de bord, vous avez besoin d'un film avec un adhésif dont la température de service dépasse **90 °C**. Ce n'est pas le cas de tous les films vinyle standard. Vérifiez la fiche technique avant d'acheter.
 
-Les films 3M 1080 et Avery Dennison SWF annoncent une tenue à 80–90 °C en continu. Pour les zones les plus exposées (dessus de planche de bord sous le pare-brise), certains poseurs utilisent des films PPF qui ont généralement une meilleure résistance thermique de l'adhésif.
+Les films 3M 2080 et Avery Dennison SWF annoncent une tenue à 80–90 °C en continu. Pour les zones les plus exposées (dessus de planche de bord sous le pare-brise), certains poseurs utilisent des films PPF qui ont généralement une meilleure résistance thermique de l'adhésif.
 
 ## Les types de surfaces rencontrées
 
@@ -86,8 +86,8 @@ La durée de vie est systématiquement plus courte qu'en extérieur, contre-intu
 
 ## Produit recommandé
 
-Le **3M 1080 Carbon Fiber Black (CF201)** est très populaire pour les covering intérieurs. Il imite le carbone de façon convaincante, résiste bien à la chaleur et son adhésif tient correctement sur l'ABS dégraissé. Disponible en rouleaux étroits adaptés aux petites pièces.
+Le **3M 2080 Carbon Fiber Black (CF201)** est très populaire pour les covering intérieurs. Il imite le carbone de façon convaincante, résiste bien à la chaleur et son adhésif tient correctement sur l'ABS dégraissé. Disponible en rouleaux étroits adaptés aux petites pièces.
 
-[Voir le film 3M carbone intérieur sur Amazon →](https://www.amazon.fr/s?k=3m+1080+carbone+vinyle+tableau+de+bord&tag=wrapfinder-21)
+[Voir le film 3M carbone intérieur sur Amazon →](https://www.amazon.fr/s?k=3m+2080+carbone+vinyle+tableau+de+bord&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

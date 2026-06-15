@@ -61,8 +61,8 @@ Les applications les plus efficaces visuellement combinent un film de base sobre
 
 ## Produit recommandé
 
-Le **3M 1080 Diamond Black GP281** est une finition paillette fine (micro-paillettes) sur fond noir — l'un des compromis les plus réussis entre le classique et le spectaculaire. Discret en intérieur, intense au soleil.
+Le **3M 2080 Diamond Black GP281** est une finition paillette fine (micro-paillettes) sur fond noir — l'un des compromis les plus réussis entre le classique et le spectaculaire. Discret en intérieur, intense au soleil.
 
-[Voir le 3M 1080 Diamond Black GP281 sur Amazon →](https://www.amazon.fr/s?k=3m+1080+GP281+diamond+black+paillette+film+vinyle+covering&tag=wrapfinder-21)
+[Voir le 3M 2080 Diamond Black GP281 sur Amazon →](https://www.amazon.fr/s?k=3m+2080+GP281+diamond+black+paillette+film+vinyle+covering&tag=wrapfinder-21)
 
 *Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*

@@ -55,7 +55,7 @@ Après la pose, l'adhésif est en polymérisation. La pluie dans les 48 premièr
 
 ## Les films les plus résistants à l'eau
 
-Les films casting (3M 1080, Avery SWF) ont un profil d'adhésif plus uniforme et des bords plus stables que les films calandrés bas de gamme. Leur tolérance à l'eau est supérieure.
+Les films casting (3M 2080, Avery SWF) ont un profil d'adhésif plus uniforme et des bords plus stables que les films calandrés bas de gamme. Leur tolérance à l'eau est supérieure.
 
 ## Produit recommandé
 
