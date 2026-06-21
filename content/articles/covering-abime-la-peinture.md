@@ -54,6 +54,12 @@ Après dépose d'un film bien posé pendant 5 ans :
 - Des résidus d'adhésif minimes peuvent rester sur les bords — ils s'enlèvent à l'IPA ou avec un produit spécifique de retrait d'adhésif
 - La peinture sous le film est protégée des UV — elle peut paraître légèrement "plus fraîche" que les zones non couvertes (ce qui peut créer un contraste temporaire)
 
+Pour ces résidus légers, l'IPA (alcool isopropylique) dilué est la solution la plus économique ; gardez le retrait d'adhésif dédié pour les cas tenaces.
+
+[Voir un nettoyant isopropanol (IPA) sur Amazon →](https://www.amazon.fr/s?k=alcool+isopropylique+ipa+nettoyant+auto+résidu+colle&tag=wrapfinder-21)
+
+*Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*
+
 ## Ce que la dépose professionnelle change
 
 Un poseur expérimenté qui dépose un film connaît les bons angles, les bonnes températures, et peut gérer les zones difficiles (bords, angles) sans forcer. Une dépose faite par quelqu'un sans expérience, à froid, à angle agressif, multiplie les risques.

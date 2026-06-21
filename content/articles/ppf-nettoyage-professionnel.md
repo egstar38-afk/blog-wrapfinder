@@ -20,6 +20,12 @@ Lavage à la main avec shampoing neutre (pH 6 à 8). Un gant microfibre doux. Ri
 
 Pour les zones PPF, la pression du jet ne doit pas dépasser 40 bar et l'angle doit être perpendiculaire à la surface — jamais en biseau sous le bord du film, ce qui décollerait l'adhésif.
 
+Inutile de viser un produit agressif : un shampoing pH neutre suffit largement et préserve le topcoat. Le Turtle Wax Hybrid Solutions fait partie des shampoings doux compatibles.
+
+[Voir le shampoing pH neutre Turtle Wax sur Amazon →](https://www.amazon.fr/dp/B0833KHBWB?tag=wrapfinder-21)
+
+*Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*
+
 ### Les portiques automatiques
 
 Les portiques sans contact (jet haute pression uniquement) sont compatibles avec le PPF si le film est bien posé et polymérisé depuis plus d'une semaine.
@@ -43,11 +49,19 @@ Les particules ferreuses (poussières de plaquette de frein, particules ferreuse
 
 Application : spray sur le PPF, attente 3 à 5 minutes, rinçage. Les zones contaminées virent au violet/rouge en réaction avec les particules ferreuses.
 
+[Voir un iron remover (décontaminant ferreux) sur Amazon →](https://www.amazon.fr/dp/B084VTVQRS?tag=wrapfinder-21)
+
+*Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*
+
 ### Clay bar : avec précaution
 
 Le clay bar (argile décontaminante) peut être utilisé sur PPF gloss avec précaution. Utilisez un clay bar doux (pas le clay bar agressif rouge), et de l'eau + shampoing comme lubrifiant.
 
 Sur PPF mat ou satin : évitez le clay bar. Il peut modifier la texture du topcoat mat.
+
+[Voir une barre d'argile (clay bar doux) sur Amazon →](https://www.amazon.fr/dp/B0BLSX7SSB?tag=wrapfinder-21)
+
+*Lien affilié — en achetant via ce lien vous soutenez le blog sans surcoût.*
 
 ## Le polish sur PPF : une frontière à ne pas dépasser
 
