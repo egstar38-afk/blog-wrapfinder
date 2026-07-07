@@ -57,9 +57,21 @@ export default async function ArticlePage({ params }: Props) {
   const related = getRelatedArticles(article.slug, article.category)
   const faqItems = getFaqItems(article.slug)
 
-  // Signature auteur uniquement sur les articles "prix" et ceux citant APA / Pole Cover / WrapFinder
+  // Signature auteur : articles "prix", ceux citant APA / Pole Cover / WrapFinder,
+  // + une sélection d'articles d'expertise (conseils de pose, entretien, choix) où
+  // l'autorité de poseur/formateur certifié renforce la crédibilité (E-E-A-T).
+  const EXPERTISE_BYLINE = new Set([
+    'choisir-son-ppf', 'choisir-film-covering', 'poser-ppf-soi-meme', 'peut-on-poser-ppf-soi-meme',
+    'entretien-ppf-au-quotidien', 'entretien-covering-quotidien', 'entretien-voiture-protegee-ppf-covering',
+    'enlever-ppf-sans-abimer', 'preparer-voiture-avant-pose-ppf', 'preparer-surface-avant-collage',
+    'erreurs-debutant-ppf-covering', 'duree-de-vie-ppf', 'garantie-ppf-ce-qui-est-couvert',
+    'ppf-auto-cicatrisant-comment-ca-marche', 'combien-de-temps-pose-ppf-capot',
+    'comment-detecter-ppf-sur-voiture-occasion', 'ppf-vs-protection-ceramique',
+    'ppf-installer-certifie-pourquoi', 'certification-poseur-avery-3m-xpel',
+  ])
   const showByline =
     /prix|tarif|budget|combien-coute/.test(article.slug) ||
+    EXPERTISE_BYLINE.has(article.slug) ||
     /\bAPA\b/.test(article.contentHtml) ||
     article.contentHtml.includes('polecover.fr') ||
     article.contentHtml.includes('wrapfinder.fr')
