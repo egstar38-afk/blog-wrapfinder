@@ -83,7 +83,7 @@ Vérification : le locator d'installateurs sur xpel.fr est maintenu à jour. Mé
 
 Le **XPEL PRIME XR Plus** est l'équivalent XPEL pour les vitres — film de protection solaire nano-céramique qui complète logiquement un PPF Ultimate Plus en protégeant l'habitacle de la chaleur UV.
 
-👉 **Ce film premium se pose chez un installateur certifié — [trouvez un poseur PPF près de chez vous sur WrapFinder](https://wrapfinder.fr).**
+👉 **Ce film premium se pose chez un installateur certifié — [trouvez un poseur PPF près de chez vous sur WrapFinder](https://www.wrapfinder.fr).**
 
 [Voir le XPEL PRIME XR Plus (film solaire) sur Amazon →](https://www.amazon.fr/s?k=xpel+prime+xr+plus+film+solaire+ceramique+vitres&tag=wrapfinder-21)
 

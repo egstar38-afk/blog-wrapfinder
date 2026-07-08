@@ -70,7 +70,7 @@ export default function HomePage() {
           </p>
         </div>
         <a
-          href="https://wrapfinder.fr"
+          href="https://www.wrapfinder.fr"
           target="_blank"
           rel="noopener"
           className="shrink-0 rounded-md bg-amber-500 px-5 py-2.5 text-sm font-semibold text-black hover:bg-amber-400 transition-colors text-center"

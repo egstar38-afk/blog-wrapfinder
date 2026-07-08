@@ -88,7 +88,7 @@ La densité est inférieure à XPEL ou [SunTek](/fiche-technique-suntek-ultra) �
 
 Le **CarPro HydrO2 Lite** est un spray hydrophobe compatible STEK DynoShield pour le "boost" semestriel — même si le topcoat céramique maintient l'hydrophobie nettement plus longtemps qu'un PPF standard, un boost 2 fois par an maintient les performances au maximum.
 
-👉 **Ce film premium se pose chez un installateur certifié — [trouvez un poseur PPF près de chez vous sur WrapFinder](https://wrapfinder.fr).**
+👉 **Ce film premium se pose chez un installateur certifié — [trouvez un poseur PPF près de chez vous sur WrapFinder](https://www.wrapfinder.fr).**
 
 [Voir le CarPro HydrO2 Lite sur Amazon →](https://www.amazon.fr/s?k=carpro+hydro2+lite+spray+hydrophobe+ppf&tag=wrapfinder-21)
 

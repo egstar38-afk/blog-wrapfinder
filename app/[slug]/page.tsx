@@ -221,7 +221,7 @@ export default async function ArticlePage({ params }: Props) {
           <p className="text-zinc-100 font-semibold mb-1">Besoin d&apos;une pose professionnelle&nbsp;?</p>
           <p className="text-zinc-400 text-sm leading-relaxed">
             <a
-              href="https://wrapfinder.fr"
+              href="https://www.wrapfinder.fr"
               target="_blank"
               rel="noopener"
               className="text-amber-500 font-semibold hover:underline"
