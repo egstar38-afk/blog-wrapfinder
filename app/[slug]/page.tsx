@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getArticleBySlug, getAllSlugs, getRelatedArticles, getFaqItems, CATEGORY_LABELS } from '@/lib/articles'
+import { getArticleBySlug, getAllSlugs, getRelatedArticles, getFaqItems, getWrapfinderCta, CATEGORY_LABELS } from '@/lib/articles'
 import ArticleFeedback from '../article-feedback'
 
 const SITE_URL = 'https://blog.wrapfinder.fr'
@@ -56,6 +56,7 @@ export default async function ArticlePage({ params }: Props) {
 
   const related = getRelatedArticles(article.slug, article.category)
   const faqItems = getFaqItems(article.slug)
+  const cta = getWrapfinderCta(article.slug, article.category)
 
   // Signature auteur : articles "prix", ceux citant APA / Pole Cover / WrapFinder,
   // + une sélection d'articles d'expertise (conseils de pose, entretien, choix) où
@@ -215,21 +216,26 @@ export default async function ArticlePage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: article.contentHtml }}
       />
 
-      {/* CTA WrapFinder — sur les articles PPF / covering (pas les adhésifs purs) */}
-      {!article.category.startsWith('adhesif') && (
+      {/* CTA WrapFinder — lien vers le hub prestation correspondant au sujet de l'article */}
+      {cta && (
         <aside className="mt-10 rounded-lg border border-amber-500/40 bg-amber-500/5 p-5">
           <p className="text-zinc-100 font-semibold mb-1">Besoin d&apos;une pose professionnelle&nbsp;?</p>
           <p className="text-zinc-400 text-sm leading-relaxed">
-            <a
-              href="https://www.wrapfinder.fr"
-              target="_blank"
-              rel="noopener"
-              className="text-amber-500 font-semibold hover:underline"
-            >
-              WrapFinder
-            </a>{' '}
-            met en relation les particuliers avec des poseurs certifiés — et les professionnels avec des
-            sous-traitants — partout en France.
+            {cta.map((part, i) =>
+              typeof part === 'string' ? (
+                part
+              ) : (
+                <a
+                  key={i}
+                  href={part.href}
+                  target="_blank"
+                  rel="noopener"
+                  className="text-amber-500 font-semibold hover:underline"
+                >
+                  {part.anchor}
+                </a>
+              )
+            )}
           </p>
         </aside>
       )}

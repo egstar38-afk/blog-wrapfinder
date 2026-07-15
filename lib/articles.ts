@@ -73,10 +73,13 @@ export function getArticlesByCategory(category: Category): ArticleMeta[] {
 /**
  * Les liens affiliés Amazon doivent porter rel="sponsored" (consigne Google),
  * les autres liens externes rel="noopener". Tous s'ouvrent dans un nouvel onglet.
+ * Les liens vers la plateforme www.wrapfinder.fr restent en dofollow (maillage
+ * blog → marketplace) mais s'ouvrent aussi dans un nouvel onglet.
  */
 function decorateExternalLinks(html: string): string {
   return html.replace(/<a href="(https?:\/\/[^"]+)"/g, (match, url: string) => {
     if (url.includes('blog.wrapfinder.fr')) return match
+    if (url.includes('wrapfinder.fr')) return `<a href="${url}" rel="noopener" target="_blank"`
     const rel = url.includes('amazon.') ? 'sponsored nofollow noopener' : 'nofollow noopener'
     return `<a href="${url}" rel="${rel}" target="_blank"`
   })
@@ -192,6 +195,69 @@ export function getFaqItems(slug: string): FaqItem[] {
     if (answer) items.push({ question: m[1].trim(), answer })
   }
   return items
+}
+
+export const WRAPFINDER_URL = 'https://www.wrapfinder.fr'
+
+/** Fragment de CTA : texte brut ou lien vers un hub prestation de la plateforme. */
+export type CtaPart = string | { href: string; anchor: string }
+
+const hub = (path: string, anchor: string): CtaPart => ({
+  href: `${WRAPFINDER_URL}${path}`,
+  anchor,
+})
+
+/** Articles dont le sujet correspond à un hub plus précis que leur catégorie. */
+const SLUG_CTA_OVERRIDES: Record<string, CtaPart[]> = {
+  'ppf-pour-moto': [
+    'Comparez les ',
+    hub('/covering-moto', 'poseurs spécialisés covering et PPF moto'),
+    ' près de chez vous sur WrapFinder et recevez gratuitement plusieurs devis.',
+  ],
+  'difference-ppf-film-solaire': [
+    'Comparez les ',
+    hub('/ppf', 'poseurs de PPF'),
+    ' et les ',
+    hub('/film-solaire', 'poseurs de film solaire auto'),
+    ' près de chez vous sur WrapFinder et recevez gratuitement plusieurs devis.',
+  ],
+  'covering-camion-utilitaire-commercial': [
+    'Comparez les ',
+    hub('/marquage-vehicule', 'spécialistes du marquage et covering utilitaire'),
+    ' près de chez vous sur WrapFinder et recevez gratuitement plusieurs devis.',
+  ],
+}
+
+/**
+ * CTA de fin d'article vers le hub prestation WrapFinder correspondant au sujet
+ * (maillage blog → marketplace avec ancres optimisées). Null pour les articles
+ * adhésifs purs (pas de prestation associée sur la plateforme).
+ */
+export function getWrapfinderCta(slug: string, category: Category): CtaPart[] | null {
+  if (category.startsWith('adhesif')) return null
+  const override = SLUG_CTA_OVERRIDES[slug]
+  if (override) return override
+  if (category === 'ppf-covering-compare') {
+    return [
+      'Comparez les ',
+      hub('/ppf', 'poseurs de PPF'),
+      ' et les ',
+      hub('/covering', 'poseurs de covering'),
+      ' certifiés près de chez vous sur WrapFinder et recevez gratuitement plusieurs devis.',
+    ]
+  }
+  if (category.startsWith('ppf')) {
+    return [
+      'Comparez les ',
+      hub('/ppf', 'poseurs de PPF certifiés près de chez vous'),
+      ' sur WrapFinder et recevez gratuitement plusieurs devis pour protéger votre véhicule.',
+    ]
+  }
+  return [
+    'Comparez les ',
+    hub('/covering', 'poseurs de covering certifiés près de chez vous'),
+    ' sur WrapFinder et recevez gratuitement plusieurs devis pour votre projet.',
+  ]
 }
 
 export function getAllSlugs(): string[] {

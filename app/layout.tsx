@@ -91,6 +91,20 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
         <footer className="border-t border-zinc-800 mt-auto">
           <div className="max-w-5xl mx-auto px-6 py-8 text-sm text-zinc-500">
+            <nav aria-label="Trouver un poseur sur WrapFinder" className="mb-5">
+              <p className="text-xs font-semibold uppercase tracking-widest text-zinc-600 mb-2">
+                Trouver un poseur près de chez vous
+              </p>
+              <div className="flex flex-wrap gap-x-5 gap-y-2">
+                <a href="https://www.wrapfinder.fr/covering" className="hover:text-amber-500 transition-colors">Covering</a>
+                <a href="https://www.wrapfinder.fr/ppf" className="hover:text-amber-500 transition-colors">PPF</a>
+                <a href="https://www.wrapfinder.fr/vitres-teintees" className="hover:text-amber-500 transition-colors">Vitres teintées</a>
+                <a href="https://www.wrapfinder.fr/marquage-vehicule" className="hover:text-amber-500 transition-colors">Marquage véhicule</a>
+                <a href="https://www.wrapfinder.fr/covering-moto" className="hover:text-amber-500 transition-colors">Covering moto</a>
+                <a href="https://www.wrapfinder.fr/film-solaire" className="hover:text-amber-500 transition-colors">Film solaire</a>
+                <a href="https://www.wrapfinder.fr/vitrophanie" className="hover:text-amber-500 transition-colors">Vitrophanie</a>
+              </div>
+            </nav>
             <nav className="flex flex-wrap gap-x-5 gap-y-2 mb-4">
               <a href="/a-propos" className="hover:text-amber-500 transition-colors">À propos</a>
               <a href="/contact" className="hover:text-amber-500 transition-colors">Contact</a>

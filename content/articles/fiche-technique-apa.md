@@ -53,4 +53,4 @@ La qualité d'un film, quelle que soit la marque, ne vaut que par la **maîtrise
 
 Vous n'êtes pas poseur et cherchez un professionnel pour un covering ou un PPF en film APA (ou autre) ?
 
-👉 **[Trouvez un poseur certifié sur WrapFinder](https://www.wrapfinder.fr)** — la plateforme met en relation particuliers et poseurs, et les professionnels avec des sous-traitants, partout en France.
+👉 **[Trouvez un poseur de covering certifié sur WrapFinder](https://www.wrapfinder.fr/covering)** — devis gratuits, partout en France.
