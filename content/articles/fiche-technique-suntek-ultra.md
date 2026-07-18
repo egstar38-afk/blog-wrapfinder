@@ -8,7 +8,7 @@ updated: "2026-06-13"
 
 ## Présentation
 
-**SunTek** est une marque de Eastman Chemical Company (USA), l'un des plus grands fabricants de films polymères au monde. Le **SunTek Ultra** est leur PPF haut de gamme — concurrent direct de l'[XPEL](/fiche-technique-xpel-ultimate-plus) Ultimate Plus sur le segment premium.
+**SunTek** est une marque de Eastman Chemical Company (USA), l'un des plus grands fabricants de films polymères au monde. Le **SunTek Ultra** est leur PPF le plus abouti — concurrent direct de l'[XPEL](/fiche-technique-xpel-ultimate-plus) Ultimate Plus, les deux marques américaines les plus connues du marché.
 
 Eastman fabrique également plusieurs autres marques PPF ([LLumar](/fiche-technique-llumar-ppf), Vista, Huper Optik), ce qui lui donne un avantage en termes d'économies d'échelle et de R&D sur les matériaux de base.
 
