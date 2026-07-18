@@ -8,7 +8,7 @@ updated: "2026-06-13"
 
 ## Le pare-chocs avant, c'est la zone la plus difficile du véhicule
 
-Quand un client me demande de protéger juste une pièce, je lui explique toujours que le pare-chocs avant est techniquement la pose la plus complexe du véhicule — plus difficile que le capot, plus difficile que les ailes. Pas parce que la surface est grande, mais parce que les formes sont complexes dans tous les sens à la fois.
+Quand un client me demande de protéger juste une pièce, je lui explique toujours que le pare-chocs avant est techniquement la pose la plus complexe du véhicule, en PPF comme en [covering de pare-chocs](/covering-pare-chocs-avant) — plus difficile que la [pose sur capot](/combien-de-temps-pose-ppf-capot), plus difficile que les ailes. Pas parce que la surface est grande, mais parce que les formes sont complexes dans tous les sens à la fois.
 
 Sur une Golf 8 ou un Peugeot 3008, le pare-chocs a des entrées d'air profondes, des nervures horizontales, des zones qui se courbent en même temps horizontalement et verticalement, des grilles de calandre, des logements de brouillards, et souvent une caméra de recul avant ou un radar. Chaque découpe doit être propre, chaque courbe doit être suivie sans plis.
 
@@ -40,7 +40,7 @@ La solution : un film unique qui couvre à la fois le bord du pare-chocs ET le b
 
 Le bas du pare-chocs reçoit les projections les plus basses — asphalte, gravillons, détritus. C'est aussi la zone qui griffe lors des manœuvres de parking (bordures, trottoirs).
 
-Utilisez un film plus épais sur cette zone si votre fournisseur le propose (200 µm vs 150 µm standard). Certains poseurs doublent le film sur les 5 derniers centimètres du bas de pare-chocs pour les clients qui font beaucoup de parking en ville.
+Utilisez un [film plus épais](/ppf-50-microns-vs-200-microns) sur cette zone si votre fournisseur le propose (200 µm vs 150 µm standard). Certains poseurs doublent le film sur les 5 derniers centimètres du bas de pare-chocs pour les clients qui font beaucoup de parking en ville.
 
 ## Les découpes autour des équipements
 
@@ -48,7 +48,7 @@ Utilisez un film plus épais sur cette zone si votre fournisseur le propose (200
 
 Les antibrouillards ronds ou rectangulaires nécessitent une découpe propre. La technique : film posé sur toute la zone, découpe au cutter en suivant exactement le bord de l'antibrouillard ou de son capot plastique.
 
-Pour les feux de jour LED intégrés au pare-chocs (DRL), la découpe suit le contour extérieur du feu. Ne couvrez jamais une surface lumineuse — en plus d'être illégal, la chaleur des LED dégrade l'adhésif en quelques semaines.
+Pour les feux de jour LED intégrés au pare-chocs (DRL), la découpe suit le contour extérieur du feu. Ne couvrez jamais une surface lumineuse — en plus d'être illégal, la chaleur des LED dégrade l'adhésif en quelques semaines. Les optiques, elles, se protègent avec un [PPF spécifique pour phares](/ppf-protection-phares).
 
 ### Radars de stationnement et ACC
 

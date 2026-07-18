@@ -10,7 +10,7 @@ updated: "2026-06-13"
 
 En été sur autoroute, vous rentrez chez vous avec le capot couvert d'insectes. L'instinct naturel : "Je nettoierai demain." Mauvaise idée.
 
-Les insectes contiennent des acides organiques (dans leurs fluides corporels) qui commencent à attaquer le topcoat dès qu'ils sèchent. En 24 à 48 heures sous le soleil, un insecte collé sur un PPF laisse une empreinte acide dans le topcoat que l'auto-cicatrisation ne peut pas effacer — l'acidité a modifié la surface chimiquement.
+Les insectes contiennent des acides organiques (dans leurs fluides corporels) qui commencent à attaquer le topcoat dès qu'ils sèchent. En 24 à 48 heures sous le soleil, un insecte collé sur un PPF laisse une empreinte acide dans le topcoat que [l'auto-cicatrisation](/ppf-auto-cicatrisant-comment-ca-marche) ne peut pas effacer — l'acidité a modifié la surface chimiquement.
 
 La règle d'atelier : insectes sur PPF = traitement le soir même ou au plus tard le lendemain matin.
 
@@ -40,7 +40,7 @@ Rincez à l'eau claire et inspectez sous lumière rasante. S'il reste des traces
 
 ## Le goudron : un problème différent
 
-Le goudron (projections de bitume des routes chaudes en été) est une contamination lipophile — il adhère fortement à la surface et ne se dissout pas à l'eau.
+Le goudron (projections de bitume des routes chaudes en été) est une contamination lipophile — comme les [taches d'huile ou de carburant](/ppf-taches-huile-carburant), il adhère fortement à la surface et ne se dissout pas à l'eau.
 
 ### Les produits compatibles PPF pour le goudron
 
@@ -84,7 +84,7 @@ En été, si vous roulez beaucoup sur autoroute avec un véhicule équipé de PP
 
 Un PPF traité régulièrement avec un sealant ou un revêtement céramique léger est beaucoup plus facile à nettoyer. Les insectes et le goudron n'adhèrent pas aussi fortement à une surface ultra-hydrophobe — ils se rincent parfois à l'eau simple ou avec très peu de produit.
 
-C'est l'un des arguments pratiques pour le sealant semestriel : pas que pour la protection, aussi pour simplifier l'entretien quotidien.
+C'est l'un des arguments pratiques pour le sealant semestriel : pas que pour la protection, aussi pour simplifier [l'entretien quotidien du PPF](/entretien-ppf-au-quotidien).
 
 ## Produit recommandé
 

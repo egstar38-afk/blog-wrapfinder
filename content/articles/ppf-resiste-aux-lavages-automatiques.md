@@ -29,7 +29,7 @@ Ce sont les portiques avec de grosses brosses textiles ou en mousse qui tournent
 **Compatibilité avec le PPF** : à éviter, surtout sur les bords.
 
 Les brosses créent une friction sur le film qui peut progressivement :
-- Créer des micro-rayures sur le topcoat (que l'auto-cicatrisation répare partiellement mais pas totalement)
+- Créer des [micro-rayures sur le topcoat](/ppf-resiste-aux-rayures-vraiment) (que l'auto-cicatrisation répare partiellement mais pas totalement)
 - Soulever les bords du film si ceux-ci ne sont pas parfaitement rentrés
 
 Sur un PPF bien posé avec des bords complètement rentrés, un passage occasionnel en portique à rouleaux ne cause pas de dommage immédiat. Mais répété, ça accélère le vieillissement des bords.
@@ -42,7 +42,7 @@ Idéal. Aucun risque si les produits sont compatibles PPF (pH neutre, sans solva
 
 Après la pose, l'adhésif du PPF est en cours de polymérisation. Pendant cette période, il est sensible à la pression d'eau et à la chaleur.
 
-**Délais recommandés avant le premier lavage** :
+**Délais recommandés avant le [premier lavage](/premier-lavage-apres-ppf)** :
 - Lavage à la main doux : 3 à 5 jours
 - Portique sans contact : 7 jours minimum
 - Portique à brosses : 14 jours minimum (et à éviter par la suite)
@@ -51,7 +51,7 @@ En dessous de ces délais, l'eau sous pression peut s'infiltrer sous le film ava
 
 ## Ce qui décolle vraiment les bords
 
-L'ennemi numéro un des bords PPF n'est pas le lavage en lui-même — c'est la combinaison de :
+L'ennemi numéro un des [bords de PPF qui se soulèvent](/ppf-bord-qui-se-souleve) n'est pas le lavage en lui-même — c'est la combinaison de :
 - Bords mal rentrés (film qui s'arrête au bord visible de la carrosserie plutôt que derrière)
 - Jet d'eau en biseau sur le bord
 - Chaleur excessive (soleil d'été + jet froid)

@@ -24,7 +24,7 @@ Ce type de covering est proposé par des spécialistes jantes et demande un dém
 
 C'est l'application la plus simple et la plus répandue : une bande de film de 15 à 30 mm de large est appliquée sur le flanc chromé ou poli de la jante, là où le trottoir accroche. La jante garde son aspect d'origine, mais le flanc est protégé des accrochages.
 
-Ce n'est pas du covering esthétique, c'est de la protection. Le résultat est quasi-invisible et très efficace pour préserver les jantes forgées ou les finitions polies coûteuses.
+Ce n'est pas du covering esthétique, c'est de la protection — dans le même esprit que le [PPF pour jantes](/ppf-jantes-et-roues). Le résultat est quasi-invisible et très efficace pour préserver les jantes forgées ou les finitions polies coûteuses.
 
 ## La méthode de pose sur jantes
 
@@ -40,7 +40,7 @@ Les jantes sont des formes tridimensionnelles très complexes. Les rayons créen
 
 ### Préparation de la surface
 
-C'est encore plus critique que sur la carrosserie. Les jantes accumulent de la graisse de frein, des résidus de liquide de frein, des poussières de plaquette. Nettoyage en trois temps :
+C'est encore plus critique que sur la carrosserie — la règle d'or de la [préparation de surface avant collage](/preparer-surface-avant-collage) s'applique ici sans exception. Les jantes accumulent de la graisse de frein, des résidus de liquide de frein, des poussières de plaquette. Nettoyage en trois temps :
 
 1. Dégraissant jante pH neutre pour éliminer la poussière et les graisses
 2. Rinçage à l'eau déminéralisée
@@ -86,7 +86,7 @@ La chaleur des freins, les produits de nettoyage et les chocs mécaniques fatigu
 
 - Usage intensif avec des freins sportifs
 - Voiture gardée plus de 3–4 ans
-- Finition chrome ou poli que vous voulez pérenniser — le film chrome sur jante tient moins bien que partout ailleurs
+- Finition chrome ou poli que vous voulez pérenniser — le [film chrome miroir](/covering-chrome-miroir), déjà exigeant sur carrosserie, tient encore moins bien sur jante que partout ailleurs
 
 ## Produit recommandé
 

@@ -8,7 +8,7 @@ updated: "2026-06-13"
 
 ## Pourquoi le ruban de masquage est un outil clé dans une pose PPF
 
-Quand vous posez un PPF, vous travaillez au bord de la peinture, souvent à quelques millimètres de zones que vous ne voulez pas toucher : joints de porte, plastiques, chrome, garnitures de toit. Le ruban de masquage protège ces zones pendant la pose et le découpage.
+Quand vous [posez un PPF](/poser-ppf-soi-meme), vous travaillez au bord de la peinture, souvent à quelques millimètres de zones que vous ne voulez pas toucher : joints de porte, plastiques, chrome, garnitures de toit. Le ruban de masquage — un des [outils indispensables du poseur](/outils-indispensables-poseur-ppf-covering) — protège ces zones pendant la pose et le découpage.
 
 Mais tous les rubans de masquage ne se valent pas — et certains vous laisseront des résidus de colle ou des marques sur des surfaces délicates si vous les laissez trop longtemps.
 
@@ -68,7 +68,7 @@ Retirez le ruban en tirant à 180° (replié sur lui-même, pas à 90° perpendi
 
 Tirez lentement et régulièrement — un arrachage brusque augmente le risque de résidus même avec un bon ruban.
 
-Si vous avez laissé le ruban trop longtemps et qu'il y a des résidus : IPA dilué (70 %) sur un microfibre, tamponnez doucement. Sur du chrome ou du plastique chrome, testez sur une zone cachée avant — l'IPA peut ternir certains chromes bas de gamme.
+Si vous avez laissé le ruban trop longtemps et qu'il y a [des résidus](/retirer-residus-adhesif) : IPA dilué (70 %) sur un microfibre, tamponnez doucement. Sur du chrome ou du plastique chrome, testez sur une zone cachée avant — l'IPA peut ternir certains chromes bas de gamme.
 
 ## Produit recommandé
 

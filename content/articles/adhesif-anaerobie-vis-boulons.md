@@ -10,7 +10,7 @@ updated: "2026-06-13"
 
 L'adhésif anaérobie (du grec "sans air") est un produit liquide qui polymérise uniquement en l'absence d'oxygène. Tant qu'il est dans son flacon en contact avec l'air, il reste liquide indéfiniment. Quand vous l'appliquez entre deux filets métalliques et vissez, il se retrouve privé d'oxygène et commence à polymériser.
 
-Le frein filet est l'application la plus courante de l'anaérobie en automobile.
+Le frein filet est l'application la plus courante de l'anaérobie en automobile — une famille à part parmi celles que je présente dans mon [guide des adhésifs professionnels](/guide-adhesifs-professionnels).
 
 ## Pourquoi utiliser le frein filet en auto
 
@@ -24,7 +24,7 @@ Les vis critiques que les constructeurs protègent souvent au frein filet en usi
 - Fixations de sous-châssis
 - Vis de systèmes de sécurité
 
-En atelier indépendant, le frein filet est utilisé à chaque fois qu'une vis doit rester en place mais être amovible pour la maintenance.
+En atelier indépendant, le frein filet est utilisé à chaque fois qu'une vis doit rester en place mais être amovible pour la maintenance — un bon exemple du compromis que je détaille dans mon comparatif [adhésif structurel ou fixation mécanique](/adhesif-structurel-vs-mecanique).
 
 ## Les niveaux de résistance
 
@@ -60,7 +60,7 @@ Sur plastique, fibre de carbone ou aluminium anodisé : il ne polymérisera pas 
 
 ## Application correcte
 
-1. Nettoyez les filets avec IPA et séchez. La graisse, l'huile ou l'eau ralentissent la prise.
+1. Nettoyez les filets avec un [nettoyant type IPA](/nettoyant-surface-avant-collage) et séchez. La graisse, l'huile ou l'eau ralentissent la prise.
 2. Déposez 1 à 2 gouttes sur les filets mâles (pas femelles). Une goutte suffit pour une vis M6–M8.
 3. Vissez immédiatement.
 4. La résistance initiale est atteinte en 10 à 30 minutes. La résistance complète en 24 heures.

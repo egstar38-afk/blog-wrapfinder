@@ -12,7 +12,7 @@ Le polypropylène (PP) est le plastique le plus utilisé en automobile — pare-
 
 L'énergie de surface détermine la capacité d'un liquide (ou d'un adhésif) à "mouiller" une surface et à s'y ancrer. Le PP a une énergie de surface de 29–31 mN/m. Pour comparaison, le verre est à 70 mN/m, l'ABS à 38–42 mN/m. En dessous de 35 mN/m, la plupart des adhésifs n'accrochent pas durablement.
 
-Le primer PP augmente cette énergie de surface par voie chimique. Sans primer, vous collez sur du PP — ça tient quelques jours à quelques semaines, puis ça lâche.
+Le primer PP augmente cette énergie de surface par voie chimique — c'est le cas d'école de [quand un primer est indispensable](/quand-utiliser-primer-adhesif) avant de coller. Sans primer, vous collez sur du PP — ça tient quelques jours à quelques semaines, puis ça lâche.
 
 ## Les marques de primer PP disponibles
 
@@ -64,7 +64,7 @@ La main humaine dépose des corps gras (sébum) instantanément. Même avec des 
 
 ## Les erreurs classiques
 
-**Primer sur surface contaminée** : le primer ne "traverse" pas les contaminations (huile, polish, silicone). La surface doit être propre et sèche avant le primer.
+**Primer sur surface contaminée** : le primer ne "traverse" pas les contaminations (huile, polish, silicone). La surface doit être [propre et sèche](/nettoyant-surface-avant-collage) avant le primer.
 
 **Trop de couches** : 1 couche légère, c'est tout. 2 ou 3 couches épaisses = couche qui se décolle avec l'adhésif.
 
@@ -77,7 +77,7 @@ La main humaine dépose des corps gras (sébum) instantanément. Même avec des 
 - PP, PP+EPDM, PP+TD : oui
 - Polyéthylène (PE, HDPE) : oui, avec le bon produit (Sika 215 notamment)
 - PTFE (téflon) : non, aucun primer ne fonctionne sur PTFE
-- ABS, PC : pas nécessaire (ces plastiques collent directement)
+- ABS, PC : pas nécessaire ([ces plastiques collent directement](/colle-plastique-carrosserie))
 
 ## Produit recommandé
 

@@ -10,7 +10,7 @@ updated: "2026-06-13"
 
 La moulure de pare-brise (aussi appelée baguette de cadre ou joint de vitrage) est la pièce caoutchouc ou plastique qui encadre le pare-brise et la lunette arrière. Elle fait la jonction entre la glace et la carrosserie.
 
-Ce joint a plusieurs fonctions : esthétique (cacher le cordon de colle de vitrage), aérodynamique (réduire le bruit d'air et éviter que le bord du vitrage crée de la turbulence) et étanchéité (éviter les infiltrations d'eau par le cadre).
+Ce joint a plusieurs fonctions : esthétique (cacher le cordon de [colle de vitrage](/colle-pare-brise-joint)), aérodynamique (réduire le bruit d'air et éviter que le bord du vitrage crée de la turbulence) et étanchéité (éviter les infiltrations d'eau par le cadre).
 
 Quand ce joint est abîmé, mal reposé, ou qu'il lâche, les conséquences sont immédiates : bruit de sifflement en roulant, humidité dans l'habitacle, et dans les cas extrêmes infiltration d'eau sur les faisceaux électriques.
 
@@ -38,7 +38,7 @@ Le butyl est adapté aux moulures pour les mêmes raisons que pour les phares : 
 
 ### Les formulations disponibles
 
-**Cordon butyl rond** : utilisé pour créer un joint continu dans la gorge de la moulure. Similaire au cordon butyl pour phares (voir article dédié), mais en diamètre plus fin (3 à 5 mm) pour les gorges de moulures.
+**Cordon butyl rond** : utilisé pour créer un joint continu dans la gorge de la moulure. Similaire au [cordon butyl pour phares](/ruban-adhesif-pour-phares) (voir article dédié), mais en diamètre plus fin (3 à 5 mm) pour les gorges de moulures.
 
 **Ruban butyl plat** : adhésif double face butyl en rouleau plat, 15 à 25 mm de large. Utilisé pour les moulures à contact plan sur la carrosserie.
 
@@ -52,7 +52,7 @@ Les joints automobile sont presque tous en EPDM (éthylène propylène diène mo
 - **Plage de température large** : de -50 °C à +150 °C, sans perte significative d'élasticité
 - **Résistance à l'eau** : imperméable, ne gonfle pas
 
-L'EPDM est difficile à coller — c'est un élastomère à faible énergie de surface, similaire au PP. Pour coller quelque chose sur l'EPDM ou pour coller une moulure EPDM sur une surface, il faut un adhésif spécifique ou un primer EPDM.
+L'EPDM est difficile à coller — c'est un élastomère à faible énergie de surface, similaire au PP. Pour coller quelque chose sur l'EPDM ou pour coller une moulure EPDM sur une surface, il faut un adhésif spécifique ou un [primer EPDM](/quand-utiliser-primer-adhesif).
 
 ## Le remplacement après bris de glace
 

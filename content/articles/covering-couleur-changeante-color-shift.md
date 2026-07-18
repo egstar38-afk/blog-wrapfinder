@@ -8,7 +8,7 @@ updated: "2026-06-13"
 
 ## Les films color shift : l'effet le plus spectaculaire du covering
 
-Les films dichroïques (color shift, color flip, caméléon) sont les films de covering les plus spectaculaires du marché. Selon l'angle de vue et la lumière, le véhicule change de couleur : violet-vert, or-rouge, bleu-vert, vert-or...
+Les films dichroïques (color shift, color flip, caméléon) sont, avec les [films paillette et holographiques](/covering-paillette-holographique), les films de covering les plus spectaculaires du marché. Selon l'angle de vue et la lumière, le véhicule change de couleur : violet-vert, or-rouge, bleu-vert, vert-or...
 
 C'est un effet qui ne se voit pas vraiment en photo. Il faut voir la voiture en mouvement ou en tournant autour pour comprendre l'intensité du résultat.
 
@@ -52,7 +52,7 @@ Pas de polish abrasif, jamais. Clay bar uniquement avec lubrifiant abondant.
 
 Un sealant céramique compatible covering maintient la surface protégée des rayures superficielles et des contaminants. Renouvelez le sealant tous les 6 à 12 mois.
 
-Lavage à la main uniquement. Les portiques automatiques à brosses sont particulièrement nocifs sur ces films.
+Lavage à la main uniquement, en suivant les règles d'[entretien quotidien du covering](/entretien-covering-quotidien). Les portiques automatiques à brosses sont particulièrement nocifs sur ces films.
 
 ## Les marques qui proposent des films color shift
 
@@ -66,7 +66,7 @@ Lavage à la main uniquement. Les portiques automatiques à brosses sont particu
 
 Les films color shift sont les plus chers de la gamme covering. Comptez 50 à 100 € par mètre carré de film, et une majoration de 20 à 40 % sur la pose par rapport à un film standard (à cause du temps supplémentaire pour l'alignement).
 
-Un full wrap color shift sur berline : 5 000 à 9 000 € en atelier professionnel.
+Un [full wrap](/covering-full-body-etapes) color shift sur berline : 5 000 à 9 000 € en atelier professionnel.
 
 ## Produit recommandé
 

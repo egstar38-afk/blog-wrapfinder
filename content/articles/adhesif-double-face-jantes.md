@@ -12,7 +12,7 @@ Quand on colle quelque chose sur une jante de voiture, on a tendance à penser "
 
 Les jantes sont soumises à deux contraintes que presque aucune autre zone du véhicule ne subit en combinaison :
 
-**La chaleur des freins** : sur un usage normal, la jante chauffe à 80–150 °C. En usage sportif (circuit, descente de montagne), les températures de jantes peuvent dépasser 200 °C.
+**La chaleur des freins** : sur un usage normal, la jante chauffe à 80–150 °C. En usage sportif (circuit, descente de montagne), les températures de jantes peuvent dépasser 200 °C — on entre alors dans le domaine des [adhésifs pour températures extrêmes](/adhesif-temperature-extreme).
 
 **La force centrifuge** : à 130 km/h, une roue de 18 pouces tourne à environ 900 tr/min. La force centrifuge sur un objet collé à la périphérie de la jante est considérable — elle tire l'objet vers l'extérieur en permanence.
 
@@ -32,7 +32,7 @@ Logos de marque aftermarket, numéros de course, autocollants rigides — poids 
 
 ### Bandelettes de jante (whitewalls, jantes bicolores)
 
-Des bandelettes de film adhésif collées sur le flanc de la jante pour créer un effet visuel. La bandelette doit tenir sous chaleur et centrifugation continue.
+Des bandelettes de film adhésif collées sur le flanc de la jante pour créer un effet visuel — cousines directes du [covering de jantes](/covering-jantes-film-vinyle). La bandelette doit tenir sous chaleur et centrifugation continue.
 
 ## Les adhésifs adaptés
 
@@ -56,13 +56,13 @@ Moins courant en automobile quotidienne, plus répandu en préparation piste.
 
 La surface d'une jante est difficile à préparer correctement :
 
-**Jante peinte** : dégraissage IPA soigneux. Les jantes s'encrassent vite (poussières de plaquette, lubrifiant de pneu, wax de lavage). Dégraissant puissant avant l'IPA.
+**Jante peinte** : dégraissage soigneux au [nettoyant IPA](/nettoyant-surface-avant-collage). Les jantes s'encrassent vite (poussières de plaquette, lubrifiant de pneu, wax de lavage). Dégraissant puissant avant l'IPA.
 
 **Jante vernie transparente (clear coat sur alu)** : IPA, vérifiez que la surface n'a pas de cire ou polish résiduel.
 
 **Jante en carbone brut** : l'adhésif ne tient pas sur carbone brut. Il faut un vernis d'apprêt ou un primer carbone avant le collage.
 
-**Jante chromée** : primer métal avant VHB HT.
+**Jante chromée** : [primer métal](/quand-utiliser-primer-adhesif) avant VHB HT.
 
 ## La force centrifuge : calcul rapide
 

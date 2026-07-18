@@ -8,9 +8,9 @@ updated: "2026-06-13"
 
 ## L'épaisseur du ruban : un détail qui change tout
 
-Quand vous reposez une baguette de carrosserie et que vous achetez du double face "parce que c'est du double face", vous avez 50 % de chances de vous retrouver avec une baguette qui bombe légèrement (ruban trop épais) ou qui "flotte" et semble mal collée (ruban trop fin).
+Quand vous [reposez une baguette de carrosserie](/adhesif-baguette-chromee-porte) et que vous achetez du double face "parce que c'est du double face", vous avez 50 % de chances de vous retrouver avec une baguette qui bombe légèrement (ruban trop épais) ou qui "flotte" et semble mal collée (ruban trop fin).
 
-L'épaisseur du ruban double face en carrosserie n'est pas un détail — c'est un paramètre technique qui détermine le jeu final entre la baguette et la carrosserie, la compression exercée sur la baguette, et l'aspect visuel depuis l'extérieur.
+L'épaisseur du [ruban double face](/ruban-double-face-automobile) en carrosserie n'est pas un détail — c'est un paramètre technique qui détermine le jeu final entre la baguette et la carrosserie, la compression exercée sur la baguette, et l'aspect visuel depuis l'extérieur.
 
 ## Ce que l'épaisseur détermine
 
@@ -62,7 +62,7 @@ Quand vous posez une baguette aftermarket ou un accessoire qui n'a pas de jeu d'
 
 **La planéité de la zone** : sur une zone parfaitement plane, un ruban fin (0,8 mm) suffit pour un bon contact. Sur une zone légèrement bombée, un ruban plus épais (1,2–1,6 mm) compense les irrégularités de contact.
 
-**Le poids de la pièce** : une pièce lourde (spoiler, lèvre de pare-chocs large) a besoin d'une épaisseur permettant une surface de collage maximale et une résistance au cisaillement élevée. Avec un ruban épais, vous pouvez utiliser un ruban plus étroit (moins de largeur) en gardant une résistance équivalente.
+**Le poids de la pièce** : une pièce lourde (spoiler, lèvre de pare-chocs large) a besoin d'une épaisseur permettant une surface de collage maximale et une [résistance au cisaillement](/resistance-adhesif-professionnel) élevée. Avec un ruban épais, vous pouvez utiliser un ruban plus étroit (moins de largeur) en gardant une résistance équivalente.
 
 ## L'impact visuel de l'épaisseur sur les zones à bords vus
 

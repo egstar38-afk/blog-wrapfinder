@@ -12,7 +12,7 @@ Sur une voiture garée en ville, les jantes prennent des coups de trottoir. C'es
 
 J'ai un client qui a fait réparer ses quatre jantes de Porsche Macan deux fois en trois ans. La troisième fois, on lui a posé du PPF sur les flancs. Plus un seul problème depuis 2 ans.
 
-Ce n'est pas une solution miracle — le PPF sur jante a ses limites que je vais vous expliquer honnêtement — mais pour certains usages, c'est clairement la meilleure option.
+Ce n'est pas une solution miracle — le PPF sur jante a ses limites que je vais vous expliquer honnêtement — mais pour certains usages, c'est clairement la meilleure option, là où le [covering de jantes en vinyle](/covering-jantes-film-vinyle) vise plutôt le changement d'aspect.
 
 ## Ce que le PPF protège sur une jante
 
@@ -26,7 +26,7 @@ Il faut distinguer deux zones qui n'ont pas les mêmes contraintes :
 
 **Jante peinte (laque standard)** : adhérence excellente. Le PPF tient correctement sur une peinture propre et dégraissée.
 
-**Jante polie ou diamant** : la surface très lisse réduit l'ancrage mécanique de l'adhésif. Résultats variables selon les films. Certains poseurs appliquent un primer sur ces zones pour améliorer la tenue.
+**Jante polie ou diamant** : la surface très lisse réduit l'ancrage mécanique de l'adhésif. Résultats variables selon les films. Certains poseurs appliquent [un primer](/quand-utiliser-primer-adhesif) sur ces zones pour améliorer la tenue.
 
 **Jante chromée** : le chrome est le substrate le plus difficile. L'adhérence est correcte initialement mais peut se dégrader plus vite que sur peinture. La durée de vie est réduite.
 
@@ -54,7 +54,7 @@ C'est 30 à 45 minutes de travail par roue supplémentaire (pour le démontage/m
 
 ## La durée de vie réelle : les chiffres honnêtes
 
-C'est là que les attentes des clients sont souvent en décalage avec la réalité terrain. Une jante n'est pas un panneau de carrosserie — elle est soumise à des conditions extrêmes.
+C'est là que les attentes des clients sont souvent en décalage avec la réalité terrain. Une jante n'est pas un panneau de carrosserie — la [durée de vie classique d'un PPF](/duree-de-vie-ppf) ne s'applique pas ici, car elle est soumise à des conditions extrêmes.
 
 | Usage | Durée de vie estimée PPF jante |
 |---|---|
@@ -67,7 +67,7 @@ Les freins sportifs sont particulièrement destructeurs pour le PPF de jante : l
 
 ## Les produits de nettoyage jante et le PPF
 
-La plupart des nettoyants jante du commerce sont acides (pH 2–4) ou fortement alcalins. Ces produits attaquent le topcoat du PPF et accélèrent son vieillissement.
+La plupart des nettoyants jante du commerce sont acides (pH 2–4) ou fortement alcalins. Ces produits attaquent le topcoat du PPF et [accélèrent son vieillissement](/ppf-vieillissement-normal-signes).
 
 Sur des jantes protégées par PPF : **uniquement des nettoyants jante pH neutre**. Les marques Koch Chemie, Gyeon et CarPro proposent des nettoyants pH neutres spécifiquement formulés compatibles avec les films.
 

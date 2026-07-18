@@ -20,11 +20,11 @@ Le ruban se coupe à la longueur voulue, se pose exactement où on le veut, et l
 
 ### La résistance au cisaillement
 
-Les rubans double face mousse acrylique haute performance (VHB, mousse acrylique 3M, Tesa 4952) ont des résistances au cisaillement qui dépassent largement ce qu'imaginent la plupart des gens : 80 à 200 N/cm². En pratique, une baguette de carrosserie collée avec du VHB tiendra mieux en cisaillement (tentative de faire glisser la baguette) que la plupart des fixations vissées.
+Les rubans double face mousse acrylique haute performance ([VHB](/ruban-vhb-3m-automobile), mousse acrylique 3M, Tesa 4952) ont des résistances au cisaillement qui dépassent largement ce qu'imaginent la plupart des gens : 80 à 200 N/cm². En pratique, une baguette de carrosserie collée avec du VHB tiendra mieux en cisaillement (tentative de faire glisser la baguette) que la plupart des fixations vissées.
 
 ### L'épaisseur de la mousse comme absorbeur de vibrations
 
-La couche de mousse entre les deux faces adhésives joue un rôle mécanique : elle absorbe les vibrations et les micro-déformations des panneaux en mouvement. C'est pour ça que les constructeurs l'utilisent en première monte sur les baguettes.
+La couche de mousse entre les deux faces adhésives joue un rôle mécanique : elle absorbe les vibrations et les micro-déformations des panneaux en mouvement. C'est pour ça que les constructeurs l'utilisent en première monte sur les [baguettes de carrosserie](/fixer-baguettes-carrosserie-adhesif).
 
 ### Le contrôle visuel de la surface de collage
 
@@ -36,7 +36,7 @@ Avec le double face, vous voyez exactement quelle surface est collée. Avec une 
 
 Le point faible du double face (surtout mousse) est la résistance à l'arrachement perpendiculaire (peeling). Si quelqu'un tire directement sur la pièce collée perpendiculairement à la surface, les valeurs chutent significativement par rapport au cisaillement.
 
-Un spoiler exposé à une dépression aérodynamique à 130 km/h exerce précisément ce type de charge. Pour un spoiler de plus de 500 g sur une voiture rapide, le double face seul n'est pas suffisant — il faut au moins associer double face + vissage ou utiliser une colle structurale.
+Un spoiler exposé à une dépression aérodynamique à 130 km/h exerce précisément ce type de charge. Pour un [spoiler de plus de 500 g](/adhesif-spoiler-coffre) sur une voiture rapide, le double face seul n'est pas suffisant — il faut au moins associer double face + vissage ou utiliser une colle structurale.
 
 ### Les surfaces très irrégulières
 
@@ -54,7 +54,7 @@ Une colle liquide pénètre dans les micro-aspérités de la surface, crée un a
 
 ### La résistance mécanique pour les assemblages structuraux
 
-Les colles bicomposantes (époxy, méthacrylate, MS polymère) peuvent atteindre des résistances de 100 à 400 N/cm², nettement supérieures à la plupart des doubles faces. Pour les assemblages structuraux permanents (fixation de berceaux, réparation de carrosserie composite), la colle liquide s'impose.
+Les [colles bicomposantes](/adhesif-bi-composant-carrosserie) (époxy, méthacrylate, MS polymère) peuvent atteindre des résistances de 100 à 400 N/cm², nettement supérieures à la plupart des doubles faces. Pour les assemblages structuraux permanents (fixation de berceaux, réparation de carrosserie composite), la colle liquide s'impose.
 
 ### La résistance thermique
 

@@ -8,7 +8,7 @@ updated: "2026-06-13"
 
 ## Pourquoi tester avant de coller : une heure de test vaut une semaine de problèmes
 
-Vous avez une surface dont vous ne connaissez pas exactement l'état — ancienne peinture refaite, carrosserie d'un modèle peu courant, plastique dont vous ne connaissez pas le type. Coller sans tester, c'est prendre le risque de voir votre travail se décoller trois semaines plus tard.
+Vous avez une surface dont vous ne connaissez pas exactement l'état — ancienne peinture refaite, carrosserie d'un modèle peu courant, [plastique dont vous ne connaissez pas le type](/colle-plastique-carrosserie). Coller sans tester, c'est prendre le risque de voir votre travail se décoller trois semaines plus tard.
 
 Les tests d'adhérence ne sont pas compliqués. Ils demandent du matériel simple et 24 à 48 heures de patience.
 
@@ -18,7 +18,7 @@ C'est le test le plus simple et le plus informatif pour un poseur de PPF ou de v
 
 ### Procédure
 
-1. Nettoyez et préparez la surface comme vous le feriez pour la pose réelle (IPA, séchage)
+1. Nettoyez et [préparez la surface](/preparer-surface-avant-collage) comme vous le feriez pour la pose réelle (IPA, séchage)
 2. Posez un morceau de film test (5 cm × 15 cm) sur la surface
 3. Appuyez fermement sur tout le morceau
 4. Attendez 48 heures (ou au moins 24 heures à température ambiante)
@@ -36,7 +36,7 @@ C'est le test le plus simple et le plus informatif pour un poseur de PPF ou de v
 
 ## Le cross-cut test (test quadrillé)
 
-Ce test est plutôt utilisé pour évaluer l'adhérence d'une peinture ou d'un vernis sur son substrat. Il permet de détecter les surfaces où la peinture risque de se décoller avec le film lors de la dépose.
+Ce test est plutôt utilisé pour évaluer l'adhérence d'une peinture ou d'un vernis sur son substrat. Il permet de détecter les surfaces où la peinture risque de se décoller avec le film lors de la dépose — le genre de défaut à [documenter photo à l'appui avant la pose](/photographier-defauts-peinture-avant-ppf).
 
 ### Procédure
 

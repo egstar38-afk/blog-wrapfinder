@@ -45,11 +45,11 @@ Les premières semaines, vous allez voir des bulles translucides sous le film. C
 
 Ces bulles disparaissent seules en 7 à 30 jours selon la température et la taille des bulles. Un lavage à l'eau tiède peut légèrement accélérer l'évaporation.
 
-Si vous avez des bulles dures (qui ne bougent pas quand vous appuyez) : appelez votre poseur — ce sont des bulles d'air, un problème de pose.
+Si vous avez des bulles dures (qui ne bougent pas quand vous appuyez) : appelez votre poseur — ce sont des [bulles d'air, un problème de pose](/ppf-bulle-apres-pose).
 
 ## Le retour au Karcher : après 7 jours minimum
 
-Après 7 jours à température normale (15 °C et plus), vous pouvez utiliser un Karcher avec les précautions habituelles :
+Après 7 jours à température normale (15 °C et plus), vous pouvez utiliser un Karcher — et, plus tard, envisager le [lavage automatique sans contact](/ppf-resiste-aux-lavages-automatiques) — avec les précautions habituelles :
 - Buse 40° (blanche) de préférence
 - Distance minimale 30-40 cm
 - Jet perpendiculaire aux bords, jamais en biseau
@@ -63,7 +63,7 @@ Après 30 jours : un sealant léger adapté PPF est recommandé pour protéger l
 ## Ce qui peut attendre sans problème
 
 - La correction de peinture (si vous avez des swirls sur les zones non couvertes) : peut attendre 3 à 6 mois
-- Le polish sur le PPF lui-même : à éviter totalement sur les films mat, possible sur brillant après 6 mois avec un polish très doux
+- Le polish sur le PPF lui-même : à éviter totalement sur les [films mat](/ppf-gloss-vs-satin-vs-mat), possible sur brillant après 6 mois avec un polish très doux
 - La céramique liquide sur le PPF : après 30 jours minimum
 
 ## Tableau récapitulatif des délais

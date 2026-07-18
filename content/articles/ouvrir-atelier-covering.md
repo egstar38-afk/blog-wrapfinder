@@ -12,9 +12,9 @@ updated: "2026-06-13"
 
 ## Ouvrir un atelier covering : les vraies questions à se poser d'abord
 
-Avant de parler d'équipement et de budget, il y a deux questions fondamentales que beaucoup de créateurs d'atelier ne se posent pas assez tôt : est-ce qu'il y a une demande là où je veux m'installer ? Et est-ce que je suis prêt techniquement à livrer un résultat professionnel ?
+Avant de parler d'équipement et de budget, il y a deux questions fondamentales que beaucoup de créateurs d'atelier ne se posent pas assez tôt : est-ce qu'il y a une demande là où je veux m'installer ? Et est-ce que je suis [prêt techniquement](/devenir-poseur-ppf-covering) à livrer un résultat professionnel ?
 
-L'atelier peut être parfait, si le niveau technique n'est pas au rendez-vous, les clients ne reviennent pas et les avis négatifs tuent l'activité avant qu'elle décolle.
+L'atelier peut être parfait, si le [niveau technique](/formation-ppf-covering-vaut-elle-le-coup) n'est pas au rendez-vous, les clients ne reviennent pas et les avis négatifs tuent l'activité avant qu'elle décolle.
 
 ## Le local : les critères qui comptent
 
@@ -65,7 +65,7 @@ Loyer mensuel très variable selon la région : 500 à 3 000 € pour 60 à 100 
 
 ### Fonds de roulement
 
-Prévoyez 3 à 6 mois de charges fixes (loyer, abonnements, assurances) en réserve. Un atelier covering met souvent 6 à 12 mois avant d'atteindre son équilibre.
+Prévoyez 3 à 6 mois de charges fixes (loyer, abonnements, [assurance RC pro](/assurance-responsabilite-poseur)) en réserve. Un atelier covering met souvent 6 à 12 mois avant d'atteindre son équilibre.
 
 **Budget global de lancement** : 15 000 à 50 000 € selon l'ambition.
 
@@ -83,7 +83,7 @@ Les garages Ferrari, Porsche, Lamborghini, McLaren dans votre région — leurs 
 
 ### Google My Business et photos de qualité
 
-Créez une fiche Google My Business avec des photos professionnelles de vos réalisations. Les recherches "covering voiture [ville]" et "PPF [ville]" génèrent du trafic local important.
+Créez une [fiche Google My Business](/marketing-atelier-ppf-covering) avec des photos professionnelles de vos réalisations. Les recherches "covering voiture [ville]" et "PPF [ville]" génèrent du trafic local important.
 
 ### Les réseaux sociaux (Instagram, TikTok)
 

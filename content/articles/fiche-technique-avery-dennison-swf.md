@@ -44,10 +44,10 @@ Avery SWF propose une des gammes les plus larges du marché covering :
 - **Brossé (Brushed)** : aluminium, titane, or, cuivre
 
 ### Gammes premium
-- **Color Flow** : effet dichroïque/color-shift — plusieurs teintes exclusives
-- **Satin Chrome** : effet chrome satiné (une des meilleures qualités du marché)
+- **Color Flow** : [effet dichroïque/color-shift](/covering-couleur-changeante-color-shift) — plusieurs teintes exclusives
+- **Satin Chrome** : [effet chrome satiné](/covering-chrome-miroir) (une des meilleures qualités du marché)
 - **Gloss Metallic** : métalliques profonds
-- **Carbon Fiber** : fibre de carbone texture réaliste
+- **Carbon Fiber** : [fibre de carbone](/covering-wrap-effet-carbone) texture réaliste
 
 ### Gamme Supreme Protection Film (PPF)
 À noter : Avery propose aussi une gamme PPF (Avery Dennison Protection Film) séparée du SWF — à ne pas confondre.

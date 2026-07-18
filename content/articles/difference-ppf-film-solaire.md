@@ -15,11 +15,11 @@ La confusion entre PPF (Paint Protection Film) et film solaire (window tint / fi
 
 ## Le PPF : protection de la carrosserie
 
-Le PPF (Paint Protection Film) est un film polyuréthane transparent (ou teinté) qui se pose sur la carrosserie peinte pour la protéger physiquement.
+Le PPF (Paint Protection Film) est un [film polyuréthane transparent](/introduction-ppf) (ou [teinté](/ppf-couleur-vs-transparent)) qui se pose sur la carrosserie peinte pour la protéger physiquement.
 
 **Substrat** : carrosserie peinte (métal ou plastique)
 
-**Épaisseur** : 150 à 200 µm
+**Épaisseur** : [150 à 200 µm](/ppf-50-microns-vs-200-microns)
 
 **Propriétés principales** :
 - Résistance aux impacts de gravillons

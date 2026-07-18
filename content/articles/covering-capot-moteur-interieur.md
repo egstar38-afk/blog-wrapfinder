@@ -29,7 +29,7 @@ Sur les moteurs récents, un certain nombre de plastiques de cache-moteur, de pr
 
 ### Les porte-fusibles, boîtiers de relais
 
-Ces pièces noires plastique sous capot (ABS généralement) se couvrent facilement avec un film technique. Beaucoup de préparateurs les couvrent en carbone look pour un visuel plus travaillé.
+Ces pièces noires plastique sous capot (ABS généralement) se couvrent facilement avec un film technique. Beaucoup de préparateurs les couvrent en [film effet carbone](/covering-wrap-effet-carbone) pour un visuel plus travaillé.
 
 ## La chaleur : la contrainte principale
 
@@ -47,7 +47,7 @@ Pour les zones au-delà de 120 °C : ni film vinyle, ni PPF. Ces zones relèvent
 
 ## Les adhésifs pour zones chaudes
 
-Même avec un film HT, l'adhésif est le maillon faible de la chaîne thermique. Les adhésifs acryliques standard ramollissent au-delà de 90 °C.
+Même avec un film HT, l'adhésif est le maillon faible de la chaîne thermique — j'en parle en détail dans le guide des [adhésifs haute température](/adhesif-haute-temperature). Les adhésifs acryliques standard ramollissent au-delà de 90 °C.
 
 Pour les zones sous capot :
 - **Adhésif acrylique HT** : tient jusqu'à 120 °C. Présent sur les films HT des grandes marques.
@@ -69,7 +69,7 @@ Ces zones sont fonctionnelles et thermiquement actives — le film ne tiendrait 
 
 Sous capot, les surfaces accumulent de l'huile, des résidus de liquides, de la poussière de route compactée et des résidus de nettoyant moteur. La préparation est plus intensive qu'en carrosserie normale.
 
-Dégraissant puissant moteur (dilué, rinçage complet), séchage complet, puis IPA avant la pose. Sur plastiques PP : primer HT adapté.
+Dégraissant puissant moteur (dilué, rinçage complet), séchage complet, puis [nettoyage IPA avant collage](/nettoyant-surface-avant-collage). Sur plastiques PP : [primer PP](/primer-pp-mode-emploi-complet) en version HT adaptée.
 
 ## Budget
 

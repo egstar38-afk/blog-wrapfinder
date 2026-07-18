@@ -33,7 +33,7 @@ Jamais de coupe à vif sur l'arête elle-même — la lame glisse et le résulta
 
 ### La zone de jonction avec les piliers A
 
-Là où le toit rejoint les montants de vitre, la surface change de plan. Le film doit s'étirer légèrement pour couvrir cette transition. Chauffez progressivement et tirez doucement pour que le film épouse la courbure sans se déchirer.
+Là où le toit rejoint les [montants de vitre](/covering-piliers-montants), la surface change de plan. Le film doit s'étirer légèrement pour couvrir cette transition. Chauffez progressivement et tirez doucement pour que le film épouse la courbure sans se déchirer.
 
 ## Le toit panoramique : la zone la plus technique
 
@@ -72,7 +72,7 @@ Si vous avez posé avec une solution d'installation, certaines bulles d'eau peuv
 
 ### Les bulles persistantes après 2 semaines
 
-Si une bulle persiste après 2 semaines, c'est probablement une bulle d'air piégée, pas d'eau. Percez avec une aiguille à 45° (angle rasant), chassez l'air à la raclette, refermez en chauffant légèrement.
+Si une [bulle persiste après 2 semaines](/covering-bulle-apres-pose), c'est probablement une bulle d'air piégée, pas d'eau. Percez avec une aiguille à 45° (angle rasant), chassez l'air à la raclette, refermez en chauffant légèrement.
 
 ## Outils spécifiques pour le toit
 
@@ -84,7 +84,7 @@ Si une bulle persiste après 2 semaines, c'est probablement une bulle d'air pié
 
 ## Produit recommandé
 
-La **raclette télescopique Wrap Works** avec embout feutre permet de travailler sur un toit sans se pencher par-dessus la carrosserie. Elle maintient une pression homogène et évite les traces de poids sur le film frais.
+La **raclette télescopique Wrap Works** avec embout feutre — à compléter avec les [outils de base du poseur](/outils-indispensables-poseur-ppf-covering) — permet de travailler sur un toit sans se pencher par-dessus la carrosserie. Elle maintient une pression homogène et évite les traces de poids sur le film frais.
 
 [Voir les outils de pose toit covering sur Amazon →](https://www.amazon.fr/s?k=raclette+telescopique+pose+covering+toit&tag=wrapfinder-21)
 

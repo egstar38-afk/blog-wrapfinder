@@ -8,7 +8,7 @@ updated: "2026-06-13"
 
 ## Bulles sous covering : la situation est différente du PPF
 
-La confusion covering/PPF est fréquente sur ce sujet. Les bulles sous covering ont les mêmes causes de base (eau de pose, air emprisonné) mais se comportent différemment, notamment parce que le vinyle est moins perméable à la vapeur d'eau que le polyuréthane PPF.
+La confusion covering/PPF est fréquente sur ce sujet. Les bulles sous covering ont les mêmes causes de base (eau de pose, air emprisonné) que les [bulles sur PPF après pose](/ppf-bulle-apres-pose), mais se comportent différemment, notamment parce que le vinyle est moins perméable à la vapeur d'eau que le polyuréthane PPF.
 
 Résultat : les bulles d'eau sous covering mettent généralement plus de temps à disparaître que sous PPF. Et certaines ne disparaissent jamais complètement sans intervention.
 
@@ -42,7 +42,7 @@ La solution de pose (généralement de l'eau + baby shampoing) reste donc piég�
 
 **Contamination sous le film** : une poussière, un cheveu, un grain de sable sous le film crée une bulle d'air localisée dès la pose.
 
-**Zone non raclée** : le poseur n'a pas évacué suffisamment l'air sur une zone. Fréquent sur les films de grande surface (toit, capot) où il est difficile de racleter uniformément.
+**Zone non raclée** : le poseur n'a pas évacué suffisamment l'air sur une zone. Fréquent sur les films de grande surface où il est difficile de racleter uniformément — le capot, et surtout le [covering de toit](/covering-toit-voiture).
 
 **Film qui rebondit** : sur les zones de forte courbure, le film sous tension revient en arrière après le raclage si le poseur n'a pas suffisamment chauffé.
 
@@ -71,14 +71,14 @@ Pour les grosses bulles d'air ou les zones avec contamination visible : retrait 
 
 ### Délai pour intervenir
 
-Le poseur peut reprendre des bulles d'air dans les 60 premiers jours après la pose. Au-delà, l'adhésif est totalement polymérisé et le retrait du film risque d'endommager la peinture.
+Le poseur peut reprendre des bulles d'air dans les 60 premiers jours après la pose. Au-delà, l'adhésif est totalement polymérisé et le retrait du film risque d'[endommager la peinture](/covering-abime-la-peinture).
 
 ## Ce que vous pouvez faire vous-même
 
 **Pour accélérer les bulles d'eau :**
 - Stationnez au soleil le maximum possible
 - Un sèche-cheveux à 40-50 °C sur les zones bullées aide l'évaporation
-- Évitez les lavages haute pression les deux premières semaines (pression poussant l'eau vers le centre plutôt que vers les bords)
+- Évitez les [lavages haute pression](/covering-lavage-haute-pression-conseils) les deux premières semaines (pression poussant l'eau vers le centre plutôt que vers les bords)
 
 **Pour les bulles d'air :**
 - Ne percez pas vous-même si vous n'avez pas l'expérience — le risque de faire un trou visible ou de créer une déchirure est réel

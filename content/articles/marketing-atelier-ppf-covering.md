@@ -42,7 +42,7 @@ Instagram est fait pour les images et les vidéos courtes. Le covering génère 
 
 **Les détails de pose** : les vidéos de raclette, de chaleur, de découpe — le "making-of" fascine les clients potentiels.
 
-**Les réalisations sur des véhicules remarquables** : une Ferrari coverte ou un Hummer H1 en PPF vont faire 10 fois plus de vues que la même qualité de travail sur une Clio.
+**Les réalisations sur des véhicules remarquables** : une [Ferrari en PPF](/ppf-voiture-sport) ou un Hummer H1 coverté vont faire 10 fois plus de vues que la même qualité de travail sur une Clio.
 
 **Les hashtags locaux** : #coveringParis, #PPFLyon, #wrappingMarseille + des hashtags de niche (#carwrap, #ppf, #vinylwrap, #coveringauto).
 
@@ -55,9 +55,9 @@ Instagram est fait pour les images et les vidéos courtes. Le covering génère 
 TikTok et Reels Instagram touchent des personnes qui ne cherchaient pas "covering voiture" mais qui découvrent votre métier via le contenu. C'est de la notoriété passives qui génère des demandes qui n'auraient pas existé autrement.
 
 Les vidéos qui fonctionnent sur TikTok en covering :
-- Time-lapse d'un full wrap complet (30 secondes de pose accélérée)
+- Time-lapse d'un [full wrap complet](/covering-full-body-etapes) (30 secondes de pose accélérée)
 - Vidéo "avant vs après" avec révélation dramatique
-- Explication des différences entre films (mat, satin, chrome)
+- Explication des [différences entre films](/covering-brillant-vs-satin-vs-mat) (mat, satin, chrome)
 - "Je couvre une [voiture surprenante]" — l'inattendu génère des vues
 
 ## Les clubs et rassemblements automobiles

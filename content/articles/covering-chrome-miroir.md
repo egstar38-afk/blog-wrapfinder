@@ -20,7 +20,7 @@ Conséquence : sur les courbes, le film crée des plis difficiles à éliminer. 
 
 ### Les bulles et les micro-traces
 
-Le film chrome miroir, par nature de miroir, révèle chaque imperfection. Une micro-bulle d'air, une trace de doigt, une particule de poussière sous le film — tout est visible de loin. La propreté de l'environnement de pose doit être irréprochable.
+Le film chrome miroir, par nature de miroir, révèle chaque imperfection. Une [micro-bulle d'air sous le film](/covering-bulle-apres-pose), une trace de doigt, une particule de poussière — tout est visible de loin. La propreté de l'environnement de pose doit être irréprochable.
 
 ### La découpe
 
@@ -46,7 +46,7 @@ Les poseurs expérimentés utilisent une technique de micro-coupes stratégiques
 
 Un véhicule chromé miroir sur la route peut créer des reflets dangereux pour les autres conducteurs. Ce point est pris au sérieux par les autorités françaises.
 
-**En France** : il n'existe pas de loi spécifique interdisant le chrome miroir sur un véhicule. Mais le Code de la route interdit tout dispositif susceptible de gêner la visibilité des autres conducteurs ou de créer des éblouissements.
+**En France** : il n'existe pas de loi spécifique interdisant le chrome miroir sur un véhicule — le cadre général est celui que je décris dans mon article sur le [covering légal en France](/covering-legal-en-france). Mais le Code de la route interdit tout dispositif susceptible de gêner la visibilité des autres conducteurs ou de créer des éblouissements.
 
 Un véhicule chromé miroir peut théoriquement être verbalisé sur cette base. En pratique, les contrôles sont rares, mais ça reste un risque.
 
@@ -58,9 +58,9 @@ Certains pays européens sont plus stricts : l'Allemagne considère le chrome mi
 
 Pour un look métallique intense sans les difficultés du chrome :
 
-**Film satin metallic** : finition entre chrome et satin. Moins reflétant que le chrome, mais l'effet "métal" est très fort. Beaucoup plus facile à poser.
+**Film satin metallic** : finition entre chrome et satin — voir mon comparatif [brillant, satin ou mat](/covering-brillant-vs-satin-vs-mat) pour situer ces finitions. Moins reflétant que le chrome, mais l'effet "métal" est très fort. Beaucoup plus facile à poser.
 
-**Film brushed (brossé) aluminium** : effet aluminium anodisé brossé. Superbe sur les SUV et sportives, beaucoup plus facile à poser que le chrome.
+**Film brushed (brossé) aluminium** : effet aluminium anodisé brossé, dont je détaille la pose dans l'article sur le [film texture brossée](/covering-texture-brosse). Superbe sur les SUV et sportives, beaucoup plus facile à poser que le chrome.
 
 **Film gloss metallic** : brillant avec un effet métallisé modéré. Le compromis le plus posable.
 

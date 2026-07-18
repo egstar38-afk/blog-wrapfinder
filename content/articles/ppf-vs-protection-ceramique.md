@@ -61,7 +61,7 @@ Le PPF est la solution prioritaire si vous êtes dans l'une de ces situations :
 
 ### Les zones prioritaires en PPF
 
-Même avec un budget limité, le pack avant (capot + ailes avant + pare-chocs) suffit à protéger 80 % des dommages habituels liés aux impacts.
+Même avec un [budget PPF](/budget-ppf-complet-voiture) limité, le pack avant (capot + ailes avant + pare-chocs) suffit à protéger 80 % des dommages habituels liés aux impacts.
 
 ## Quand choisir la céramique ?
 
@@ -77,15 +77,15 @@ La céramique est la solution adaptée si :
 Ces deux protections ne s'excluent pas — elles se complètent parfaitement. La pratique idéale (et de plus en plus courante) est d'appliquer un revêtement céramique **sur le PPF** après la pose :
 
 - Le PPF absorbe les chocs mécaniques
-- La céramique renforce l'hydrophobie du topcoat du film
+- La céramique renforce l'hydrophobie du topcoat du film (certains films embarquent d'ailleurs un [topcoat céramique d'origine](/topcoat-ceramique-vs-standard))
 - L'entretien quotidien est facilité
 - La durée de vie du PPF est légèrement prolongée grâce à la protection UV supplémentaire
 
-Cette combinaison est recommandée sur les véhicules neufs de valeur et les voitures de sport.
+Cette combinaison est recommandée sur les véhicules neufs de valeur et les [voitures de sport](/ppf-voiture-sport).
 
 ## Ce que la céramique ne peut pas faire
 
-Un point crucial pour les débutants : une protection céramique seule **ne protège pas contre les rayures physiques** provoquées par des gravillons ou un contact abrasif. Des tests réels montrent que des gravillons projetés à grande vitesse traversent une couche céramique aussi facilement que s'il n'y en avait pas.
+Un point crucial pour les débutants : une protection céramique seule **ne protège pas contre les rayures physiques** provoquées par des gravillons ou un contact abrasif — contrairement au PPF, qui [résiste réellement aux rayures](/ppf-resiste-aux-rayures-vraiment) dans certaines limites. Des tests réels montrent que des gravillons projetés à grande vitesse traversent une couche céramique aussi facilement que s'il n'y en avait pas.
 
 Si vous voyez des publicités promettant une protection "anti-rayures complète" pour une céramique seule, méfiez-vous.
 

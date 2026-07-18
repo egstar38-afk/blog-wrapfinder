@@ -8,7 +8,7 @@ updated: "2026-06-13"
 
 ## Le problème des résidus d'adhésif
 
-Que ce soit après le retrait d'un autocollant, d'un film de protection, d'une baguette collée ou d'un simple scotch oublié, les résidus d'adhésif sont un problème récurrent en automobile comme dans tout atelier. Ils adhèrent aux surfaces peintes, aux plastiques et aux métaux, et ont tendance à capturer la saleté, ce qui les rend encore plus visibles avec le temps.
+Que ce soit après le retrait d'un autocollant, d'un [film de protection](/enlever-ppf-sans-abimer), d'une baguette collée ou d'un simple scotch oublié, les résidus d'adhésif sont un problème récurrent en automobile comme dans tout atelier. Ils adhèrent aux surfaces peintes, aux plastiques et aux métaux, et ont tendance à capturer la saleté, ce qui les rend encore plus visibles avec le temps.
 
 La bonne nouvelle est que la plupart des résidus d'adhésif peuvent être retirés proprement sans abîmer les surfaces, à condition d'utiliser les bons outils et les bonnes méthodes.
 
@@ -25,7 +25,7 @@ Les résidus d'adhésif ne sont pas tous identiques, et les méthodes d'élimina
 
 ### La chaleur
 
-Avant tout traitement chimique, la chaleur est votre premier outil. Un décapeur thermique ou un sèche-cheveux chauffé à 50–70 °C ramollit les adhésifs acryliques et caoutchouc, les rendant nettement plus faciles à éliminer mécaniquement.
+Avant tout traitement chimique, la chaleur est votre premier outil, comme lors du [retrait d'un ancien covering](/covering-retrait-ancien-film). Un décapeur thermique ou un sèche-cheveux chauffé à 50–70 °C ramollit les adhésifs acryliques et caoutchouc, les rendant nettement plus faciles à éliminer mécaniquement.
 
 Application : 30–60 secondes de chaleur sur la zone, puis frottage avec un chiffon microfibre ou un effaceur en caoutchouc souple.
 
@@ -67,7 +67,7 @@ Les résidus d'époxy durci sont les plus difficiles. Les produits à base de di
 2. **Frottez mécaniquement** avec un chiffon microfibre propre pour enlever un maximum de matière
 3. **Appliquez un dissolvant adapté** sur un chiffon propre, posez sur le résidu, laissez agir 1–2 minutes
 4. **Frottez légèrement** en cercles concentriques, rincez à l'eau
-5. **Finalisez** avec un dégraissage à l'IPA pour éliminer les traces de dissolvant
+5. **Finalisez** avec un [dégraissage à l'IPA](/nettoyant-surface-avant-collage) pour éliminer les traces de dissolvant
 6. **Appliquez une finition** (cire ou céramique) sur la zone traitée si c'est une surface peinte
 
 ## Ce qu'il ne faut jamais faire

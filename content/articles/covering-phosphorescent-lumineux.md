@@ -40,7 +40,7 @@ Le jour, le film apparaît blanc crème, vert pâle ou dans une teinte légèrem
 
 ### Sur un véhicule de route : limites légales et pratiques
 
-Un véhicule qui émet de la lumière dans l'obscurité peut attirer l'attention des forces de l'ordre. En France, aucune réglementation spécifique n'interdit les films phosphorescents, mais un véhicule perçu comme émettant de la lumière visible (autre que les feux réglementaires) peut être interpellé.
+Un véhicule qui émet de la lumière dans l'obscurité peut attirer l'attention des forces de l'ordre. En France, aucune [réglementation spécifique sur le covering](/covering-legal-en-france) n'interdit les films phosphorescents, mais un véhicule perçu comme émettant de la lumière visible (autre que les feux réglementaires) peut être interpellé.
 
 En pratique, la phosphorescence naturelle d'un film est trop faible pour être "lumineuse" au sens réglementaire — elle est visible de près mais ne s'apparente pas à un feu.
 
@@ -52,11 +52,11 @@ C'est le contexte le plus pertinent. Une voiture de show dans un salon sous écl
 
 ### Sur les pièces intérieures
 
-Les cadrans de tableau de bord, les garnitures de console, les inserts de porte — en intérieur, la phosphorescence après coupure des lumières est visible et sans contrainte légale. Bel effet sur les véhicules avec éclairage ambiant personnalisé.
+Les cadrans de tableau de bord, les [garnitures de console centrale](/covering-console-centrale), les inserts de porte — en intérieur, la phosphorescence après coupure des lumières est visible et sans contrainte légale. Bel effet sur les véhicules avec éclairage ambiant personnalisé.
 
 ## La durée de vie du film phosphorescent
 
-Avec le temps et l'exposition aux UV, les pigments phosphorescents se dégradent. Un film phosphorescent en extérieur perd 20 à 40 % de son intensité de phosphorescence après 2 ans.
+Avec le temps et l'exposition aux UV, les pigments phosphorescents se dégradent — un phénomène cousin de la [décoloration UV des coverings classiques](/covering-decoloration-uv). Un film phosphorescent en extérieur perd 20 à 40 % de son intensité de phosphorescence après 2 ans.
 
 Les films de bonne qualité maintiennent une phosphorescence acceptable pendant 4 à 6 ans. Les films bas de gamme peuvent perdre leur effet en 12 à 18 mois.
 

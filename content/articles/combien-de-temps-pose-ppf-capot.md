@@ -14,7 +14,7 @@ La question est simple mais la réponse est variable. Un poseur expérimenté av
 
 ### 1. Décontamination et préparation (30 min à 2 h)
 
-Avant de poser le film, la carrosserie doit être parfaitement propre. Sur un véhicule récemment entretenu : 30 à 45 minutes de décontamination.
+Avant de poser le film, la carrosserie doit être [préparée et parfaitement propre](/preparer-voiture-avant-pose-ppf). Sur un véhicule récemment entretenu : 30 à 45 minutes de décontamination.
 
 Sur un véhicule qui sort du quotidien sans entretien particulier : 45 à 90 minutes (iron remover, clay bar, IPA).
 
@@ -42,7 +42,7 @@ Vérification des bords, retraitement des zones avec micro-bulles, application d
 
 ### 5. Polymérisation (48 à 72 h)
 
-Le véhicule doit rester protégé de la pluie et du lavage pendant 48 à 72 heures. Ce n'est pas du "travail" pour le poseur, mais c'est du temps où le véhicule n'est pas rendu au client.
+Le véhicule doit rester protégé de la pluie pendant 48 à 72 heures, et le [premier lavage](/premier-lavage-apres-ppf) attendra encore quelques jours de plus. Ce n'est pas du "travail" pour le poseur, mais c'est du temps où le véhicule n'est pas rendu au client.
 
 ## Ce qui fait vraiment varier la durée
 
@@ -70,7 +70,7 @@ Certains films sont plus "maniables" que d'autres (adhésif qui pardonne les rep
 | Capot nervuré + peinture correcte | 3,5 – 5 heures + 48 h |
 | Capot complexe + correction peinture | 6 – 10 heures + 72 h |
 
-Le véhicule reste donc en atelier 1 à 2 jours pour un simple capot.
+Le véhicule reste donc en atelier 1 à 2 jours pour un simple capot — un délai raisonnable si vous avez choisi de [protéger seulement le capot](/protection-capot-seul-ppf-covering).
 
 ## Produit recommandé
 

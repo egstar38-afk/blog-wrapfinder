@@ -11,7 +11,7 @@ updated: "2026-06-13"
 
 Le **PPF** (Paint Protection Film), ou film de protection peinture, est un film polyuréthane transparent appliqué sur la carrosserie d'un véhicule pour la protéger des agressions du quotidien : impacts de gravillons, rayures légères, insectes, UV et produits chimiques.
 
-Développé à l'origine pour l'industrie militaire et aérospatiale, il s'est démocratisé dans le secteur automobile à partir des années 2000. Aujourd'hui, il est utilisé aussi bien par les propriétaires de voitures de sport que par les conducteurs souhaitant préserver la valeur de revente de leur véhicule.
+[Développé à l'origine pour l'industrie militaire](/histoire-ppf-origines-militaires) et aérospatiale, il s'est démocratisé dans le secteur automobile à partir des années 2000. Aujourd'hui, il est utilisé aussi bien par les propriétaires de voitures de sport que par les conducteurs souhaitant préserver la valeur de revente de leur véhicule.
 
 ## Comment fonctionne-t-il ?
 
@@ -29,10 +29,10 @@ Pour un budget limité, concentrez-vous sur les zones les plus exposées :
 
 - **Capot** — première ligne face aux gravillons projetés par les véhicules devant vous
 - **Ailes avant** — exposées aux projections latérales
-- **Pare-chocs avant** — fragilisé par les insectes et les chocs de stationnement
-- **Rétroviseurs** — souvent rayés en ville
+- **[Pare-chocs avant](/ppf-sur-pare-chocs-avant)** — fragilisé par les insectes et les chocs de stationnement
+- **[Rétroviseurs](/ppf-miroirs-retroviseurs)** — souvent rayés en ville
 
-Une protection complète (full wrap) couvre l'intégralité de la carrosserie, mais représente un investissement plus important.
+Une protection complète (full wrap) couvre l'intégralité de la carrosserie, mais représente [un investissement plus important](/budget-ppf-complet-voiture).
 
 ## PPF vs. pelliculage classique
 

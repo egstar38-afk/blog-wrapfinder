@@ -61,7 +61,7 @@ Cette irrégularité d'épaisseur se traduit parfois par une couleur légèremen
 ## Quand utiliser du calandré
 
 Il y a des cas légitimes pour le film calandré :
-- **Surfaces planes et régulières** : véhicules industriels, signalétique de flotte sur panneaux plats, lettrage
+- **Surfaces planes et régulières** : [véhicules industriels et utilitaires](/covering-camion-utilitaire-commercial), signalétique de flotte sur panneaux plats, lettrage
 - **Usage temporaire** (< 2 ans) : habillage événementiel, promotion temporaire
 - **Budget très contraint** sur des zones de faible complexité
 
@@ -69,9 +69,9 @@ Pour une voiture de tourisme avec ses formes modernes : le calandré n'est pas r
 
 ## Comment identifier le type de film à l'achat
 
-- **Prix** : < 20 €/m² au détail = presque certainement calandré
+- **Prix** : < 20 €/m² en [achat au détail](/ou-acheter-vinyle-covering-france) = presque certainement calandré
 - **Fiche technique** : cherchez "cast" ou "calendered" dans les specs — les fabricants sérieux l'indiquent
-- **Marque reconnue** (3M, Avery, Hexis, Oracal 970RA, Arlon, Mactac) = cast dans leurs gammes auto
+- **Marque reconnue** ([3M ou Avery](/avery-vs-3m-covering-comparatif), Hexis, Oracal 970RA, Arlon, Mactac) = cast dans leurs gammes auto
 - **Épaisseur** : les films calandrés sont souvent plus épais (80-120 µm) pour compenser la rigidité
 
 ## Produit recommandé

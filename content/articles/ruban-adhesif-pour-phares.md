@@ -16,7 +16,7 @@ Le joint d'un phare auto est soit un cordon de butyl, soit un joint caoutchouc m
 
 ## Le butyl : le matériau de référence
 
-Le butyl est un caoutchouc synthétique utilisé depuis des décennies pour l'étanchéité des phares automobile. C'est le cordon gris ou noir qu'on voit en creusant dans la gorge du phare quand on l'ouvre.
+Le butyl est un caoutchouc synthétique utilisé depuis des décennies pour l'étanchéité automobile, des phares aux [moulures de pare-brise](/adhesif-moulure-pare-brise). C'est le cordon gris ou noir qu'on voit en creusant dans la gorge du phare quand on l'ouvre.
 
 Propriétés du butyl pour l'étanchéité phare :
 - **Plasticité permanente** : le butyl ne durcit pas dans le temps — il reste déformable et donc étanche même après des cycles chaud/froid répétés
@@ -44,13 +44,13 @@ Pour le scellement après intervention, vous avez deux options :
 
 ## Le cas des feux arrière collés
 
-Certains feux arrière récents (notamment sur Audi et BMW) ne sont pas joints au butyl mais collés à l'adhésif double face en usine. Ces feux ne se "rouvrent" pas facilement — tenter de les ouvrir risque de casser la lentille.
+Certains feux arrière récents (notamment sur Audi et BMW) ne sont pas joints au butyl mais collés à l'[adhésif double face](/ruban-double-face-automobile) en usine. Ces feux ne se "rouvrent" pas facilement — tenter de les ouvrir risque de casser la lentille.
 
 Pour ces configurations, les interventions intérieures sont à éviter ou à confier à des spécialistes.
 
 ## Ruban adhésif pour résistance à l'humidité
 
-Sur certaines modifications extérieures des phares (film de teintage sur la lentille, protections transparentes), un ruban adhésif transparent double face fin est utilisé sur les bords du film pour compléter l'étanchéité des bords.
+Sur certaines modifications extérieures des phares (film de teintage sur la lentille, [protections transparentes type PPF](/ppf-protection-phares)), un ruban adhésif transparent double face fin est utilisé sur les bords du film pour compléter l'étanchéité des bords.
 
 Ici, l'adhésif doit résister à l'humidité et aux UV. Évitez les rubans sensibles à la pression génériques — ils décollent au premier nettoyage haute pression.
 

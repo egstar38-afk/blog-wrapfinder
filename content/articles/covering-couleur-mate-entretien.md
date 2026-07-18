@@ -10,7 +10,7 @@ updated: "2026-06-13"
 
 Je vois régulièrement des covering mats de 6 mois qui ont des zones brillantes sur les montants de porte, des auréoles sur le capot et des traces blanchâtres sur les ailes. Pas parce que le film était de mauvaise qualité. Parce que quelqu'un a utilisé un produit brillant par dessus, ou a frotté avec un chiffon sur une zone sèche.
 
-Un covering mat est plus exigeant à entretenir qu'un covering brillant ou qu'une peinture classique. Si vous le savez avant de vous lancer, vous n'aurez pas de mauvaise surprise.
+Un covering mat est plus exigeant à entretenir qu'un covering brillant ou qu'une peinture classique — mon comparatif [brillant, satin ou mat](/covering-brillant-vs-satin-vs-mat) détaille ces différences de finition. Si vous le savez avant de vous lancer, vous n'aurez pas de mauvaise surprise.
 
 ## Ce qui détruit le mat
 
@@ -56,7 +56,7 @@ Un covering mat lavé régulièrement (1 fois toutes les 2–3 semaines) se main
 
 **Fientes d'oiseaux** : c'est la plus urgente. Les fientes d'oiseaux sont fortement acides et laissent une empreinte permanente si elles sèchent complètement. Humidifiez immédiatement avec de l'eau, laissez agir 1 minute, retirez doucement avec un chiffon microfibre humide.
 
-**Goudron de route** : produits à base d'alcool isopropylique dilué (IPA 50 %) sur un coton. Ne pas étaler — appliquer et tamponner. Rincer abondamment après.
+**Goudron de route** : produits à base d'alcool isopropylique dilué (IPA 50 %) sur un coton. Ne pas étaler — appliquer et tamponner. Rincer abondamment après. Pour les autres cas difficiles, voyez mon guide des [taches persistantes sur covering](/covering-tache-persistante).
 
 **Insectes** : spray désincrusteur insectes pH neutre, spécifiquement formulé pour films vinyle (CarPro Bug Out, Koch Chemie InsectStar). Laisser agir 1 à 2 minutes avant de rincer.
 
@@ -76,7 +76,7 @@ C'est la seule forme de protection chimique que j'applique systématiquement sur
 | Stockage couvert, usage week-end | 6 – 9 ans | 7 – 10 ans |
 | Usage intensif, entretien basique | 2 – 4 ans | 3 – 5 ans |
 
-Le mat vieillit légèrement moins bien que le brillant parce que sa structure microporeuse est plus sensible aux contaminants et aux UV. La différence n'est pas spectaculaire si l'entretien est correct, mais elle est réelle.
+Le mat vieillit légèrement moins bien que le brillant parce que sa structure microporeuse est plus sensible aux contaminants et aux UV. La différence n'est pas spectaculaire si l'entretien est correct, mais elle est réelle — pour les chiffres généraux, voir [combien de temps tient vraiment un covering](/covering-tient-combien-de-temps-vraiment).
 
 ## Produit recommandé
 

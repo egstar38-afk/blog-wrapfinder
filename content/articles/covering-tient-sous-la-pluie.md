@@ -14,7 +14,7 @@ Un film vinyle bien posé résiste parfaitement à la pluie. C'est un film plast
 
 Le corps du film vinyle (polyvinyle de chlorure ou polyester selon les gammes) est étanche. L'eau de pluie ordinaire ne traverse pas le film, ne modifie pas son adhésif et ne dégrade pas ses propriétés mécaniques.
 
-Un film exposé à 300 jours de pluie par an pendant 5 ans reste intact — c'est une des propriétés pour lesquelles le vinyle est utilisé.
+Un film exposé à 300 jours de pluie par an pendant 5 ans reste intact — la pluie n'est pas ce qui limite la [durée de vie réelle d'un covering](/covering-tient-combien-de-temps-vraiment).
 
 ## Les bords : le point faible de l'eau
 
@@ -42,7 +42,7 @@ Les films vinyle de qualité (3M, Avery, Oracal) ont un topcoat qui repousse l'e
 
 Cette hydrophobie s'améliore avec un sealant ou un revêtement céramique. Sur un film sans traitement, l'hydrophobie diminue progressivement avec les UV et les lavages.
 
-**Signe d'un film vieillissant** : l'eau ne perle plus, elle s'étale. C'est le moment d'appliquer un sealant ou de planifier le remplacement du film.
+**Signe d'un film vieillissant** : l'eau ne perle plus, elle s'étale. C'est le moment d'appliquer un sealant ou de planifier le [remplacement du film](/covering-fin-de-vie-signes).
 
 ## Le délai après pose sous la pluie
 
@@ -56,7 +56,7 @@ Après la pose, l'adhésif est en polymérisation. La pluie dans les 48 premièr
 
 ## Les films les plus résistants à l'eau
 
-Les films casting (3M 2080, Avery SWF) ont un profil d'adhésif plus uniforme et des bords plus stables que les films calandrés bas de gamme. Leur tolérance à l'eau est supérieure.
+Les films casting (3M 2080, Avery SWF) ont un profil d'adhésif plus uniforme et des bords plus stables que les [films calandrés](/film-cast-vs-calandre-difference) bas de gamme. Leur tolérance à l'eau est supérieure.
 
 ## Produit recommandé
 

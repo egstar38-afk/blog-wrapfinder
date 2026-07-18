@@ -9,7 +9,7 @@ updated: "2026-06-13"
 ![Fiat 500 en covering deux tons, carrosserie jaune et toit noir](/images/articles/covering-deux-tons-bicolor.webp)
 ## Le bicolore en covering : tendance ou surcharge ?
 
-Le covering bicolor — deux couleurs ou deux finitions sur la même carrosserie — est l'une des personnalisations les plus demandées en atelier. Toit noir sur carrosserie blanche, noir mat + gris anthracite, couleur d'usine + contraste sur le capot...
+Le covering bicolor — deux couleurs ou deux finitions sur la même carrosserie — est l'une des personnalisations les plus demandées en atelier. [Toit noir](/covering-toit-voiture) sur carrosserie blanche, noir mat + gris anthracite, couleur d'usine + contraste sur le capot...
 
 Réalisé proprement, c'est sobre et impactant. Mal exécuté, c'est une ligne de séparation visible, gondolée ou de mauvaise couleur qui dévalue visuellement le véhicule.
 
@@ -41,7 +41,7 @@ Si le design du client demande une ligne là où il n'y en a pas (une bande hori
 
 ### Le ruban fineline
 
-Le ruban de masquage fineline (bande très fine, 3 à 6 mm) est l'outil clé pour créer une ligne propre entre deux couleurs. Il est flexible et peut suivre des courbes douces.
+Le [ruban de masquage](/ruban-masquage-pour-ppf) fineline (bande très fine, 3 à 6 mm) est l'outil clé pour créer une ligne propre entre deux couleurs. Il est flexible et peut suivre des courbes douces.
 
 Le fineline se pose d'abord, puis le film déborde légèrement par-dessus. Après la pose du premier film, le fineline définit le bord exact sur lequel sera posé le second film.
 
@@ -53,7 +53,7 @@ La superposition minimum est de 2 mm. En dessous, la moindre rétraction du film
 
 ### Risque de marque du masquage
 
-Le ruban de masquage ne doit pas rester sur le film ou la carrosserie plus de 24 heures — les résidus d'adhésif peuvent laisser une trace. Retirez le masquage dès que le film est posé et stable.
+Le ruban de masquage ne doit pas rester sur le film ou la carrosserie plus de 24 heures — les [résidus d'adhésif](/retirer-residus-adhesif) peuvent laisser une trace. Retirez le masquage dès que le film est posé et stable.
 
 ## Les combinaisons qui fonctionnent
 

@@ -32,11 +32,11 @@ La peinture d'origine des véhicules modernes (vernis polyuréthane 2K) est trè
 
 Un film vinyle prévu pour 5 à 7 ans laissé en place pendant 10 ans aura développé des résidus d'adhésif qui pénètrent dans les micro-pores du vernis. La dépose sera plus difficile et les risques de résidus augmentent.
 
-Passé la durée de vie recommandée du film, chaque mois supplémentaire augmente la difficulté de dépose.
+Passé la durée de vie recommandée du film, chaque mois supplémentaire augmente la difficulté de dépose — apprenez à reconnaître les [signes d'un covering en fin de vie](/covering-fin-de-vie-signes) pour ne pas dépasser ce cap.
 
 ### Dépose incorrecte
 
-La dépose d'un covering doit se faire avec chaleur (heat gun à 50–60 °C) et à angle correct (90° à 120° par rapport à la surface). Une dépose à froid ou à angle rasant (<45°) crée des contraintes qui peuvent arracher la peinture même sur des surfaces saines.
+La dépose d'un covering doit se faire avec chaleur (heat gun à 50–60 °C) et à angle correct (90° à 120° par rapport à la surface), comme je le détaille dans mon guide pour [retirer un ancien covering](/covering-retrait-ancien-film). Une dépose à froid ou à angle rasant (<45°) crée des contraintes qui peuvent arracher la peinture même sur des surfaces saines.
 
 ### Film bas de gamme ou inadapté
 
@@ -44,14 +44,14 @@ Certains films bas de gamme utilisent des adhésifs acryliques "économiques" qu
 
 ## Comment vérifier avant de couvrir
 
-Le test cross-cut (décrit dans l'article sur les tests d'adhérence) est la façon la plus simple de vérifier si votre peinture supporte un covering. Si la peinture passe le test, elle supportera un covering bien posé et bien déposé.
+Le test cross-cut (décrit dans l'article sur les [tests d'adhérence avant pose](/test-adhesion-avant-pose)) est la façon la plus simple de vérifier si votre peinture supporte un covering. Si la peinture passe le test, elle supportera un covering bien posé et bien déposé.
 
 ## Ce qui arrive après la dépose dans les cas normaux
 
 Après dépose d'un film bien posé pendant 5 ans :
 
 - La peinture est intacte
-- Des résidus d'adhésif minimes peuvent rester sur les bords — ils s'enlèvent à l'IPA ou avec un produit spécifique de retrait d'adhésif
+- Des résidus d'adhésif minimes peuvent rester sur les bords — ils s'enlèvent à l'IPA ou avec un produit spécifique de [retrait des résidus d'adhésif](/retirer-residus-adhesif)
 - La peinture sous le film est protégée des UV — elle peut paraître légèrement "plus fraîche" que les zones non couvertes (ce qui peut créer un contraste temporaire)
 
 Pour ces résidus légers, l'IPA (alcool isopropylique) dilué est la solution la plus économique ; gardez le retrait d'adhésif dédié pour les cas tenaces.

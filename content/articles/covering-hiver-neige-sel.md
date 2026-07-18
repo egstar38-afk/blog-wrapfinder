@@ -21,14 +21,14 @@ Le mécanisme : le sel en solution (dilué par l'eau de fonte) s'infiltre sous l
 ### Ce qui aggrave la situation
 
 - Bords coupés à vue (non rentrés dans les jointures) : exposition directe au sel
-- Passages au Karcher à angle rasant sur les bords : pompe le sel vers les zones non atteintes
+- Passages au [Karcher à angle rasant](/covering-lavage-haute-pression-conseils) sur les bords : pompe le sel vers les zones non atteintes
 - Lave-auto avec brosses : les brosses poussent de l'eau salée sous les bords
 
 ### Ce qui protège
 
 - Bords bien rentrés dans les jointures et arêtes
 - Sealant régulier sur les bords et surfaces
-- Lavage fréquent à l'eau claire pour éliminer le sel avant cristallisation
+- Lavage fréquent à l'eau claire pour éliminer le sel avant cristallisation — les bons gestes sont détaillés dans mon guide d'[entretien quotidien du covering](/entretien-covering-quotidien)
 
 ## Les produits déglaçants : quel risque ?
 
@@ -52,7 +52,7 @@ Eau tiède (30-40 °C maximum) : sans risque. Eau bouillante : à éviter.
 
 ## Les grattoirs à glace sur covering
 
-Un grattoir à glace classique (plastique rigide) utilisé directement sur un covering rayera inévitablement la surface. C'est la même chose que pour une carrosserie peinte non protégée — le PVC n'est pas plus résistant aux rayures mécaniques que le vernis.
+Un grattoir à glace classique (plastique rigide) utilisé directement sur un covering rayera inévitablement la surface — et une [rayure profonde sur covering](/covering-rayure-profonde-reparation) ne se répare qu'en refaisant le panneau. C'est la même chose que pour une carrosserie peinte non protégée — le PVC n'est pas plus résistant aux rayures mécaniques que le vernis.
 
 **Solution** : grattoir en mousse ou en silicone souple (spécifique "protection carrosserie"). Sur un covering mat ou satin, encore plus critique — la moindre rayure sera visible.
 
@@ -75,7 +75,7 @@ La neige fraîche s'enlève facilement et sans risque avec un balai à neige à 
 
 Appliquer un sealant ou un revêtement céramique à la fin de l'automne crée une couche protectrice supplémentaire sur tout le film, y compris les bords. Cette couche ralentit l'infiltration du sel et facilite le nettoyage pendant toute la saison.
 
-30 minutes d'application en octobre peuvent éviter 200 à 500 € de reprises de bords au printemps.
+30 minutes d'application en octobre peuvent éviter 200 à 500 € de reprises de bords au printemps — un point que je développe dans le [contrôle du covering après l'hiver](/covering-apres-hiver-controle).
 
 ## Produit recommandé
 

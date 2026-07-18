@@ -8,7 +8,7 @@ updated: "2026-06-13"
 
 ## L'assurance du poseur covering : pas une option
 
-En tant que poseur PPF ou covering professionnel, vous intervenez sur des véhicules qui peuvent valoir 20 000 à 500 000 €. Un incident en pose — une rayure de cutter, un film qui arrache la peinture, une voiture endommagée dans l'atelier — peut vous coûter bien plus que ce que vous avez facturé.
+En tant que poseur PPF ou covering professionnel, vous intervenez sur des véhicules qui peuvent valoir 20 000 à 500 000 €. Un incident en pose — une rayure de cutter, un film qui arrache la peinture, une voiture endommagée dans l'atelier — peut vous coûter bien plus que le [tarif que vous avez facturé](/tarifs-poseur-covering-independant).
 
 La RC professionnelle n'est pas une option — c'est la base minimum.
 
@@ -18,7 +18,7 @@ La Responsabilité Civile Professionnelle (RC Pro) couvre les dommages que vous 
 
 **Dommages couverts typiquement** :
 - Dommage causé au véhicule pendant la pose (rayure, choc, dommage au revêtement)
-- Dommage causé à la peinture d'usine lors de la dépose du film
+- Dommage causé à la peinture d'usine [lors de la dépose du film](/enlever-ppf-sans-abimer)
 - Dommage matériel dans votre atelier (véhicule qui bouge, chute d'un outil)
 
 **Ce qui n'est généralement pas couvert** :
@@ -58,7 +58,7 @@ Couvre les dommages causés par un défaut de votre prestation — un film qui s
 
 ### Multirisque professionnelle
 
-En plus de la RC Pro : couvre votre matériel et les locaux (incendie, dégât des eaux, vol). Indispensable pour un atelier.
+En plus de la RC Pro : couvre votre matériel et les locaux (incendie, dégât des eaux, vol). Indispensable dès que vous [ouvrez un atelier](/ouvrir-atelier-covering).
 
 ## Le coût d'une RC Pro pour poseur covering
 

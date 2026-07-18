@@ -8,7 +8,7 @@ updated: "2026-06-13"
 
 ## Le silicone en automobile : beaucoup de confusion, quelques règles simples
 
-Le silicone est partout en automobile — joint de carter, joint de capteur, étanchéité de phares, collage de rétroviseurs, joint de pare-brise... Mais tous les silicones ne sont pas interchangeables, et utiliser le mauvais produit peut créer plus de problèmes qu'il n'en résout.
+Le silicone est partout en automobile — joint de carter, joint de capteur, étanchéité de phares, collage de rétroviseurs, [joint de pare-brise](/colle-pare-brise-joint)... Mais tous les silicones ne sont pas interchangeables, et utiliser le mauvais produit peut créer plus de problèmes qu'il n'en résout.
 
 ## Les types de silicone auto
 
@@ -22,7 +22,7 @@ Le RTV (Room Temperature Vulcanizing) est le silicone standard en tube ou en car
 
 ### Silicone haute température (HT)
 
-Résistance thermique jusqu'à 300–350 °C selon les formulations. Utilisé pour les zones proches de l'échappement, du turbo, du collecteur d'admission.
+Résistance thermique jusqu'à 300–350 °C selon les formulations. Utilisé pour les zones proches de l'échappement, du turbo, du collecteur d'admission — le terrain typique des [adhésifs haute température](/adhesif-haute-temperature).
 
 Ne pas utiliser de silicone standard (résistance max 180 °C) sur ces zones — il carbonise et lâche.
 
@@ -49,7 +49,7 @@ Ce n'est pas une norme universelle — vérifiez toujours la fiche produit. Mais
 
 ### Silicone sur joint déjà existant
 
-Déposez toujours intégralement le vieux silicone avant d'en appliquer du neuf. Le silicone sur silicone ne tient pas — la couche inférieure ne sera jamais éliminée et le nouveau silicone se décolle avec l'ancien.
+Déposez toujours intégralement le vieux silicone avant d'en appliquer du neuf — même principe que pour [retirer des résidus d'adhésif](/retirer-residus-adhesif) sans rien abîmer. Le silicone sur silicone ne tient pas — la couche inférieure ne sera jamais éliminée et le nouveau silicone se décolle avec l'ancien.
 
 ### Trop de silicone sur un joint moteur
 

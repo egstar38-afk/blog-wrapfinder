@@ -30,7 +30,7 @@ Ce sont les VHB les plus courants en carrosserie automobile. Mousse acrylique à
 | 4951 | 1,6 mm | Surfaces texturées, léger écart à combler |
 | 4959 | 2,3 mm | Surfaces très texturées ou écart important |
 
-La règle : plus la surface est rugueuse ou texturée, plus l'épaisseur de mousse nécessaire est importante pour compenser les irrégularités et maximiser le contact.
+La règle : plus la surface est rugueuse ou texturée, plus [l'épaisseur de mousse](/epaisseur-ruban-adhesif-carrosserie) nécessaire est importante pour compenser les irrégularités et maximiser le contact.
 
 ### Série 5900 (plus résistante aux températures élevées)
 
@@ -38,7 +38,7 @@ Pour les applications proches des sources de chaleur (zone moteur, proches des p
 
 ### Série LSE (Low Surface Energy — surfaces à faible énergie de surface)
 
-Pour les plastiques polypropylène, polyéthylène, les surfaces peintes aux peintures texturées. Ces surfaces n'accrochent pas facilement les adhésifs acryliques standard. Les VHB LSE (4951, 4956) sont formulés spécifiquement pour ces substrats.
+Pour les [plastiques polypropylène](/primer-pp-mode-emploi-complet), polyéthylène, les surfaces peintes aux peintures texturées. Ces surfaces n'accrochent pas facilement les adhésifs acryliques standard. Les VHB LSE (4951, 4956) sont formulés spécifiquement pour ces substrats.
 
 ## Les conditions requises pour que ça tient
 
@@ -72,11 +72,11 @@ Le VHB est difficile à retirer — c'est là sa force et sa contrainte. Pour le
 
 **Fil de coupe** : un fil dentaire résistant ou un fil de pêche épais peut être passé sous la colle en mouvement de scie pour couper le VHB et décoller la pièce.
 
-**Dissolvants** : l'IPA pur sur les résidus de VHB restants sur la carrosserie les ramollit progressivement. Pour les résidus importants, le 3M Adhesive Remover est plus efficace.
+**Dissolvants** : l'IPA pur sur les [résidus de VHB](/retirer-residus-adhesif) restants sur la carrosserie les ramollit progressivement. Pour les résidus importants, le 3M Adhesive Remover est plus efficace.
 
 ## Produit recommandé
 
-Le **3M VHB 4951** (mousse grise, 1,6 mm, 19 mm de large) est la référence polyvalente pour les baguettes et garnitures sur surfaces peintes légèrement texturées. Disponible en rouleau de 3 m (suffisant pour une baguette latérale complète) ou 16,5 m pour les ateliers.
+Le **3M VHB 4951** (mousse grise, 1,6 mm, 19 mm de large) est la référence polyvalente pour les [baguettes et garnitures](/fixer-baguettes-carrosserie-adhesif) sur surfaces peintes légèrement texturées. Disponible en rouleau de 3 m (suffisant pour une baguette latérale complète) ou 16,5 m pour les ateliers.
 
 [Voir le 3M VHB 4951 sur Amazon →](https://www.amazon.fr/s?k=3m+vhb+4951+double+face+mousse+automobile+baguette&tag=wrapfinder-21)
 

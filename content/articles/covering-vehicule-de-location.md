@@ -18,7 +18,7 @@ Le covering de flotte est principalement utilisé pour l'identification visuelle
 
 ### Protection de la peinture d'usine
 
-Sur une flotte qui tourne, chaque véhicule accumule les petits incidents (rayures de parking, impacts...). Un covering protège la peinture d'usine. À la revente du véhicule, la peinture est intacte — ce qui améliore la valeur résiduelle.
+Sur une flotte qui tourne, chaque véhicule accumule les petits incidents (rayures de parking, impacts...). Un covering protège la peinture d'usine. À la revente du véhicule, la peinture est intacte — ce qui améliore la [valeur résiduelle à la revente](/revente-voiture-ppf-covering).
 
 ### Changement d'image à moindre coût
 
@@ -41,11 +41,11 @@ Les films bon marché (< 15 €/m) ne sont pas adaptés à un usage intensif de 
 
 Les véhicules de location sont lavés par des personnels non spécialisés en covering. Le film doit supporter les portiques automatiques sans contact, les shampoings courants, et une manipulation sans précautions particulières.
 
-Choisissez des films gloss ou satin — pas mat. Les films mats demandent un entretien spécifique que les personnels de location ne maîtriseront pas.
+Choisissez des [films gloss ou satin](/covering-brillant-vs-satin-vs-mat) — pas mat. Les films mats demandent un entretien spécifique que les personnels de location ne maîtriseront pas.
 
 ### Retrait facile pour rotation
 
-Quand le véhicule change d'affectation ou est revendu, le film doit se retirer proprement. Un film dont la dépose endommage la peinture est un coût supplémentaire.
+Quand le véhicule change d'affectation ou est revendu, le film doit [se retirer proprement](/covering-retrait-ancien-film). Un film dont la dépose endommage la peinture est un coût supplémentaire.
 
 Films connus pour leur dépose propre : Avery SWF (connu pour ses résidus minimaux), Oracal 970RA (canal d'air repositionnable, dépose facilitée).
 

@@ -26,11 +26,11 @@ Symptôme caractéristique : le bord se soulève sur toute une zone plutôt que 
 
 ### Cause n°3 : jet haute pression mal orienté
 
-Même un bord correctement rentré peut commencer à se soulever si le propriétaire passe régulièrement le Karcher avec un jet à angle rasant directement sur le bord. L'eau s'infiltre progressivement et crée une voie de délaminage.
+Même un bord correctement rentré peut commencer à se soulever si le propriétaire multiplie les [lavages haute pression](/ppf-compatible-lave-auto) avec un jet à angle rasant directement sur le bord. L'eau s'infiltre progressivement et crée une voie de délaminage.
 
 ### Cause n°4 : produits chimiques incompatibles
 
-Certains produits de détailing (cires à base de solvant, dégraissants puissants, nettoyants jante acides projetés sur le film adjacent) attaquent l'adhésif. Le bord, zone de faiblesse naturelle, est le premier à lâcher.
+Certains produits de détailing (cires à base de solvant, dégraissants puissants, nettoyants jante acides projetés sur le film adjacent) attaquent l'adhésif. Le bord, zone de faiblesse naturelle, est le premier à lâcher — d'où l'importance des [bons gestes d'entretien au quotidien](/entretien-ppf-au-quotidien).
 
 ## Ce qu'on peut faire soi-même : le replaquage simple
 
@@ -58,7 +58,7 @@ Le **3M Edge Sealer** (ou équivalent : Avery Edge Sealer, Hexis Edge Sealer) es
 
 Le résultat est un bord re-collé qui tient aussi bien que la pose d'origine — parfois mieux, car l'edge sealer est plus résistant chimiquement que l'adhésif standard du film.
 
-**Attention** : l'edge sealer rend le bord impossible à retirer proprement ensuite. Il est réservé aux reprises définitives.
+**Attention** : l'edge sealer rend le bord impossible à [retirer proprement](/enlever-ppf-sans-abimer) ensuite. Il est réservé aux reprises définitives.
 
 ## Quand tout refaire le panneau
 

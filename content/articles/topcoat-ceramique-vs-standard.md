@@ -13,7 +13,7 @@ updated: "2026-06-13"
 
 Le topcoat standard d'un PPF est une couche de polyuréthane auto-cicatrisante. Certains fabricants ont développé des topcoats enrichis en composés silicium ou en matrices céramiques SiO2 — ce qu'on appelle "topcoat céramique".
 
-Ce n'est pas un revêtement céramique liquide ajouté après coup (comme une céramique appliquée en atelier sur une carrosserie). C'est une modification chimique du topcoat lui-même, intégrée pendant la fabrication du film.
+Ce n'est pas un revêtement céramique liquide ajouté après coup (comme une [céramique appliquée en atelier](/ppf-vs-protection-ceramique) sur une carrosserie). C'est une modification chimique du topcoat lui-même, intégrée pendant la fabrication du film.
 
 ## Ce que le topcoat céramique améliore réellement
 
@@ -25,7 +25,7 @@ Impact pratique : la voiture reste plus propre plus longtemps entre deux lavages
 
 ### Résistance chimique
 
-Le topcoat céramique est plus résistant aux produits chimiques que le topcoat polyuréthane standard. Carburant, huile, insectes acides, sel, produits de déneigement — tout agresse moins facilement la surface.
+Le topcoat céramique est plus résistant aux produits chimiques que le topcoat polyuréthane standard. [Carburant, huile, insectes acides](/ppf-taches-huile-carburant), [sel, produits de déneigement](/ppf-neige-hiver-sel) — tout agresse moins facilement la surface.
 
 Sur les films standard, l'hydrophobie dépend du sealant appliqué dessus. Si vous oubliez le sealant pendant 2 ans, le topcoat s'ouvre légèrement aux contaminations chimiques. Sur un film céramique, cette protection est structurelle.
 
@@ -45,7 +45,7 @@ L'auto-cicatrisation est une propriété du topcoat polyuréthane, pas du céram
 
 ### La durée de vie totale
 
-Un PPF dure 7 à 10 ans principalement grâce à la qualité de son adhésif et de ses stabilisants UV — pas de son topcoat. Un topcoat céramique prolonge légèrement la fraîcheur du film (moins de dégradation de surface), mais ne change pas fondamentalement la durée de vie.
+Un [PPF dure 7 à 10 ans](/duree-de-vie-ppf) principalement grâce à la qualité de son adhésif et de ses stabilisants UV — pas de son topcoat. Un topcoat céramique prolonge légèrement la fraîcheur du film (moins de dégradation de surface), mais ne change pas fondamentalement la durée de vie.
 
 ## Films PPF avec topcoat céramique sur le marché
 

@@ -46,9 +46,9 @@ Les films brossés de différentes marques ont des textures de brossage différe
 
 ### Le problème de la saleté dans les rainures
 
-La texture de brossage crée des micro-rainures qui accumulent la saleté plus facilement qu'une surface lisse. La poussière de route, les résidus de lavage et les contaminants s'y logent.
+La texture de brossage crée des micro-rainures qui accumulent la saleté plus facilement qu'une surface lisse. La poussière de route, les résidus de lavage et les contaminants s'y logent — et finissent en [taches persistantes](/covering-tache-persistante) si on les laisse s'incruster.
 
-Lavage : doux, avec shampoing neutre. Insistez sur le sens des rainures avec un chiffon microfibre à longs poils pour "balayer" les contaminants hors des rainures plutôt que de les y enfoncer.
+Lavage : doux, avec shampoing neutre — et prudence avec le [lavage haute pression](/covering-lavage-haute-pression-conseils). Insistez sur le sens des rainures avec un chiffon microfibre à longs poils pour "balayer" les contaminants hors des rainures plutôt que de les y enfoncer.
 
 ### Ce qui abîme la texture
 
@@ -68,7 +68,7 @@ Les sealants liquides sont recommandés : ils pénètrent dans les rainures et c
 
 ## Produit recommandé
 
-Le **3M 2080 Brushed Black Metallic BM231** est le film brossé le plus vendu en France pour les véhicules foncés. Son brossage profond est particulièrement saisissant sous lumière rasante ou en éclairage de parking.
+Le **3M 2080 Brushed Black Metallic BM231**, issu de la [gamme 3M 2080](/fiche-technique-3m-2080), est le film brossé le plus vendu en France pour les véhicules foncés. Son brossage profond est particulièrement saisissant sous lumière rasante ou en éclairage de parking.
 
 [Voir le 3M 2080 Brushed Black Metallic sur Amazon →](https://www.amazon.fr/s?k=3m+2080+brushed+black+metallic+BM231+film+vinyle+brossé&tag=wrapfinder-21)
 

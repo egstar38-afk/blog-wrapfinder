@@ -24,7 +24,7 @@ Les tapis d'isolation phonique (sous la moquette, sous le capot) se posent à la
 
 ### Garnitures de portière et panneau de porte
 
-Les mousses, les revêtements textile et les panneaux de porte en tissu ou vinyle se collent souvent à la colle contact.
+Les mousses, les revêtements textile et les panneaux de porte en tissu ou vinyle se collent souvent à la colle contact, tandis que les pièces rigides relèvent plutôt des [adhésifs pour plastiques d'habitacle](/adhesif-fixation-plastiques-habitacle).
 
 ### Moquette de coffre et tapis de sol
 
@@ -34,7 +34,7 @@ La moquette de coffre, souvent découpée sur mesure, se pose à la colle contac
 
 ### Préparation des surfaces
 
-Les deux surfaces doivent être propres, sèches et dégraissées. La poussière, l'huile et l'humidité empêchent l'adhérence.
+Les deux surfaces doivent être propres, sèches et dégraissées — la [préparation de surface avant collage](/preparer-surface-avant-collage) reste la règle d'or, colle contact incluse. La poussière, l'huile et l'humidité empêchent l'adhérence.
 
 ### Application sur les deux faces
 
@@ -71,7 +71,7 @@ Passez un rouleau ou une raclette sur la surface assemblée pour assurer un cont
 - Pas repositionnable après contact
 - Résistance à la chaleur limitée (80–100 °C standard)
 - Solvants volatils (aérosol et contact traditionnel) — ventilation obligatoire
-- Résistance inférieure au VHB sur les substrats rigides
+- Résistance inférieure au [ruban VHB](/ruban-vhb-3m-automobile) sur les substrats rigides
 - Peut se décollier avec les huiles et les hydrocarbures
 
 ## Les formulations modernes

@@ -18,7 +18,7 @@ Viscosité très basse (eau). Capillarité élevée — le produit "coule" dans 
 
 Temps de prise : 5 à 20 secondes.
 
-**Usages auto** : réparation de fissures fines dans les plastiques ABS, collage de petites pièces à contact intime.
+**Usages auto** : réparation de fissures fines dans les plastiques ABS — un cas que je couvre aussi dans mon guide de la [colle plastique carrosserie](/colle-plastique-carrosserie) —, collage de petites pièces à contact intime.
 
 ### CA gel
 
@@ -63,7 +63,7 @@ Le CA standard est cassant — c'est sa principale limitation en automobile. Sur
 Solutions :
 1. **CA élastique** : meilleure résistance aux chocs
 2. **CA + activateur surface** : l'activateur (ex: Loctite 7452) accélère la prise et améliore légèrement la souplesse
-3. **Associer au VHB** : pour les grandes surfaces, VHB (qui absorbe les vibrations) + CA aux angles (pour maintien immédiat)
+3. **Associer au VHB** : pour les grandes surfaces, [ruban VHB](/ruban-vhb-3m-automobile) (qui absorbe les vibrations) + CA aux angles (pour maintien immédiat)
 
 ## Les activateurs
 
@@ -73,7 +73,7 @@ L'activateur (accélérateur) est un spray ou liquide qui accélère la prise du
 
 ## Retrait du cyanoacrylate
 
-Le CA se dissout dans l'acétone. Pour décoller des pièces, imbibez un chiffon d'acétone et maintenez en contact 1 à 5 minutes.
+Le CA se dissout dans l'acétone. Pour décoller des pièces — même logique que pour [retirer des résidus d'adhésif](/retirer-residus-adhesif) — imbibez un chiffon d'acétone et maintenez en contact 1 à 5 minutes.
 
 **Attention à l'acétone sur plastiques** : l'acétone dissout certains plastiques (ABS, PS, PC). Testez sur une zone invisible avant application.
 

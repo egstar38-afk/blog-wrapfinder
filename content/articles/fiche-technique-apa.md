@@ -14,16 +14,16 @@ APA est un fabricant **italien** de films adhésifs pour l'automobile, présent 
 
 - **Films de covering cast** : large palette de couleurs et de finitions (brillant, satin, mat, métallisé, effets spéciaux), conçus pour la conformation sur surfaces complexes.
 - **PPF (film de protection)** : film polyuréthane transparent auto-cicatrisant pour protéger la peinture des impacts, rayures et UV.
-- **Films imprimables** : supports pour la décoration sur mesure et la pose de visuels — comme la livrée imprimée de la Mazda RX-8 ci-dessus, réalisée sur film APA.
+- **Films imprimables** : supports pour la [décoration sur mesure et la pose de visuels](/covering-personnalisation-logo) — comme la livrée imprimée de la Mazda RX-8 ci-dessus, réalisée sur film APA.
 
 ## Les atouts techniques (retour de pose)
 
 En tant que **formateur certifié**, ce que je constate concrètement à l'atelier avec les films APA :
 
-- **Transparence remarquable sur le PPF.** Le film est très clair, sans voile ni effet « jaune » sur les teintes claires — un point souvent décisif sur une peinture blanche ou métallisée.
+- **Transparence remarquable sur le PPF.** Le film est très clair, sans voile ni effet « jaune » sur les teintes claires — un point souvent décisif sur une peinture blanche ou pour un [PPF sur peinture métallisée](/ppf-sur-peinture-metallisee).
 - **Pose rapide.** Le film se positionne et se travaille vite, ce qui réduit le temps d'atelier et la fatigue sur les grandes surfaces.
 - **Finitions le jour même.** La plupart des pièces sont **terminables directement**, sans devoir attendre le lendemain pour reprendre les bords et les finitions — un gain de productivité réel par rapport à des films qui demandent un temps de stabilisation.
-- **Forte extensibilité.** Le film s'étire bien et épouse les reliefs (pare-chocs, rétroviseurs, courbes prononcées) sans blanchir ni se déformer, ce qui limite les reprises.
+- **Forte extensibilité.** Le film s'étire bien et épouse les reliefs (pare-chocs, rétroviseurs, courbes prononcées) sans blanchir ni se déformer, ce qui limite les reprises — un vrai plus sur un [covering de pare-chocs](/covering-pare-chocs-avant).
 
 ## APA face à 3M, Hexis et XPEL
 

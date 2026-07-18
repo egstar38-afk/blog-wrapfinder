@@ -26,7 +26,7 @@ Un adhésif flexible absorbe ces mouvements différentiels.
 
 Le butyl est l'adhésif flexible par excellence pour les applications automobiles. Il ne se rigidifie jamais — il reste plastique indéfiniment. Résistance aux vibrations très élevée.
 
-**Applications** : joints de phares, moulures de pare-brise, joints de carrosserie, fixations de garnitures.
+**Applications** : joints de [phares](/ruban-adhesif-pour-phares), [moulures de pare-brise](/adhesif-moulure-pare-brise), joints de carrosserie, fixations de garnitures.
 
 **Limites** : faible résistance au cisaillement (il glisse sous une contrainte prolongée), pas adapté aux charges structurelles.
 
@@ -40,7 +40,7 @@ Le VHB mousse absorbe les vibrations mieux que le VHB solide. L'âme en mousse a
 
 ### Silicone élastique
 
-Le silicone une fois polymérisé est flexible et élastique. Il retourne à sa forme d'origine après déformation. Résistance aux vibrations bonne à très bonne selon la formulation.
+Le [silicone auto](/adhesif-silicone-auto-usages), une fois polymérisé, est flexible et élastique. Il retourne à sa forme d'origine après déformation. Résistance aux vibrations bonne à très bonne selon la formulation.
 
 **Applications** : joints d'étanchéité, fixations de capteurs, joints de tuyaux.
 

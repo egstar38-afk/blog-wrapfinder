@@ -24,7 +24,7 @@ Au-delà de 7–8 ans, certains films se retirent en morceaux et laissent des r�
 
 ### La qualité du film d'origine
 
-Les films premium (3M, Avery Dennison, Oracal série 970+) sont formulés avec des adhésifs "clean removal" qui facilitent le retrait propre. Les films de mauvaise qualité (films génériques sans marque) ont souvent des adhésifs qui se séparent du film, laissant l'adhésif sur la voiture et le film dans la main.
+Les [films premium](/choisir-film-covering) (3M, Avery Dennison, Oracal série 970+) sont formulés avec des adhésifs "clean removal" qui facilitent le retrait propre. Les films de mauvaise qualité (films génériques sans marque) ont souvent des adhésifs qui se séparent du film, laissant l'adhésif sur la voiture et le film dans la main.
 
 ### L'état de la peinture sous le film
 
@@ -52,7 +52,7 @@ Sur les zones courbes, ajustez votre angle en permanence en suivant la surface. 
 
 ### Étape 4 : Retirer les résidus d'adhésif
 
-Même avec un retrait propre, des résidus d'adhésif restent souvent sur la peinture. Ils sont généralement visibles comme une légère transparence collante ou un film légèrement brillant.
+Même avec un retrait propre, des [résidus d'adhésif](/retirer-residus-adhesif) restent souvent sur la peinture. Ils sont généralement visibles comme une légère transparence collante ou un film légèrement brillant.
 
 **Méthode pour les résidus :**
 - IPA (alcool isopropylique) pur ou dilué à 70 % sur un chiffon microfibre. Tamponnez, ne frottez pas.
@@ -77,7 +77,7 @@ Le seul point de vigilance : si de la moisissure s'est développée sous le film
 | SUV | 280 – 500 € | 450 – 750 € |
 | Full wrap complexe | 400 – 800 € | 600 – 1 100 € |
 
-Un retrait DIY est tout à fait faisable si vous avez le temps et la méthode — mais comptez 4 à 8 heures sur une berline compacte.
+Un retrait DIY est tout à fait faisable si vous avez le temps et la méthode — c'est le même état d'esprit que le [covering fait maison](/covering-fait-maison-debutant) — mais comptez 4 à 8 heures sur une berline compacte.
 
 ## Produit recommandé
 

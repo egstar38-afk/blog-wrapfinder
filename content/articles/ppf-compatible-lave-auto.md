@@ -24,7 +24,7 @@ Si la voiture est inévitablement mouillée (pluie légère) pendant ce délai :
 
 ## De 3 à 7 jours : lavage doux possible
 
-Après 3 jours à température normale (20 °C et plus), l'adhésif est suffisamment polymérisé pour un lavage doux.
+Après 3 jours à température normale (20 °C et plus), l'adhésif est suffisamment polymérisé pour un [premier lavage](/premier-lavage-apres-ppf) doux.
 
 **Lavage à la main** : autorisé. Eau tiède, shampoing pH neutre, gant microfibre à longs poils. Pas de chiffon éponge qui frotte.
 
@@ -42,13 +42,13 @@ Après 3 jours à température normale (20 °C et plus), l'adhésif est suffisam
 
 ## Les portiques à brosses : toujours avec précautions
 
-Les brosses en tissu ou en mousse des portiques automatiques classiques frottent mécaniquement le film. Après la première semaine, votre PPF les supporte, mais :
+Les brosses en tissu ou en mousse des [portiques automatiques classiques](/ppf-resiste-aux-lavages-automatiques) frottent mécaniquement le film. Après la première semaine, votre PPF les supporte, mais :
 
 - Les brosses créent des micro-rayures sur le topcoat (que l'auto-cicatrisation répare, mais pas toujours totalement sur les films vieillissants)
 - Les brosses peuvent accrocher les bords légèrement soulevés et les aggraver
 - Les produits chimiques des portiques à brosses sont souvent à pH alcalin élevé (dégraissants pour le volume), ce qui n'est pas idéal pour le topcoat
 
-**Recommandation générale** : portique à brosses à éviter sur PPF. Si vous n'avez pas le choix, acceptez que le topcoat vieillisse légèrement plus vite.
+**Recommandation générale** : portique à brosses à éviter sur PPF. Si vous n'avez pas le choix, acceptez que le topcoat — [céramique ou standard](/topcoat-ceramique-vs-standard) — vieillisse légèrement plus vite.
 
 ## Le cas des produits de lave-auto
 

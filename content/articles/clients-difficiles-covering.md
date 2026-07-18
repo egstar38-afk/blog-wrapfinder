@@ -29,7 +29,7 @@ Solution : le délai est dans le devis, signé par le client. Pas de surprise en
 
 ### "La bulle doit être à zéro"
 
-Des micro-bulles peuvent apparaître dans les premières 48 à 72 heures après la pose — c'est la solution de pose qui s'évapore. C'est normal et elles disparaissent seules.
+Des [micro-bulles peuvent apparaître](/covering-bulle-apres-pose) dans les premières 48 à 72 heures après la pose — c'est la solution de pose qui s'évapore. C'est normal et elles disparaissent seules.
 
 Certains clients paniquent à la livraison. Informez-les avant la pose : les micro-bulles initiales sont attendues et se résorbent d'elles-mêmes sous 3 à 7 jours à température normale.
 
@@ -39,15 +39,15 @@ Certains clients paniquent à la livraison. Informez-les avant la pose : les mic
 
 Si le film se décolle dans les 6 premiers mois, c'est presque toujours un problème de pose (préparation insuffisante, polymérisation trop courte) ou de film défectueux.
 
-Votre RC Pro intervient si c'est une malfaçon. Si c'est un défaut de film, le fabricant peut être impliqué.
+Votre [RC Pro intervient](/assurance-responsabilite-poseur) si c'est une malfaçon. Si c'est un défaut de film, le fabricant peut être impliqué.
 
 La résolution la plus simple : reposez le panneau gratuitement si la responsabilité est clairement la vôtre. Les clients qui voient une erreur reconnue et corrigée rapidement restent souvent des clients fidèles.
 
 ### "La peinture est abîmée sous le film"
 
-Cas fréquent avec les peintures fragiles ou les voitures de collection. Le film est posé, le client pense que c'est votre pose qui a abîmé la peinture.
+Cas fréquent avec les peintures fragiles ou les [voitures de collection](/covering-voiture-de-collection). Le film est posé, le client pense que c'est votre pose qui a abîmé la peinture.
 
-**Protection** : photos systématiques de la carrosserie AVANT la pose (vidéo de tour complet du véhicule). Mentionnez les défauts préexistants dans le bon de dépôt signé par le client.
+**Protection** : [photos systématiques de la carrosserie AVANT la pose](/photographier-defauts-peinture-avant-ppf) (vidéo de tour complet du véhicule). Mentionnez les défauts préexistants dans le bon de dépôt signé par le client.
 
 ### Refus de payer pour "mauvais résultat"
 

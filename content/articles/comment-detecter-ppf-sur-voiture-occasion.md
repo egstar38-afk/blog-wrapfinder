@@ -8,7 +8,7 @@ updated: "2026-06-13"
 
 ## Pourquoi détecter le PPF sur une occasion
 
-Acheter une voiture avec du PPF peut être une bonne nouvelle (peinture protégée) ou une mauvaise (film qui cache des dégâts de carrosserie). Savoir repérer un PPF vous permet d'évaluer correctement l'état réel du véhicule et de négocier en connaissance de cause.
+Acheter [une voiture d'occasion avec du PPF](/ppf-voiture-occasion) peut être une bonne nouvelle (peinture protégée) ou une mauvaise (film qui cache des dégâts de carrosserie). Savoir repérer un PPF vous permet d'évaluer correctement l'état réel du véhicule et de négocier en connaissance de cause.
 
 ## La méthode visuelle : les indices qui ne trompent pas
 
@@ -62,12 +62,12 @@ Un épaissimètre de carrosserie mesure l'épaisseur de la peinture sur le méta
 
 - Depuis quand le PPF est-il posé ?
 - Quelle marque ? (demandez la facture de pose)
-- Y a-t-il une garantie restante ?
+- Y a-t-il une [garantie restante](/garantie-ppf-ce-qui-est-couvert) ?
 - Le film couvre-t-il tout le véhicule ou seulement certaines zones ?
 
 ### Vigilance si le PPF est vieux ou dégradé
 
-Un PPF jauni, avec des bords décollés multiples ou avec des bulles : peut indiquer un entretien négligé. Et surtout : assurez-vous que le film ne cache pas des travaux de carrosserie sur les zones couvertes (le PPF est parfois posé après une retouche pour masquer des différences de teinte).
+Un [PPF jauni](/ppf-jaunit-que-faire), avec des [bords décollés](/ppf-bord-qui-se-souleve) multiples ou avec des bulles : peut indiquer un entretien négligé. Et surtout : assurez-vous que le film ne cache pas des travaux de carrosserie sur les zones couvertes (le PPF est parfois posé après une retouche pour masquer des différences de teinte).
 
 ## Test pour vérifier si le PPF cache une retouche
 

@@ -10,7 +10,7 @@ updated: "2026-06-13"
 
 Beaucoup de conducteurs ajoutent un spoiler de coffre aftermarket sur leur voiture — amélioration esthétique, look sportif, ou légère amélioration aérodynamique sur les berlines. Ces spoilers se fixent soit par vissage (percer le coffre, ce que personne ne veut faire), soit par collage.
 
-Le collage au VHB est la méthode standard dans les ateliers de préparation sérieux. Mais ce n'est pas un simple collage décoratif — un spoiler de coffre est soumis à des forces aérodynamiques en roulant, et ces forces cherchent à le détacher à vitesse élevée.
+Le collage au [ruban VHB](/ruban-vhb-3m-automobile) est la méthode standard dans les ateliers de préparation sérieux. Mais ce n'est pas un simple collage décoratif — un spoiler de coffre est soumis à des forces aérodynamiques en roulant, et ces forces cherchent à le détacher à vitesse élevée.
 
 ## Les forces en jeu sur un spoiler collé
 
@@ -44,10 +44,10 @@ Visez au moins 100 cm² de VHB effectif. Avec 20 kg/cm² de résistance du VHB 5
 
 ## La préparation de la peinture du coffre
 
-La peinture du couvercle de coffre doit être irréprochable sous la zone de collage :
+La peinture du couvercle de coffre doit être irréprochable sous la zone de collage — c'est la règle d'or de la [préparation de surface avant collage](/preparer-surface-avant-collage) :
 
 1. **Dégraissage initial** : alcool isopropylique sur toute la zone, microfibre neuve
-2. **Vérification de l'état** : pas de microfissures, pas d'orange peel sévère, pas de zones décollées. Si la peinture est douteuse, le spoiler viendra avec elle.
+2. **Vérification de l'état** : pas de microfissures, pas d'orange peel sévère, pas de zones décollées. Si la peinture est douteuse, faites un [test d'adhérence avant collage](/test-adhesion-avant-pose) — sinon le spoiler viendra avec elle.
 3. **Primer** : non nécessaire sur peinture en bon état (le VHB 5952 adhère directement). Utilisez le primer 3M 94 si la peinture est de faible qualité ou ancienne.
 4. **Température** : ne collez pas par grand froid (< 10 °C). La polymérisation initiale du VHB est lente et la résistance immédiate insuffisante.
 

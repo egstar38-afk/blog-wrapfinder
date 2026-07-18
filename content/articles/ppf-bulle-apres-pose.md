@@ -10,7 +10,7 @@ updated: "2026-06-13"
 
 Vous récupérez votre voiture et le capot a des petites bulles sous le film. Réaction normale : vous paniquez et vous appelez le poseur. Dans 90 % des cas, il va vous expliquer que c'est parfaitement normal et que ça va disparaître tout seul. Et il aura raison.
 
-Mais il existe une différence importante entre les bulles d'eau (normales, temporaires) et les bulles d'air (problème, permanentes). Savoir les distinguer vous évite soit de paniquer inutilement, soit d'attendre que disparaisse quelque chose qui ne disparaîtra jamais.
+Mais il existe une différence importante entre les bulles d'eau (normales, temporaires) et les bulles d'air (problème, permanentes). Savoir les distinguer vous évite soit de paniquer inutilement, soit d'attendre que disparaisse quelque chose qui ne disparaîtra jamais (le même diagnostic vaut d'ailleurs pour les [bulles sous un covering](/covering-bulle-apres-pose)).
 
 ## Les bulles d'eau : normales dans les premières semaines
 
@@ -61,7 +61,7 @@ Une bulle d'air ne disparaît pas. Dans les semaines qui suivent, le film autour
 
 ### Pour les bulles d'eau : patientez
 
-La règle est simple : revenez au bout de 30 jours si des bulles persistent. Un poseur sérieux est d'accord pour un contrôle à 30 jours. La plupart des bulles d'eau auront disparu. S'il en reste, elles peuvent encore migrer dans les semaines suivantes.
+La règle est simple : revenez au bout de 30 jours si des bulles persistent. [Un poseur sérieux](/choisir-bon-poseur-ppf-france) est d'accord pour un contrôle à 30 jours. La plupart des bulles d'eau auront disparu. S'il en reste, elles peuvent encore migrer dans les semaines suivantes.
 
 ### Pour les bulles d'air : immédiatement
 
@@ -71,7 +71,7 @@ Plus vous attendez, plus la reprise est difficile. Au-delà de 60 jours, le seul
 
 ## Cas particulier : les bulles en hiver
 
-En hiver, la polymérisation ralentit. Des bulles d'eau peuvent persister 2 à 3 mois si le véhicule est garé dans un endroit froid. Ce n'est pas un problème — mais le client doit le savoir à la livraison pour ne pas s'inquiéter.
+En hiver, la polymérisation ralentit — la [température de pose](/ppf-temperature-pose-ideale) joue un rôle direct. Des bulles d'eau peuvent persister 2 à 3 mois si le véhicule est garé dans un endroit froid. Ce n'est pas un problème — mais le client doit le savoir à la livraison pour ne pas s'inquiéter.
 
 Un poseur consciencieux qui fait une pose en décembre le signale au client et recommande de passer sous une lampe IR ou de garer à l'intérieur autant que possible les premières semaines.
 

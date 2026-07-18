@@ -11,7 +11,7 @@ updated: "2026-06-13"
 
 ## Le kit débutant en covering : ce qu'il faut et ce qu'il ne faut pas
 
-Beaucoup de personnes se lancent dans le covering avec le premier kit "tout-en-un" bon marché qu'ils trouvent sur Amazon. En général, ce kit contient des outils moyens qui frustrent plus qu'ils n'aident, et il manque justement l'essentiel.
+Beaucoup de personnes se lancent dans le covering avec le premier kit "tout-en-un" bon marché qu'ils trouvent sur Amazon. En général, ce kit contient des outils moyens qui frustrent plus qu'ils n'aident, et il manque justement l'essentiel — une des [erreurs classiques de débutant](/erreurs-debutant-ppf-covering).
 
 Ce guide vous donne une sélection concrète d'outils pour démarrer proprement, dans un budget de 100 à 200 €. Pas de superflu, pas d'oubli critique.
 
@@ -53,7 +53,7 @@ Coût : 5 à 10 € pour une boîte de 100.
 
 ### L'alcool isopropylique (IPA) 70–99 %
 
-Le dégraissant de base pour préparer la carrosserie avant la pose. Sans IPA, votre film se décolle en quelques semaines.
+Le dégraissant de base pour [préparer la carrosserie avant la pose](/preparer-surface-avant-collage). Sans IPA, votre film se décolle en quelques semaines.
 
 Achetez-le en bidon de 1 L — c'est moins cher que les sprays "dégraissant carrosserie" et tout aussi efficace.
 
@@ -93,7 +93,7 @@ Coût : 5 à 15 € pour un lot de 10.
 | Microfibre x10 | 10 – 15 € |
 | **Total** | **70 – 120 €** |
 
-Avec les 80 à 130 € restants de votre budget 200 €, achetez un rouleau de film casting de qualité pour votre premier projet.
+Avec les 80 à 130 € restants de votre budget 200 €, achetez un rouleau de [film casting de qualité](/film-cast-vs-calandre-difference) pour votre premier projet.
 
 ## Produit recommandé
 

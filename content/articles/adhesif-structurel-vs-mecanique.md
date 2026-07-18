@@ -8,7 +8,7 @@ updated: "2026-06-13"
 
 ## L'adhésif structurel : une révolution discrète dans l'assemblage industriel
 
-La colle ou l'adhésif structural est aujourd'hui utilisé partout où l'on pensait autrefois que seule une fixation mécanique (vis, boulons, rivets) pouvait convenir. Les constructeurs automobiles, aéronautiques et le secteur du bâtiment recourent massivement à ces produits depuis les années 1990.
+La colle ou l'adhésif structural est aujourd'hui utilisé partout où l'on pensait autrefois que seule une fixation mécanique (vis, boulons, rivets) pouvait convenir. Les constructeurs automobiles, aéronautiques et le secteur du bâtiment recourent massivement à ces produits depuis les années 1990 — j'en dresse le panorama dans mon [guide des adhésifs professionnels](/guide-adhesifs-professionnels).
 
 Pourtant, chez les professionnels et les particuliers du secteur automobile, la perception reste souvent : "coller, c'est moins solide que visser". Cette idée reçue mérite d'être nuancée.
 
@@ -30,7 +30,7 @@ Un adhésif structurel peut à la fois fixer et étancher. Un vis ne remplit pas
 
 ### Assembler des matériaux dissemblables
 
-Coller de l'aluminium sur de l'acier, du plastique sur de la fibre de carbone, ou du verre sur un châssis en acier — des assemblages impossibles ou très complexes par vissage.
+Coller de l'aluminium sur de l'acier, du plastique sur de la fibre de carbone, ou du verre sur un châssis en acier — des assemblages impossibles ou très complexes par vissage, et le terrain de jeu des [adhésifs bi-composants carrosserie](/adhesif-bi-composant-carrosserie).
 
 ## Ce que la fixation mécanique fait mieux que l'adhésif
 
@@ -69,7 +69,7 @@ Exemple : fixer une baguette de 500 g (poids ≈ 5 N) soumise à une force d'arr
 
 Surface = 50 N / 40 N/cm² = **1,25 cm²** de surface de collage
 
-Un ruban double face de 1,5 cm de large sur 10 cm de long (15 cm²) offre donc une marge de sécurité confortable.
+Un [ruban double face automobile](/ruban-double-face-automobile) de 1,5 cm de large sur 10 cm de long (15 cm²) offre donc une marge de sécurité confortable.
 
 ## Produit recommandé
 

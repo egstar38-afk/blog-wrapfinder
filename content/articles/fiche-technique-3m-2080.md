@@ -35,13 +35,13 @@ La gamme 2080 couvre l'ensemble des finitions attendues sur le marché du coveri
 - **Gloss** (brillant) : noir, blanc, rouge, bleu, argent, jaune — les plus demandées
 - **Satin** : noir, blanc, gris, argent, rouge
 - **Mat** (Matte) : noir, blanc, gris, vert kaki
-- **Brossé** (Brushed) : aluminium brossé argent et gris
+- **Brossé** (Brushed) : aluminium brossé argent et gris, avec un [sens de brossage à respecter à la pose](/covering-texture-brosse)
 
 ### Finitions spéciales
 - **Gloss Flip** : effet color-shift selon l'angle (série GP)
 - **Satin Chrome** : effet chromé satiné
 - **Carbone** : texture fibre de carbone (série CFS)
-- **Sparkle** : paillettes fines dans la masse
+- **Sparkle** : [paillettes fines](/covering-paillette-holographique) dans la masse
 
 Le catalogue complet comprend aujourd'hui plus de 100 références — consultez le configurateur 3M Graphics pour la disponibilité exacte.
 
@@ -49,7 +49,7 @@ Le catalogue complet comprend aujourd'hui plus de 100 références — consultez
 
 Le système Air Release de 3M crée des micro-canaux dans la couche adhésive qui permettent à l'air emprisonné pendant la pose de migrer vers les bords. Résultat : moins de bulles d'air difficiles à éliminer, pose plus rapide et plus propre.
 
-Ce système est particulièrement apprécié sur les grandes surfaces (toit, capot) où contrôler les bulles manuellement est plus difficile.
+Ce système est particulièrement apprécié sur les grandes surfaces (toit, capot) où contrôler les bulles manuellement est plus difficile — le [covering de toit](/covering-toit-voiture) en est l'exemple type.
 
 ## Conformabilité et pose
 

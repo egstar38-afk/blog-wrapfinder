@@ -8,7 +8,7 @@ updated: "2026-06-13"
 
 ## La règle numéro un du collage : la préparation de surface
 
-Vous pouvez acheter l'adhésif le plus cher du marché — si la surface n'est pas propre, votre collage tient quelques semaines et lâche. 80 % des collages qui échouent trop tôt le font à cause d'une préparation de surface insuffisante.
+Vous pouvez acheter l'adhésif le plus cher du marché — si la surface n'est pas propre, votre collage tient quelques semaines et lâche. 80 % des collages qui échouent trop tôt le font à cause d'une [préparation de surface](/preparer-surface-avant-collage) insuffisante.
 
 Le nettoyage de surface avant collage n'est pas une étape optionnelle. C'est l'étape.
 
@@ -39,7 +39,7 @@ Solvant plus fort que l'IPA. Élimine les corps gras tenaces, les résidus de si
 
 ### Acétone
 
-Solvant très fort. Élimine pratiquement tout — colle, silicone, résines, cires.
+Solvant très fort. Élimine pratiquement tout — [résidus de colle](/retirer-residus-adhesif), silicone, résines, cires.
 
 **Danger plastiques** : l'acétone dissout l'ABS, le polystyrène, le PMMA, le PVC. Ne l'utilisez jamais sur ces substrats.
 
@@ -79,7 +79,7 @@ Si vous avez plusieurs étapes de nettoyage :
 2. IPA ensuite pour le dégraissage final
 3. Laissez sécher
 
-Ne commencez pas par l'IPA sur une surface très contaminée — il n'est pas assez fort pour les cires et les silicones épais.
+Ne commencez pas par l'IPA sur une surface très contaminée — il n'est pas assez fort pour les cires et les silicones épais. En cas de doute, un [test de mouillage rapide](/test-adhesion-avant-pose) vous dira si le dégraissage est suffisant.
 
 ## Produit recommandé
 

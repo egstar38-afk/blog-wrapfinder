@@ -30,7 +30,7 @@ Un jet perpendiculaire à la surface frappe le film, le force légèrement contr
 
 ### Le jet en biseau (< 45°) : dangereux pour les bords
 
-Un jet en biseau rasant crée une aspiration sous le bord du film. L'eau s'introduit sous le film et l'adhésif est sollicité en traction. Sur un bord déjà légèrement soulevé, quelques passages au Karcher en biseau suffisent à créer un décollement significatif.
+Un jet en biseau rasant crée une aspiration sous le bord du film. L'eau s'introduit sous le film et l'adhésif est sollicité en traction — les bords sont d'ailleurs les mêmes [points faibles du covering face à l'eau](/covering-tient-sous-la-pluie) qu'en conditions de pluie prolongée. Sur un bord déjà légèrement soulevé, quelques passages au Karcher en biseau suffisent à créer un décollement significatif.
 
 **Règle** : ne jamais diriger le jet vers un bord du film, ni en biseau horizontal. Travaillez toujours de façon perpendiculaire ou légèrement en angle depuis le centre du panneau vers l'extérieur.
 
@@ -72,11 +72,11 @@ La fréquence ne pose pas de problème en elle-même — c'est la technique qui 
 - Les zones de courbure forte
 - Les détails (rétroviseurs, poignées, bords de portières)
 
-Un lavage mixte — Karcher pour les grandes surfaces plates, lavage à la main pour les détails et les bords — est la meilleure approche.
+Un lavage mixte — Karcher pour les grandes surfaces plates, lavage à la main pour les détails et les bords — est la meilleure approche pour [entretenir une voiture couverte](/entretien-voiture-protegee-ppf-covering) sur la durée.
 
 ## Le délai après la pose
 
-Ne lavez pas au Karcher dans les 7 premiers jours après la pose. L'adhésif est en polymérisation et la pression du jet peut déplacer les bords avant qu'ils soient définitivement fixés.
+Ne lavez pas au Karcher dans les 7 premiers jours après la pose. L'adhésif est en polymérisation et la pression du jet peut déplacer les bords avant qu'ils soient définitivement fixés — ou repousser l'eau de pose vers le centre et aggraver les [bulles après la pose](/covering-bulle-apres-pose).
 
 Lavage doux à la main : autorisé dès 3 jours. Karcher : à partir de 7 jours.
 

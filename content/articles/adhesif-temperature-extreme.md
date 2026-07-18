@@ -22,7 +22,7 @@ En dessous de -20 °C, les adhésifs acryliques (VHB standard, adhésif de films
 
 ### Les adhésifs résistants au grand froid
 
-**Butyl** : reste plastique jusqu'à -50 °C. C'est son point fort — il est largement utilisé en construction pour les joints de façades qui doivent résister aux hivers nordiques.
+**Butyl** : reste plastique jusqu'à -50 °C. C'est son point fort — il est largement utilisé en construction pour les joints de façades qui doivent résister aux hivers nordiques (voir aussi ce qui tient vraiment en [extérieur face aux UV, au gel et à l'humidité](/adhesif-exterieur-intemperies)).
 
 **Silicone élastique** : plage de température de -60 °C à +200 °C selon les formulations. Reste flexible dans le grand froid.
 
@@ -48,7 +48,7 @@ La chaleur ramollit progressivement les adhésifs thermoplastiques. À partir d'
 
 ### Silicone HT
 
-Les silicones haute température (rouge ou gris) résistent jusqu'à 300–350 °C en continu, et 400 °C en pic. Utilisés pour les joints de collecteur d'échappement, les joints de turbo, les joints de collecteur d'admission chaud.
+Les silicones haute température (rouge ou gris) résistent jusqu'à 300–350 °C en continu, et 400 °C en pic. Utilisés pour les joints de collecteur d'échappement, les joints de turbo, les joints de collecteur d'admission chaud — je détaille les familles de silicone dans mon article sur le [silicone auto](/adhesif-silicone-auto-usages).
 
 Le silicone HT reste élastique à haute température — c'est son avantage principal par rapport à l'époxy HT qui devient cassant.
 
@@ -70,7 +70,7 @@ Ces ciments ne sont pas des adhésifs au sens strict — ils créent une liaison
 
 ## Le cas spécifique des jantes et freins
 
-Comme vu dans l'article sur les adhésifs double face pour jantes : la chaleur des freins est la contrainte principale. Le VHB série 5900 (150 °C) est la limite haute pour les fixations d'enjoliveurs. Pour les zones plus proches des disques sur les voitures à haute performance, le silicone HT élastique est préférable.
+Comme vu dans l'article sur les [adhésifs double face pour jantes](/adhesif-double-face-jantes) : la chaleur des freins est la contrainte principale. Le VHB série 5900 (150 °C) est la limite haute pour les fixations d'enjoliveurs. Pour les zones plus proches des disques sur les voitures à haute performance, le silicone HT élastique est préférable.
 
 ## Tableau récapitulatif
 

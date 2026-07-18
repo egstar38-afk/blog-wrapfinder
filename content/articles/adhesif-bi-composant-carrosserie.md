@@ -18,13 +18,13 @@ En atelier de carrosserie indépendant, ces produits sont de plus en plus utilis
 
 L'époxy (résine époxyde + durcisseur amine) est le bi-composant le plus connu et le plus polyvalent.
 
-**Résistance** : excellente en traction, en cisaillement et en compression. Résistance chimique élevée.
+**Résistance** : excellente en traction, en cisaillement et en compression — des notions que j'explique dans mon guide pour [lire une fiche technique d'adhésif](/resistance-adhesif-professionnel). Résistance chimique élevée.
 
 **Temps de polymérisation** : variable selon le produit — de 5 minutes (époxy rapide) à 24 heures (époxy lent haute résistance). L'époxy lent est toujours plus résistant que l'époxy rapide.
 
-**Comportement à la chaleur** : l'époxy standard perd sa résistance au-delà de 80–100 °C. Pour les zones chaudes (sous capot), utilisez des époxies HT.
+**Comportement à la chaleur** : l'époxy standard perd sa résistance au-delà de 80–100 °C. Pour les zones chaudes (sous capot), utilisez des époxies HT — j'y consacre un guide complet des [adhésifs haute température](/adhesif-haute-temperature).
 
-**Sur carrosserie** : acier, aluminium, fibre de verre, fibre de carbone, ABS, PC. Pas adapté au PP.
+**Sur carrosserie** : acier, aluminium, fibre de verre, fibre de carbone, ABS, PC — voir mon guide de la [colle plastique carrosserie](/colle-plastique-carrosserie) pour le détail par matériau. Pas adapté au PP.
 
 **Ratios courants** : 1:1 ou 2:1 (résine:durcisseur)
 
@@ -34,7 +34,7 @@ Les adhésifs méthacrylate (acrylate structurel) sont moins connus mais offrent
 
 **Avantage principal** : ils collent sur de nombreux plastiques sans primer (y compris certains PP). Le méthacrylate "mord" chimiquement la surface des plastiques de façon plus agressive que l'époxy.
 
-**Résistance** : comparable à l'époxy, avec une meilleure résistance aux chocs et aux vibrations (moins cassant). Utilisé en industrie aérospatiale pour les assemblages structurels.
+**Résistance** : comparable à l'époxy, avec une meilleure [résistance aux chocs et aux vibrations](/adhesif-flexible-vibrations) (moins cassant). Utilisé en industrie aérospatiale pour les assemblages structurels.
 
 **Temps de polymérisation** : 2 à 30 minutes selon les formulations.
 

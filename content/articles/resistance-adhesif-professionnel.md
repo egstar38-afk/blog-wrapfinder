@@ -27,13 +27,13 @@ Aussi notée **peel adhesion**, elle mesure la force nécessaire pour décoller 
 
 Elle mesure la force résistante lorsque la contrainte est appliquée parallèlement à la surface de collage, comme si vous tentiez de faire glisser les deux surfaces l'une contre l'autre. Exprimée en **N/cm²** ou en **heures sous charge** pour les tests dynamiques.
 
-Cette valeur est cruciale pour les fixations soumises à des vibrations (pièces mécaniques, carrosserie roulante).
+Cette valeur est cruciale pour les [fixations soumises à des vibrations](/adhesif-flexible-vibrations) (pièces mécaniques, carrosserie roulante).
 
 ### 3. La résistance thermique
 
 Notée sur les fiches techniques sous forme d'une plage de températures de service (par exemple : **-40 °C à +120 °C**). Au-delà de la température maximale, l'adhésif peut ramollir, ce qui entraîne un glissement sous charge.
 
-Les adhésifs acryliques haute performance supportent généralement des températures plus élevées que les adhésifs à base de caoutchouc naturel.
+Les [adhésifs acryliques haute température](/adhesif-haute-temperature) supportent généralement des températures plus élevées que les adhésifs à base de caoutchouc naturel.
 
 ### 4. La résistance chimique
 
@@ -56,7 +56,7 @@ Ces deux notions sont souvent confondues :
 
 **Température d'application** : la plage de température dans laquelle la pose doit être effectuée pour que l'adhésif accroche correctement. Généralement **+10 °C à +40 °C**.
 
-**Température de service** : la plage dans laquelle l'assemblage peut être utilisé après polymérisation. Généralement plus large, parfois jusqu'à **-55 °C à +150 °C** pour les adhésifs haute performance.
+**Température de service** : la plage dans laquelle l'assemblage peut être utilisé après polymérisation. Généralement plus large, parfois jusqu'à **-55 °C à +150 °C** pour les [adhésifs prévus pour les températures extrêmes](/adhesif-temperature-extreme).
 
 Poser un adhésif par temps froid peut donner une adhérence initiale très insuffisante même si le produit est excellent en service normal.
 

@@ -16,7 +16,7 @@ Comprendre ce qu'elle couvre — et surtout ce qu'elle ne couvre pas — vous é
 
 ### Le jaunissement
 
-Presque toutes les garanties PPF premium couvrent le jaunissement du film dans les conditions normales d'utilisation. C'est le défaut le plus fréquemment couvert et le plus facilement vérifiable.
+Presque toutes les garanties PPF premium couvrent [le jaunissement du film](/pourquoi-ppf-jaunit-avec-le-temps) dans les conditions normales d'utilisation. C'est le défaut le plus fréquemment couvert et le plus facilement vérifiable.
 
 **Condition** : le jaunissement doit être uniforme et lié à une défaillance du film, pas à une contamination chimique externe.
 
@@ -30,7 +30,7 @@ Si le film se décolle spontanément (sans traumatisme mécanique, sans produit 
 
 Des bulles qui apparaissent plusieurs mois après la pose, sans cause externe identifiable : couvert. C'est un défaut d'adhésif ou de compatibilité avec la peinture.
 
-**Condition** : les bulles des premières semaines (eau de pose) sont normales et ne sont pas couvertes par la garantie — elles disparaissent.
+**Condition** : les [bulles des premières semaines](/ppf-bulle-apres-pose) (eau de pose) sont normales et ne sont pas couvertes par la garantie — elles disparaissent.
 
 ## Ce que la garantie ne couvre PAS
 
@@ -54,7 +54,7 @@ Une perte de brillance après 7 ans, des micro-grains dans le topcoat, une cicat
 
 ## Les conditions pour que la garantie soit valide
 
-1. **Film posé par un installateur certifié** par le fabricant
+1. **Film posé par un [installateur certifié](/ppf-installer-certifie-pourquoi)** par le fabricant
 2. **Bon de garantie émis** par l'installateur à la livraison (avec numéro de lot, date, surface couverte)
 3. **Entretien conforme** aux recommandations du fabricant (pas de produits incompatibles)
 4. **Déclaration dans les délais** — certaines garanties requièrent une déclaration dans les 30 jours suivant la découverte du défaut

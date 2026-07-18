@@ -10,7 +10,7 @@ updated: "2026-06-13"
 
 Un installateur PPF qui pose en hiver dans un atelier non chauffé, ou en été sur une carrosserie brûlée au soleil, va avoir des problèmes. La température influence directement la viscosité de la solution de pose, la plasticité du film, et la vitesse de polymérisation de l'adhésif.
 
-Comprendre ces effets permet d'anticiper les problèmes et d'adapter sa technique.
+Comprendre ces effets permet d'anticiper les problèmes et d'adapter sa technique — surtout si vous [posez votre PPF vous-même](/poser-ppf-soi-meme).
 
 ## La plage de température optimale
 
@@ -57,7 +57,7 @@ Un film PPF à 35 °C sur une carrosserie à 40 °C (exposée au soleil) dévelo
 
 ### La solution sèche en zone
 
-Quand la solution de pose sèche en zone (sous le film, au centre d'un grand panneau), elle laisse des zones sans solution qui créent des bulles permanentes.
+Quand la solution de pose sèche en zone (sous le film, au centre d'un grand panneau), elle laisse des zones sans solution qui créent des [bulles permanentes](/ppf-bulle-apres-pose).
 
 ### Solutions pour poser en été
 
@@ -75,7 +75,7 @@ Quand la solution de pose sèche en zone (sous le film, au centre d'un grand pan
 
 La carrosserie noire se distingue particulièrement : au soleil d'été, un panneau noir peut atteindre 80–90 °C. Même dans un atelier à 22 °C, un panneau noir qui vient d'entrer peut rester à 40–50 °C pendant 30 minutes.
 
-Vérifiez la température avec un thermomètre infrarouge (pistolet de température) avant de commencer. Visez < 25 °C sur la carrosserie.
+Vérifiez la température avec un thermomètre infrarouge (pistolet de température), un des [outils indispensables du poseur](/outils-indispensables-poseur-ppf-covering), avant de commencer. Visez < 25 °C sur la carrosserie.
 
 ## Produit recommandé
 

@@ -10,13 +10,13 @@ updated: "2026-06-13"
 
 Un tableau de bord complet en covering, c'est probablement la pose la plus technique qu'un poseur généraliste puisse rencontrer. Pas parce que les surfaces sont grandes, mais parce qu'un tableau de bord moderne combine 5 à 8 matériaux différents, des formes impossibles à prévoir, des coutures d'origine à respecter, et des zones qui ne supportent pas certains adhésifs.
 
-Si vous commencez en covering et que quelqu'un vous demande de faire un tableau de bord complet, soyez honnête sur votre niveau d'expérience. C'est une pose qui se refuse ou qui se chiffre en conséquence.
+Si vous commencez en covering et que quelqu'un vous demande de faire un tableau de bord complet, commencez par comprendre [ce qui tient vraiment sur un tableau de bord](/covering-tableau-de-bord) et soyez honnête sur votre niveau d'expérience. C'est une pose qui se refuse ou qui [se chiffre en conséquence](/covering-devis-client-pro).
 
 ## L'inventaire des zones d'un tableau de bord
 
 Avant de toucher le film, faites l'inventaire complet des zones à couvrir :
 
-**Zones plastique dur (ABS, PC+ABS)** : les bords, les traversées, les cadres. Ces zones reçoivent le film directement avec préparation IPA.
+**Zones plastique dur (ABS, PC+ABS)** : les bords, les traversées, les cadres. Ces zones reçoivent le film directement avec une [préparation IPA](/nettoyant-surface-avant-collage).
 
 **Zones plastique souple (TPE, PP souple)** : les lèvres d'aérations, les capots de rangements. Attention aux déformations à la chaleur.
 

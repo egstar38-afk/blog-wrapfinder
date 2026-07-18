@@ -21,7 +21,7 @@ Regarder quelqu'un poser du vinyle parfaitement, c'est trompeur. Vous pensez que
 
 ### Formations constructeur (3M, Avery Dennison, Llumar)
 
-Les grands fabricants proposent des formations certifiantes pour devenir revendeur ou installateur agréé. Ces formations durent 2 à 5 jours, coûtent 1 500 à 4 000 €, et permettent d'accéder aux tarifs distributeurs et aux certifications officielles.
+Les grands fabricants proposent des [formations certifiantes](/certification-poseur-avery-3m-xpel) pour devenir revendeur ou installateur agréé. Ces formations durent 2 à 5 jours, coûtent 1 500 à 4 000 €, et permettent d'accéder aux tarifs distributeurs et aux certifications officielles.
 
 **Pour qui** : professionnels qui veulent devenir installateurs certifiés et accéder aux garanties fabricant.
 
@@ -51,7 +51,7 @@ La pose sur une surface simple (porte plate) s'apprend relativement vite en auto
 
 ### Le matériel approprié
 
-En formation, vous travaillez avec le bon matériel. Vous découvrez souvent que certains outils que vous aviez achetés sont inadaptés, et que des outils simples (la bonne raclette, la bonne lame) font une différence majeure.
+En formation, vous travaillez avec [le bon matériel](/outils-indispensables-poseur-ppf-covering). Vous découvrez souvent que certains outils que vous aviez achetés sont inadaptés, et que des outils simples (la bonne raclette, la bonne lame) font une différence majeure.
 
 ## Peut-on vraiment apprendre seul ?
 
@@ -59,13 +59,13 @@ Pour le covering sur des surfaces simples (toit, portières sans relief) : oui, 
 
 Pour le PPF sur des zones complexes : c'est beaucoup plus difficile. Le film pardonne moins les erreurs, les reprises sont plus coûteuses, et les techniques de rentrée de bords sont vraiment difficiles sans guidance.
 
-**Ma recommandation honnête** : si vous voulez faire quelques pièces pour votre propre voiture, l'autodidaxie est envisageable avec de la patience. Si vous voulez en faire un métier ou proposer des prestations à des clients, investissez dans une formation — vous récupérez l'investissement sur les premiers clients.
+**Ma recommandation honnête** : si vous voulez faire [quelques pièces pour votre propre voiture](/covering-fait-maison-debutant), l'autodidaxie est envisageable avec de la patience. Si vous voulez en faire un métier ou proposer des prestations à des clients, investissez dans une formation — vous récupérez l'investissement sur les premiers clients.
 
 ## Combien coûte une erreur de pose vs une formation
 
 Un raté de pose sur un panneau de berline coûte 30 à 80 € de film refait. Un raté de pose sur un capot de SUV : 80 à 150 €. Une formation de 2 jours : 600 à 1 200 €.
 
-Après 5 à 10 panneaux ratés, la formation aurait été moins chère. Et les panneaux ratés sans formation, ça n'arrive pas qu'une fois.
+Après 5 à 10 panneaux ratés, la formation aurait été moins chère. Et ces [erreurs de débutant](/erreurs-debutant-ppf-covering), sans formation, ça n'arrive pas qu'une fois.
 
 ## Produit recommandé
 

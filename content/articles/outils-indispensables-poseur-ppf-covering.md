@@ -11,7 +11,7 @@ updated: "2026-06-13"
 
 ## Ce qui fait vraiment la différence
 
-En covering et en PPF, les outils ne font pas tout — mais de mauvais outils peuvent ruiner une bonne pose. J'ai vu des poseurs expérimentés produire des résultats médiocres parce qu'ils travaillaient avec une mauvaise raclette. Et j'ai vu des débutants obtenir de bons résultats parce qu'ils avaient les bons outils.
+En covering et en PPF, les outils ne font pas tout — mais de mauvais outils peuvent ruiner une bonne pose. J'ai vu des poseurs expérimentés produire des résultats médiocres parce qu'ils travaillaient avec une mauvaise raclette. Et j'ai vu des débutants obtenir de bons résultats parce qu'ils avaient les [bons outils](/meilleur-kit-debutant-covering).
 
 Voici ce que j'utilise tous les jours, et pourquoi chaque outil est là.
 
@@ -40,7 +40,7 @@ Pour les zones étroites (montants de porte, découpes autour de phares), des mi
 La chaleur est nécessaire pour :
 - Assouplir le film pour les courbes
 - Activer la polymérisation de l'adhésif en fin de pose
-- Retirer un film ancien lors d'une reprise
+- [Retirer un film ancien](/covering-retrait-ancien-film) lors d'une reprise
 
 **Pistolet à air chaud** (80 – 600 °C) : le plus versatile. Réglez-le à 60–80 °C pour la pose et 150–200 °C pour le retrait. Un pistolet avec contrôle de température précis vaut vraiment l'investissement.
 
@@ -68,7 +68,7 @@ Pour le PPF et le covering repositionnable, le liquide d'application permet de p
 
 ## L'IPA (alcool isopropylique)
 
-Indispensable pour le dégraissage final avant la pose. Dilué à 70 % avec de l'eau déminéralisée, appliqué sur un chiffon microfibre propre, il élimine les dernières traces de corps gras sur la surface.
+Indispensable pour le [dégraissage final avant la pose](/nettoyant-surface-avant-collage). Dilué à 70 % avec de l'eau déminéralisée, appliqué sur un chiffon microfibre propre, il élimine les dernières traces de corps gras sur la surface.
 
 Disponible en pharmacie ou en grande surface pour produits ménagers. Prix : 3 à 8 € le litre.
 
@@ -84,7 +84,7 @@ Pour inspecter la surface avant la pose (détecter les contaminants, les micro-r
 
 ## Le thermomètre infrarouge
 
-Permet de vérifier la température de la surface carrosserie avant la pose. Moins de 15 °C : risque. Moins de 12 °C : ne posez pas.
+Permet de vérifier la [température de la surface carrosserie avant la pose](/ppf-temperature-pose-ideale). Moins de 15 °C : risque. Moins de 12 °C : ne posez pas.
 
 Disponible pour moins de 20 € et utile toute l'année, particulièrement en automne/hiver.
 

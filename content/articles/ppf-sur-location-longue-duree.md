@@ -18,13 +18,13 @@ Le PPF est-il une modification permanente ? Techniquement non — il est révers
 
 La majorité des grands loueurs (ALD Automotive, Arval, LeasePlan, Alphabet) acceptent le PPF transparent s'il est posé et retiré proprement. L'argument : le PPF protège le véhicule contre les gravillons et préserve la valeur résiduelle — ce qui est dans l'intérêt du loueur.
 
-**Condition** : retrait obligatoire avant restitution du véhicule, sans résidu d'adhésif et sans dommage à la peinture.
+**Condition** : retrait obligatoire avant restitution du véhicule, sans [résidu d'adhésif](/retirer-residus-adhesif) et sans dommage à la peinture.
 
 **Conseil** : demandez l'accord par écrit avant la pose. Un accord verbal ne suffit pas si vous avez un litige en fin de contrat.
 
 ### Ce que les loueurs refusent généralement
 
-- Le covering coloré (modification d'aspect irréversible dans leur esprit même si techniquement réversible)
+- Le [covering coloré sur véhicule de location](/covering-vehicule-de-location) (modification d'aspect irréversible dans leur esprit même si techniquement réversible)
 - Tout film qui n'est pas transparent
 - La pose sans leur accord préalable
 
@@ -49,7 +49,7 @@ Ne ratez pas le délai de restitution en oubliant le retrait du PPF. Planifiez l
 
 **Pourquoi 3 semaines** :
 - Prise de rendez-vous chez le poseur (pas toujours disponible immédiatement)
-- Retrait + nettoyage des résidus d'adhésif : 1 à 3 heures selon la surface
+- [Retrait du PPF sans abîmer la peinture](/enlever-ppf-sans-abimer) + nettoyage des résidus d'adhésif : 1 à 3 heures selon la surface
 - Vérification que la peinture est intacte
 - Si une zone présente un problème, vous avez le temps de la traiter
 
@@ -71,7 +71,7 @@ Si vous avez posé du PPF sans accord et que le loueur le découvre à la restit
 
 ## Les véhicules de société : règles différentes
 
-Pour les véhicules appartenant directement à l'entreprise (achat ou crédit-bail), la décision appartient à l'employeur. Dans ce cas, documentez avec votre employeur que vous prendrez en charge retrait et remise en état.
+Pour les véhicules appartenant directement à l'entreprise (achat ou crédit-bail), le [PPF sur voiture de société](/couvrir-voiture-societe-ppf) obéit à d'autres règles : la décision appartient à l'employeur. Dans ce cas, documentez avec votre employeur que vous prendrez en charge retrait et remise en état.
 
 Certaines entreprises voient le PPF d'un bon œil (préserve la valeur résiduelle du parc) et prennent même en charge le coût.
 

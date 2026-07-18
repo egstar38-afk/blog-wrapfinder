@@ -8,7 +8,7 @@ updated: "2026-06-13"
 
 ## Les bas de caisse : la zone la plus exposée du véhicule
 
-Par définition, les bas de caisse sont les parties les plus basses de la carrosserie. Ils reçoivent tout ce que la route envoie vers le haut : graviers, cailloux, sel de voirie en hiver, asphalte liquide derrière les camions, boue projetée par les roues, chocs de bordures de trottoir.
+Par définition, les bas de caisse sont les parties les plus basses de la carrosserie. Ils reçoivent tout ce que la route envoie vers le haut : graviers, cailloux, [sel de voirie en hiver](/ppf-neige-hiver-sel), asphalte liquide derrière les camions, boue projetée par les roues, chocs de bordures de trottoir.
 
 Aucune autre zone de la carrosserie n'est autant exposée aux agressions mécaniques. Et pourtant, c'est souvent la zone la moins bien protégée — soit ignorée complètement, soit couverte d'un film standard qui ne tient pas longtemps.
 
@@ -29,7 +29,7 @@ Sur les berlines sport basses, les crossovers et les 4×4 qui roulent parfois en
 
 ### La lame inférieure (souvent en plastique)
 
-La partie la plus basse est souvent en plastique noir (PP ou PP+EPDM). Vérifiez le marquage. Si PP : primer avant film. Le plastique de bas de caisse est particulièrement exposé et primer le résultat correctement est crucial pour que ça tienne.
+La partie la plus basse est souvent en plastique noir (PP ou PP+EPDM). Vérifiez le marquage. Si PP : [primer avant film](/primer-pp-mode-emploi-complet). Le plastique de bas de caisse est particulièrement exposé et primer le résultat correctement est crucial pour que ça tienne.
 
 ### La partie peinte (carrosserie couleur)
 
@@ -37,7 +37,7 @@ La section peinte du bas de caisse (entre le fond plastique et la portière) re�
 
 ### Le passage de roue avant et arrière
 
-Traitement similaire aux ailes (voir notre article sur les ailes arrière). Le passage de roue est la zone la plus exposée — film obligatoire si vous voulez une protection réelle.
+Traitement similaire aux ailes (voir notre [article sur les ailes arrière](/ppf-ailes-arriere)). Le passage de roue est la zone la plus exposée — film obligatoire si vous voulez une protection réelle.
 
 ## Durée de vie : soyons honnêtes
 

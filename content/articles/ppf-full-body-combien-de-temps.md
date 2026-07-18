@@ -25,7 +25,7 @@ Avant de poser le moindre centimètre de PPF, la carrosserie doit être dans un 
 
 Si la peinture a des swirls ou des rayures légères : une correction de peinture (machine polishing) s'ajoute — une demi-journée à une journée supplémentaire selon l'état.
 
-Tout défaut non corrigé avant la pose sera emprisonné sous le film de façon permanente.
+Tout défaut non corrigé avant la pose sera emprisonné sous le film de façon permanente — d'où l'intérêt de [photographier la peinture avant la pose](/photographier-defauts-peinture-avant-ppf).
 
 ### Étape 2 : Préparation des pièces et découpe (variable)
 
@@ -69,11 +69,11 @@ Pendant la polymérisation, le véhicule reste à l'atelier ou dans un environne
 
 ## Ce qui ralentit une pose
 
-**Véhicule de sport avec nombreuses courbes** : les panneaux non-développables (surfaces à double courbure) demandent plus de temps, d'étirage du film et de chaleur.
+**[Véhicule de sport](/ppf-voiture-sport) avec nombreuses courbes** : les panneaux non-développables (surfaces à double courbure) demandent plus de temps, d'étirage du film et de chaleur.
 
 **Mauvais état de la peinture** : correction ajoutée.
 
-**Dépose d'un ancien film** : si le véhicule avait déjà un PPF ou un covering, la dépose prend 4 à 8 heures supplémentaires.
+**Dépose d'un ancien film** : si le véhicule avait déjà un PPF ou un covering, la [dépose de l'ancien film](/covering-retrait-ancien-film) prend 4 à 8 heures supplémentaires.
 
 **Film non prédécoupé** : la coupe à la main sur chaque panneau ajoute 30 à 60 % de temps.
 
@@ -87,7 +87,7 @@ Pendant la polymérisation, le véhicule reste à l'atelier ou dans un environne
 
 **Premier lavage** : attendez 5 à 7 jours. Et faites-le à la main avec un produit doux.
 
-**Document de livraison** : demandez un document listant toutes les zones couvertes, le film posé (marque, référence), et votre certificat de garantie.
+**Document de livraison** : demandez un document listant toutes les zones couvertes, le film posé (marque, référence), et votre [certificat de garantie](/ppf-avec-garantie-vs-sans).
 
 ## Produit recommandé
 

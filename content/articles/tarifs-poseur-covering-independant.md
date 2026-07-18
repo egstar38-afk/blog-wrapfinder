@@ -11,7 +11,7 @@ updated: "2026-06-13"
 
 ## La question des tarifs : trop cher ou pas assez ?
 
-Fixer ses tarifs en covering est plus complexe qu'il n'y paraît. Trop bas, vous travaillez à perte ou vous attriguez les clients qui recherchent uniquement le prix, ceux qui seront les plus exigeants. Trop haut sans justification, vous perdez des opportunités.
+Fixer ses tarifs en covering est plus complexe qu'il n'y paraît. Trop bas, vous travaillez à perte ou vous attriguez les clients qui recherchent uniquement le prix, ceux qui deviennent souvent les [clients les plus difficiles](/clients-difficiles-covering). Trop haut sans justification, vous perdez des opportunités.
 
 Voici comment construire une grille tarifaire cohérente.
 
@@ -21,7 +21,7 @@ Avant de parler de tarif client, calculez ce que vous coûte vraiment une presta
 
 ### Le coût matière
 
-Pour un capot covering (voiture standard, film Oracal 970RA noir mat) :
+Pour un capot covering (voiture standard, film [Oracal 970RA](/fiche-technique-oracal-970) noir mat) :
 
 - Film : 1,5 m² environ × 2 (facteur de coupe pour les pertes) = 3 m linéaire × 25 €/m = 75 €
 - Solution de pose + IPA : 2 €
@@ -65,7 +65,7 @@ La différence doit être réelle et explicable en 30 secondes.
 
 ### Le positionnement premium
 
-Si vous visez les véhicules de prestige et les clients exigeants, votre tarif doit refléter ce positionnement. Un client qui possède une Ferrari n'hésitera pas à payer 800 € pour un capot PPF si il comprend que vous êtes le meilleur poseur de la région.
+Si vous visez les véhicules de prestige et les clients exigeants, votre tarif doit refléter ce positionnement. Un client qui possède une Ferrari n'hésitera pas à payer 800 € pour un [capot PPF](/protection-capot-seul-ppf-covering) si il comprend que vous êtes le meilleur poseur de la région.
 
 ## Les tarifs du marché français 2026
 
@@ -79,7 +79,7 @@ Si vous visez les véhicules de prestige et les clients exigeants, votre tarif d
 
 ## Défendre son prix face au client
 
-La technique la plus efficace : décomposer le devis en détail. Film (référence, prix), temps de pose (heures), matériel consommable, garantie incluse.
+La technique la plus efficace : [décomposer le devis en détail](/covering-devis-client-pro). Film (référence, prix), temps de pose (heures), matériel consommable, garantie incluse.
 
 Un client qui comprend ce qu'il paie accepte plus facilement un tarif élevé qu'un client à qui on dit juste "c'est 350 €".
 

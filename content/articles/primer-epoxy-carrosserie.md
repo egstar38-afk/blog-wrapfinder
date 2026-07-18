@@ -56,15 +56,15 @@ Si vous dépassez le délai maximum : poncez légèrement avec un P400 pour cré
 
 ### PPF et vinyle sur primer époxy
 
-Le primer époxy polymérisé est compatible avec les adhésifs du PPF et du vinyle. En pratique, le PPF est posé sur la peinture de finition (pas directement sur l'époxy) — mais dans les réparations carrosserie où la peinture est refaite, s'assurer que l'époxy est bien inclus dans la structure.
+Le primer époxy polymérisé est compatible avec les adhésifs du PPF et du vinyle. En pratique, le PPF est posé sur la peinture de finition (pas directement sur l'époxy) — mais dans les [réparations carrosserie après accident](/ppf-apres-accident-carrosserie) où la peinture est refaite, s'assurer que l'époxy est bien inclus dans la structure.
 
 ### Adhésifs VHB et silicone sur époxy
 
-L'époxy polymérisé accepte les adhésifs VHB et silicone après dégraissage IPA. Résistance d'adhérence correcte à bonne.
+L'époxy polymérisé accepte les adhésifs VHB et [silicone](/adhesif-silicone-auto-usages) après dégraissage IPA. Résistance d'adhérence correcte à bonne.
 
 ### Frein filet et CA sur époxy
 
-Pas de problème — l'époxy est chimiquement inerte une fois polymérisé.
+Pas de problème — le [frein filet anaérobie](/adhesif-anaerobie-vis-boulons) comme le [cyanoacrylate](/adhesif-cyanoacrylate-auto) accrochent sans souci, l'époxy étant chimiquement inerte une fois polymérisé.
 
 ## La préparation du métal avant primer
 

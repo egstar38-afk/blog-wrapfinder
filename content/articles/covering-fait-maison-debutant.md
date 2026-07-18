@@ -31,7 +31,7 @@ Je ne vais pas vous mentir : le covering DIY sur une carrosserie complète, c'es
 
 ### Ce dont vous n'avez pas besoin pour commencer
 
-Oubliez le pistolet à infrarouge (500 €+), la table lumineuse, la station de découpe. Ce sont des outils professionnels pour des volumes importants. Sur une ou deux pièces, le matériel basique suffit.
+Oubliez le pistolet à infrarouge (500 €+), la table lumineuse, la station de découpe. Ce sont des outils professionnels pour des volumes importants. Sur une ou deux pièces, un [kit de débutant à moins de 200 €](/meilleur-kit-debutant-covering) suffit.
 
 ## Les zones idéales pour votre premier essai
 
@@ -43,13 +43,13 @@ Gabarit nécessaire : 20×30 cm de film environ. Si vous ratez, vous avez perdu 
 
 ### Les piliers A, B, C (les montants noirs)
 
-Les montants de vitres sont souvent en plastique noir mat qui vieillit et grisonne. Les couvrir d'un film vinyle noir mat est très populaire et techniquement accessible : surfaces planes ou légèrement courbes, pas de formes complexes.
+Les montants de vitres sont souvent en plastique noir mat qui vieillit et grisonne. Les couvrir d'un film vinyle noir mat est très populaire et techniquement accessible — je détaille la méthode dans mon guide du [covering des piliers A/B/C](/covering-piliers-montants) : surfaces planes ou légèrement courbes, pas de formes complexes.
 
 La difficulté principale : les angles aux extrémités. Travaillez lentement avec le pistolet à air chaud pour rentrer les bords proprement.
 
 ### Le toit deux tons
 
-Le toit noir (ou d'une autre couleur que la carrosserie) est une tendance forte. Sur un toit plat ou légèrement bombé, la pose est accessible pour un débutant. Sur un toit avec des courbes prononcées ou une antenne centrale, ça complique.
+Le toit noir (ou d'une autre couleur que la carrosserie) est une tendance forte du [covering bicolore](/covering-deux-tons-bicolor). Sur un toit plat ou légèrement bombé, la pose est accessible pour un débutant. Sur un toit avec des courbes prononcées ou une antenne centrale, ça complique.
 
 Commencez par un toit sur une voiture haute — les SUV ont souvent des toits assez plats et réguliers. Évitez en premier essai les toits coupé-sport avec des courbes dans les deux dimensions.
 
@@ -93,7 +93,7 @@ Les débords sont repliés derrière l'arête et collés. Chauffez, étirez, col
 
 Votre premier essai aura probablement une ou deux bulles persistantes. Ou un bord qui ne rentre pas parfaitement. Ou une petite déchirure sur une zone difficile. C'est normal. Le covering est un métier — les pros mettent 6 mois à un an avant d'être vraiment à l'aise sur un full wrap.
 
-Ce qui compte, c'est de comprendre pourquoi ça n'a pas marché : trop chaud, pas assez chaud, film trop tiré, bord pas assez rentré. Chaque erreur apprend quelque chose.
+Ce qui compte, c'est de comprendre pourquoi ça n'a pas marché : trop chaud, pas assez chaud, film trop tiré, bord pas assez rentré. Chaque erreur apprend quelque chose — j'ai d'ailleurs compilé les [10 erreurs de débutant en PPF et covering](/erreurs-debutant-ppf-covering) les plus courantes.
 
 ## Produit recommandé
 

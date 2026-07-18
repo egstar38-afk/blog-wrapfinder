@@ -54,7 +54,7 @@ C'est rare que le pare-brise tombe complètement pendant ces premières heures �
 
 ## Le primer : indispensable sur certains substrats
 
-Sur les nouveaux véhicules (vitrages avec encapsulage, cadre en plastique composite) et sur les zones où l'ancien adhésif a été entièrement retiré jusqu'au métal brut, un primer (activateur de surface) est nécessaire avant le polyuréthane.
+Sur les nouveaux véhicules (vitrages avec encapsulage, cadre en plastique composite) et sur les zones où l'ancien adhésif a été entièrement retiré jusqu'au métal brut, un [primer (activateur de surface)](/quand-utiliser-primer-adhesif) est nécessaire avant le polyuréthane.
 
 Les primers pour vitrages auto sont spécifiques aux substrats : un primer pour métal/verre et un primer pour polychloroprène (encapsulage plastique) ne sont pas les mêmes produits.
 
@@ -63,7 +63,7 @@ Sur un remplacement standard chez un vitrier ou une carrosserie, le primer est i
 ## La procédure correcte en résumé
 
 1. **Retirer l'ancien pare-brise** — chaleur + fil de coupe, sans abîmer le cadre
-2. **Éliminer les résidus d'ancien adhésif** — laisser 1 à 3 mm d'adhésif ancien (il sert de base), nettoyer la surface supérieure à l'IPA
+2. **Éliminer les résidus d'ancien adhésif** — laisser 1 à 3 mm d'adhésif ancien (il sert de base), [nettoyer la surface supérieure à l'IPA](/nettoyant-surface-avant-collage)
 3. **Appliquer le primer** sur les zones appropriées, laisser sécher 5 à 10 minutes
 4. **Appliquer le polyuréthane** en cordon continu, sans interruption, épaisseur 8 à 12 mm
 5. **Poser le pare-brise** en positionnement, pression ferme
@@ -73,7 +73,7 @@ Sur un remplacement standard chez un vitrier ou une carrosserie, le primer est i
 
 Les vitres latérales et arrière collées utilisent les mêmes adhésifs PU monocomposants. Le SDAT est identique, mais les enjeux structurels sont moins critiques (ces vitres participent moins à la rigidité en tonneau).
 
-Pour les vitrages simplement posés sur joint caoutchouc (certains anciens véhicules, certains utilitaires) : l'étanchéité se fait avec un mastic MS Polymère ou un cordeau de joint butyle, qui est un matériau d'étanchéité et non un adhésif structurel.
+Pour les vitrages simplement posés sur joint caoutchouc (certains anciens véhicules, certains utilitaires) : l'étanchéité se fait avec un mastic MS Polymère ou un cordeau de [joint butyle](/adhesif-moulure-pare-brise), qui est un matériau d'étanchéité et non un adhésif structurel.
 
 ## Produit recommandé
 

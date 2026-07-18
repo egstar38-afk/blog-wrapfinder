@@ -11,7 +11,7 @@ updated: "2026-06-13"
 
 ## Les outils numériques d'un atelier covering : indispensables ou superflu ?
 
-Au démarrage, un atelier covering peut fonctionner avec un carnet et un tableur. Mais rapidement, la gestion des devis, des rendez-vous, des commandes de matière et des factures prend du temps — du temps qui pourrait aller à la pose.
+Au démarrage, un atelier covering peut fonctionner avec un carnet et un tableur. Mais rapidement, la [gestion des devis](/covering-devis-client-pro), des rendez-vous, des commandes de matière et des factures prend du temps — du temps qui pourrait aller à la pose.
 
 Un bon outillage numérique ne remplace pas le savoir-faire technique, mais il libère du temps et donne une image plus professionnelle aux clients.
 
@@ -23,7 +23,7 @@ C'est la catégorie la plus spécifique au métier. Ces logiciels contiennent le
 
 Utilisé principalement pour les films PPF, DAP est le logiciel de gabarits le plus répandu mondialement. Il contient des gabarits pour la plupart des véhicules du marché.
 
-Accès via abonnement chez les distributeurs de PPF certifiés. Non disponible en achat direct pour les non-certifiés.
+Accès via abonnement chez les [distributeurs de PPF](/fournisseurs-ppf-france-2024) certifiés. Non disponible en achat direct pour les non-certifiés.
 
 ### Papilio
 
@@ -55,7 +55,7 @@ Coût : 30 à 150 €/mois selon les fonctionnalités.
 
 ## Le planning des rendez-vous
 
-Un atelier covering qui pose en 1 à 5 jours par véhicule a besoin d'un planning clair pour ne pas accepter plus que ce qu'il peut livrer.
+Un atelier covering qui pose en [1 à 5 jours par véhicule](/ppf-full-body-combien-de-temps) a besoin d'un planning clair pour ne pas accepter plus que ce qu'il peut livrer.
 
 ### Google Calendar (gratuit)
 

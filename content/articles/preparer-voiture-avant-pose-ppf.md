@@ -9,7 +9,7 @@ updated: "2026-06-13"
 ![Préparation d'une Ford Mustang avant la pose du film de protection](/images/articles/preparer-voiture-avant-pose-ppf.webp)
 ## Ce que le poseur fait avant la pose — et ce que vous pouvez éviter de payer
 
-La décontamination avant pose PPF représente 30 à 50 % du temps de travail total. Si vous arrivez avec un véhicule parfaitement propre et sans défaut de peinture à corriger, vous pouvez réduire le temps d'atelier et parfois le coût.
+La décontamination avant pose PPF représente 30 à 50 % du temps de travail total chez un [bon poseur](/choisir-bon-poseur-ppf-france). Si vous arrivez avec un véhicule parfaitement propre et sans défaut de peinture à corriger, vous pouvez réduire le temps d'atelier et parfois le coût.
 
 À l'inverse, un véhicule couvert de résidus de produit de protection (céramique, cire, polypropylène) peut multiplier le temps de préparation et le coût.
 
@@ -38,11 +38,11 @@ Informez-en le poseur. Certains produits doivent dégazer ou être retirés avan
 
 ### 3. Signaler les zones avec retouche peinture
 
-Si votre véhicule a une ou plusieurs retouches de peinture récentes (moins de 90 jours), prévenez le poseur. Le PPF sur peinture fraîche pose des problèmes d'adhérence et de garantie.
+Si votre véhicule a une ou plusieurs retouches de peinture récentes (moins de 90 jours), par exemple après un [passage en carrosserie suite à un accident](/ppf-apres-accident-carrosserie), prévenez le poseur. Le PPF sur peinture fraîche pose des problèmes d'adhérence et de garantie.
 
 ### 4. Photographier les défauts existants
 
-Avant de déposer le véhicule, photographiez tous les défauts de peinture existants : éclats de peinture, rayures profondes, impacts. Cela évite les malentendus post-pose sur l'origine d'un défaut.
+Avant de déposer le véhicule, [photographiez tous les défauts de peinture existants](/photographier-defauts-peinture-avant-ppf) : éclats de peinture, rayures profondes, impacts. Cela évite les malentendus post-pose sur l'origine d'un défaut.
 
 ## Ce que vous ne pouvez pas (et ne devez pas) faire vous-même
 
@@ -58,7 +58,7 @@ Même si vous lavez très soigneusement, la décontamination ferreuse (iron remo
 
 ### Le dégraissage final IPA
 
-Étape obligatoire juste avant la pose : passage IPA sur toute la surface pour éliminer les dernières traces de silicone, cire et graisses. C'est une opération qui doit être faite immédiatement avant la pose — pas à la maison.
+Étape obligatoire juste avant la pose : passage IPA sur toute la surface, comme pour tout [nettoyage de surface avant collage](/nettoyant-surface-avant-collage), pour éliminer les dernières traces de silicone, cire et graisses. C'est une opération qui doit être faite immédiatement avant la pose — pas à la maison.
 
 ## La checklist de ce qui accélère la pose
 

@@ -22,7 +22,7 @@ Avant de sortir n'importe quel produit, identifiez la nature de la tache — la 
 
 ### Étape 1 — Eau chaude + shampoing pH neutre
 
-La base. Avant tout produit "avancé", essayez avec de l'eau chaude (pas bouillante — 45-50 °C max) et un shampoing auto pH neutre bien moussant. Laissez le shampoing agir 3-5 minutes, frottez doucement avec microfibre.
+La base. Avant tout produit "avancé", essayez avec de l'eau chaude (pas bouillante — 45-50 °C max) et un [shampoing auto pH neutre](/entretien-covering-quotidien) bien moussant. Laissez le shampoing agir 3-5 minutes, frottez doucement avec microfibre.
 
 Si la tache part : parfait. Si elle résiste partiellement : passez à l'étape 2.
 
@@ -32,7 +32,7 @@ L'IPA est compatible avec la grande majorité des films vinyle à cette concentr
 
 Application : microfibre propre + IPA dilué 30 %, mouvement circulaire léger, pas de frottage appuyé. Rincez à l'eau.
 
-**Attention** : l'IPA concentré (70 % et plus) peut attaquer le topcoat de certains films mats et satins. Respectez la dilution.
+**Attention** : l'IPA concentré (70 % et plus) peut attaquer le topcoat de certains [films mats](/covering-couleur-mate-entretien) et satins. Respectez la dilution.
 
 ### Étape 3 — Naphte VM&P (white spirit purifié)
 
@@ -60,7 +60,7 @@ Certaines crèmes solaires contiennent des filtres UV chimiques qui réagissent 
 
 ### Grillage de fiente d'oiseau
 
-Les fientes d'oiseaux sont très acides. Sur un film mat ou satin, elles peuvent laisser une zone légèrement plus brillante (la surface mat a été modifiée chimiquement). Souvent irréparable sur les films mats — nécessite le remplacement du panneau.
+Les fientes d'oiseaux sont très acides. Sur un film mat ou satin, elles peuvent laisser une zone légèrement plus brillante (la surface mat a été modifiée chimiquement). Souvent irréparable sur les films mats — nécessite le [remplacement du panneau](/covering-rayure-profonde-reparation).
 
 ## Ce qu'il ne faut jamais utiliser sur covering
 

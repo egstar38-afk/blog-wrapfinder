@@ -24,7 +24,7 @@ Les surfaces horizontales du pont (marche-pieds, banquettes, capots) sont couver
 
 ### Les coques en aluminium
 
-Les bateaux à coque aluminium (semi-rigides, certains moteurs) peuvent être couverts en film vinyle. L'aluminium est un substrat exigeant : l'oxydation naturelle (alumine) forme une couche qui empêche l'adhésion. Dégraissage et primer obligatoires.
+Les bateaux à coque aluminium (semi-rigides, certains moteurs) peuvent être couverts en film vinyle. L'aluminium est un substrat exigeant : l'oxydation naturelle (alumine) forme une couche qui empêche l'adhésion. Dégraissage et [primer avant collage](/quand-utiliser-primer-adhesif) obligatoires.
 
 ## Ce qui différencie les films marins des films auto
 
@@ -36,13 +36,13 @@ Les films auto standards ont des adhésifs acryliques sensibles à l'humidité p
 
 ### Protection UV marine renforcée
 
-Les UV au bord de l'eau sont plus intenses qu'en milieu urbain : la réflexion de la mer amplifie l'irradiance UV de 20 à 40 %. Un film auto avec protection UV standard jaunit 2 à 3 fois plus vite en milieu marin.
+Les UV au bord de l'eau sont plus intenses qu'en milieu urbain : la réflexion de la mer amplifie l'irradiance UV de 20 à 40 %. Un film auto avec protection UV standard subit une [décoloration UV](/covering-decoloration-uv) 2 à 3 fois plus rapide en milieu marin.
 
 Les films marins ont une couche UV stabilisante renforcée dans leur topcoat.
 
 ### Flexibilité et résistance aux vibrations
 
-Le bateau vibre à chaque vague. Un film rigide craquelle aux points de flexion maximaux (jonctions de panneaux, angles). Les films marins sont formulés pour rester flexibles sur une grande plage de température.
+Le bateau vibre à chaque vague — le même problème de fatigue que je décris pour les [adhésifs flexibles anti-vibrations](/adhesif-flexible-vibrations). Un film rigide craquelle aux points de flexion maximaux (jonctions de panneaux, angles). Les films marins sont formulés pour rester flexibles sur une grande plage de température.
 
 ## Les films nautiques disponibles
 
@@ -57,7 +57,7 @@ En dehors des gammes spécifiques marines, certains films auto de haute gamme (3
 
 ## La préparation : plus critique qu'en automobile
 
-**Gelcoat** : dépoussiérer, dégraisser IPA, sécher complètement. Si le gelcoat est osmosé ou vieilli (microfissures), le film ne tiendra pas durablement.
+**Gelcoat** : dépoussiérer, dégraisser IPA, sécher complètement — les règles de base de la [préparation de surface avant collage](/preparer-surface-avant-collage) s'appliquent intégralement. Si le gelcoat est osmosé ou vieilli (microfissures), le film ne tiendra pas durablement.
 
 **Fibre de carbone** : primer spécifique carbone obligatoire.
 

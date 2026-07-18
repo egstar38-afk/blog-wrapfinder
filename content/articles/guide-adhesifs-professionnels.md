@@ -15,13 +15,13 @@ Les adhésifs professionnels (également appelés adhésifs techniques ou adhés
 - Une **durabilité** sur le long terme sans décollement ni jaunissement
 - Une **compatibilité** testée avec des matériaux spécifiques (acier, aluminium, polypropylène, EPDM…)
 
-Dans le secteur automobile et BTP, ils remplacent souvent les vis, les rivets ou les joints mécaniques.
+Dans le secteur automobile et BTP, ils [remplacent souvent les vis, les rivets ou les joints mécaniques](/adhesif-structurel-vs-mecanique).
 
 ## Les principaux types d'adhésifs professionnels
 
 ### 1. Ruban adhésif simple face
 
-Le plus basique. Utilisé pour le masquage (peinture, PPF), la protection temporaire ou le repérage.
+Le plus basique. Utilisé pour le [masquage (peinture, PPF)](/ruban-masquage-pour-ppf), la protection temporaire ou le repérage.
 
 **À retenir** : choisissez un ruban en fonction de la température maximale d'utilisation et du type de surface.
 
@@ -36,7 +36,7 @@ Usages courants en automobile :
 
 ### 3. Adhésif mousse acrylique VHB (Very High Bond)
 
-Développé à l'origine par 3M, le VHB est un adhésif double face en mousse acrylique dont la force d'adhérence se rapproche de celle d'une soudure. Il est utilisé pour :
+Développé à l'origine par 3M, le [VHB](/ruban-vhb-3m-automobile) est un adhésif double face en mousse acrylique dont la force d'adhérence se rapproche de celle d'une soudure. Il est utilisé pour :
 
 - Fixer des panneaux de carrosserie
 - Assembler des structures vitrées
@@ -64,7 +64,7 @@ Pour les assemblages permanents à forte sollicitation mécanique. Les colles bi
 
 ## Conseils de pose pour un résultat optimal
 
-1. **Nettoyez et dégraissez** les surfaces avec de l'isopropanol (IPA) avant toute pose
+1. **Nettoyez et dégraissez** les surfaces avec de l'isopropanol (IPA) avant toute pose — c'est la base de toute [préparation de surface avant collage](/preparer-surface-avant-collage)
 2. **Tempérez** l'adhésif et les surfaces : la pose en dessous de 10 °C réduit significativement l'adhérence initiale
 3. **Appliquez une pression** uniforme sur toute la surface après pose (rouleau ou raclette)
 4. **Respectez le temps de polymérisation** : la plupart des adhésifs acryliques atteignent leur pleine force en 24 à 72 h
