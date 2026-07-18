@@ -219,6 +219,13 @@ const SLUG_CTA_OVERRIDES: Record<string, CtaPart[]> = {
     hub('/covering-moto', 'poseurs spécialisés covering moto'),
     ' près de chez vous sur WrapFinder et recevez gratuitement plusieurs devis.',
   ],
+  'fiche-technique-apa': [
+    'Comparez les ',
+    hub('/ppf', 'poseurs de PPF'),
+    ' et les ',
+    hub('/covering', 'poseurs de covering'),
+    ' près de chez vous sur WrapFinder et recevez gratuitement plusieurs devis.',
+  ],
   'difference-ppf-film-solaire': [
     'Comparez les ',
     hub('/ppf', 'poseurs de PPF'),
