@@ -86,7 +86,7 @@ Voici ce que la plupart des "formations express" ne disent pas : vous ne serez p
 
 ## Ce qui fait la différence entre les bons et les autres
 
-La rigueur sur la préparation (pas de précipitation sur la décontamination), la patience sur le positionnement (mieux vaut recommencer que forcer), et l'honnêteté avec le client sur ce qui est possible.
+La rigueur sur la préparation (pas de précipitation sur la décontamination), la patience sur le positionnement (mieux vaut recommencer que forcer), et l'honnêteté avec le client sur ce qui est possible. Et un point qu'on oublie toujours au démarrage : la gestion des appels — un poseur seul rate un appel sur trois en pleine pose, et avec lui le devis ([comment ne plus rater les appels en pleine pose](/poseur-covering-appels-manques-telephone)).
 
 ## Produit recommandé
 
