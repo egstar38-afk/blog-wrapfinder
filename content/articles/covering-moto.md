@@ -48,7 +48,7 @@ Les mêmes règles de tarification que pour l'auto s'appliquent : méfiez-vous d
 
 ## Covering moto et législation
 
-Comme pour l'auto, [le covering est légal en France](/covering-legal-en-france) tant que vous respectez les règles : changement de couleur à signaler sur la carte grise si la teinte dominante change, pas de finition chrome miroir éblouissante, et plaques/catadioptres non modifiés. Sur une moto, le point de vigilance spécifique : ne couvrez jamais les optiques ni les repose-pieds (surface antidérapante obligatoire).
+Comme pour l'auto, [le covering est légal en France](/covering-legal-en-france). Le film étant retirable, il n'y a aucune démarche à faire sur la carte grise, même pour un changement de couleur complet ; je conseille quand même de prévenir votre assureur, car la couleur peut servir à identifier la moto. Les règles à respecter : pas de finition chrome miroir éblouissante, pas de livrée qui imite les véhicules de police ou de secours, et plaques/catadioptres non modifiés. Sur une moto, le point de vigilance spécifique : ne couvrez jamais les optiques ni les repose-pieds (surface antidérapante obligatoire).
 
 ## Quel film choisir pour une moto
 
