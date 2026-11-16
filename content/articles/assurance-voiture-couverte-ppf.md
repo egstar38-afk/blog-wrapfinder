@@ -14,9 +14,9 @@ Le PPF et le covering ne sont pas traités de la même façon par les assureurs,
 
 **Le covering coloré** : change l'apparence du véhicule. C'est là que les choses se compliquent, et que ne pas déclarer peut avoir des conséquences en cas de sinistre.
 
-## Ce que dit la loi sur la déclaration
+## Faut-il prévenir son assureur ?
 
-En France, tout changement affectant les caractéristiques du véhicule décrit dans le contrat d'assurance doit être déclaré à l'assureur. La couleur fait partie de ces caractéristiques.
+Votre contrat d'assurance décrit votre véhicule, et la couleur peut servir à l'identifier. Il est donc conseillé de prévenir votre assureur quand un covering change l'aspect de la voiture.
 
 **Covering qui change la couleur** : oui, déclaration recommandée. Un passage de blanc à noir mat, ou de rouge à vert — ça change visuellement le véhicule. Si votre contrat mentionne "blanc" et que votre voiture est désormais noire en cas d'accident, la compagnie peut arguer d'une fausse déclaration.
 
@@ -34,7 +34,7 @@ C'est auprès de l'assureur que la couleur compte : il est conseillé de le pré
 
 Scénario : vous couvrez votre voiture en noir mat (était blanche), ne déclarez pas, et vous avez un accident.
 
-L'assureur mandaté l'expert. L'expert note que la couleur du véhicule ne correspond pas à la carte grise. L'assureur peut alors :
+L'assureur mandate un expert. L'expert note que la couleur du véhicule ne correspond pas à celle indiquée au contrat. L'assureur peut alors :
 
 1. **Indemniser normalement** : s'il considère que le covering n'a aucun lien avec le sinistre (accident de responsabilité civile, par exemple) — courant pour les sinistres simples.
 
