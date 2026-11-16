@@ -28,7 +28,7 @@ Votre contrat d'assurance décrit votre véhicule, et la couleur peut servir à 
 
 Un covering est un film adhésif retirable : il ne modifie pas la peinture d'origine. Il n'y a donc aucune démarche à faire sur la carte grise, même pour un changement de couleur complet. Le vinyle se retire sans trace — le véhicule retrouve sa couleur d'origine.
 
-C'est auprès de l'assureur que la couleur compte : il est conseillé de le prévenir, car la couleur peut servir à identifier le véhicule. Seule limite côté route : les livrées qui imitent les véhicules de police ou de secours restent interdites.
+C'est auprès de l'assureur que la couleur compte : il est conseillé de le prévenir, car la couleur peut servir à identifier le véhicule. Côté route, une limite à connaître : les livrées qui imitent les véhicules de police ou de secours restent interdites.
 
 ## Ce qui peut se passer en cas de sinistre non déclaré
 
