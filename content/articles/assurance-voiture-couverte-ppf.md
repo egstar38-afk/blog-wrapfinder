@@ -24,11 +24,11 @@ En France, tout changement affectant les caractéristiques du véhicule décrit 
 
 **PPF transparent** : pas de changement de couleur, pas d'obligation habituelle. Vérifiez malgré tout votre contrat si vous avez un PPF coûteux — certains assureurs peuvent couvrir le PPF comme accessoire.
 
-## Covering et carte grise : le changement de couleur officiel
+## Covering et carte grise : aucune démarche
 
-Couvrir une voiture en couleur différente de celle de sa carte grise ne change pas officiellement la couleur du véhicule si le covering est réversible. Le vinyle se retire sans trace — le véhicule retrouve sa couleur d'origine.
+Un covering est un film adhésif retirable : il ne modifie pas la peinture d'origine. Il n'y a donc aucune démarche à faire sur la carte grise, même pour un changement de couleur complet. Le vinyle se retire sans trace — le véhicule retrouve sa couleur d'origine.
 
-Cela dit, si votre voiture est identifiée par un agent comme "rouge" alors que la carte grise dit "blanc", vous pouvez être verbalisé. Les forces de l'ordre tolèrent souvent les couvrings visiblement non permanents, mais ce n'est pas une règle écrite.
+C'est auprès de l'assureur que la couleur compte : il est conseillé de le prévenir, car la couleur peut servir à identifier le véhicule. Seule limite côté route : les livrées qui imitent les véhicules de police ou de secours restent interdites.
 
 ## Ce qui peut se passer en cas de sinistre non déclaré
 
@@ -60,7 +60,7 @@ Sur les véhicules à forte valeur résiduelle, un PPF correctement documenté (
 
 - PPF transparent : pas de déclaration obligatoire en général, vérifiez votre contrat.
 - Covering coloré : déclarez par écrit à votre assureur, gardez la preuve.
-- Un covering ne change pas la carte grise (c'est réversible), mais peut créer une discordance visuelle.
+- Un covering est un film retirable : aucune démarche sur la carte grise, même pour un changement de couleur complet. Les livrées qui imitent police ou secours restent interdites.
 - En cas de sinistre, la non-déclaration peut compliquer l'indemnisation sans nécessairement l'annuler.
 
 ## Produit recommandé
