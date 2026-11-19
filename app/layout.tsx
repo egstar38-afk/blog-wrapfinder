@@ -103,6 +103,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <a href="https://www.wrapfinder.fr/covering-moto" className="hover:text-amber-500 transition-colors">Covering moto</a>
                 <a href="https://www.wrapfinder.fr/film-solaire" className="hover:text-amber-500 transition-colors">Film solaire</a>
                 <a href="https://www.wrapfinder.fr/vitrophanie" className="hover:text-amber-500 transition-colors">Vitrophanie</a>
+                <a href="https://www.wrapfinder.fr/simulateur-covering" className="hover:text-amber-500 transition-colors">Simulateur de covering</a>
               </div>
             </nav>
             <nav className="flex flex-wrap gap-x-5 gap-y-2 mb-4">

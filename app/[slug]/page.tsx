@@ -237,6 +237,18 @@ export default async function ArticlePage({ params }: Props) {
               )
             )}
           </p>
+          <p className="text-zinc-400 text-sm leading-relaxed mt-2">
+            Une idée de couleur&nbsp;? Essayez-la sur un véhicule et estimez le prix avec le{' '}
+            <a
+              href="https://www.wrapfinder.fr/simulateur-covering"
+              target="_blank"
+              rel="noopener"
+              className="text-amber-500 font-semibold hover:underline"
+            >
+              simulateur de covering gratuit
+            </a>
+            .
+          </p>
         </aside>
       )}
 
