@@ -10,24 +10,20 @@ updated: "2026-06-13"
 
 Le covering vinyle est légal en France. Il n'existe pas de loi qui interdit de recouvrir sa voiture de film vinyle.
 
-Mais cette réponse simple cache des nuances importantes sur les obligations de déclaration et sur ce qui peut se passer lors d'un contrôle ou d'un contrôle technique.
+Mais cette réponse simple mérite quelques précisions : la carte grise, l'assurance, et ce qui peut se passer lors d'un contrôle ou d'un contrôle technique.
 
-## Le covering et la carte grise : pas de changement obligatoire
+## Le covering et la carte grise : aucune démarche
 
-La carte grise mentionne la couleur du véhicule. Un véhicule blanc recouvert de noir en vinyle a toujours une carte grise mentionnant "blanc".
+Un covering est un film adhésif retirable : il ne modifie pas la peinture d'origine. Il n'y a donc aucune démarche à faire sur la carte grise, même pour un changement de couleur complet. Un véhicule blanc recouvert de noir en vinyle garde sa carte grise telle quelle.
 
-**Est-ce un problème ?** Théoriquement, tout changement de caractéristique d'un véhicule devrait être déclaré en préfecture. Mais le covering vinyle est une modification réversible — le film se retire sans trace et le véhicule retrouve sa couleur d'origine.
+**Et l'assurance ?** Il est conseillé de prévenir votre assureur, car la couleur peut servir à identifier le véhicule.
 
-La Direction Générale des Infrastructures, des Transports et de la Mer (DGITM) et les préfectures n'ont pas de position officielle publiée spécifiquement sur le covering. En pratique, les préfectures ne traitent pas les demandes de changement de couleur pour du covering réversible.
-
-**Ce que font la plupart des propriétaires** : ils ne changent pas leur carte grise. En cas de contrôle routier, ils expliquent que c'est un covering réversible.
+**La limite à connaître** : les livrées qui imitent les véhicules de police ou de secours restent interdites.
 
 ## La réaction des forces de l'ordre
 
-Les contrôles routiers sur le seul motif "la couleur du véhicule ne correspond pas à la carte grise" sont extrêmement rares pour un covering vinyle ordinaire. Les agents font généralement la distinction entre une repeinture (modification permanente) et un covering (réversible).
-
-Les situations qui peuvent poser problème :
-- Un covering de couleur très différente de la carte grise ET combiné à d'autres infractions
+Puisque le film est retirable et qu'aucune démarche n'est à faire sur la carte grise, ce n'est pas la couleur du covering qui pose problème. Les situations à éviter sont ailleurs :
+- Une livrée qui imite un véhicule de police ou de secours
 - Un film [chrome miroir](/covering-chrome-miroir) qui éblouit (voir l'article dédié)
 - Des films phosphorescents ou lumineux qui pourraient être confondus avec des feux
 
@@ -57,7 +53,9 @@ Ne couvrez jamais la plaque d'immatriculation avec un film vinyle, même partiel
 | Question | Réponse |
 |---|---|
 | Covering légal ? | Oui |
-| Changement carte grise obligatoire ? | Non (recommandé pour les couvrings couleur, pas obligatoire en pratique) |
+| Démarche sur la carte grise ? | Aucune, même pour un changement de couleur complet |
+| Prévenir l'assureur ? | Conseillé, car la couleur peut servir à identifier le véhicule |
+| Livrée imitant police ou secours ? | Interdite |
 | Problème au contrôle technique ? | Non si vitres et équipements de sécurité OK |
 | Risque de verbalisation ? | Très faible sauf cas particuliers |
 

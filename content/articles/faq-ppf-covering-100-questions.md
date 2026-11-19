@@ -116,7 +116,7 @@ Un covering de qualité, posé et retiré correctement, ne laisse aucune trace s
 Oui. N'importe quelle couleur ou finition. Brillant, mat, satin, chrome, brossé, color-shift — la gamme est quasi-illimitée.
 
 **Le covering est-il légal en France ?**
-Oui, avec déclaration du changement de couleur en préfecture et mise à jour de la carte grise. Sans déclaration : techniquement illégal (couleur non conforme aux documents).
+Oui. Un covering est un film adhésif retirable : il ne modifie pas la peinture d'origine. Il n'y a donc aucune démarche à faire sur la carte grise, même pour un changement de couleur complet. Il est conseillé de prévenir votre assureur, car la couleur peut servir à identifier le véhicule. Les livrées qui imitent les véhicules de police ou de secours restent interdites.
 
 **Le covering change-t-il la valeur d'une voiture à la revente ?**
 Un covering de qualité sur une peinture parfaite peut avoir un effet neutre ou légèrement positif (peinture protégée dessous). Un covering vieillissant ou de mauvaise qualité peut dévaluer le véhicule.
