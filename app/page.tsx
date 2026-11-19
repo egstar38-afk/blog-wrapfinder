@@ -64,18 +64,19 @@ export default function HomePage() {
       {/* CTA plateforme WrapFinder */}
       <aside className="mb-10 rounded-lg border border-amber-500/40 bg-amber-500/5 p-5 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
         <div>
-          <p className="text-zinc-100 font-semibold">Trouvez un poseur PPF ou covering près de chez vous</p>
+          <p className="text-zinc-100 font-semibold">Les guides PPF et covering ont déménagé</p>
           <p className="text-zinc-400 text-sm">
-            Particuliers et professionnels : la plateforme WrapFinder vous met en relation partout en France.
+            Ils sont désormais sur WrapFinder, la plateforme qui vous met en relation avec des poseurs partout en
+            France. Ce site garde les guides sur les adhésifs.
           </p>
         </div>
         <a
-          href="https://www.wrapfinder.fr"
+          href="https://www.wrapfinder.fr/guides"
           target="_blank"
           rel="noopener"
           className="shrink-0 rounded-md bg-amber-500 px-5 py-2.5 text-sm font-semibold text-black hover:bg-amber-400 transition-colors text-center"
         >
-          Accéder à WrapFinder →
+          Voir les guides PPF et covering →
         </a>
       </aside>
 

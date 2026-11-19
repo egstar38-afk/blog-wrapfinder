@@ -80,8 +80,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </a>
             <nav className="flex gap-6 text-sm">
               <a href="/" className="text-zinc-400 hover:text-amber-500 transition-colors">Accueil</a>
-              <a href="/#ppf" className="text-zinc-400 hover:text-amber-500 transition-colors">PPF</a>
-              <a href="/#covering" className="text-zinc-400 hover:text-amber-500 transition-colors">Covering</a>
+              <a href="https://www.wrapfinder.fr/guides/theme/ppf" className="text-zinc-400 hover:text-amber-500 transition-colors">PPF</a>
+              <a href="https://www.wrapfinder.fr/guides/theme/covering" className="text-zinc-400 hover:text-amber-500 transition-colors">Covering</a>
               <a href="/#adhesifs" className="text-zinc-400 hover:text-amber-500 transition-colors">Adhésifs</a>
             </nav>
           </div>

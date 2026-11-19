@@ -1,4 +1,16 @@
 import type { NextConfig } from "next";
+import guidesRapatries from "./redirections-guides.json";
+
+// Articles PPF et covering rapatriés le 19/11/2026 sous https://www.wrapfinder.fr/guides
+// (liste : redirections-guides.json ; textes d'origine gardés dans content/archives).
+const SITE = "https://www.wrapfinder.fr";
+const THEMES_RAPATRIES: Record<string, string> = {
+  "ppf-general": "ppf",
+  "ppf-specialise": "ppf-par-zone",
+  "covering-general": "covering",
+  "covering-specialise": "covering-finitions-et-pieces",
+  "ppf-covering-compare": "ppf-ou-covering",
+};
 
 // Security headers applied to every response.
 // No strict CSP here: AdSense / Amazon affiliate scripts would require extensive
@@ -19,6 +31,16 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       { source: "/covering-moto", destination: "https://www.wrapfinder.fr/covering-moto", permanent: true },
+      ...(guidesRapatries as string[]).map((slug) => ({
+        source: `/${slug}`,
+        destination: `${SITE}/guides/${slug}`,
+        permanent: true,
+      })),
+      ...Object.entries(THEMES_RAPATRIES).map(([categorie, theme]) => ({
+        source: `/categorie/${categorie}`,
+        destination: `${SITE}/guides/theme/${theme}`,
+        permanent: true,
+      })),
     ];
   },
   async headers() {
