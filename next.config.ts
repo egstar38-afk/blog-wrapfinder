@@ -13,6 +13,14 @@ const securityHeaders = [
 ];
 
 const nextConfig: NextConfig = {
+  // Articles fondus dans une page du site principal : redirection permanente, pour que le blog
+  // et le site ne se partagent plus les mêmes recherches (audit de référencement du 18/11/2026).
+  // Le texte d'origine est gardé dans content/archives.
+  async redirects() {
+    return [
+      { source: "/covering-moto", destination: "https://www.wrapfinder.fr/covering-moto", permanent: true },
+    ];
+  },
   async headers() {
     return [{ source: "/:path*", headers: securityHeaders }];
   },
